@@ -1,0 +1,66 @@
+LOCUS       KF783115                 804 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Neotetracus sinensis voucher Neo1 growth hormone receptor (GHR)
+            gene, exon 10 and partial cds.
+ACCESSION   KF783115
+VERSION     KF783115.1
+KEYWORDS    .
+SOURCE      Neotetracus sinensis (Shrew gymnure)
+  ORGANISM  Neotetracus sinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Neotetracus.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="Neotetracus sinensis"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Neo1"
+                     /db_xref="taxon:977878"
+                     /geo_loc_name="Viet Nam"
+     gene            <1..>804
+                     /gene="GHR"
+     mRNA            <1..>804
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>804
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="AIN37205.1"
+                     /translation="NDDSWVEFIELDIDDLDEKMEGSDTARLLNDDQHKALNILGAKD
+                     DDSGRTSCYEPDILETDFNASDIFDGTSEVGQPQRLKGEADLLCLDQTNQDYSPSDDA
+                     PLAAQLPHVNLAPEDKPRPLLIGGTESTHQAAPIKVSNPNSLTNIDFYAQVSDITPAG
+                     SVVLSPGQKNKAGIPQGDPNPEVVSLCQANFIMDSAYFCEADAKKCISVTPHVEVESR
+                     VEPSYNQEDIYITTESLTTTTRRSGTTEHAPSSEMPVPDYTSMDLVQSPQ"
+     exon            <1..>804
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 aatgatgact cttgggtgga attcattgag ctggatattg atgaccttga tgaaaagatg
+       61 gaaggatcag acacagccag gcttctaaat gatgaccagc acaaagcact taatatcctt
+      121 ggggcaaagg atgacgattc tggacgtacc agctgttatg aacctgacat tctggagact
+      181 gatttcaatg cgagcgacat atttgatggt acctcagaag ttggtcagcc acaaaggttg
+      241 aaaggggaag cagatctctt gtgccttgac cagacgaatc aagattactc accctctgat
+      301 gatgctcccc ttgctgctca gctgcctcat gttaacctag ctccggaaga caaaccaagg
+      361 ccacttttga ttggtggaac tgagtcaact catcaagctg ctcctattaa agtaagcaac
+      421 ccaaattcac tgacaaatat tgacttctat gcccaggtaa gtgacatcac accagccgga
+      481 agtgtggtcc tttccccagg ccaaaagaat aaggcaggga taccccaagg tgatccaaac
+      541 ccagaagtag tctcactctg ccaagcaaac ttcatcatgg acagtgccta cttctgtgag
+      601 gctgatgcca aaaagtgcat ctctgtgacc cctcacgtcg aggttgaatc ccgtgtagag
+      661 ccaagctata accaggaaga catttacatc accacagaaa gccttaccac tactactagg
+      721 aggtctggta caacagaaca cgctcccagt tctgagatgc ctgttccaga ctacacctct
+      781 atggatttag tacagtctcc acag
+//
+

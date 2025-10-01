@@ -1,0 +1,60 @@
+LOCUS       LC124967                 565 bp    DNA     linear   MAM 30-AUG-2016
+DEFINITION  Notiosorex crawfordi RAG1 gene for recombination activating gene 1,
+            partial cds, specimen_voucher: ASNHC:10653.
+ACCESSION   LC124967
+VERSION     LC124967.1
+KEYWORDS    .
+SOURCE      Notiosorex crawfordi (Desert shrew)
+  ORGANISM  Notiosorex crawfordi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Notiosorex.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 565)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..565
+                     /organism="Notiosorex crawfordi"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ASNHC:10653"
+                     /db_xref="taxon:268773"
+                     /geo_loc_name="USA: Texus"
+     gene            <1..>565
+                     /gene="RAG1"
+     CDS             <1..>565
+                     /gene="RAG1"
+                     /codon_start=3
+                     /product="recombination activating gene 1"
+                     /protein_id="BAV56162.1"
+                     /translation="TRSHAENLERYEVWRSNPYHESVEELRDRVKGVSAKPFIETVPS
+                     IDALHCDIGNAAEFYKIFQLEIGEVYKNPNASKEERKRWQATLDKHLRKKMNLKPIMR
+                     MNGNFARKLMTKETVDAVCELIPSEERHEALRELMDLYLKMKPVWRSSCPAKECPESL
+                     CQYSFNSQRFAELLSTKFKYRYEGKIT"
+ORIGIN      
+        1 taaccagaag ccatgctgag aacctggaac gttatgaggt ctggcgttcc aacccttacc
+       61 atgagtctgt ggaagaactg cgggatcggg tgaaaggggt ctcagctaaa cctttcattg
+      121 agacagtccc ttccatagat gcactccact gtgacattgg caatgcagct gagttctaca
+      181 agatcttcca gctagagata ggggaagtgt ataagaatcc caatgcttcc aaagaggaaa
+      241 ggaaaaggtg gcaggccaca ctggacaagc atctccggaa gaagatgaac ctcaaaccaa
+      301 tcatgaggat gaatggcaac tttgccagga agctcatgac caaagagact gtggatgcag
+      361 tttgtgagtt aattccttcc gaggagaggc acgaggctct gagggagctg atggatcttt
+      421 acctgaagat gaaaccagta tggcgatcat catgccctgc taaagagtgc ccagaatccc
+      481 tctgccagta cagtttcaat tcacagcgtt ttgctgagct cctttctacg aagttcaagt
+      541 ataggtatga gggaaaaatc accaa
+//
+

@@ -1,0 +1,60 @@
+LOCUS       MH332214                 554 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Crocidura olivieri voucher ZMMU:S-172813 Growth hormone receptor
+            (GHR) gene, partial cds.
+ACCESSION   MH332214
+VERSION     MH332214.1
+KEYWORDS    .
+SOURCE      Crocidura olivieri (Olivier's shrew)
+  ORGANISM  Crocidura olivieri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 554)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 554)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /organism="Crocidura olivieri"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU:S-172813"
+                     /db_xref="taxon:214449"
+                     /geo_loc_name="Ethiopia: Vanzaye, Gumara River"
+     gene            <1..>554
+                     /gene="GHR"
+     mRNA            <1..>554
+                     /gene="GHR"
+                     /product="Growth hormone receptor"
+     CDS             <1..>554
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="Growth hormone receptor"
+                     /protein_id="AZD26427.1"
+                     /translation="YEPDMLETDFHASDTYDGTSELEQPQRLKEEAVLLCLEKKQNHS
+                     LSDDTLSSIPQPSVTLAQESKSRPLVMGGTESTHPTIHTQLSNPSSLANIDFYAQVSD
+                     ITPAGSVVLSPGQKMKAGMVHFDIHPEVVSLSQSNFIMDNAYFCEADAKKCITAGPHL
+                     EVQSRAEPSFNQEDIYITTESLTTT"
+ORIGIN      
+        1 tatgaacctg acatgctgga gactgatttc catgctagtg acacatatga tggtacctca
+       61 gagcttgagc agccacaaag gttaaaagaa gaagcggttc tcttgtgcct tgagaagaaa
+      121 cagaatcact cactctctga tgatactctc tcttctattc cacaacccag tgtaacctta
+      181 gcacaggaaa gtaaatcaag accacttgtt atgggtggaa ctgaatcaac tcatccaact
+      241 attcacactc agctaagcaa tccaagttca ctggcaaata tcgactttta tgcccaggta
+      301 agcgacatta caccagcagg gagtgtggtc ctttccccgg gccaaaagat gaaggcaggg
+      361 atggtccact ttgacattca tccagaagtg gtttcactct cccaatcaaa cttcatcatg
+      421 gacaatgcct acttctgcga ggctgatgcc aaaaagtgca tcacagcagg ccctcaccta
+      481 gaggtccaat cacgtgcaga gccaagcttt aaccaggaag acatttacat caccacagaa
+      541 agccttacca ctac
+//
+

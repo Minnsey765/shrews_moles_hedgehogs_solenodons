@@ -1,0 +1,59 @@
+LOCUS       DQ630260                 787 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Chimarrogale himalayica isolate 1 BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   DQ630260
+VERSION     DQ630260.1
+KEYWORDS    .
+SOURCE      Chimarrogale himalayica (Himalayan water shrew)
+  ORGANISM  Chimarrogale himalayica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Chimarrogale.
+REFERENCE   1  (bases 1 to 787)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 787)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..787
+                     /organism="Chimarrogale himalayica"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:227887"
+     gene            <1..>787
+                     /gene="BRCA1"
+     mRNA            <1..>787
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>787
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="BRCA1"
+                     /protein_id="ABG22232.1"
+                     /translation="KSKQPGLARSQQNRWTENKEIYNDGQTLSTEKKVDLHSDPLSGR
+                     KLPSKQKSPCSDIPKDSQEMTWITLNSSIQKVNDWFSRSGDVLSSDDCHDRGSESKTE
+                     GAEIIEISSAADEFSVSSAKIDLVARGRRALSKSFESNAEDKIFGKIYRRKANIPNLN
+                     RTADDVILGSFLQEPPIAKEHPFTNKLKRKRRVTSCLSPEDFIKKGDLVIAKKSPEKV
+                     ISNSHQTDQNGQVMNITTNDQSETRSDYAQKEKKANSTESSEKE"
+ORIGIN      
+        1 taaaagcaaa cagcctggct tagcaaggag ccagcagaac agatggactg aaaataagga
+       61 aatatataat gatggacaga ctctcagcac agaaaaaaag gtggatctgc attctgatcc
+      121 cctatctggg agaaaactac caagtaagca gaaatcgccg tgctctgaca ttcctaaaga
+      181 ttcccaagag atgacttgga taactctgaa cagtagcata cagaaagtta atgattggtt
+      241 ttccagaagt ggtgatgtat tatcttctga tgattgccat gatagagggt ctgaatcaaa
+      301 gacagaagga gctgaaataa tagaaatttc aagtgcagca gatgaatttt ctgtttcttc
+      361 agcgaaaata gacttagtgg cccgtggtag acgagctctc tccaaatctt ttgagagtaa
+      421 tgctgaagat aaaatatttg ggaaaattta tcggaggaaa gcaaatatcc ctaacttgaa
+      481 ccgcacagct gacgatgtaa ttctaggatc atttctccaa gaacctccta tagcaaaaga
+      541 gcaccctttc acaaacaaat taaaacgtaa aagaagagtt acgtcatgcc tttctcctga
+      601 agattttatc aagaaaggag atttggtaat tgctaaaaaa tctcccgaga aggtaatcag
+      661 taacagtcac caaactgatc aaaatggcca ggtaatgaat attactacta atgatcagag
+      721 tgaaacaaga agtgattatg cccagaagga gaaaaaggct aactcaacag agtcatcaga
+      781 aaaagaa
+//
+

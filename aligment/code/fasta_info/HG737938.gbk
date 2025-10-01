@@ -1,0 +1,54 @@
+LOCUS       HG737938                 694 bp    DNA     linear   MAM 12-DEC-2013
+DEFINITION  Mogera wogura rag2 gene for recombination activating gene 2,
+            specimen voucher KIZ:LN111103.
+ACCESSION   HG737938
+VERSION     HG737938.1
+KEYWORDS    .
+SOURCE      Mogera wogura (Japanese mole)
+  ORGANISM  Mogera wogura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Mogera.
+REFERENCE   1
+  AUTHORS   He,K., Shinohara,A., Jiang,X.L. and Campbell,K.
+  TITLE     Multilocus phylogeny of Talpine moles (Talpini, Talpidae,
+            Eulipotyphla) and its implications for systematics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   He,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2013) Biological Sciences, University of
+            Manitoba, 190 Dysart Road, Winnipeg, Manitoba, R3T 2N2, CANADA
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Mogera wogura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ:LN111103"
+                     /db_xref="taxon:62295"
+                     /geo_loc_name="China:Liaoning"
+     gene            <1..>694
+                     /gene="rag2"
+     CDS             <1..>694
+                     /gene="rag2"
+                     /codon_start=1
+                     /product="recombination activating gene 2"
+                     /protein_id="CDJ26116.1"
+                     /translation="EPGKHQYVIHGGKTPNNELSDKIYVMSVVCKSNKKVTFRCTEKD
+                     LVGDVPEARYGHSIDVVYSRGKSIGVLFGGRSYMPSAQRTTEKWNSVADCLPHVFLVD
+                     FEFGCSTAYILPELQDGLSFHVSIARNDTIYILGGHSLANNIRPANLYRIKVDLPLGS
+                     PAVNCTVLPGGISVSSAILTQTNKDEFVIVGGYQLENQKRMVCNIVSLEDNKIDIQEM
+                     ETPDWTPDIKHSK"
+ORIGIN      
+        1 gagcctggga agcatcaata tgttatccat ggtgggaaaa caccaaacaa tgagctttca
+       61 gataagatct atgtcatgtc tgttgtttgc aagagcaaca aaaaagttac ttttcgttgc
+      121 acagagaaag acttggtagg agatgttcct gaagccaggt atggtcattc cattgatgtg
+      181 gtgtatagtc gaggaaaaag tattggtgtt ctctttggag gacggtcata catgccttct
+      241 gcccagagaa ccacagaaaa atggaatagt gtagctgact gcctacccca tgttttcttg
+      301 gtggattttg aatttgggtg ctctacagcc tacattcttc ctgaacttca ggatggactc
+      361 tcttttcatg tctccattgc cagaaatgat actatttata ttctaggagg acattctctt
+      421 gccaataaca tccgccctgc caacctatat agaataaagg ttgatctacc cttgggcagc
+      481 ccagctgtga attgcacagt cttaccagga ggaatctctg tctccagtgc aatcctgact
+      541 caaacaaaca aggatgaatt tgttattgtt ggtggttatc agcttgaaaa tcaaaaaaga
+      601 atggtctgca acattgtctc tttagaagac aacaagatag atattcagga gatggagact
+      661 ccagattgga ccccagatat taagcacagc aaga
+//
+

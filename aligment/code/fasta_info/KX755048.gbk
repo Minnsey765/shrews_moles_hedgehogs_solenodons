@@ -1,0 +1,69 @@
+LOCUS       KX755048                 819 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Galemys pyrenaicus isolate Gpyren_1 growth hormone receptor (GHR)
+            gene, partial cds.
+ACCESSION   KX755048
+VERSION     KX755048.1
+KEYWORDS    .
+SOURCE      Galemys pyrenaicus (Pyrenean desman)
+  ORGANISM  Galemys pyrenaicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Galemys.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Galemys pyrenaicus"
+                     /mol_type="genomic DNA"
+                     /isolate="Gpyren_1"
+                     /specimen_voucher="HS2369"
+                     /db_xref="taxon:202257"
+                     /geo_loc_name="Portugal: Braganca, Rio Sobor"
+     gene            <1..>819
+                     /gene="GHR"
+     mRNA            <1..>819
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>819
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33453.1"
+                     /translation="FIELDIDDXDEKTEGSDTDRLLSNDHQKSLQILGAKDDDSGRTS
+                     CYEPDILETDFNVSDLCDGTSEVAQPQRLKGEADLLCLDQKNQNNLPSNDAPPSTQQP
+                     SVSPTQENKPRPLLIGGTESTPRASHSQLSNLSSLANIDFYAQVSDITPAGSVVLSPG
+                     QKNKAGIAQCDVHPEAVSRCQANFIMDNAYFCEADAKKCITMAPHMEIEARGEPSFNQ
+                     EDIYITTESLTTTAGRSGTTERAPGSEPPVPDYTSIHIIQSPQGLVLNATALPLP"
+ORIGIN      
+        1 ttcattgagc tagatattga tgaccntgat gaaaagacag aaggatcaga cacagacaga
+       61 cttctaagca atgaccacca gaaatcactt cagatccttg gggcaaagga tgatgactcc
+      121 ggacgtacca gctgctatga acctgacatt ctggagactg atttcaatgt gagtgacctg
+      181 tgtgatggta cctcagaggt ggctcagcca caaaggttaa aaggggaagc agatctcttg
+      241 tgccttgacc agaagaatca aaataacttg ccttctaatg atgctccccc ctctactcag
+      301 cagcccagtg ttagcccaac acaggaaaac aaaccaagac cacttctcat tggtggaact
+      361 gagtcaactc ctcgagcttc ccatagtcag ctaagcaatc tgagttcact ggcaaacatc
+      421 gacttttatg cccaggtaag cgacattaca ccagcaggga gtgtggtcct ttccccgggc
+      481 caaaagaata aggcagggat agcccagtgt gacgtgcatc cagaagcagt ctcacgctgc
+      541 caagcaaact tcatcatgga caacgcctac ttctgtgagg cagatgccaa aaagtgcatc
+      601 accatggccc ctcacatgga gatagaagca cgtggagagc ccagctttaa ccaggaagac
+      661 atttacatca ccacagaaag ccttaccact actgctggca ggtctgggac aacagaacgt
+      721 gctccaggtt ccgagccgcc tgtcccagac tacacctcca ttcacataat tcagtctccc
+      781 cagggnctcg tcctcaatgc taccgccttg cccttgcct
+//
+

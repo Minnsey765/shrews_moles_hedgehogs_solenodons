@@ -1,0 +1,72 @@
+LOCUS       KX754516                 813 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Condylura cristata isolate Concris_1 breast cancer 1 (BRCA1) gene,
+            exon 11 and partial cds.
+ACCESSION   KX754516
+VERSION     KX754516.1
+KEYWORDS    .
+SOURCE      Condylura cristata (star-nosed mole)
+  ORGANISM  Condylura cristata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Condylura.
+REFERENCE   1  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Condylura cristata"
+                     /mol_type="genomic DNA"
+                     /isolate="Concris_1"
+                     /specimen_voucher="NMMNH:DJH5461 5448"
+                     /db_xref="taxon:143302"
+                     /geo_loc_name="USA: Michigan, Oakland Co."
+     gene            <1..>813
+                     /gene="BRCA1"
+     mRNA            <1..>813
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>813
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="APD32979.1"
+                     /translation="SKQSDLARSQQNRWAESKETCDDRQTPSTEKKVGLNAADPMYGR
+                     KELNKQKPPCPDSPKNSQGVAWITLNSSIQKVNEWFSRSDEILTSDDSCDGGSESNIE
+                     ITSAIDVPKAVDGFSGSSEKIDLXASDPPALRCTSERVRTKPVESNIEDKIFGKTYRR
+                     KTNLSNLSHVTQDLSIGTSISEPQIAQERPFTNKLKRKRRTTSGLCPEDFIKKVDLAV
+                     VQNTPEKRSEGTHQVDQSGQVMDITYGHENETKHDYAQKEKSANPTESSEKES"
+     exon            <1..>813
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agcaaacagt ctgacttagc aaggagccaa cagaacagat gggctgaaag taaagaaaca
+       61 tgtgatgata ggcagactcc gagcacagaa aagaaggtag gcctgaatgc tgctgatccc
+      121 atgtatggga gaaaagaact gaataagcag aaacctccat gccctgacag ccccaaaaat
+      181 tcccaaggtg ttgcctggat aacactgaac agtagcattc agaaagttaa tgagtggttt
+      241 tccagaagtg atgaaatttt aacttctgat gattcatgtg atgggggctc tgaatcaaat
+      301 attgaaataa ccagtgcaat agacgttcca aaggcagtag atggattttc tggttcttca
+      361 gagaaaatag acttaayggc cagtgatcct cctgctttaa ggtgtacaag tgaaagagtc
+      421 cgcaccaaac cggtagaaag taatattgaa gataaaatat ttgggaaaac ttaccggagg
+      481 aagacaaacc tctcaaactt gagccatgta actcaagatt taagtatagg gacgtctatc
+      541 agcgaacctc agatagctca agagcgtccc ttcacaaata aattaaaacg taaaaggaga
+      601 actacatcag gcctttgtcc tgaagatttt atcaagaaag tagatttggc agttgttcaa
+      661 aacactcctg aaaagagaag tgagggaact caccaagtgg atcagagtgg ccaagtgatg
+      721 gatattactt atggtcatga gaatgaaaca aaacatgatt atgctcagaa agagaaaagt
+      781 gctaacccaa ctgaatcatc agaaaaagaa tct
+//
+

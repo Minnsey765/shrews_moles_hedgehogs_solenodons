@@ -1,0 +1,57 @@
+LOCUS       KX754501                 813 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scapanus orarius isolate CM-3 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KX754501
+VERSION     KX754501.1
+KEYWORDS    .
+SOURCE      mitochondrion Scapanus orarius
+  ORGANISM  Scapanus orarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanus.
+REFERENCE   1  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Scapanus orarius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CM-3"
+                     /db_xref="taxon:182674"
+                     /geo_loc_name="Canada: British Columbia, Abbotsford"
+                     /note="Scaora_3"
+     rRNA            <1..>813
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ggtttggtcc tggcctttct attagctgtc agtaaaatta cacatgcaag tatccgcgcc
+       61 ccagtgaaaa tgcccttgaa gtcataaaca gacataaagg agccggcatc aagtacacca
+      121 atacggtagc taaagacgcc ttgcttagcc acgcccccac gggaaacagc agtgataaaa
+      181 attaagctat gaacgaaagt ttgactaagt tatactgaca tagggttggt aaatttcgtg
+      241 ccagccaccg cggtcatacg atgaacccaa gttaatagac atacggcgta aagagtgtta
+      301 aagaacaaat acctaaataa agccaagact taactaagat gtaaaaacct ccagttaaag
+      361 taaaaataaa ctacgaaagt ggctttaata ttattctgat tacacgatag ctaagaccca
+      421 aactgggatt agatacccca ctatgcttag ccctaaacca agacaatcta cccaacaaga
+      481 ttgttcgcca gagaactact agcaacagct taaaactcaa aggacttggc ggtgctttat
+      541 atccctctag aggagcctgt tctgtaatcg ataaaccccg ataaacctca ccaacccttg
+      601 ctaattcagc ctatataccg ccatcttcag caaaccctta aagggagcca cagtaagcac
+      661 aagtatagac ataaaaacgt taggtcaagg tgtagctaat gagttgggaa gaaatgggct
+      721 acattttcta tttctagaac attttaacga aagtctttat gaaacgaaag actaaaggag
+      781 gatttagtag taaattaaga atagagcgct taa
+//
+

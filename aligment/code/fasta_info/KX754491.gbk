@@ -1,0 +1,57 @@
+LOCUS       KX754491                 814 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Dymecodon pilirostris isolate Dypili_1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX754491
+VERSION     KX754491.1
+KEYWORDS    .
+SOURCE      mitochondrion Dymecodon pilirostris
+  ORGANISM  Dymecodon pilirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Dymecodon.
+REFERENCE   1  (bases 1 to 814)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 814)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..814
+                     /organism="Dymecodon pilirostris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Dypili_1"
+                     /db_xref="taxon:182680"
+                     /geo_loc_name="Japan: Tokushima, Tsurugi Mt."
+                     /note="HEG86-97"
+     rRNA            <1..>814
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ggtttggtcc tagcctttct attagctgtc agtaaaatta cacatgcaag tctccgcgcc
+       61 ccagtgagaa tacccttaaa gtcaaaaaat gacacaaagg agttggcatc aagcacacca
+      121 cttaatggta gctaacaacg ccttgcctag ccacaccccc acgggacaca gcagtgataa
+      181 aaattaagct atgaacgaaa gtttgactaa gttatactga catagggttg gtaaatttcg
+      241 tgccagccac cgcggtcata cgattaaccc aagttaatag atttacggcg taaagagtgt
+      301 ttaagaaata aatttataat aaagccaaga cttgactaag atgtaaaaac ctacagttaa
+      361 agtaaaaata aactacgaaa gtggctttag cattttttcc gattacacga tagctaagat
+      421 ccaaactggg attagatacc ccactatgct tagccctaaa ccaagacagt ccaattaaca
+      481 agactgtccg ccagagaact actagcaaca gcttaaaact caaaggactt ggcggtgctt
+      541 tatatccctc tagaggagcc tgttctataa tcgataaacc ccgataaacc tcaccaaccc
+      601 ttgctaattc agcctatata ccgccatctt cagcaaaccc ttaaaaggaa tcgtagtaag
+      661 cacaagtata gacataaaaa cgttaggtca aggtgtagct aatgagttgg gaagaaatgg
+      721 gctacatttt ctatttttag aacattaacg aaaaccttta tgaaactaaa ggttaaaggc
+      781 ggatttagta gtaaattaag aatagagcgc ttaa
+//
+

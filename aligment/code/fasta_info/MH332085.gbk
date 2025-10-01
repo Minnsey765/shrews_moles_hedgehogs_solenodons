@@ -1,0 +1,65 @@
+LOCUS       MH332085                 787 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Sorex alpinus voucher VZMU 4420 Breast cancer type 1 susceptibility
+            protein (BRCA1) gene, partial cds.
+ACCESSION   MH332085
+VERSION     MH332085.1
+KEYWORDS    .
+SOURCE      Sorex alpinus (alpine shrew)
+  ORGANISM  Sorex alpinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 787)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 787)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..787
+                     /organism="Sorex alpinus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VZMU 4420"
+                     /db_xref="taxon:62902"
+                     /geo_loc_name="Czech Republic: NE Bohemia, Krkono?e Mts."
+     gene            <1..>787
+                     /gene="BRCA1"
+     mRNA            <1..>787
+                     /gene="BRCA1"
+                     /product="Breast cancer type 1 susceptibility protein"
+     CDS             <1..>787
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="Breast cancer type 1 susceptibility protein"
+                     /protein_id="AZD26298.1"
+                     /translation="HKSKQPSLAKSQQNRWTESKEKYDRQTSSVEKKVDLSADPLSGR
+                     KQPNKQELPCSDSSRDSQEITWIPQNSSIQKVNDWFSRSDDVLSSDDFHEAGSESNTE
+                     VAEIIEISSAADEFSGSSEQIDLTASESRRTFSKPVENNIEDKIFGKTYRRKTSFPNL
+                     NRITEDVILGSSLLEPHIAPEQPFTNKLKRKRSMTSSLCPEDFIKKGELAVQKTPEKV
+                     IEKSDQTDQNGQVMNITTNGESETKSDYAQKGKNANPTESSEKE"
+ORIGIN      
+        1 tcataaaagc aaacagccta gcttagcaaa gagccaacag aacagatgga ctgaaagtaa
+       61 ggaaaaatat gataggcaga cttccagtgt agagaagaag gtagatctga gtgctgatcc
+      121 cctatctggg agaaaacaac ctaataagca ggaattgcca tgctctgaca gctctagaga
+      181 ttcccaagag ataacttgga tacctcagaa cagtagcata caaaaagtta atgattggtt
+      241 ttccagaagt gatgatgtat tatcttctga tgatttccat gaggcagggt cggaatcaaa
+      301 tactgaagta gctgaaataa tagaaatttc cagtgcagca gatgaatttt ctggttcttc
+      361 agagcaaata gacttaacgg ccagtgaaag tagaagaacc ttctccaaac cagtagagaa
+      421 taatattgaa gataaaatat ttgggaaaac ctatcggagg aaaacaagct tccctaactt
+      481 gaaccgcata acagaagatg taatactagg atcatctctc ctagagcctc atatagcacc
+      541 agagcaaccc ttcacaaaca aattaaaacg taagagaagc atgacatcaa gcctttgtcc
+      601 tgaagatttt atcaagaaag gagaattggc agttcaaaag actcctgaaa aggtaatcga
+      661 gaagagtgac caaactgatc aaaatggcca ggtgatgaat attactacta atggtgagag
+      721 tgaaacaaaa agtgattatg cccaaaaagg gaaaaatgct aacccaacag agtcatcaga
+      781 aaaagaa
+//
+

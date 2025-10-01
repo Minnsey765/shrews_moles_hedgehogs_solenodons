@@ -1,0 +1,6 @@
+Appendix S3. Link to morphobank project page with our anatomical character matrix and graphical illustrations of all characters. Upon publication, project will be accessible at
+http://morphobank.org/permalink/?P4835 
+
+Reviewers may log in at
+https://morphobank.org/index.php/LoginReg/form 
+Click "Log In" at the top right of morphobank.org, username "P4835" (rather than an email address, contra the morphobank.org login field), password "paradoxon-etrus" (excluding quotes).

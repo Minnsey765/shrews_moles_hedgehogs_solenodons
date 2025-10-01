@@ -1,0 +1,54 @@
+LOCUS       AF250461                 582 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Sorex cinereus NADH dehydrogenase subunit 4 (ND4) gene, partial
+            cds; mitochondrial gene for mitochondrial product.
+ACCESSION   AF250461
+VERSION     AF250461.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex cinereus (cinereus shrew)
+  ORGANISM  Sorex cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 582)
+  AUTHORS   Demboski,J.R. and Cook,J.A.
+  TITLE     Phylogenetic diversification within shrews of the Sorex cinereus
+            group (Soricidae)
+  JOURNAL   J. Mammal. 84 (1), 144-158 (2003)
+REFERENCE   2  (bases 1 to 582)
+  AUTHORS   Demboski,J.R. and Cook,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-MAR-2000) Mammalogy, University of Alaska Museum, 907
+            Yukon Drive, Fairbanks, AK 99775-6960, USA
+FEATURES             Location/Qualifiers
+     source          1..582
+                     /organism="Sorex cinereus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Alaska Frozen Tissue Collection,
+                     University of Alaska Museum (AF25384)"
+                     /db_xref="taxon:36803"
+     gene            <1..>582
+                     /gene="ND4"
+     CDS             <1..>582
+                     /gene="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="AAL91333.1"
+                     /translation="PITETMAYPFLLLSLWGMIMTSSICLRQTDLKSLIAYSSVSHMA
+                     LVIVAILIQTPWSYMGATALMIAHGLTSSMLFCLANTNYERIHSRTMILARGLQTILP
+                     LMATWWLLASLTNLALPPTINLIGELFVMLSSFSWSNITMILMGVNVVITALYSLYML
+                     ILTQRGKYPFHINTIKPSFTRENTLMALHITPLL"
+ORIGIN      
+        1 cccattacag aaacaatagc ctacccattc ctccttttat ccctatgagg aataattata
+       61 actagctcca tctgtttacg acaaacagac cttaaatctc taatcgctta ctcttccgtt
+      121 agtcatatgg ccctagtgat cgtagcaatt cttatccaaa caccatgaag ctacataggt
+      181 gcaacagctt taataatcgc tcacggactt acatcatcta tattattctg tttagccaat
+      241 actaactatg agcgaattca cagccgtact ataatcctag cacgaggctt acaaacaatt
+      301 ctccctctta tagcaacatg atgactacta gctagtttaa caaatctagc tttaccccct
+      361 acaattaacc ttattggaga actatttgta atattatcat ccttttcatg atctaacatt
+      421 actataattc tcataggagt aaacgtagta atcacagcac tatactcact ctatatacta
+      481 attttaacac aacgaggaaa gtatcctttc cacattaata caatcaaacc atcttttaca
+      541 cgagagaata ctcttatagc acttcacatc acccccctgc ta
+//
+

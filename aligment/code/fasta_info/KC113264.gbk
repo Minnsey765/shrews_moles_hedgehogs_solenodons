@@ -1,0 +1,56 @@
+LOCUS       KC113264                 559 bp    DNA     linear   MAM 30-JAN-2013
+DEFINITION  Sorex araneus RAG1 gene, partial cds.
+ACCESSION   KC113264
+VERSION     KC113264.1
+KEYWORDS    .
+SOURCE      Sorex araneus (European shrew)
+  ORGANISM  Sorex araneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 559)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 559)
+  AUTHORS   Janecka,J., Meredith,R., Springer,M. and Murphy,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2012) Biology, University of California, 1354
+            Spieth, Riverside, CA 92521, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Sorex araneus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:42254"
+     mRNA            <1..>559
+                     /product="RAG1"
+     CDS             <1..>559
+                     /codon_start=1
+                     /product="RAG1"
+                     /protein_id="AGC95925.1"
+                     /translation="PLCLMLADESDHETLTAILSPLIAEREAMKGSQLRLELGGLPRA
+                     FRFRFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHGENLQ
+                     RYELWRSNPYHESAEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKLFQLEIG
+                     EAYRQPHAGKEERKRWQATLDKHLRK"
+ORIGIN      
+        1 cccctgtgcc tcatgctggc cgacgagtcg gaccacgaga cgctgacggc catcctgagc
+       61 ccgctcatcg ccgagcgcga ggccatgaag ggcagccagc tgcggctgga gctgggcggg
+      121 ctgccgcgcg ccttccgctt ccgcttccgg ggcacgggct acgacgagaa gctggtgcgc
+      181 gaggtggagg gcctggaggc gtcgggctcc gtgtacatct gcacgctgtg cgacgccacg
+      241 cgcctggagg cctcgcagaa cctggtcttc cactccatca cgcggagcca cggcgagaac
+      301 ctgcagcgct acgagctgtg gcgctccaac ccctaccacg agtcggccga ggagctgcgc
+      361 gaccgcgtca agggcgtgtc ggccaagccc ttcatcgaga ccgtgccgtc catcgacgcg
+      421 ctccactgcg acatcggcaa cgcggccgag ttctacaagc tcttccagct ggagatcggg
+      481 gaggcgtacc ggcagccgca cgccggcaag gaggagcgca agcgctggca ggccacgctg
+      541 gacaagcacc tgcgcaaga
+//
+

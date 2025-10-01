@@ -1,0 +1,67 @@
+LOCUS       KF778377                 751 bp    DNA     linear   MAM 06-NOV-2013
+DEFINITION  Uropsilus soricipes voucher KIZ:028552 recombination activating
+            protein 2 (RAG2) gene, partial cds.
+ACCESSION   KF778377
+VERSION     KF778377.1
+KEYWORDS    .
+SOURCE      Uropsilus soricipes
+  ORGANISM  Uropsilus soricipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Uropsilus.
+REFERENCE   1  (bases 1 to 751)
+  AUTHORS   Wan,T., He,K. and Jiang,X.L.
+  TITLE     Multilocus phylogeny and cryptic diversity in Asian shrew-like
+            moles (Uropsilus, Talpidae): implications for taxonomy and
+            conservation
+  JOURNAL   BMC Evol. Biol. 13 (1), 232 (2013)
+   PUBMED   24161152
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 751)
+  AUTHORS   Wan,T., He,K. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2013) Mammal Ecology and Evolution, Kunming
+            Institute of Zoology, Chinese Academy of Sciences, East Jiaochang
+            Road, Kunming, Yunnan 650223, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..751
+                     /organism="Uropsilus soricipes"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ:028552"
+                     /db_xref="taxon:182671"
+                     /geo_loc_name="China: Mt. Emei, Sichuan"
+     gene            <1..>751
+                     /gene="RAG2"
+     mRNA            <1..>751
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>751
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="AGZ20086.1"
+                     /translation="PPLRYPAICTLKGNLEAGKHQYIIHGGKTPNNELSDKIYIMSVV
+                     CKSNKKVTFCCTEKDLVGDIPEARYGHSIDVVYSRGKSIGVLFGGRSYMPSAQRTTEK
+                     WNSVADCLPHVFLVDFDFGCSTSYILPELQDGLSFHVSIARNDTIYILGGHSLANNIR
+                     PANLYRIKVDLPLGSPAVSCTVLPGGISVSSAILTQINSDEFVIVGGYQLENQKRMVC
+                     NIISLDDNKIDIREMETPDWTPDIKHSKLWFG"
+ORIGIN      
+        1 cctcctctgc gctacccagc catttgcaca ctcaaaggca acctagaggc tggaaagcat
+       61 caatacatca tccatggggg aaaaacacca aacaatgaac tttcagataa aatctatatc
+      121 atgtctgttg tttgcaagag caataaaaaa gttacttttt gctgcacaga gaaagacttg
+      181 gtaggagata ttcctgaagc cagatatggt cattccattg atgtggtgta tagtcgaggg
+      241 aaaagtattg gtgttctctt tggagggcga tcatacatgc cttctgccca aagaaccaca
+      301 gaaaaatgga atagtgtagc tgattgcctg ccccatgttt tcttggtgga ttttgatttt
+      361 gggtgctcta catcctacat tcttccagaa cttcaagatg gactctcttt tcatgtctcc
+      421 attgcaagaa atgataccat ttatatttta ggaggacatt ctcttgccaa taacatccgc
+      481 cctgccaacc tgtatagaat aaaggttgat ctccccctgg gtagcccagc tgtgagttgc
+      541 acagtcttac caggagggat ctctgtctcc agtgcaatcc tgactcaaat aaacagtgat
+      601 gaatttgtta ttgtgggtgg ttaccagctt gaaaatcaaa aaagaatggt ttgcaacatt
+      661 atctctttag acgacaacaa gatagatatt cgagagatgg agactccaga ttggacccca
+      721 gatattaagc acagcaagct atggtttgga a
+//
+

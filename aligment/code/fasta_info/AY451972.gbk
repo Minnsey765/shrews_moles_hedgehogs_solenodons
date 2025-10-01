@@ -1,0 +1,52 @@
+LOCUS       AY451972                 507 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Solenodon paradoxus recombination activating protein 2 gene,
+            partial cds.
+ACCESSION   AY451972
+VERSION     AY451972.1
+KEYWORDS    .
+SOURCE      Solenodon paradoxus (Hispaniolan solenodon)
+  ORGANISM  Solenodon paradoxus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Solenodon.
+REFERENCE   1  (bases 1 to 507)
+  AUTHORS   Malia,M.J. Jr., Kilpatrick,C.W., Mussell,J.C., Ottenwalder,J. and
+            Allard,M.W.
+  TITLE     Systematics of the endangered species Solenodon paradoxus
+            (Mammalia: Solenodontidae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 507)
+  AUTHORS   Malia,M.J. Jr., Kilpatrick,C.W., Mussell,J.C., Ottenwalder,J. and
+            Allard,M.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2003) Biological Sciences, The George Washington
+            University, 340 Lisner Hall, 2023 G Street, NW, Washington, DC
+            20052, USA
+FEATURES             Location/Qualifiers
+     source          1..507
+                     /organism="Solenodon paradoxus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:79805"
+     mRNA            <1..>507
+                     /product="recombination activating protein 2"
+     CDS             <1..>507
+                     /note="RAG2"
+                     /codon_start=3
+                     /product="recombination activating protein 2"
+                     /protein_id="AAS45780.1"
+                     /translation="HGGKTPNNELSDKIYVMSLACKNNKKFTFRCTEKDLVGDVPKAR
+                     YGHSMDVVYSRGKSIGVLFGGRSFMPSAQRTTEKWNSVADCLPHVFLLDFEFGCSTSY
+                     ILPELQDGLSFHVSIARNDTVYILGGHSLVNNIRPANLYRISIDLPLGSPSVNCTVLP
+                     GGISVSSA"
+ORIGIN      
+        1 ttcatggagg gaaaacacca aacaatgaac tttcagataa gatttatgtc atgtctcttg
+       61 cttgcaaaaa caacaaaaaa ttcacatttc gctgcacaga gaaagactta gtaggagatg
+      121 ttcctaaagc cagatatggc cattccatgg atgtagtgta tagcagaggg aaaagcatag
+      181 gtgttctctt tggaggacgg tcattcatgc cttctgccca aagaaccaca gaaaaatgga
+      241 atagcgtcgc tgactgcctc ccccacgttt tcttgctgga ttttgaattc ggctgttcta
+      301 catcatacat tcttccagaa cttcaggatg ggctgtcttt ccatgtctcc atagccagaa
+      361 atgataccgt ttatatttta ggaggacatt cacttgtcaa taacatccga cctgcaaacc
+      421 tatatagaat aagtatcgat ctccccctgg gtagcccatc tgtgaactgc acagttttgc
+      481 caggaggaat ctctgtctcc agtgcaa
+//
+

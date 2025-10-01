@@ -1,0 +1,63 @@
+LOCUS       GU981209                 768 bp    DNA     linear   MAM 06-MAR-2013
+DEFINITION  Soriculus nigrescens isolate Sorinig8 breast cancer 1 protein
+            (BRCA1) gene, partial cds.
+ACCESSION   GU981209
+VERSION     GU981209.1
+KEYWORDS    .
+SOURCE      Soriculus nigrescens (Himalayan shrew)
+  ORGANISM  Soriculus nigrescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Soriculus.
+REFERENCE   1  (bases 1 to 768)
+  AUTHORS   He,K., Li,Y.J., Brandley,M.C., Lin,L.K., Wang,Y.X., Zhang,Y.P. and
+            Jiang,X.L.
+  TITLE     A multi-locus phylogeny of Nectogalini shrews and influences of the
+            paleoclimate on speciation and evolution
+  JOURNAL   Mol. Phylogenet. Evol. 56 (2), 734-746 (2010)
+   PUBMED   20363345
+REFERENCE   2  (bases 1 to 768)
+  AUTHORS   He,K. and Jiang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang East Road, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..768
+                     /organism="Soriculus nigrescens"
+                     /mol_type="genomic DNA"
+                     /isolate="Sorinig8"
+                     /specimen_voucher="19711"
+                     /db_xref="taxon:62296"
+                     /geo_loc_name="China: Yunnan"
+     gene            <1..>768
+                     /gene="BRCA1"
+     mRNA            <1..>768
+                     /gene="BRCA1"
+                     /product="breast cancer 1 protein"
+     CDS             <1..>768
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1 protein"
+                     /protein_id="ADK21454.1"
+                     /translation="LARSQQNRWTENKEIYNDGQTLSTEKKVDLNTDPLSGRKQPSKQ
+                     KSLSSDIPKDSQEMTWITLNSSIQKVNDWFSRSGDVLSSGDCHDRGSESKTEGAEIIE
+                     ISSAADEFSGSSEKIDLVARESRRALSKSFESNAEDKIFGKIYRRKASIPNLNRTADD
+                     VILGSFLQKPPIAQEHPSTNRLKRKRRVTSCLSPEDFIKKGDLVIAKKSPEKVISNSH
+                     QTDQNGQVVNITTNDQSETRSDYAQKEKNTNSAESSEI"
+ORIGIN      
+        1 ttagcaagga gccagcagaa cagatggact gaaaataagg aaatatataa tgatggacag
+       61 actctcagca cagaaaaaaa ggtagatctg aatactgatc ccctatctgg gagaaaacaa
+      121 ccaagtaagc agaaatcgct gtcctcggac attcctaaag attcccagga gatgacttgg
+      181 ataactctga acagtagcat acagaaagtt aatgattggt tttccagaag tggtgatgta
+      241 ttatcttctg gtgattgcca tgatagaggg tctgaatcaa agacagaagg agctgaaata
+      301 atagaaattt caagtgcagc agatgaattt tctggttctt cagagaaaat agacttagtg
+      361 gcccgtgaaa gtagaagagc tctctccaaa tcttttgaga gtaatgctga agataaaata
+      421 tttgggaaaa tttatcggag gaaagcaagt atccctaact tgaaccgcac agctgacgat
+      481 gtaattctag gatcatttct ccaaaaacct cctatagcac aagaacaccc ctccacaaac
+      541 agattaaaac gtaaaagaag agttacatca tgcctttctc ctgaagattt tatcaagaaa
+      601 ggagatttgg taattgctaa aaaatctccc gagaaggtaa taagtaacag tcaccaaact
+      661 gatcaaaatg gccaggtagt gaatattact actaatgatc agagtgaaac aagaagtgat
+      721 tatgcccaga aggagaaaaa tactaactca gcagagtcat cagaaatc
+//
+

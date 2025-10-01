@@ -1,0 +1,71 @@
+LOCUS       PQ062336                 783 bp    DNA     linear   MAM 18-DEC-2024
+DEFINITION  Neohylomys hainanensis isolate NeohyHai growth hormone receptor
+            (GHR) gene, exon 10 and partial cds.
+ACCESSION   PQ062336
+VERSION     PQ062336.1
+KEYWORDS    .
+SOURCE      Neohylomys hainanensis (Hainan gymnure)
+  ORGANISM  Neohylomys hainanensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Neohylomys.
+REFERENCE   1  (bases 1 to 783)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Gorchkhanov,D., Fei,L.I., Dung,D.T.,
+            Hai,B.T., Kruskop,S.V., Rozhnov,V.V. and Abramov,A.V.
+  TITLE     A new species of Neohylomys (Eulipotyphla: Galericidae) from
+            northern Vietnam
+  JOURNAL   Zootaxa 5541 (3), 294-306 (2024)
+   PUBMED   39646144
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 783)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Gorchkhanov,D., Fei,L., Dung,D.T.,
+            Hai,B.T., Kruskop,S.V., Rozhnov,V.V. and Abramov,A.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-2024) Vertebrate Zoology, Lomonosov Moscow State
+            University, Leninskie Gory 1, bldg 12, Biological Faculty, Moscow,
+            Moscow 119234, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..783
+                     /organism="Neohylomys hainanensis"
+                     /mol_type="genomic DNA"
+                     /isolate="NeohyHai"
+                     /db_xref="taxon:483536"
+                     /geo_loc_name="China: Hainan"
+     gene            <1..>783
+                     /gene="GHR"
+     mRNA            <1..>783
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>783
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="XLM37223.1"
+                     /translation="DDSWVEFIELDIDDPDEKTEGSDTARLLNDDQHKALNILGAKDD
+                     DSGRTSCYEPDILETDFNASDICDGTSEVGQPQRLKGEADLLCLDQMNQDYSPSDDAT
+                     PAAQLPHVNLAPEDKPRPLLIGGTESTHQAAPIKVSNPNSLTNIDFYAQVSDITPAGS
+                     VVLSPGQKNKAGIPQGDPNPEVVSFCQANFIMDSAYFCEADAKKCISVAPHIEVESRV
+                     EPSFNQEDIYITTESLTTTTRRSGTTEHAPSSEMPVPDYTSIH"
+     exon            <1..>783
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 gatgactctt gggtggaatt cattgagctg gatattgatg atcctgatga aaagacggaa
+       61 ggatcagaca cagccaggct tctaaacgat gaccagcata aagcacttaa tatccttggg
+      121 gcaaaggatg acgattctgg acgtaccagc tgttatgaac ctgatattct ggagactgat
+      181 ttcaatgcaa gcgacatatg tgatggtacc tcagaagttg gtcagccaca aaggttgaaa
+      241 ggggaagcag atctcttgtg ccttgaccag atgaatcaag attactcacc ctctgatgat
+      301 gctacccctg ctgctcagct gcctcatgtt aacctagcac cggaagacaa accaaggcca
+      361 cttttgattg gtggaactga gtcaactcat caagctgctc ctattaaagt aagcaaccca
+      421 aattcactga caaatattga cttctatgcc caggtaagtg acatcacacc agctggaagt
+      481 gtggtccttt ccccaggcca aaagaataag gcagggatac cccaaggtga tccaaaccca
+      541 gaagtagtct cattctgcca agcaaacttc atcatggaca gtgcctactt ctgtgaggct
+      601 gatgccaaaa agtgcatctc tgtggcccct cacatcgagg ttgaatcccg tgtagagcca
+      661 agctttaacc aggaagacat ttatatcacc acagaaagcc ttaccactac tactaggagg
+      721 tctggtacaa cagaacacgc tcccagttct gagatgcctg ttccagacta cacctctata
+      781 cat
+//
+

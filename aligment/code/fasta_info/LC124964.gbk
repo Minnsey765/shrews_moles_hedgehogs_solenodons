@@ -1,0 +1,74 @@
+LOCUS       LC124964                1095 bp    DNA     linear   MAM 30-AUG-2016
+DEFINITION  Blarina brevicauda RAG1 gene for recombination activating gene 1,
+            partial cds, specimen_voucher: personal collection:Satoshi D.
+            Ohdachi:SDO-2002/7/25-5.
+ACCESSION   LC124964
+VERSION     LC124964.1
+KEYWORDS    .
+SOURCE      Blarina brevicauda (short-tailed shrew)
+  ORGANISM  Blarina brevicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Blarina.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1095)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..1095
+                     /organism="Blarina brevicauda"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="personal collection:Satoshi D.
+                     Ohdachi:SDO-2002/7/25-5"
+                     /db_xref="taxon:9387"
+                     /geo_loc_name="USA: Michigan"
+     gene            <1..>1095
+                     /gene="RAG1"
+     CDS             <1..>1095
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating gene 1"
+                     /protein_id="BAV56159.1"
+                     /translation="LRAQDVEDYLDGPFTVVVKESCDGMGDVSEKHGSGPAVPEKAVR
+                     FSFTIMRITVAQGAREVKVFEEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAER
+                     EAMKSSRLRLDLGGLPRSFRFIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEA
+                     SQNLVFHSITRSHSENLQRYEVWRSNPYHESAEELRDRVKGVSAKPFIETVPSIDALH
+                     CDIGNAAEFYKIFQLEIGEVYKQPHASKEERKRWQATLDKHLRKKMNLKPIMRMNGNF
+                     ARKLMTRETVDAVCELIPCPDRHEALRELMDLYLKMKPVWRSSCPAQECPEALCQYSF
+                     NSQRFAELLSTKFKYRYEGKITNYFHKTLA"
+ORIGIN      
+        1 cctgagggcc caagacgtgg aggactacct ggacggccct ttcaccgtgg tggtgaagga
+       61 gtcctgcgac ggcatgggcg acgtgagcga gaagcacggc agcggcccgg ccgtgcccga
+      121 aaaggccgtt cgcttttcct tcaccatcat gaggatcacc gtggcccagg gcgcccggga
+      181 ggtgaaggtg ttcgaggagg ccaaacccaa ctcggagctg tgctgcaagc cgctgtgcct
+      241 catgctggcc gacgagtcgg accacgagac gctcacggcc atcctgagcc cgctcatcgc
+      301 cgagcgcgag gccatgaaga gcagccggct gcggctggac ctgggcggcc tcccccgctc
+      361 cttccgcttc atcttcaggg gcaccggcta cgacgagaaa ctcgtgcggg aagtggaggg
+      421 cctcgaggcg tcgggctccg tgtacatctg caccctgtgc gacgccacgc gcctggaggc
+      481 ctcgcagaat ctggtctttc attccatcac ccggagccac agcgagaacc tgcagcgcta
+      541 cgaggtctgg cgctccaacc cctaccacga gtcggccgag gagctgcgcg accgcgtcaa
+      601 gggcgtctcg gccaaaccct tcatcgagac cgtcccttcc atcgacgcgc tgcactgcga
+      661 catcggcaac gcggccgagt tctacaagat tttccagctg gagatcggcg aggtgtacaa
+      721 gcagccgcac gcctccaaag aggagaggaa gaggtggcag gccacgctgg acaagcatct
+      781 ccgcaagaag atgaacctga agcccatcat gaggatgaac ggcaacttcg ccaggaagct
+      841 catgacgcgg gagacggtgg acgccgtctg tgagctaatc ccctgcccsg acaggcacga
+      901 ggctctgagg gagctgatgg acctktacct gaagatgaag cccgtgtggc gctcctcctg
+      961 ccccgcgcag gagtgccccg aagccctctg ccagtacagc ttcaattccc agcgttttgc
+     1021 tgagctcctc tccaccaagt ttaagtatag atacgagggc aaaatcacca attattttca
+     1081 caagacgctg gcgca
+//
+

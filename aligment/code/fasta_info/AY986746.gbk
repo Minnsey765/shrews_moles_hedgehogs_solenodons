@@ -1,0 +1,52 @@
+LOCUS       AY986746                 563 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Echinosorex gymnura BDNF (BDNF) gene, partial cds.
+ACCESSION   AY986746
+VERSION     AY986746.1
+KEYWORDS    .
+SOURCE      Echinosorex gymnura
+  ORGANISM  Echinosorex gymnura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Echinosorex.
+REFERENCE   1  (bases 1 to 563)
+  AUTHORS   Mussell,J.C., Allard,M.W. and Kilpatrick,C.W.
+  TITLE     A reexamination of Lipotyphla and Afrotheria based on both
+            molecular and morphological analyses
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 563)
+  AUTHORS   Mussell,J.C., Allard,M.W. and Kilpatrick,C.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2005) Functional Anatomy and Evolution, Johns
+            Hopkins University, 1830 E. Monument St., Baltimore, MD 21205, USA
+FEATURES             Location/Qualifiers
+     source          1..563
+                     /organism="Echinosorex gymnura"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:162630"
+     gene            <1..>563
+                     /gene="BDNF"
+     mRNA            <1..>563
+                     /gene="BDNF"
+                     /product="BDNF"
+     CDS             <1..>563
+                     /gene="BDNF"
+                     /codon_start=3
+                     /product="BDNF"
+                     /protein_id="AAY90046.1"
+                     /translation="FLTMVISYFGCMKAAPMKEAHFRGQGSLAYPGLRTHGTLESANG
+                     PKASSRDLALASTFEHVLEELLDEDQKIRPHEETPKDADLYTSRVMLSSQVPLEPPLL
+                     FLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSVSQWVTAADKKTAVDMSGGTVT
+                     VLEKVPVSKGQLKQYFYETRCNPLGPP"
+ORIGIN      
+        1 ttttccttac tatggttatt tcatactttg gttgcatgaa ggctgccccc atgaaagaag
+       61 cacacttccg aggacaaggc agcttggcct acccaggtct gcggacccat gggactctgg
+      121 agagcgcaaa tgggcccaag gcaagttcaa gagacctggc gttggctagc acttttgaac
+      181 atgtgctgga agagctgttg gacgaggacc agaagattcg tcctcatgaa gaaaccccta
+      241 aggacgcgga cttgtatact tcccgagtga tgctcagcag tcaagtgcct ttggagccac
+      301 cacttctctt tctgcttgag gaatacaaaa attacctgga tgctgcaaac atgtcgatga
+      361 gggtccgacg ccactccgac cctgcccgcc gtggggagct gagcgtgtgc gacagtgtta
+      421 gccagtgggt gacagcagca gataaaaaga ctgcagtgga catgtcgggc gggacggtca
+      481 cagtcctgga aaaggtccct gtgtccaaag gccaactgaa gcagtacttc tacgagacca
+      541 ggtgcaatcc cctgggtcct cct
+//
+

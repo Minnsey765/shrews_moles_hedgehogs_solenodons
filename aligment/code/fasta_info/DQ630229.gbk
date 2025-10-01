@@ -1,0 +1,59 @@
+LOCUS       DQ630229                 824 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Suncus etruscus isolate 1 BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   DQ630229
+VERSION     DQ630229.1
+KEYWORDS    .
+SOURCE      Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 824)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 824)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..824
+                     /organism="Suncus etruscus"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:109475"
+     gene            <1..>824
+                     /gene="BRCA1"
+     mRNA            <1..>824
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>824
+                     /gene="BRCA1"
+                     /codon_start=3
+                     /product="BRCA1"
+                     /protein_id="ABG22200.1"
+                     /translation="QFCNKSKQSSPGRSQQNRWIESKETSNDTQIPSTEQKVDLNAEP
+                     LYGRRKQNKQKLSGSDSPKDPQXMSWVTSNSSLQKVNDWFSRRDDVLTSDDFHDAGSN
+                     SNTKAETEEIPSAADGFFVSSEKEDLMASDLCDALMYESRRVFSKPVASNIEDEIFGK
+                     TYRRKASFPNLNCTTENVILESPLLEPHTAHKHPFTNKLKRKRRNTSSLGPEDFIKKV
+                     DLAXVQNSPEKKIERITQMDQNGQVVNTTMKGLEIETRGDTQKEKIANSTASSEKE"
+ORIGIN      
+        1 ctcaattctg taataaaagt aaacagtcca gcccaggaag aagccaacag aacagatgga
+       61 ttgaaagtaa agaaacatct aatgatacac agattcccag cacagagcaa aaggtagatc
+      121 tgaatgctga acccctgtat ggaagaagaa aacagaacaa acagaaattg tcaggctctg
+      181 acagccctaa ggatccccaa ganatgtctt gggtaacttc aaatagtagc ctacagaaag
+      241 ttaatgattg gttttctaga agggatgatg tattaacttc tgatgatttc catgatgcag
+      301 ggtctaattc aaatacaaaa gctgagacag aagaaattcc aagtgcagca gatgggtttt
+      361 ttgtttcttc agagaaagaa gatttaatgg ccagtgatct gtgtgatgct ttaatgtatg
+      421 aaagtagaag agtcttctcc aaaccagtag caagtaatat tgaagatgaa atatttggga
+      481 aaacttatcg gaggaaagca agcttcccta acttgaactg cacaaccgaa aatgtaattc
+      541 tagaatcacc tctactagaa ccgcatacgg cacataaaca ccccttcaca aataaattaa
+      601 aacgtaaaag aagaaataca tcaagccttg gtcctgagga ttttataaag aaagtagatt
+      661 tggcgnttgt tcaaaattct cctgaaaaga aaattgagag gatcacccaa atggatcaaa
+      721 atggtcaggt ggtgaatact actatgaaag gtcttgaaat tgaaacaaga ggtgataccc
+      781 agaaagagaa aatcgctaac tcaacagcgt catcagaaaa agaa
+//
+

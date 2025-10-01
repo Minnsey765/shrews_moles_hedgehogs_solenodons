@@ -1,0 +1,67 @@
+LOCUS       MN690826                 786 bp    DNA     linear   MAM 25-FEB-2020
+DEFINITION  Crocidura lasiura isolate SQ101 breast cancer susceptibility 1
+            (BRCA1) gene, partial cds.
+ACCESSION   MN690826
+VERSION     MN690826.1
+KEYWORDS    .
+SOURCE      Crocidura lasiura
+  ORGANISM  Crocidura lasiura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 786)
+  AUTHORS   Chen,S., Qing,J., Liu,Z., Liu,Y., Tang,M., Murphy,R.W., Pu,Y.,
+            Wang,X., Tang,K., Guo,K., Jiang,X. and Liu,S.
+  TITLE     Multilocus phylogeny and cryptic diversity of white-toothed shrews
+            (Mammalia, Eulipotyphla, Crocidura) in China
+  JOURNAL   BMC Evol. Biol. 20 (1), 29 (2020)
+   PUBMED   32059644
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 786)
+  AUTHORS   Chen,S. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2019) Sichuan Normal University, Chenglong Street
+            1819, Chengdu, Sichuan 610101, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..786
+                     /organism="Crocidura lasiura"
+                     /mol_type="genomic DNA"
+                     /isolate="SQ101"
+                     /db_xref="taxon:167043"
+                     /geo_loc_name="China"
+                     /collection_date="2018"
+     gene            <1..>786
+                     /gene="BRCA1"
+     mRNA            <1..>786
+                     /gene="BRCA1"
+                     /product="breast cancer susceptibility 1"
+     CDS             <1..>786
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer susceptibility 1"
+                     /protein_id="QIC50828.1"
+                     /translation="WMESKETYNDKQSPSTEQKVDLNAEPLYGRRKLNKQKLSCSDSP
+                     EDPQEMTWMTSKSSLQKVNDWFSRSDDVLTSDDFHDAGSNSNTKAETEEIPSAADGVF
+                     VSSEKEDLMANDQCDALMYESRRVLSKPVESSIEDKIFGKTYRRKASFPNLNCTTEDV
+                     TLESSLLEPHMAHKHPFTNKLKRKRITSSLGPEDFIKKVDLAVVQKSPEKKIERLNQM
+                     DQNGQVVNTTMKGLEIETRGDDTQKEKIASSTASSEKQSASRHK"
+ORIGIN      
+        1 tggatggaaa gtaaagaaac atataatgat aaacagtctc ccagcacaga gcaaaaggta
+       61 gatctgaatg ctgaacccct atatggaaga agaaaactga acaaacagaa attgtcatgc
+      121 tctgacagcc ctgaggatcc ccaagagatg acttggatga cttcgaagag tagcctacag
+      181 aaagttaatg attggttttc tagaagtgat gatgtattaa cttctgatga tttccatgat
+      241 gcagggtcta attcaaatac aaaagctgag acagaagaaa tcccaagtgc agcagatggg
+      301 gtttttgttt cttcagagaa agaagattta atggccaatg atcagtgtga tgctttaatg
+      361 tatgaaagta gaagagtcct ctccaaacca gtagagagta gcattgaaga taaaatattt
+      421 gggaaaactt atcgaaggaa agcaagcttc cctaacttga attgcacaac tgaagatgta
+      481 actctagaat catctctact agaaccgcat atggcacaca aacacccctt cacaaataaa
+      541 ttaaaacgta aaagaattac atcaagcctt ggtcctgagg attttataaa gaaagtagat
+      601 ttggcggttg ttcaaaagtc tcctgaaaag aaaatcgaga ggctcaacca aatggatcaa
+      661 aatggtcagg tggtgaatac tactatgaaa ggtcttgaaa ttgaaacaag aggtgatgat
+      721 acccagaaag agaaaatcgc tagctcaaca gcgtcatcag aaaaacaaag tgcttccaga
+      781 cataaa
+//
+

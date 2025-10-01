@@ -1,0 +1,74 @@
+LOCUS       KX754576                1008 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scapanulus oweni isolate Soweni_4 recombination activating protein
+            1 (RAG1) gene, partial cds.
+ACCESSION   KX754576
+VERSION     KX754576.1
+KEYWORDS    .
+SOURCE      Scapanulus oweni (Gansu mole)
+  ORGANISM  Scapanulus oweni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanulus.
+REFERENCE   1  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1008
+                     /organism="Scapanulus oweni"
+                     /mol_type="genomic DNA"
+                     /isolate="Soweni_4"
+                     /specimen_voucher="KIZ:110501"
+                     /db_xref="taxon:1300117"
+                     /geo_loc_name="China: Shaanxi"
+     gene            <1..>1008
+                     /gene="RAG1"
+     mRNA            <1..>1008
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1008
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="APD33039.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTVMKITIAHGSENVKVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQLMLEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPSASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTKETVEAVCELIPSE
+                     ERHEALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFAELLSTKFKYRYEGK
+                     IT"
+ORIGIN      
+        1 tcttgtgatg ggatgggaga tgtgagtgag aagcacggga gtgggccagc tgttccagaa
+       61 aaggctgttc ggttttcatt cactgtcatg aaaatcacca tagcacacgg ctcagagaat
+      121 gtgaaggtgt ttgaggaagc caaaccaaat tctgaactgt gttgtaagcc cytgtgcctt
+      181 atgctggcag acgagtctga ccacgagacc ctgactgcca tcctgagccc cctcattgct
+      241 gagagggagg ccatgaagag cagccaatta atgctcgaaa tgggaggcat cctccggact
+      301 tttaagttta tctttagggg cacaggatat gatgagaaac ttgtccggga agtggaagga
+      361 cttgaggctt ctgggtcagt ctatatttgt actctctgtg atgccacccg tctggaagct
+      421 tctcaaaatc ttgtcttcca ctccataacc agaagccaca cygaaaacct ggagcgctac
+      481 gaggtctggc gttccaaccc ctaccacgag tccgtggaag aattgaggga tcgtgtgaaa
+      541 ggggtttcgg ccaaaccctt cattgagact gtcccttcca tagatgccct tcactgtgac
+      601 attggcaatg cagckgagtt ctacaagatc tttcagctag agatagggga ggtgtacaag
+      661 aatcccagtg cctccaaaga ggaaaggaaa agatggcagg ctacactgga caagcatctc
+      721 cgaaagaaga tgaacctgaa accaatcatg aggatgaatg gcaactttgc caggaagctc
+      781 atgaccaaag agacagtaga agcagtttgt gaattaattc cctcagagga gaggcatgaa
+      841 gctctcaggg agctgatgga yctttatctg aagatgaaac ctgtgtggcg atcatcatgc
+      901 cctgctaagg agtgtccaga atccctctgc cagtatagtt tcaattcaca gcgttttgct
+      961 gagctcctct ctaccaagtt caagtacaga tatgagggca aaatcacc
+//
+

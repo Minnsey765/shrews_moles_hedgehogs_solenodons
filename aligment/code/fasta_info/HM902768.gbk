@@ -1,0 +1,80 @@
+LOCUS       HM902768                 657 bp    DNA     linear   MAM 27-SEP-2022
+DEFINITION  Scalopus aquaticus voucher MSB Mamm 57414 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   HM902768
+VERSION     HM902768.1
+DBLINK      Project: 37833
+KEYWORDS    .
+SOURCE      mitochondrion Scalopus aquaticus (eastern mole)
+  ORGANISM  Scalopus aquaticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 657)
+  CONSRTM   International Barcode of Life (iBOL)
+  TITLE     iBOL Data Release
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  CONSRTM   International Barcode of Life (iBOL)
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUL-2010) Biodiversity Institute of Ontario,
+            University of Guelph, 50 Stone Rd West, Guelph, Ontario N1G2W1,
+            Canada
+COMMENT     ##International Barcode of Life (iBOL)Data-START##
+            Barcode Index Number :: BOLD:AAF2326
+            Order Assignment     :: Soricomorpha
+            iBOL Working Group   :: iBOL:WG1.1
+            iBOL Release Status  :: Phase 2
+            ##International Barcode of Life (iBOL)Data-END##
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Scalopus aquaticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MSB Mamm 57414"
+                     /db_xref="BOLD:GJMSB046-10.COI-5P"
+                     /db_xref="taxon:71119"
+                     /geo_loc_name="USA"
+                     /lat_lon="28.042 N 97.052 W"
+                     /collection_date="30-Oct-1986"
+                     /collected_by="Mammalogy Class 1986"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>657
+                     /gene="COI"
+     CDS             <1..>657
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADP59611.1"
+                     /translation="TLYLLFGAWAGMVGTALSLLIRAELGQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPILLGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLMASSTV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 acattatact tgctatttgg tgcctgagcc ggaatagttg gcaccgctct aagcctttta
+       61 attcgagcag aattagggca gccaggcgcc cttctagggg atgaccaaat ctataatgtg
+      121 atcgtaactg ctcatgcgtt tgtaataatt ttctttatag taatgcctat cctcctggga
+      181 gggttcggaa attgactagt cccactaata atcggagccc ctgatatggc attcccccga
+      241 atgaataata taagcttctg actccttcct ccctcattcc ttcttttaat agcatcctcc
+      301 actgtagagg caggagcagg cacaggatga acagtttatc cgcctttagc cggaaaccta
+      361 gctcacgcgg gagcatctgt cgatctggca atcttctcac ttcacttagc aggtgtgtcc
+      421 tccatcttgg gggctattaa cttcattact accattatca acatgaaacc acctgcaata
+      481 tctcagtacc aaactccctt atttgtatga tcaattctaa ttactgctgt tttactgcta
+      541 ctctccttac cggtcctagc agcaggaatt acaatactac taacagaccg caacctcaat
+      601 accactttct ttgatcccgc aggaggaggt gacccaatcc tgtaccaaca tttattc
+//
+

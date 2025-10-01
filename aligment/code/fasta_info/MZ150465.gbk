@@ -1,0 +1,58 @@
+LOCUS       MZ150465                 657 bp    DNA     linear   MAM 17-JUN-2022
+DEFINITION  Scapanus orarius voucher MVZ_224399 cytochrome c oxidase subunit I
+            (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MZ150465
+VERSION     MZ150465.1
+KEYWORDS    .
+SOURCE      mitochondrion Scapanus orarius
+  ORGANISM  Scapanus orarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanus.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Alvarez-Castaneda,S.T. and Cortes-Calva,P.
+  TITLE     Revision of Moles in the genus Scapanus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Alvarez-Castaneda,S.T. and Cortes-Calva,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2021) Planeacion Ambiental y Conservacion, Centro
+            de Investigaciones Biologicas del Noroeste, Av Instituto
+            Politecnico Nacional 195, La Paz, Baja California Sur 23096, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Scapanus orarius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ_224399"
+                     /db_xref="taxon:182674"
+     gene            <1..>657
+                     /gene="COX1"
+     CDS             <1..>657
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUX04149.1"
+                     /translation="TLYLLFGAWAGMAGTALSLLIRAELGQPGALLGDDQIYNVVVTA
+                     HAFVMIFFMVMPILLGGFGNWLVPLMIGAPDMAFPRMNNISFWLLPPSFLLLMASSTV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSILITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 acattatacc tactatttgg tgcatgagcc ggaatagctg gtacagccct aagcctacta
+       61 attcgagctg aactagggca accaggcgct ctcctaggag atgaccaaat ctacaatgta
+      121 gtcgtaactg cgcatgcatt tgtaataatt ttcttcatgg taatacccat cctcttagga
+      181 ggctttggga actgactagt tccattaata attggagccc ctgatatagc attcccccga
+      241 ataaacaata ttagtttctg actccttcca ccctcatttc tccttttaat agcatcatca
+      301 acagtagaag caggagcagg cacaggatga accgtctacc caccattagc cggaaaccta
+      361 gcccatgcag gagcatcagt tgacctagca attttctcac ttcaccttgc aggtgtatct
+      421 tccatcctag gggccatcaa cttcatcaca actattatca acataaaacc accagcaata
+      481 tcccaatacc aaaccccatt attcgtatga tccatcttaa ttaccgccgt gttgctactc
+      541 ctttctctac cagtcctagc agcaggaatt actatactac taacagaccg aaacctaaac
+      601 actacctttt tcgaccctgc cggaggaggc gaccctatcc tataccaaca cctattc
+//
+

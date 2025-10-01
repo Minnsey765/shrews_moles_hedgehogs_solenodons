@@ -1,0 +1,58 @@
+LOCUS       MZ150484                 657 bp    DNA     linear   MAM 17-JUN-2022
+DEFINITION  Neurotrichus gibbsii voucher MVZ_200061 cytochrome c oxidase
+            subunit I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MZ150484
+VERSION     MZ150484.1
+KEYWORDS    .
+SOURCE      mitochondrion Neurotrichus gibbsii
+  ORGANISM  Neurotrichus gibbsii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Neurotrichus.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Alvarez-Castaneda,S.T. and Cortes-Calva,P.
+  TITLE     Revision of Moles in the genus Scapanus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Alvarez-Castaneda,S.T. and Cortes-Calva,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2021) Planeacion Ambiental y Conservacion, Centro
+            de Investigaciones Biologicas del Noroeste, Av Instituto
+            Politecnico Nacional 195, La Paz, Baja California Sur 23096, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Neurotrichus gibbsii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ_200061"
+                     /db_xref="taxon:182677"
+     gene            <1..>657
+                     /gene="COX1"
+     CDS             <1..>657
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QUX04168.1"
+                     /translation="TLYMLFGAWAGMVGTALSLLIRAELGQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPILLGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 acattatata tgctattcgg tgcttgagcc ggaatagttg gaactgcctt aagtctctta
+       61 atccgtgctg aattaggaca acctggggct ctattaggag atgaccaaat ctacaatgta
+      121 attgttactg ctcacgcgtt cgtaataatt tttttcatag ttatgccaat tttattaggg
+      181 ggttttggga actgacttgt tccattgatg attggtgccc ctgatatagc attcccacga
+      241 ataaataaca taagcttttg actactacca ccatcattct tacttctact agcctcatct
+      301 acagtagaag caggggcagg aacaggatgg acagtgtatc cccctctagc cggaaaccta
+      361 gctcacgcag gagcttcagt agacttagca attttctccc ttcacttagc aggtgtctca
+      421 tccattctag gggctattaa tttcattaca actattatta atataaaacc acctgcaata
+      481 tctcaatatc aaaccccatt atttgtatga tcagtcctaa ttactgctgt gttacttcta
+      541 ttatcgcttc cagttttagc agcagggatt acaatactat taacagatcg aaatctcaat
+      601 actacattct ttgacccagc tgggggcgga gaccctattt tatatcaaca tttattt
+//
+

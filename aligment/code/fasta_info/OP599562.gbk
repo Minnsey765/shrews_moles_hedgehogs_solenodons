@@ -1,0 +1,71 @@
+LOCUS       OP599562                1140 bp    DNA     linear   MAM 12-JUN-2023
+DEFINITION  Diplomesodon sp. isolate Dipl_07_1 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   OP599562
+VERSION     OP599562.1
+KEYWORDS    .
+SOURCE      mitochondrion Diplomesodon sp.
+  ORGANISM  Diplomesodon sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Diplomesodon.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Abramov,A.V.,
+            Sheftel,B.I., Krystufek,B. and Lebedev,V.S.
+  TITLE     The first phylogenetic data on the elusive shrews of the Crocidura
+            pergrisea species complex
+  JOURNAL   Hystrix (2023) In press
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Zachos,F. and
+            Lebedev,V.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2022) Zoological museum, Lomonosov MSU, Bolshaya
+            Nikitskaya, 2, Moscow 125009, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Diplomesodon sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Dipl_07_1"
+                     /db_xref="taxon:3051455"
+                     /geo_loc_name="Russia: Astrakhan region, Dosang"
+     gene            <1..1140
+                     /gene="cytb"
+     CDS             <1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WIL96081.1"
+                     /translation="MTNIRKTHPMMKIVNSSFIDLPAPSNISSWWNFGSLLGICLITQ
+                     ILTGLFLAMHYTSDTTTAFSSITHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMFLETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTNL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIVTALAGIHLLFLHETGSNNPSGLNSDTDKI
+                     PFHPYYTIKDILGMLIMITILSFLVLFSPDMLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILVLMIIPLLHTAKQRSMMFRPMSQCMFWILVADLLT
+                     LTWIGGQPVEHPFVVIGQLASIIYFLMILLIMPITSMIENQLLKW"
+ORIGIN      
+        1 atgactaaca ttcgaaaaac tcatccaata ataaaaattg ttaacagctc ttttattgac
+       61 ctacccgcac cctcaaacat ctcatcatga tgaaactttg gctcactact aggaatttgc
+      121 ctaattacac aaatcctcac cggactattc ttagccatac actacacatc agacaccaca
+      181 acagccttct cctccatcac acacatttgt cgagacgtaa attacggttg gctaattcga
+      241 tatctccatg ccaacggggc ctctatattc ttcatttgct tgttccttca tgtaggacgg
+      301 ggcctttatt atggctccta catatttctc gagacatgaa acatcggcgt cctactccta
+      361 tttgcagtca tagctaccgc ttttataggg tatgtccttc cttgaggtca aatatccttc
+      421 tgaggcgcaa cagtcatcac taatctactc tcagccattc cttatatcgg cactaacctt
+      481 gtagaatgaa tctgaggcgg attctccgta gataaggcta ccttaacccg attcttcgcc
+      541 ttccacttta ttctcccctt catcgtaacc gccctcgcag gaattcacct tctattttta
+      601 catgaaaccg gttcaaacaa cccatctgga ttaaactcag acacagataa aatcccattc
+      661 catccttact ataccattaa agatatccta ggtatactaa ttataatcac catcttatct
+      721 tttttagtct tattttctcc agatatacta ggagatccag acaactatac tcccgcaaac
+      781 ccccttaata caccaccaca cattaaacca gaatgatact ttctatttgc ttacgcaatt
+      841 ctacgatcaa tccctaataa actcggtgga gtcttagctc tcgtcctatc aattttagtc
+      901 ctaataatta ttccactcct ccatacagcc aaacaacgaa gcataatatt ccgaccaata
+      961 agccaatgta tattttgaat cctagtagca gatctactta cactaacttg aattgggggt
+     1021 caaccagtcg aacatccatt cgtagtaatt ggccaattag cctccatcat ctacttccta
+     1081 ataatccttt taattatacc cattacaagt ataattgaga accaactttt aaaatgaaga
+//
+

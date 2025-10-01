@@ -1,0 +1,78 @@
+LOCUS       KF690160                1166 bp    DNA     linear   MAM 29-APR-2015
+DEFINITION  Crocidura olivieri voucher MNHN:2013-847 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   KF690160
+VERSION     KF690160.1
+KEYWORDS    .
+SOURCE      mitochondrion Crocidura olivieri (Olivier's shrew)
+  ORGANISM  Crocidura olivieri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 1166)
+  AUTHORS   Jacquet,F., Denys,C., Verheyen,E., Bryja,J., Hutterer,R., Kerbis
+            Peterhans,J.C., Stanley,W.T., Goodman,S.M., Couloux,A., Colyn,M.
+            and Nicolas,V.
+  TITLE     Phylogeography and evolutionary history of the Crocidura olivieri
+            complex (Mammalia, Soricomorpha): from a forest origin to broad
+            ecological expansion across Africa
+  JOURNAL   BMC Evol. Biol. 15 (1), 71 (2015)
+   PUBMED   25900417
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1166)
+  AUTHORS   Jacquet,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-SEP-2013) Systematics and Evolution, Museum National
+            d'Histoire Naturelle, 55, rue buffon, Paris 75005, France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1166
+                     /organism="Crocidura olivieri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MNHN:2013-847"
+                     /db_xref="taxon:214449"
+                     /geo_loc_name="Guinea"
+                     /PCR_primers="fwd_name: l14724, fwd_seq:
+                     gatatgaaaaaccatcgttg, rev_name: h15915, rev_seq:
+                     tctccatttctggtttacaagac"
+     gene            22..1161
+                     /gene="cytb"
+     CDS             22..1161
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AHA95045.1"
+                     /translation="MTNIRKTHPLMKIVNSSFIDLPAPSNISSWWNFGSLLGICLIAQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMYFETWNIGILLLFAVMATAFMGYVLPXXXXXFWGATVITNLLSAIPYIGTSL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFVVAALAGVHLLFLHETGSNNPSGLNSDTDKI
+                     PFHPYYTIKDILGALIMITMLSSLVLFSPDMLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILILAVIPLLHTAKQRSMMFRPLSQCMFWILVXDLFT
+                     LTWIGGQPVEYPFVMIGQLASIIYFLMILLIMPITSLIENRLLKW"
+ORIGIN      
+        1 tctttcaact acagaaaccc tatgactaac atccgaaaaa cacacccatt aataaaaatt
+       61 gttaatagct cttttattga tctccctgca ccctcaaata tttcttcatg atgaaatttt
+      121 ggctccctat taggaatctg cttaattgca caaattctaa ccggactatt tctagccata
+      181 cactatacat cagataccat aacagctttc tcttccgtta cacacatctg ccgagacgta
+      241 aattatggtt gattaatccg ttatctccat gccaatggtg cctccatatt ttttatctgc
+      301 ctattcctcc atgtaggacg aggcctctat tatggctcct acatatattt tgaaacttga
+      361 aatattggta ttctactttt atttgcagta atggccaccg cctttatagg atatgttctc
+      421 cctnnnnnnn nnnnnnnatt ttgaggtgcc acagttatta ccaatttatt atcagctatt
+      481 ccctacattg gaactagcct tgtagaatga atctgaggag ggttttccgt tgacaaagct
+      541 accttaaccc gtttcttcgc cttccacttt attcttccct tcgtcgtagc agccttagcc
+      601 ggggttcacc tccttttctt acatgaaacc ggatcaaaca acccatcagg actaaactcg
+      661 gacacagata aaattccatt ccacccttat tatactatca aagatattct aggagcatta
+      721 attataatta ctatattatc ctcactagtt ctattttccc cagacatatt aggagacccc
+      781 gataattaca cccctgctaa ccccctcaac actccaccac atattaaacc agaatgatat
+      841 tttctatttg cctatgctat tctccgatca attcctaaca aacttggtgg tgtcctagca
+      901 ctcgttctat caattttaat cttagcagtt attcctctcc ttcacacagc taaacaacga
+      961 agtataatat tccgaccact aagccaatgc atattctgaa ttctagtggn ngacttattt
+     1021 acactaacat gaattggagg acaaccagtt gaatatccat ttgtcataat tggtcaattg
+     1081 gcctccatta tttatttctt aataatcctt ttaattatac caattacaag cctaattgaa
+     1141 aaccgacttt taaaatgaag atcaga
+//
+

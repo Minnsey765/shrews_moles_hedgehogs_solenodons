@@ -1,0 +1,56 @@
+LOCUS       MZ661214                 982 bp    DNA     linear   MAM 10-AUG-2022
+DEFINITION  Suncus etruscus voucher CSCF-MAM-1477087 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MZ661214
+VERSION     MZ661214.1
+KEYWORDS    .
+SOURCE      mitochondrion Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 982)
+  AUTHORS   Wyler,S.
+  TITLE     Small mammals reference
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 982)
+  AUTHORS   Wyler,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2021) InfoFauna - CSCF, University of Neuchatel,
+            Avenue de Bellevaux 51, Neuchatel, Neuchatel 2000, Suisse
+FEATURES             Location/Qualifiers
+     source          1..982
+                     /organism="Suncus etruscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CSCF-MAM-1477087"
+                     /db_xref="BOLD:MAMAA301-21.12S"
+                     /db_xref="taxon:109475"
+                     /geo_loc_name="Switzerland: Ticino"
+                     /lat_lon="46.019 N 8.956 E"
+                     /collection_date="13-Nov-2019"
+                     /collected_by="Maddalena Tiziano"
+                     /PCR_primers="fwd_seq: tcttctgggtgtaggccagatgcttt,
+                     rev_seq: aaagcaaggcactgaaaatgcctaga"
+     rRNA            <1..>982
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ctagatgggt atttataccc cataaacatt ttaaagtttt ggtccaagcc tttttattga
+       61 ctgttagtaa aattacacat gcaagtctcc accctcctgt gagaatatcc tctaaatccc
+      121 ttagatttaa aaaagttggt atcaagcaca ctcttatcaa agagtagctt atgacacctt
+      181 gcttagccac acccccacgg gaaacagcag tgataaaaaa ttaggctata aacgaaagtt
+      241 tgacctagtt atactacaat aggtttggta aattttgtgc cagccactgc agtcatacga
+      301 ttaacccaag ttaataagca tcggtgtaaa gtgtgttaaa ggagtacttc acgaataaag
+      361 ctaagactta actaggctgt agaaagcatt agttaaagga aaatmaagtt actaaagtag
+      421 ctttattata tcttatacac gatagctaag aaccaaactg ggattagata ccccactatg
+      481 cttagcccta aaccaaaaca atttaacaaa aaaattgttc gccagagtac tactagcaat
+      541 agcttaaaac tcaaaggact tggccgtgct ttatatccat ctagaggagc ctgttctata
+      601 attgatacat cccgataaac ctcagcactt cttgccaatt ccgcctatat acctccatct
+      661 tcagcaaacc cttaaaaggc acaacagtaa gccaaagcat tttacataaa acgttagggc
+      721 aaggtgtagc ttatgaagtg ggaagaaatg ggctacattt tctaaatatt agaacaatca
+      781 ctaaacgaaa gtctctatga aactagagac taaaggagga tttagtagta agccaagaat
+      841 agagtgcttg actaaataag gccatgaagc actcacacac cgcccgtcac cctcttcaag
+      901 tataaaggct aaaatataat taatttccag ctaacctata ttagaagaga taagtcgtaa
+      961 caaggtaagc atactggaaa gt
+//
+

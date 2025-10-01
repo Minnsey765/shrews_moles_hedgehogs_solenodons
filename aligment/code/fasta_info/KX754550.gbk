@@ -1,0 +1,72 @@
+LOCUS       KX754550                 822 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Uropsilus soricipes isolate Uropso_5 breast cancer 1 (BRCA1) gene,
+            exon 11 and partial cds.
+ACCESSION   KX754550
+VERSION     KX754550.1
+KEYWORDS    .
+SOURCE      Uropsilus soricipes
+  ORGANISM  Uropsilus soricipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Uropsilus.
+REFERENCE   1  (bases 1 to 822)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 822)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /organism="Uropsilus soricipes"
+                     /mol_type="genomic DNA"
+                     /isolate="Uropso_5"
+                     /specimen_voucher="KIZ:0905018"
+                     /db_xref="taxon:182671"
+                     /geo_loc_name="China: Sichuan"
+     gene            <1..>822
+                     /gene="BRCA1"
+     mRNA            <1..>822
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>822
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="APD33013.1"
+                     /translation="SKQPDLPKSQQNRWAESKETCNDRQIPSTEKRVGLNADPLFGRR
+                     ELNKQKPPCSDSPRDSQGVAWITLDSSIRKVNEWFSRSDEMLTSDDSCDEGSESNSEV
+                     NGAREVPSTIVGFSGSSEKIDLMASDPPDPPVLMCKSESIRTKPLASNIEDRIFGRTY
+                     RRKTSLPNLSHVTEDLIIGTPAMEPQIVHEHPLTNKLRRKRRPTPGLCPEDFIKKVDV
+                     TDIQKIPEKISKGTDKLDQNGQMMDITNSCHENETKHDCAQKEKKANPAELSEKES"
+     exon            <1..>822
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agcaaacagc ctgacttacc aaagagccaa cagaacagat gggctgaaag taaagaaaca
+       61 tgtaacgata ggcagattcc cagcacagag aaaagagtag gcctgaatgc tgatcccctg
+      121 tttgggagaa gagaactgaa taagcagaaa cctccatgct ctgacagtcc cagagattcc
+      181 caaggtgttg cttggataac actggacagt agcattcgga aagttaatga gtggttttcc
+      241 agaagtgatg aaatgttaac ttctgatgac tcatgtgatg aggggtctga gtcaaatagt
+      301 gaagtgaatg gagcccgaga agttccaagc acaatagttg gattttctgg ttcttcagag
+      361 aaaatagacc taatggccag tgatcctcct gatcctcctg ttttaatgtg taaaagtgaa
+      421 agtatccgca ccaaaccact tgcaagtaat attgaagata gaatatttgg gagaacctat
+      481 cggaggaaga caagcctccc aaacttgagc cacgtaactg aagatttaat catagggaca
+      541 cctgccatgg aacctcagat agttcatgaa catcccctca caaataaatt aaggcgtaaa
+      601 aggagaccta caccgggcct ttgtcctgag gattttatca agaaagtaga tgtgacwgat
+      661 attcagaaga tacctgaaaa gataagtaag ggcactgata aactagatca gaatggccag
+      721 atgatggata ttactaacag ttgtcatgag aatgaaacaa aacatgattg tgctcagaaa
+      781 gagaaaaagg ctaacccagc agaattatca gaaaaagaat ct
+//
+

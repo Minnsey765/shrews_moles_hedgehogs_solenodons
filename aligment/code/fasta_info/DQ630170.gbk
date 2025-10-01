@@ -1,0 +1,53 @@
+LOCUS       DQ630170                 505 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Sorex cinereus isolate 2 ApoB (ApoB) gene, partial cds.
+ACCESSION   DQ630170
+VERSION     DQ630170.1
+KEYWORDS    .
+SOURCE      Sorex cinereus (cinereus shrew)
+  ORGANISM  Sorex cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 505)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 505)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..505
+                     /organism="Sorex cinereus"
+                     /mol_type="genomic DNA"
+                     /isolate="2"
+                     /db_xref="taxon:36803"
+     gene            <1..>505
+                     /gene="ApoB"
+     mRNA            <1..>505
+                     /gene="ApoB"
+                     /product="ApoB"
+     CDS             <1..>505
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="ApoB"
+                     /protein_id="ABG20758.1"
+                     /translation="PLPLAMFYAFFNHHINSFIRKVEKVGEKAFVFVIESYNEAKVKY
+                     EYEIEKSITKQPRTFQIPGYTIPVVNIEASPFTVEMFPLGYVIPKEINTPKFTILGSG
+                     FSVPSYTLVLPFPELPTLHVPKFLELSLPELSIPKNIFIPALGNITYDFSFKSSVITL
+                     NANAGLY"
+ORIGIN      
+        1 tcccacttcc tttggctatg ttttatgcat tttttaacca tcatatcaat tcctttatca
+       61 ggaaagttga gaaagtcgga gagaaggcat ttgtttttgt tattgaatcc tataatgaag
+      121 caaaagttaa atatgagtat gagattgaaa aatctatcac caaacaacca aggacctttc
+      181 aaattccagg ctataccatt cctgtggtca atattgaagc atctcccttc acagtagaga
+      241 tgtttccatt gggttatgtg atcccaaaag aaatcaacac ccccaaattc actatcctgg
+      301 gttctggctt ctcggtgccc tcatatactt tagtcctgcc atttccagaa ctaccaaccc
+      361 ttcatgtccc taagtttctt gagctttccc ttccagaatt gagtatccca aagaatattt
+      421 tcattccagc cctgggaaat attacatatg acttttcctt taaatcgagt gtcattacac
+      481 tgaatgccaa tgctggactt tataa
+//
+

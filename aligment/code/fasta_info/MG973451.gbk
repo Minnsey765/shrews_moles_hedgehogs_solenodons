@@ -1,0 +1,53 @@
+LOCUS       MG973451                 351 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Episoriculus caudatus voucher CAS:MAM:29115 recombination
+            activating protein 1 (RAG1) gene, partial cds.
+ACCESSION   MG973451
+VERSION     MG973451.1
+KEYWORDS    .
+SOURCE      Episoriculus caudatus (Hodgson's brown-toothed shrew)
+  ORGANISM  Episoriculus caudatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Episoriculus.
+REFERENCE   1  (bases 1 to 351)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 351)
+  AUTHORS   Giarla,T., Huterrer,R., Balete,D., Heaney,L. and Esselstyn,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..351
+                     /organism="Episoriculus caudatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CAS:MAM:29115"
+                     /db_xref="taxon:62291"
+     gene            <1..>351
+                     /gene="RAG1"
+     mRNA            <1..>351
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>351
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AWS21448.1"
+                     /translation="EGLEASGSVYICTLCDATRLEASQNLVLHAITRSHAENLQRYEL
+                     WRSNPYHESADELRDRVKGVSAKPFMETVPSIDALHCDIGNAAEFYKLFQLEIGEVYK
+                     QPQASREERKRWQAT"
+ORIGIN      
+        1 gagggccttg aggcgtcggg ctccgtctac atctgcaccc tgtgcgacgc cacgcgcctg
+       61 gaggcctcgc agaacctggt gctgcacgcc atcacccgca gccacgccga gaacctgcag
+      121 cgctacgagc tctggcgctc caacccctac cacgagtcgg cggacgagct gcgcgaccgc
+      181 gtcaagggcg tctcggccaa gcccttcatg gagaccgtcc cgtccatcga cgcgctgcac
+      241 tgcgacatcg gcaacgcggc cgagttctac aagctgttcc agctggagat cggggaggtg
+      301 tacaagcagc cccaggcctc ccgggaggag cggaagaggt ggcaggccac g
+//
+

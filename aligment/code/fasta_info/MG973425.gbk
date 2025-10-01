@@ -1,0 +1,60 @@
+LOCUS       MG973425                 681 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Congosorex phillipsorum voucher FMNH:MAMM:177682 cytochrome b
+            (cytb) gene, partial cds; mitochondrial.
+ACCESSION   MG973425
+VERSION     MG973425.1
+KEYWORDS    .
+SOURCE      mitochondrion Congosorex phillipsorum
+  ORGANISM  Congosorex phillipsorum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Congosorex.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 681)
+  AUTHORS   Giarla,T.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Congosorex phillipsorum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:177682"
+                     /db_xref="taxon:456970"
+     gene            <1..>681
+                     /gene="cytb"
+     CDS             <1..>681
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AWS21422.1"
+                     /translation="IPYVGTTLVEWIWGGFSVDKATLTRFFAFHFILPFVVAALAGVH
+                     LLFLHETGSNNPSGISSDSDKIPFHPYYTIKDILGVLLMMLTLSMLVLFSPDMLGDPD
+                     NYTPANPLNTPPHIKPEWYFLFAYAILRSIPNKLGGVLALVLSILILMIVPLLHTSKQ
+                     RSMMFRPLSQCMFWILVADLFTLTWIGGQPVEHPFVLIGQVASILYFTLILLIMPITS
+                     LIENNLLKW"
+ORIGIN      
+        1 attccgtacg taggcactac cctagtcgaa tgaatctgag gcgggttctc tgtagacaaa
+       61 gccacactaa cccgattctt cgccttccac ttcatcctac ctttcgtagt agcagcccta
+      121 gcaggagtac atctactatt cctgcatgaa acaggatcca acaatccatc tggaatctca
+      181 tcagactcag acaaaatccc attccaccca tactacacta tcaaggacat tttaggagtc
+      241 ctactaataa tattaacact atcaatacta gttttattct caccagacat actaggagac
+      301 ccagacaatt acaccccagc taacccatta aacacacccc cacacatcaa gccagaatga
+      361 tatttcctat tcgcctacgc catcttacgt tcaattccaa ataaattagg aggagtttta
+      421 gcactagttt tatctattct aatcctaata atcgttcccc tactacacac ctccaaacaa
+      481 cgaagcatga tattccgacc actaagccaa tgtatattct gaattctagt agcagatcta
+      541 ttcacattaa catgaattgg aggccaacca gtagaacacc catttgtctt aatcggacaa
+      601 gtagcctcaa tcctatactt taccctcatt ctattgatta tgccaatcac aagtttaatt
+      661 gaaaataact tactaaaatg a
+//
+

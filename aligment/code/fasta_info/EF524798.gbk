@@ -1,0 +1,52 @@
+LOCUS       EF524798                 962 bp    DNA     linear   MAM 13-SEP-2008
+DEFINITION  Diplomesodon pulchellum voucher IZEA3235 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EF524798
+VERSION     EF524798.1
+KEYWORDS    .
+SOURCE      mitochondrion Diplomesodon pulchellum (Piebald shrew)
+  ORGANISM  Diplomesodon pulchellum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Diplomesodon.
+REFERENCE   1  (bases 1 to 962)
+  AUTHORS   Dubey,S., Salamin,N., Ruedi,M., Barriere,P., Colyn,M. and Vogel,P.
+  TITLE     Biogeographic origin and radiation of the Old World crocidurine
+            shrews (Mammalia: Soricidae) inferred from mitochondrial and
+            nuclear genes
+  JOURNAL   Mol. Phylogenet. Evol. 48 (3), 953-963 (2008)
+   PUBMED   18657625
+REFERENCE   2  (bases 1 to 962)
+  AUTHORS   Dubey,S., Salamin,N., Ruedi,M., Barriere,P. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2007) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..962
+                     /organism="Diplomesodon pulchellum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="IZEA3235"
+                     /db_xref="taxon:458329"
+     rRNA            <1..>962
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aaattttaat gtaaacttaa acattactct gtaggggtac agctctacag aataaggcta
+       61 caaccttaat tagtgagtaa atttattaaa taatcatagt aggcctaaaa gcagccacca
+      121 attaagaaag cgttcaagct caacaaacaa atccatatac aatttttaaa attatataag
+      181 ctcctaattt aaccactgga ttattctact acctgtagaa gaaatactgt taatatgagt
+      241 aacaagattt tacatctcca aacacgcgtg tacatcagcc caaatactaa ctgatggtta
+      301 acaaatagat aaatatatcc acacttaatt aataattttc taccacattg ttaacccaac
+      361 accggagtgt gcataaggaa agattaaaaa aagtaaaagg aactcggcaa acaaaaaccc
+      421 cgcctgttta ccaaaaacat cacctctagc attactagta ttagaggcac tgcctgccca
+      481 gtgacactag tttaacggcc gcggtatcct gaccgtgcaa aggtagcata atcatttgtt
+      541 ccttaattag ggacctgtat gaatggcccc acgagggttt aactgtctct tacttttaat
+      601 cagtgaaatt gaccttcccg tgaagaggcg ggaatattat aataagacga gaagacccta
+      661 tggagcttaa attgatgtgt ccaacaaaat tcaaacccga cccaacagga ataataatat
+      721 tttaactgga caataaattt tggttggggt gacctcggag catagcaaaa cctccaagca
+      781 attcaaacta agacttacct gtcaaaataa tataattatt tgatccaatc tcattgatca
+      841 acgaaacagg ttaccctagg gataacagcg caatcctatt taagagtcca tatcgacaat
+      901 agggttacga cctcgtgttg gatcaggaca cccaatggtg cagccgctat taaaggttcg
+      961 tt
+//
+

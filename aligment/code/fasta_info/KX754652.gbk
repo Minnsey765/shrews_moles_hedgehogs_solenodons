@@ -1,0 +1,63 @@
+LOCUS       KX754652                 519 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scalopus aquaticus isolate HPW622 brain-derived neurotrophic factor
+            (BDNF) gene, partial cds.
+ACCESSION   KX754652
+VERSION     KX754652.1
+KEYWORDS    .
+SOURCE      Scalopus aquaticus (eastern mole)
+  ORGANISM  Scalopus aquaticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Scalopus aquaticus"
+                     /mol_type="genomic DNA"
+                     /isolate="HPW622"
+                     /db_xref="taxon:71119"
+                     /geo_loc_name="USA: Illinois, Rock Island County"
+                     /note="Scalaq_2"
+     gene            <1..>519
+                     /gene="BDNF"
+     mRNA            <1..>519
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>519
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="APD33115.1"
+                     /translation="ASVRGPGSLAYPGVRTHGTLESANGPKAGSRGLTLADTFEHVIE
+                     ELLDDDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRV
+                     RRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFYET
+                     KCNPMGYTKEGCR"
+ORIGIN      
+        1 gccagtgtcc gaggaccagg cagcttggcc tacccaggtg tgcggaccca tgggactctg
+       61 gagagcgcga atgggcccaa ggcaggttca agaggcctga cgttggctga cacttttgaa
+      121 cacgtgatag aagagctcct ggatgatgac cagaaagtgc ggccccatga agagaacaat
+      181 aaggacgcgg acttgtacac ctccagggtg atgctcagta gtcaagtgcc tttggagcct
+      241 cctctcctct ttctgctcga ggaatacaaa aattacctgg atgctgcgaa catgtctatg
+      301 agggtccggc gccactccga cccagcgcgc cgcggggagc tgagcgtgtg cgacagcatt
+      361 agcgagtggg tgacggcggc ggataaaaag actgcagtgg acatgtcggg cggaacggtg
+      421 acggtccttg aaaaagtccc tgtatcgaaa ggccaactga agcagtactt ctacgagacc
+      481 aagtgcaatc ccatgggcta cacaaaggag ggctgccgg
+//
+

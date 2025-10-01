@@ -1,0 +1,52 @@
+LOCUS       AY011926                 444 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Erinaceus concolor recombination activating protein 2 (RAG2) gene,
+            partial cds.
+ACCESSION   AY011926
+VERSION     AY011926.1
+KEYWORDS    .
+SOURCE      Erinaceus concolor (southern white-breasted hedgehog)
+  ORGANISM  Erinaceus concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Erinaceus.
+REFERENCE   1  (bases 1 to 444)
+  AUTHORS   Murphy,W.J., Eizirik,E., Johnson,W.E., Zhang,Y.P., Ryder,O.A. and
+            O'Brien,S.J.
+  TITLE     Molecular phylogenetics and the origins of placental mammals
+  JOURNAL   Nature 409 (6820), 614-618 (2001)
+   PUBMED   11214319
+REFERENCE   2  (bases 1 to 444)
+  AUTHORS   Murphy,W.J., Eizirik,E., Johnson,W.E., Ryder,O.A. and O'Brien,S.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2000) Laboratory of Genomic Diversity, National
+            Cancer Institute-FCRDC, P.O. Box B, Bldg. 560, Rm. 11-10,
+            Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..444
+                     /organism="Erinaceus concolor"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:37316"
+     gene            <1..>444
+                     /gene="RAG2"
+     mRNA            <1..>444
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>444
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="AAG38669.1"
+                     /translation="KIYVMSVVGRNNKKVTFRCTEKELVGDVPEARYGHSIDVVYSRG
+                     KSMGVLFGGRSYMPSAQRITEKWNSVADCLPHIFLVDFEFGCSTTYILPEIQDGLSFH
+                     VSIARNDTVYILGGHSIANNIRPANLYKIRVDLPLGTPAVNCTVLP"
+ORIGIN      
+        1 aagatatatg ttatgtctgt tgttggcaga aataacaaga aagttacttt tcgctgtaca
+       61 gagaaagagt tggtaggaga tgttcctgaa gctagatatg gtcattccat tgatgtggtg
+      121 tatagtcgag ggaaaagtat gggtgttctc tttggaggac ggtcatacat gccttctgct
+      181 caaagaatca cagaaaaatg gaacagtgta gctgactgcc tgccccatat tttcttggtg
+      241 gattttgaat ttgggtgttc aacaacatac attcttccag aaattcagga tggactatct
+      301 tttcatgtct caattgccag aaatgataca gtttatattt taggaggaca ttcaattgcc
+      361 aataacatcc gccctgctaa cctgtacaaa ataagggtgg atctcccttt ggggacccca
+      421 gctgtcaatt gcactgtctt gcct
+//
+

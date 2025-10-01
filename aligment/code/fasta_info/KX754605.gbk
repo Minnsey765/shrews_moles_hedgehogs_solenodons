@@ -1,0 +1,67 @@
+LOCUS       KX754605                 693 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scapanulus oweni isolate Soweni_4 recombination activating protein
+            2 (RAG2) gene, partial cds.
+ACCESSION   KX754605
+VERSION     KX754605.1
+KEYWORDS    .
+SOURCE      Scapanulus oweni (Gansu mole)
+  ORGANISM  Scapanulus oweni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanulus.
+REFERENCE   1  (bases 1 to 693)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 693)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="Scapanulus oweni"
+                     /mol_type="genomic DNA"
+                     /isolate="Soweni_4"
+                     /specimen_voucher="KIZ:110501"
+                     /db_xref="taxon:1300117"
+                     /geo_loc_name="China: Shaanxi"
+     gene            <1..>693
+                     /gene="RAG2"
+     mRNA            <1..>693
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>693
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="APD33068.1"
+                     /translation="ESGKHQYIIHGGKTPNNELSDKIYVMSVVSKSNKKVTFRCTEKE
+                     LVGDVPEARYGHSIDVVYSRGKSIGVLFGGRSYMPSAQRTTEKWNSVADCLPHVFLVD
+                     FEFGCSTSYILPELQDGLSFHVSIARNDTIYILGGHSLANNIRPANLYRIKVDLPLGS
+                     PAVSCTVLPGGISVSSAILTQTNNNEFVIVGGYQLENQKRMICNIVSLEDNKIDIREM
+                     ETPDWTPDIKHSK"
+ORIGIN      
+        1 gagtctggaa aacatcaata catcatccat ggaggaaaaa caccaaacaa tgagctttca
+       61 gataagatct atgtcatgtc tgttgtttcc aagagcaata aaaaagttac ttttcgttgc
+      121 acagagaaag agttggtagg agatgttcct gaagccagat acggtcattc cattgatgtg
+      181 gtatatagtc gaggaaaaag tattggtgtt ctctttggcg gccggtcata catgccttct
+      241 gcccagagaa ccacagaaaa atggaatagt gtagctgact gcttgcccca tgttttctta
+      301 gtggattttg aatttggatg ctctacatcc tacattcttc ctgaacttca agatggtctc
+      361 tcttttcatg tttccattgc cagaaatgat accatttata ttctaggagg acattctctt
+      421 gccaataaca ttcgccctgc taacctatat agaataaagg ttgatctccc cttgggtagc
+      481 ccagctgtga gttgcacagt cttaccagga ggaatctctg tctccagtgc aatcctgact
+      541 caaacaaata ataatgaatt tgttattgtt ggtggttatc agcttgaaaa tcaaaaaaga
+      601 atgatatgta acattgtctc tttagaagac aacaagatag atattcgtga gatggagact
+      661 ccagactgga ccccagatat taagcacagc aag
+//
+

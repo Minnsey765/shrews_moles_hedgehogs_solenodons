@@ -1,0 +1,65 @@
+LOCUS       OM363682                1140 bp    DNA     linear   MAM 06-DEC-2022
+DEFINITION  Anourosorex yamashinai isolate ASIZFZ001963 cytochrome b (cytb)
+            gene, complete cds; mitochondrial.
+ACCESSION   OM363682
+VERSION     OM363682.1
+KEYWORDS    .
+SOURCE      mitochondrion Anourosorex yamashinai
+  ORGANISM  Anourosorex yamashinai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Chen,Y., Tsai,L.C., Hsieh,H.M., Lee,J.C.-I. and Huang,S.-P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JAN-2022) Department of Forensic Science, Central
+            Police University, No. 56, Shuren Rd., Guishan Dist., Taoyuan City
+            333322, Taiwan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Anourosorex yamashinai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ASIZFZ001963"
+                     /db_xref="taxon:268756"
+                     /geo_loc_name="Taiwan: Taipei"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WAB00017.1"
+                     /translation="MTNIRKTHPLMKIINNSFIDLPTPSNISSWWNFGSLLGICLIIQ
+                     ILTGLFLAMHYTSDTLTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYLFLETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDL
+                     VQWIWGGFSVDKATLTRFFAFHFILPFIVAALAGVHLLFLHETGSNNPSGLSSDADKI
+                     PFHPYYTIKDILGVLMLILILMMLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILVLAFIPLLHTSKQRSMMFRPLSQCLFWMLVADLIT
+                     LTWIGGQPVEHPFVIIGQLASILYFMLILILMPLVSLFENNLMKW"
+ORIGIN      
+        1 atgaccaata ttcgaaaaac ccacccactc atgaaaatca ttaataattc attcattgac
+       61 ttaccaacac catctaatat ttcatcatga tgaaactttg gatccctact aggaatttgc
+      121 ttaattatcc aaattcttac aggattattt ctagctatac attatacatc agacacatta
+      181 actgctttct catccgtaac acatatttgt cgagacgtaa attatggttg attaattcgt
+      241 tatttacatg caaacggagc atcaatattt ttcatctgct tatttttaca tgtaggacga
+      301 ggattatatt atggatcata tttatttcta gaaacatgaa acattggagt cctactctta
+      361 tttgcagtaa tagccaccgc ctttatagga tatgtacttc catgaggaca aatatccttc
+      421 tgaggcgcaa ctgtcattac aaacttacta tctgccatcc catatatcgg atccgactta
+      481 gtacaatgaa tttgaggcgg cttttcagta gataaagcaa ctctaacccg atttttcgct
+      541 ttccacttca ttctaccatt tatcgttgca gccctagcag gagtccatct tttatttctt
+      601 cacgaaactg gatcaaacaa tccatcagga ttatcatctg acgcagacaa aatccccttt
+      661 catccttact atactatcaa agacattcta ggagtcctta tattgatctt aatccttata
+      721 atactagtcc tgttctcccc agacctatta ggagaccccg ataattacac tccagctaac
+      781 ccattaaata caccccctca tatcaaacca gaatgatatt tcttatttgc atatgctatt
+      841 ctacgctcaa tcccaaacaa actaggagga gtactagccc tagtcctctc aatcttagtt
+      901 ctagccttta ttcccctact tcatacttcc aaacaacgaa gcataatatt tcgacccctc
+      961 agccaatgtt tattctgaat attagtagct gatctaatta cccttacatg aattggaggc
+     1021 caacccgtcg aacacccatt tgttattatt ggtcaattag catcaatcct atattttata
+     1081 ttaatcctta ttcttatacc tctagttagc ctcttcgaaa ataatctcat aaaatgataa
+//
+

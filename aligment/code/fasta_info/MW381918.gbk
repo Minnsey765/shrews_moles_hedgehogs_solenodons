@@ -1,0 +1,61 @@
+LOCUS       MW381918                 560 bp    DNA     linear   MAM 17-MAY-2021
+DEFINITION  Crocidura russula isolate Spain1 apolipoprotein B (ApoB) gene,
+            partial cds.
+ACCESSION   MW381918
+VERSION     MW381918.1
+KEYWORDS    .
+SOURCE      Crocidura russula (white-toothed shrew)
+  ORGANISM  Crocidura russula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 560)
+  AUTHORS   Bannikova,A., Zemlemerova,E., Lebedev,V. and Lavrenchenko,L.
+  TITLE     The close relation of the two contrast endemic groups of Crocidura
+            from Ethiopia and Tanzania: evidence from mitochondrial and nuclear
+            data
+  JOURNAL   Mamm Biol (2021) In press
+REFERENCE   2  (bases 1 to 560)
+  AUTHORS   Bannikova,A., Zemlemerova,E., Lebedev,V. and Lavrenchenko,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2020) Laboratory for microevolution of mammals,
+            A.N. Severtsov Institute of Ecology and Evolution, Russian Academy
+            of Sciences, 33 Leninsky prospect, Moscow 119071, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Crocidura russula"
+                     /mol_type="genomic DNA"
+                     /isolate="Spain1"
+                     /specimen_voucher="ZMMU S-197237"
+                     /db_xref="taxon:36802"
+                     /geo_loc_name="Spain: Andalusia, Sierra Nevada"
+     gene            <1..>560
+                     /gene="ApoB"
+     mRNA            <1..>560
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>560
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="QVE48272.1"
+                     /translation="NAQYKKNKAKHPIPLPLDMLYLFNNHNINSFLRKVDNVRDKALV
+                     YVTESYNEARIKLHDYNVENSLTKQQRTFQIPGYTIPVVNIETSPFTVEMLPFGYVIP
+                     KVISTPNFTILDSVFLVPSYTLALPFLELPPLQVPKYSLELSLPEFEVLSMPRNIFIP
+                     ALGNITYDFSFKSSVIALSANAGLYN"
+ORIGIN      
+        1 taaatgctca gtataagaaa aacaaagcca agcatcccat cccacttcct ttggatatgc
+       61 tttatttatt caataatcat aatatcaatt cctttctcag aaaagttgat aacgtcagag
+      121 acaaggcatt agtttatgtt actgaatcct ataatgaagc aagaattaag ttacatgatt
+      181 ataatgttga aaattctcta acgaaacaac aaaggacttt tcaaattcca ggatatacca
+      241 tcccagttgt caatattgaa acatctccgt tcacagtaga gatgcttcca tttggctatg
+      301 tgatcccaaa agtgatcagc acccccaact ttaccatcct ggattctgtc ttcttagtgc
+      361 cctcatatac tttagctttg ccatttctag aactgccacc ccttcaagtc cctaagtatt
+      421 cccttgagct ttctcttcca gaatttgaag tattgagcat gccaaggaat attttcattc
+      481 cagctctggg aaatattaca tatgactttt cttttaaatc aagtgtcatc gcactaagtg
+      541 ccaatgctgg actttataac
+//
+

@@ -1,0 +1,66 @@
+LOCUS       AF392888                 901 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Suncus murinus growth hormone receptor (GHR) gene, exon 10 and
+            partial cds.
+ACCESSION   AF392888
+VERSION     AF392888.1
+KEYWORDS    .
+SOURCE      Suncus murinus (house shrew)
+  ORGANISM  Suncus murinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 901)
+  AUTHORS   Malia,M.J., Adkins,R.M. and Allard,M.W.
+  TITLE     Molecular support for Afrotheria and the polyphyly of Lipotyphla
+            based on analyses of the growth hormone receptor gene
+  JOURNAL   Mol. Phylogenet. Evol. 24 (1), 91-101 (2002)
+   PUBMED   12128031
+REFERENCE   2  (bases 1 to 901)
+  AUTHORS   Malia,M.J. Jr., Adkins,R.M. and Allard,M.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUN-2001) Department of Biological Sciences, The
+            George Washington University, 2023 G Street NW, Washington, D C
+            20052, USA
+FEATURES             Location/Qualifiers
+     source          1..901
+                     /organism="Suncus murinus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9378"
+     gene            <1..>901
+                     /gene="GHR"
+     mRNA            <1..>901
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>901
+                     /gene="GHR"
+                     /codon_start=2
+                     /product="growth hormone receptor"
+                     /protein_id="AAM71155.1"
+                     /translation="AIHDNYKPEFYNDDSWVEFIELDIDDPDEKAEGSDTDRLLNHDC
+                     EKTLNILGAKDDDSGRTSCYEPDILETDFHASDTCDGTSELEQPQRLKEEAVLLCLEK
+                     KQNHSLSDDTLSSIPQPSVTLAQESKSRPLVMGGTESTHPTIHTQLSNPSSLANIDFY
+                     AQVSDITPAGSVVLSPGQKMKAGMVHFDIHPEVVSFSQSNFIMDNAYFCEADAKKCIT
+                     AGPHLEVQSRAEPSFNQEDIYITTESLTTTAGRLGTAEPALSSELPVPDYTSIHLVQS
+                     PQGLVLNATSLPLPDKEFLSSCGY"
+     exon            <1..>901
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 agccattcat gacaactata agcctgaatt ctataatgat gactcttggg ttgaattcat
+       61 tgaactagat atcgatgacc ctgatgagaa ggctgaagga tcagatacag atagacttct
+      121 aaaccatgac tgtgagaaaa cacttaatat tttgggggca aaagatgatg actctggacg
+      181 taccagctgt tatgaacctg acattctgga gactgatttc catgctagtg acacatgtga
+      241 tggtacctca gagcttgagc agccacaaag gttaaaagaa gaagcagttc tcttgtgcct
+      301 tgagaagaaa caaaatcact cactctctga tgatactctc tcttctattc cacaacccag
+      361 tgtaacctta gcacaggaaa gtaaatcaag accacttgtt atgggtggaa ctgaatcaac
+      421 tcatccaact attcacactc agctaagcaa tccaagttca ctggcaaata tcgactttta
+      481 tgcccaggta agcgacatta caccagcagg gagtgtggtc ctttccccgg gccaaaagat
+      541 gaaggcaggg atggtccact ttgacattca tccagaagtg gtttcattct cccaatcaaa
+      601 cttcattatg gacaatgcct acttctgtga ggctgatgcc aaaaagtgta tcacagcagg
+      661 ccctcaccta gaggtccaat cacgtgcaga gccaagcttt aaccaggaag acatttatat
+      721 caccacagaa agccttacca ctactgctgg gagacttggg acagcagaac ctgctttgag
+      781 ttctgagctg cctgtcccag actacacctc cattcatcta gtacagtctc cacagggcct
+      841 cgtcttgaat gcgacttcct tgcctttgcc tgacaaagag tttctctcat cgtgtggcta
+      901 t
+//
+

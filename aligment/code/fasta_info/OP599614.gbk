@@ -1,0 +1,60 @@
+LOCUS       OP599614                 561 bp    DNA     linear   MAM 12-JUN-2023
+DEFINITION  Diplomesodon sp. isolate Dipl_08_1 apolipoprotein b (ApoB) gene,
+            partial cds.
+ACCESSION   OP599614
+VERSION     OP599614.1
+KEYWORDS    .
+SOURCE      Diplomesodon sp.
+  ORGANISM  Diplomesodon sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Diplomesodon.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Abramov,A.V.,
+            Sheftel,B.I., Krystufek,B. and Lebedev,V.S.
+  TITLE     The first phylogenetic data on the elusive shrews of the Crocidura
+            pergrisea species complex
+  JOURNAL   Hystrix (2023) In press
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Zachos,F. and
+            Lebedev,V.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2022) Zoological museum, Lomonosov MSU, Bolshaya
+            Nikitskaya, 2, Moscow 125009, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Diplomesodon sp."
+                     /mol_type="genomic DNA"
+                     /isolate="Dipl_08_1"
+                     /db_xref="taxon:3051455"
+                     /geo_loc_name="Russia: Astrakhan region, Dosang"
+     gene            <1..>561
+                     /gene="ApoB"
+     mRNA            <1..>561
+                     /gene="ApoB"
+                     /product="apolipoprotein b"
+     CDS             <1..>561
+                     /gene="ApoB"
+                     /codon_start=1
+                     /product="apolipoprotein b"
+                     /protein_id="WIL96133.1"
+                     /translation="VNAQYKKNKDKHHIPLPLDTLYLFFNHNINSFLRQVDHVRDKAL
+                     VFVTESYNEARIKLHDYNVENSLTKQQRTFQIPGYTIPVINIETSPFTVEMLXFGYVI
+                     PKAISTPNFTILGSGFFVPSYTLALPFLELPALQVPKYSLELSLPEFEVLSMPRNIFI
+                     PALGNITYDFSFKSSVIALSANAGLYN"
+ORIGIN      
+        1 gtaaatgctc agtataagaa aaacaaagac aagcatcaca tcccacttcc tttggatacg
+       61 ctttatttat tctttaatca taatattaat tcctttctca gacaagttga tcatgtcaga
+      121 gacaaggcat tagtttttgt tactgaatcc tataatgaag caagaattaa gttacatgat
+      181 tataatgttg aaaattctct aacgaaacaa caaaggactt ttcaaattcc aggatatacc
+      241 atcccagtca tcaatattga aacatctccg ttcacagtag agatgcttmy atttggctat
+      301 gtgatcccaa aagcgatcag cacccccaac tttaccatcc tgggttctgg cttctttgtg
+      361 ccctcatata ctttagcttt gccatttcta gaactaccag cccttcaagt ccctaagtat
+      421 tcccttgagc tttctcttcc agaatttgaa gtattgagta tgccaaggaa tattttcatt
+      481 ccagctctgg gaaatattac atatgacttt tcttttaaat caagtgtcat cgcactaagt
+      541 gccaatgctg gactttataa c
+//
+

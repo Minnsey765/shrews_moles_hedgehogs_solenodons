@@ -1,0 +1,63 @@
+LOCUS       KX754662                 519 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scaptonyx fusicauda isolate Scxfus_4 brain-derived neurotrophic
+            factor (BDNF) gene, partial cds.
+ACCESSION   KX754662
+VERSION     KX754662.1
+KEYWORDS    .
+SOURCE      Scaptonyx fusicauda (long-tailed mole)
+  ORGANISM  Scaptonyx fusicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scaptonyx.
+REFERENCE   1  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Scaptonyx fusicauda"
+                     /mol_type="genomic DNA"
+                     /isolate="Scxfus_4"
+                     /specimen_voucher="KIZ:98168"
+                     /db_xref="taxon:3370766"
+                     /geo_loc_name="China: Yunnan"
+     gene            <1..>519
+                     /gene="BDNF"
+     mRNA            <1..>519
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>519
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="APD33125.1"
+                     /translation="ASVRGPGSLAYPGVRTHGTLESVNGPKAGSRGLTLADTFEHVIE
+                     ELLDEDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRV
+                     RRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFYET
+                     KCNPMGYTKEGCR"
+ORIGIN      
+        1 gccagtgttc gaggaccagg cagcttggcc tacccaggtg tgcggaccca tgggactctg
+       61 gagagcgtga atgggcccaa ggccggctca agaggcctga cgttggctga cacttttgaa
+      121 caygtgatag aagagctcct ggatgaggac cagaaagtcc ggccccatga agagaacaat
+      181 aaggacgcgg acttgtacac ctcccgggtc atgctcagta gtcaagtgcc tttggagccc
+      241 cctctcctct ttctgctcga ggaatacaaa aattacctgg atgctgcaaa catgtcgatg
+      301 agggtccggc gccactccga ccccgcccgc cgcggggagc tgagcgtgtg tgacagcatc
+      361 agcgagtggg tgacggcggc ggataaaaag actgcagtgg acatgtcggg cgggacggtg
+      421 acggtcctgg aaaaggtccc tgtatcgaaa ggccaactga agcagtactt ctacgagacc
+      481 aagtgcaatc ccatgggcta caccaaggag ggctgcagg
+//
+

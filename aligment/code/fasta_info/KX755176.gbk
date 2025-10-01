@@ -1,0 +1,71 @@
+LOCUS       KX755176                 861 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scaptochirus moschatus isolate Scmosc_1 apolipoprotein B (APOB)
+            gene, partial cds.
+ACCESSION   KX755176
+VERSION     KX755176.1
+KEYWORDS    .
+SOURCE      Scaptochirus moschatus (short-faced mole)
+  ORGANISM  Scaptochirus moschatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scaptochirus.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Scaptochirus moschatus"
+                     /mol_type="genomic DNA"
+                     /isolate="Scmosc_1"
+                     /specimen_voucher="KIZ:SD111101"
+                     /db_xref="taxon:446353"
+                     /geo_loc_name="China: Shandong"
+     gene            <1..>861
+                     /gene="APOB"
+     mRNA            <1..>861
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>861
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33581.1"
+                     /translation="EKTGLKEFLRTTKQSFDLSIKTQYKKNKDKHSIPIPLDVFYVFM
+                     NXNINSFIRQFEKGRHQALVSFTNAYNEAKLKFDKYKVEKSLNNQPRIFQIPGYTIPL
+                     FNIEASPSTVKMLPFGYVIPEEISTPSFTIWGSDFYVPSYTLVLPSLELPALPVPTSP
+                     LEFSLPEFEILSTPRNILIPALGNITYDFSFKSSVITLNTNAELYNQSDIVVHFLSSS
+                     SSVMDALQYKLEGTSSLTRKRGLKLATALSLSNEFVGGSHNSTISLTKKNMEASVTTI
+                     AKVQISILNMN"
+ORIGIN      
+        1 gaaaaaacgg gcttgaagga atttttgaga acaacaaagc agtcatttga tttaagtata
+       61 aagactcagt ataagaaaaa caaagacaag cattccatcc caattccttt ggatgtgttt
+      121 tatgtgttta tgaatcrtaa catcaattct ttcatcaggc aatttgaaaa aggcagacat
+      181 caggctttag tttcttttac taatgcctat aatgaagcaa aactcaagtt tgataagtac
+      241 aaggttgaaa agtccctcaa caaccaaccc aggatctttc aaattcctgg atacactatt
+      301 ccactcttca acattgaagc ttctccatca acagtaaaga tgttaccatt tggctaygtg
+      361 atcccagaag agataagcac ccccagtttc accatctggg gttctgactt ctatgtgccc
+      421 tcctayacat tagtcctgcc gtccctagag ctgccagccc ttcctgtccc tacaagccct
+      481 ctcgagtttt ctcttccaga attcgagata ttgagtaccc caaggaacat cttaattcct
+      541 gccctgggca atattaccta tgatttttcc tttaaatcaa gtgtcatcac gctgaatacc
+      601 aatgctgaac tatataacca atcagacatt gttgttcatt tccttagttc ctcttcttct
+      661 gtcatggatg ctctgcagta caagctagag ggtacctcca gtttgacgag gaaaagaggg
+      721 ctgaagttag ccacagcctt gtctctgagc aatgaattcg tgggaggcag tcataacagt
+      781 accattagct taacaaaaaa aaacatggaa gcatcagtga caacaatcgc aaaagttcaa
+      841 atttcaattt tgaatatgaa t
+//
+

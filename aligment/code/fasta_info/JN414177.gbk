@@ -1,0 +1,113 @@
+LOCUS       JN414177                2838 bp    DNA     linear   MAM 08-AUG-2012
+DEFINITION  Podogymnura truei breast and ovarian cancer susceptibility 1
+            (BRCA1) gene, exon 11 and partial cds.
+ACCESSION   JN414177
+VERSION     JN414177.1
+KEYWORDS    .
+SOURCE      Podogymnura truei (Mindanao gymnure)
+  ORGANISM  Podogymnura truei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Podogymnura.
+REFERENCE   1  (bases 1 to 2838)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 2838)
+  AUTHORS   Meredith,R.W., Gatesy,J. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUL-2011) Department of Biology, University of
+            California, Riverside, 1354 Spieth Hall, Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..2838
+                     /organism="Podogymnura truei"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:48905"
+     gene            <1..>2838
+                     /gene="BRCA1"
+     mRNA            <1..>2838
+                     /gene="BRCA1"
+                     /product="breast and ovarian cancer susceptibility 1"
+     CDS             <1..>2838
+                     /gene="BRCA1"
+                     /note="similar to Homo sapiens BRCA1"
+                     /codon_start=1
+                     /product="breast and ovarian cancer susceptibility 1"
+                     /protein_id="AEP18204.1"
+                     /translation="MHQAASVSNLQVDLCGTKPHASSLQCESSRLLLTEDTANVEKAE
+                     LCSKSKQPGLARSQQSKWAESKESCHERQTPSPEKEVGLRADSLCERRELSEQKTPGS
+                     SSPQCSQDVSWVALNSSIQKVHEWFSRSDEVLTSGDSSDGGSESNTEVTGAEVANAVG
+                     GFLSSPEKVDAVASGPLSALMHESGGVYPKPVESNIEDKIFGKTYRRKTTLLNLSHVA
+                     KGVTRRASAPERLVAKEPLLATKLKRRRSTNIGLCPEDFIKKADVAVVQSTPEKITEG
+                     PDQVESKGQGMHITASGHKTETKGDCAQKEKSDNPTESREKESAFTNKPEPISSSISN
+                     MELELNIHNSKALKKNRLRKKSSARHIPALVVVSKNSSPPSHTELQIESCSSNEETIG
+                     KKSDKMPATHSKKLPLTEDELTMGAIKSSKSNEQISKRYIGDTFSDLNLTDITGFSTS
+                     CSSTSKHQEFVHPSLQREEVEGNLGTLQVSNNTKDPNGLIASGRRGLHVERTVENNTP
+                     FLVADTDCGSQDSVSLLQADTSGKTKNTANQWVSLSVTSEATKELSHSCSEDTRNDTE
+                     GFKDPLKSEVDHTQETSLEMEESELDTQYLQNTFKVSKRRSFALFSNPGNSEKECMTV
+                     SAHSSSLRKESPKVILGCEPEEENQGEKESEIKHLQSEHRSAGSPVVCQKDAPGDYAK
+                     CNIKGVSKPCQTPQFKGSEPELIVANKNLILQNPYHITTLSLMPSVTCKNSLSEGNPL
+                     SPERVVGSGSMIQSIVSTNSQTSSSENALKDGSSISANDMGSGTNEVGSSSENIQAQL
+                     SKNRTSRLNAILRSSLMQPEVFGQSLPVSTSCRHPEMKRQGKSEGGVETADAGSAPGL
+                     TSGHSEQPTETSRASQLCSETPDGLANDEEMKENTSFAESGINEQSAVFDKNTEKDFR
+                     RSPSPLILRSLTQGHHRKARKLDSSEDSASSE"
+     exon            <1..>2838
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 atgcatcagg ctgcttctgt ttcaaacctg caggtggacc tgtgtggcac aaagcctcat
+       61 gccagctcat tacagtgtga gagcagcaga ttattactca ctgaagacac agcgaatgta
+      121 gaaaaggctg agttgtgtag taaaagcaag cagcctggct tagcaaggag ccagcagagc
+      181 aaatgggctg aaagtaagga aagctgtcac gagaggcaga cgccaagccc agagaaagaa
+      241 gtgggtctgc gcgccgattc cctgtgtgag agaagagagc tcagtgagca gaaaactcca
+      301 ggctccagca gtcctcagtg ttcccaagat gtctcttggg tagcactgaa tagtagcata
+      361 cagaaagtgc atgagtggtt ttccagaagt gatgaagtgt tgacttctgg tgactcctct
+      421 gatgggggat ctgagtccaa tactgaagta actggagcag aagtcgcaaa tgcagtaggt
+      481 ggatttctta gttctccaga gaaagtagat gcagtcgcca gtggtcctct gagtgcctta
+      541 atgcatgaaa gtggaggagt ctaccccaaa ccagtggaga gtaatattga agataaaata
+      601 tttgggaaaa cctacaggag gaagacaacc cttcttaact tgagccatgt agctaaaggt
+      661 gtaactagaa gggcatctgc tccagaacgt ctggtggcaa aagagcctct cctagcaact
+      721 aaattaaaac gtagaaggag tactaacata ggcctttgtc ctgaggattt tatcaagaaa
+      781 gcagatgtgg cagttgttca aagcactcct gaaaagataa ctgagggacc tgaccaggtg
+      841 gaaagtaaag gccaaggaat gcatattact gctagtggcc ataagactga aacaaaaggt
+      901 gattgtgctc agaaagagaa aagtgataac ccaaccgaat cacgagaaaa agagtctgct
+      961 ttcacaaata aacctgaacc tataagcagc agtataagca atatggaact agaattaaac
+     1021 atccacaatt caaaagcact gaagaaaaat agactaagga aaaagtcttc agcaaggcat
+     1081 attcctgcac ttgtagtagt cagtaaaaat tcaagtccac ctagccatac agaactacaa
+     1141 attgagagtt gctctagcaa tgaagagaca ataggaaaaa agtctgataa aatgccagcc
+     1201 acgcacagca aaaagcttcc actcactgaa gacgaactta cgatgggagc catcaagagt
+     1261 agcaagtcca atgaacaaat aagtaaacga tatattggtg atactttttc agacctaaat
+     1321 ttaacagaca ttactggttt ttctactagc tgttcaagta ccagtaaaca tcaagagttt
+     1381 gttcatccta gccttcaaag agaagaagta gaaggaaatc ttgggactct tcaagtgtct
+     1441 aataatacca aagaccctaa tggtctgata gcaagtggaa ggagaggttt acacgttgaa
+     1501 agaactgtag agaataacac tcctttcctg gtagctgata ctgactgtgg cagtcaggat
+     1561 agtgtctcat tactgcaagc tgacacttca ggaaagacca aaaacacagc aaatcagtgg
+     1621 gtgagtctga gtgtaacatc tgaagccacc aaggaactta gccatagttg ttctgaagat
+     1681 actagaaatg acaccgaagg ctttaaggat ccactcaaga gtgaagttga tcacactcag
+     1741 gagacaagct tagaaatgga agagagtgaa cttgatacac agtatttaca gaataccttc
+     1801 aaggtttcaa aacgccggtc atttgctctg ttttcaaatc cagggaattc agaaaaggaa
+     1861 tgtatgacag tgtctgccca ttccagttct ctaaggaaag aaagtccaaa agttattctg
+     1921 ggctgtgaac cagaagaaga aaatcaggga gagaaagaat ctgaaatcaa acacttgcag
+     1981 tcagaacata ggagtgcagg ctctcctgta gtttgtcaga aagatgcgcc aggtgattat
+     2041 gccaaatgta acataaaagg agtctccaag ccttgtcaga cacctcagtt caaaggcagt
+     2101 gaacccgaac tcattgttgc aaataaaaat ttaattttac aaaacccgta tcacataacc
+     2161 acactctctc ttatgccgtc tgttacatgc aagaacagcc tgtctgaggg aaatccactg
+     2221 tcacctgaaa gagtagtggg gagtgggagc atgattcaaa gtatagtaag caccaatagc
+     2281 caaaccagta gtagtgaaaa tgccctgaaa gatggcagtt caatcagtgc taatgacatg
+     2341 ggctccggga ctaatgaagt agggtctagt agtgaaaata ttcaagctca actaagtaaa
+     2401 aacagaacat ccagattaaa tgctattctt aggtcaagtc ttatgcaacc tgaagtgttt
+     2461 gggcagagtc ttcctgtaag tacctcctgt aggcaccctg aaatgaaaag acaaggaaaa
+     2521 agtgaaggtg gtgttgagac tgctgacgca ggctctgccc caggcctgac ttcaggtcat
+     2581 tcagagcaac ctacggaaac tagtcgtgct tctcagcttt gttctgaaac accggatggc
+     2641 ctggcaaatg atgaagaaat gaaagaaaat acaagctttg ccgagagtgg cattaatgaa
+     2701 caatctgctg tttttgacaa gaatactgag aaagacttca gaaggagccc tagcccttta
+     2761 attcttagaa gtctgacaca gggtcaccac agaaaggcac ggaaattgga ctcttcagaa
+     2821 gatagcgcgt caagtgag
+//
+

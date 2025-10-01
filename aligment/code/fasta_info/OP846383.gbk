@@ -1,0 +1,64 @@
+LOCUS       OP846383                 681 bp    DNA     linear   MAM 20-FEB-2023
+DEFINITION  Myosorex kihaulei voucher FMNH:MAMM:205242 ATP synthase subunit 6
+            (ATP6) gene, complete cds; mitochondrial.
+ACCESSION   OP846383
+VERSION     OP846383.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,M.A., William Dee,J.,
+            Swanson,M.T., Hiller,A.E., Khan,F.A.A. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncusater Medway, 1965 (Soricidae, Crocidurinae), place it
+            in the genus Palawanosorex
+  JOURNAL   Zookeys 1137, 17-31 (2022)
+   PUBMED   36760481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 681)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2022) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:205242"
+                     /db_xref="taxon:307108"
+     gene            1..681
+                     /gene="ATP6"
+     CDS             1..681
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase subunit 6"
+                     /protein_id="WDD44867.1"
+                     /translation="MNENLFASFATPTMMGLPIVLLIILFPSMLFPSPNRLINNRLTA
+                     LQQWLIKITSKQMMTIHNQKGQTWTLMLMSLILFIGSTNLLGLLPHSFTPTTQLSMNL
+                     GMAIPLWAGAVITGFRYKTKASLAHFLPQGTPLPLIPMLIIIETISLFIQPMALAVRL
+                     TANITAGHLLIHLIGGATLVLMNINTTIALTTFIILMLLTVLEFAVALIQAYVFTLLV
+                     SLYLHDNT"
+ORIGIN      
+        1 atgaacgaaa atctatttgc ctctttcgct accccaacaa taataggact tcctattgtt
+       61 ttacttatta ttttatttcc cagcatgtta tttccttccc ctaaccgtct aattaataat
+      121 cgtttaactg ccctacaaca gtgacttatc aaaatcacct ctaaacaaat aataactatt
+      181 cacaaccaaa aaggccaaac atgaacacta atactaatat ctcttatttt attcatcggc
+      241 tctacaaacc ttttaggcct tctacctcac tcatttaccc ctactaccca actctcaata
+      301 aaccttggaa tagccatccc tctttgagca ggagctgtaa ttaccggatt ccgttataaa
+      361 acaaaagcgt cactggccca ttttctgcca caaggcactc cacttccact tattccaata
+      421 cttattatca tcgaaactat tagcctcttc atccaaccaa tagcattagc agtacgactc
+      481 acagccaata ttactgccgg tcatctacta atccacctaa ttggcggagc aacattagta
+      541 ttaataaata tcaatactac tattgccctt accacattca ttatcctaat actactaaca
+      601 gtattagaat tcgcagttgc actaattcaa gcctatgtat ttacactcct agtaagcctt
+      661 tacctgcatg ataacacata a
+//
+

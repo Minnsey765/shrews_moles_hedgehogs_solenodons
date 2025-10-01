@@ -1,0 +1,68 @@
+LOCUS       KX755054                 819 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Mogera wogura isolate Mogwog_4 growth hormone receptor (GHR) gene,
+            partial cds.
+ACCESSION   KX755054
+VERSION     KX755054.1
+KEYWORDS    .
+SOURCE      Mogera wogura (Japanese mole)
+  ORGANISM  Mogera wogura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Mogera.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Mogera wogura"
+                     /mol_type="genomic DNA"
+                     /isolate="Mogwog_4"
+                     /db_xref="taxon:62295"
+                     /geo_loc_name="Japan: Nagasaki"
+                     /note="SAS-64"
+     gene            <1..>819
+                     /gene="GHR"
+     mRNA            <1..>819
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>819
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33459.1"
+                     /translation="FIELDIDDPDEKTEGSDTDRLISNDHQKSLHILGAKDDDSGRTS
+                     CYEPDILETDFNVSDLCDSTSEVAQPQRLKGEADLLCLDQKNQNNSPSNDAPPSTQQP
+                     SVSPTQENKPRPLLIGGTESAPQVSHSQLSNLSSLANIDFYAQVSDITPAGSVVLSPG
+                     QKNKAGISQCDVHPEAVSRYQANFIMDNAYFCEADAKKCITLAPHLETETRGEPSFNQ
+                     EDIYITTESLTTTNGRSGTAERAPGSEMPVPDYTSIHIVQSPQGLVLNATALPLP"
+ORIGIN      
+        1 ttcattgagc tagatattga tgatcctgat gaaaagacag aaggatcaga cacagacaga
+       61 cttataagca atgaccacca gaaatcactt catatccttg gggcaaagga tgatgactct
+      121 gggcgtacca gctgctatga acctgacatt ctggagactg atttcaatgt gagtgacctg
+      181 tgtgatagta cctcagaggt ggctcagcca caaaggttaa aaggggaagc agatctcttg
+      241 tgccttgacc agaagaatca aaataactca ccttctaatg atgctccccc ctctactcag
+      301 cagcccagtg ttagcccaac acaggaaaat aaaccaagac cacttctcat tggtggaact
+      361 gagtccgctc ctcaagtttc ccatagtcag ctaagcaatc tgagttcact ggcaaacatc
+      421 gacttttacg cccaggtaag cgacattaca ccagcaggga gtgtggtcct gtccccgggc
+      481 caaaagaata aggcagggat ctcccagtgc gatgtscatc cagaagcagt ctcacgctac
+      541 caagcaaact tcatcatgga caacgcctac ttctgtgagg cagatgccaa aaagtgcatc
+      601 accctggccc ctcacctgga gactgaaaca cggggagagc caagctttaa ccaggaagac
+      661 atttatatca ccacagaaag ccttaccact actaatggca ggtctgggac agcagaacgt
+      721 gctccgggtt ctgaaatgcc tgtcccrgac tacacctcca ttcacatagt acagtctcct
+      781 caaggtcttg tcctcaacgc aaccgccttg cccttgcct
+//
+

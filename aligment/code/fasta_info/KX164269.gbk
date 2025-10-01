@@ -1,0 +1,69 @@
+LOCUS       KX164269                1140 bp    DNA     linear   MAM 15-FEB-2017
+DEFINITION  Euroscaptor subanura voucher AVA 14-117 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   KX164269
+VERSION     KX164269.1
+KEYWORDS    .
+SOURCE      mitochondrion Euroscaptor subanura
+  ORGANISM  Euroscaptor subanura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Euroscaptor.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Zemlemerova,E., Bannikova,A., Lebedev,V., Rozhnov,V. and Abramov,A.
+  TITLE     Secrets of the underground Vietnam: an underestimated species
+            diversity of Asian moles (Lipotyphla: Talpidae: Euroscaptor)
+  JOURNAL   Tr Zool Inst 320 (2), 193-220 (2016)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Zemlemerova,E., Bannikova,A., Lebedev,V., Rozhnov,V. and Abramov,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2016) Lomonosov Moscow State University,
+            Vorobievy Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Euroscaptor subanura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AVA 14-117"
+                     /db_xref="taxon:1581555"
+                     /geo_loc_name="Viet Nam"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AQM57833.1"
+                     /translation="MTNIRKTHPLMKIINNSFIDLPAPSNISSWWNFGSLLGVCLVLQ
+                     ILTGLFLAXHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFMHVGRGV
+                     YYGSYMFMETWNIGVVLLFTVMATAFMGYVLPXGQMSFWGATVITNLLSAIPYIGTDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALAGVHLLFLHETGSNNPSGLSSDTDKI
+                     PFHPYYTIKDILGVLMLILVLSLLVLFSPDLLGDPDNYIPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVFSILILALMPLLHTSKQRSMMFRPISQCLFWLLVADLLT
+                     LTWIGGQPVEYPFIIIGQLASILYFMLILVLMPLASLMENSLLKW"
+ORIGIN      
+        1 atgacaaaca ttcgaaaaac acacccacta ataaaaatta ttaataattc atttattgat
+       61 ctaccagcac catcaaatat ctcatcatga tgaaacttcg gatcattact aggtgtctgc
+      121 ctagtcttac aaattcttac aggactattc ctagcnntac actatacctc agatacaatg
+      181 acagccttct catccgtaac tcatatttgt cgagatgtca attacggctg gcttattcga
+      241 tacttacatg caaatggagc atcaatattc tttatttgct tatttatgca tgtaggacga
+      301 ggggtatact atggatcata tatatttata gaaacatgaa acattggagt tgttctactt
+      361 tttaccgtaa tagccaccgc attcataggg tatgttctac cayggggtca aatatccttt
+      421 tgaggagcta cagtaattac aaatttactg tcggccattc catatatcgg aacagatcta
+      481 gtagaatgaa tttgaggagg attctcagta gataaagcaa cactcacacg atttttcgct
+      541 tttcatttca ttttaccatt cattattgca gctttagcag gagtacatct actattccta
+      601 catgaaacag gttctaacaa tccatcagga ctctcatcag atacagataa aatcccattt
+      661 cacccatatt atacaattaa agatatttta ggagttctaa tactaatcct agtcttatca
+      721 ttattagttc tcttttcgcc tgatctccta ggagacccag acaactatat cccggccaat
+      781 ccacttaata caccacctca tattaagcca gaatgatact tcctatttgc atatgctatt
+      841 ctacgttcta ttcctaataa actgggcggt gtcctagcac tagtattttc aatcctaatt
+      901 ctagcactca taccactcct tcacacttca aaacaacgaa gcataatatt ccgacctatc
+      961 agccaatgct tattctgact actagtggca gatttactaa ccctaacatg aattggaggc
+     1021 caaccagtag aatatccttt tatcattatt ggtcaattag catcgatttt atactttata
+     1081 ctgattctag ttctaatacc attagcgagc ctaatagaga atagccttct caaatgaaga
+//
+

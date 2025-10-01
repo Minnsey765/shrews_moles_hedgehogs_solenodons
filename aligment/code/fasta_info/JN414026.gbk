@@ -1,0 +1,105 @@
+LOCUS       JN414026                2463 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Solenodon paradoxus apolipoprotein B (ApoB) gene, exon 26 and
+            partial cds.
+ACCESSION   JN414026
+VERSION     JN414026.1
+KEYWORDS    .
+SOURCE      Solenodon paradoxus (Hispaniolan solenodon)
+  ORGANISM  Solenodon paradoxus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Solenodon.
+REFERENCE   1  (bases 1 to 2463)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 2463)
+  AUTHORS   Meredith,R.W., Gatesy,J. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUL-2011) Department of Biology, University of
+            California, Riverside, 1354 Spieth Hall, Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..2463
+                     /organism="Solenodon paradoxus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:79805"
+     gene            <1..>2463
+                     /gene="ApoB"
+     mRNA            <1..>2463
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>2463
+                     /gene="ApoB"
+                     /note="contains LDL receptor binding domain"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="AEP18062.1"
+                     /translation="KYNQNFSAGNNENSIQTHLGINGEANLDFLRIPLTIPEMTFPYT
+                     TLRIPQVKDFSLWEKTSLKEFLKTTKQSFDLSVKAQYKKNKDQHSIPIPLDVLYGFID
+                     HNINSFIEQCEIVRDKALDFVTESYNGAKMRFDQYKAEKSLNSPPRIFEIPGYTIPVV
+                     NIKVSPFXVEMLPFGYVIPKEMRTPNFTISGSSFYVPSYTFVLPFLELPAFHIPRKFD
+                     KLSLPEFKALSTPKKILISAIGNITYDFSFKSSLITLNTNAELYNQSDIIVHFLTSSS
+                     SVTEALQYKLEGTSSLTRKRGLKLATALSLSNKFVEGHHDSTISLTKKNIDASMTTTA
+                     QVQIPILKMNFKQELNGNTKSKPTVSSSLELKYDFNSPKLYSSMSGEVNHKLHMESFT
+                     SYFSIESSAKGDIKGLILSQEYSGTIANEASTYLNSKGTRSSVKLQGASKVDGIWNLE
+                     VKESFAGEATFQRIYVIWEHNMKNHLQQDGVILTSGDHVSKATLELSPWKVLALIHIH
+                     ASQPNIFLDRSYLGQEVSLNANTENQKVSWNSEVQVYSGSLQNNVQFSNDQEEARFDI
+                     AGSLEGYLWFLKDLVLPVYDKSIWDLLKLDVTTSTDRKQYLRASTTLVYTKNPNSYHF
+                     SLPMQELSDKFIIPGLKLSHLNSVLITPKFQVPFTDLQVPSYAFDLSEINIYKKLSTS
+                     PFVLNLPTLPRVKFPKVDVLTKHSEAEVSSVPFFEITVPEFQLTVSPVTLPKNVSIGS
+                     VVWNLNEVTSKIADFELPNIIIPEQTIEIPSIKFSIPDGILIPAFGTLNTRCGVSSPL
+                     YNATWSTGLRNKADHLEVFLEST"
+     exon            <1..>2463
+                     /gene="ApoB"
+                     /number=26
+ORIGIN      
+        1 aaatacaatc aaaatttctc tgctggaaac aatgagaaca gcatccagac ccacctagga
+       61 ataaacggag aagctaacct ggatttctta cgcattcctt taacaattcc tgaaatgact
+      121 ttcccttaca caacgctcag gattccccag gtgaaagatt tctccttatg ggaaaaaaca
+      181 tccttgaagg aattcttgaa aacaacaaag caatcatttg atttaagtgt aaaggctcag
+      241 tataagaaaa acaaagacca acattccatc ccaattcctt tggatgtgtt gtatgggttt
+      301 atcgatcata acatcaattc cttcattgaa caatgtgaaa tagtcagaga caaggcctta
+      361 gattttgtta ctgaatcata caatggagca aaaatgaggt ttgatcagta taaagctgaa
+      421 aaatctctca acagcccacc caggatcttt gaaattcctg gatatactat tccagttgtc
+      481 aatatcaaag tatctccatt tayagtggag atgctgccat ttggctatgt gattccaaaa
+      541 gagatgagga cgcccaattt taccatctca ggttctagct tctatgtgcc ttcatataca
+      601 tttgtcctgc cattcctgga actcccagcc tttcatatcc ctaggaaatt tgacaagctt
+      661 tctcttccag aattcaaagc attgagtacc ccaaagaaaa ttttaatttc agccataggc
+      721 aatattacct atgacttttc ctttaaatca agtctcatca cactgaatac caatgctgaa
+      781 ctttataacc aatcagatat tattgttcac tttttaactt cctcttcttc tgtcactgaa
+      841 gcactgcagt acaagttaga aggcacctca agtttgacaa ggaaaagggg gctgaagcta
+      901 gccacagctt tgtctctgag taacaaattt gtggaaggcc atcatgacag taccattagt
+      961 ttaaccaaga aaaacataga cgcatccatg acaacaactg cacaagtcca aattccaatt
+     1021 ctgaaaatga atttcaagca ggaacttaat ggaaatacca agtcaaaacc tactgtttct
+     1081 tcatcccttg aattaaagta tgatttcaat tcccccaagc tgtactcatc tatgtcagga
+     1141 gaagttaacc acaaactcca catggaaagc tttacctctt acttttccat tgagtcctct
+     1201 gccaaaggag atatcaaggg tttgatcctt tcacaggaat attcaggaac aattgccaat
+     1261 gaggccagca cttatttgaa ttccaagggt actcggtctt cagtgaaact gcaaggggct
+     1321 tccaaagttg atggcatctg gaaccttgaa gtaaaagaaa gttttgctgg agaagccact
+     1381 ttccaacgta tatatgtcat ctgggaacac aatatgaaaa atcacttaca gcaagatggt
+     1441 gtcattttaa catctggaga ccatgttagt aaagctaccc tggaactgtc cccatggaaa
+     1501 gtgttagccc ttattcatat ccatgcaagt cagcccaata ttttccttga tagaagttac
+     1561 cttgggcaag aagtatctct gaatgccaac actgaaaacc agaaagtcag ctggaatagt
+     1621 gaggtccaag tttattctgg gtctcttcag aacaatgtac agttttccaa tgaccaagaa
+     1681 gaagcacgct ttgacattgc aggttcctta gaagggtatc tgtggttcct caaagatttg
+     1741 gtattaccag tttatgacaa gagcatatgg gatctcctaa agttggatgt caccaccagc
+     1801 actgatagga aacagtatct tcgtgcttca actacccttg tgtataccaa aaatcccaat
+     1861 agctatcatt tctctctccc catgcaagaa ctgagtgata aattcattat tcctggacta
+     1921 aaactaagtc atctaaattc agttcttatc acacctaagt ttcaagtccc ttttacagat
+     1981 cttcaggttc catcctatgc ttttgatctc agtgaaataa acatctacaa gaaactgagt
+     2041 acatcgccat ttgtcctgaa cttgccaaca ctccccagag tgaaatttcc caaagttgat
+     2101 gtgttaacaa aacactctga agcagaagtt tcctcagttc cattttttga gataacggta
+     2161 cccgaatttc agttaactgt gtccccagtt acccttccaa agaatgtttc tattggcagt
+     2221 gttgtctgga atctcaatga ggtgaccagc aagattgcag actttgaatt gccaaacatc
+     2281 atcatacccg agcagacgat tgagattcct tccattaaat tctcaatccc tgatggaatt
+     2341 ctcattcctg cctttggaac actgaacaca cgatgtgggg tctcctctcc tttgtataat
+     2401 gccacctgga gtactggttt gagaaacaaa gccgaccatc ttgaagtatt cctagaatcg
+     2461 act
+//
+

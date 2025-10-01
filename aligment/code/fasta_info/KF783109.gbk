@@ -1,0 +1,65 @@
+LOCUS       KF783109                 804 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Paraechinus aethiopicus growth hormone receptor (GHR) gene, exon 10
+            and partial cds.
+ACCESSION   KF783109
+VERSION     KF783109.1
+KEYWORDS    .
+SOURCE      Paraechinus aethiopicus (Desert hedgehog)
+  ORGANISM  Paraechinus aethiopicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Paraechinus.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="Paraechinus aethiopicus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:262775"
+                     /geo_loc_name="Saudi Arabia: umamah"
+     gene            <1..>804
+                     /gene="GHR"
+     mRNA            <1..>804
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>804
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="AIN37199.1"
+                     /translation="HDDSWVEFIELDIDDPDEKAEGSDTDRLLDADHHEAPNILGAKD
+                     DDSGRTSCYEPDILETDFSASDMCDGSSKVAQPQRWKGEADLLCLDPKNPSYSPSSEA
+                     PPAVELXTVNLAPENKPRPLLMGGTESTHHAAPTQISSPSSLANIDFYAQVSDITPAG
+                     SVVLSPGQKNKTGIAKCDPHREVASLCQANFITDSAYFCEADAKKCITVAPHVEMEAR
+                     VEPSFNQEDIYITTESLTTTARRSAAAGHALGSEMPVPDYTSIHLVQSPR"
+     exon            <1..>804
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 catgatgact cttgggttga attcatcgaa ctagatattg atgaccctga tgaaaaggct
+       61 gaaggatcag acacagacag actcctagat gctgaccatc acgaagcacc taatattctt
+      121 ggggcgaagg atgatgactc tgggcgtacc agctgttatg aacctgacat tctggaaact
+      181 gacttcagtg caagtgacat gtgtgacggt agctcaaaag ttgctcagcc acaaaggtgg
+      241 aaaggggaag cagatctctt gtgccttgac ccaaagaatc caagttattc cccttctagt
+      301 gaggcccccc ctgctgttga gctgtycact gttaatctag caccagaaaa caaaccacgg
+      361 ccacttctga tgggtgggac tgagtcaact caccacgctg ctcctactca aataagcagt
+      421 ccaagttcac tggcaaatat cgacttttat gcccaggtaa gcgacatcac cccagcaggg
+      481 agtgtggtcc tctccccggg ccaaaagaat aagacaggga tagccaagtg tgatccacat
+      541 cgagaagtcg cctcactctg ccaagcaaac ttcatcacgg acagcgccta cttctgcgag
+      601 gccgatgcca aaaagtgcat cacggtggcc ccacacgttg agatggaagc ccgtgtagag
+      661 cccagcttta accaggaaga catttacatc accacggaaa gccttaccac tactgcgagg
+      721 cgctctgctg cagcaggaca tgcactcggc tctgagatgc ctgtaccaga ctacacctcg
+      781 attcacttag tgcagtctcc acgg
+//
+

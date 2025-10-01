@@ -1,0 +1,63 @@
+LOCUS       MG973448                 804 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Episoriculus caudatus brain-derived neurotrophic factor (BDNF)
+            gene, partial cds.
+ACCESSION   MG973448
+VERSION     MG973448.1
+KEYWORDS    .
+SOURCE      Episoriculus caudatus (Hodgson's brown-toothed shrew)
+  ORGANISM  Episoriculus caudatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Episoriculus.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Giarla,T., Huterrer,R., Balete,D., Heaney,L. and Esselstyn,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="Episoriculus caudatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CAS:MAM:29115"
+                     /db_xref="taxon:62291"
+     gene            <1..>804
+                     /gene="BDNF"
+     mRNA            <37..>804
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <37..804
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AWS21445.1"
+                     /translation="FHQVRRVMTILFLTMVISYFGCMKAAPMKEANIRGQGSLAYPGV
+                     RTHGTLESVNGPKAGSRGLTSXLADTFEHVIEELLDEDQKVRPHEENNKDADLYTSRV
+                     MLSSQVPLEPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAAD
+                     KKTAVDMSGGTVTVLEKVPVSKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWNSQCRT
+                     TQSYVRALTMDSKKRIGWRFIRIDTSCVCTLTIKRGR"
+ORIGIN      
+        1 tcggtcctgt gtcctgtgtg tgttttctcc ctccagttcc accaggtgag aagagtgatg
+       61 accatccttt tccttactat ggttatttca tactttggtt gcatgaaggc tgcccccatg
+      121 aaagaagcaa acatccgcgg acaaggcagc ttggcctacc caggagtgcg gacccatggg
+      181 actctggaga gcgtgaatgg gcccaaggca gggtcacgag gcctgacatc annnttggct
+      241 gacacttttg aacacgtgat agaagagctg ttggatgagg accagaaagt tcggccccac
+      301 gaagagaaca ataaggacgc ggacttgtac acttcccggg tgatgctcag tagtcaagtg
+      361 cctttggagc ctcctcttct ctttctgctg gaggaataca aaaattacct ggatgctgca
+      421 aacatgtcga tgagggtccg gcgccactcc gaccctgccc gccgcgggga gctgagcgtg
+      481 tgcgacagca ttagcgagtg ggtgacggcg gcagataaga agacagcagt ggacatgtca
+      541 ggcgggacgg tgactgtcct tgagaaagtc ccggtatcca aaggccaact gaagcagtac
+      601 ttctatgaga ccaagtgcaa tcccatgggt tacacaaagg agggctgccg gggcatagac
+      661 aaaaggcatt ggaattccca gtgccgaact acccagtcgt acgtgcgggc ccttaccatg
+      721 gatagcaaaa agagaattgg ttggcgattc ataaggatag acacttcctg tgtatgtaca
+      781 ctgaccatta aaaggggaag atag
+//
+

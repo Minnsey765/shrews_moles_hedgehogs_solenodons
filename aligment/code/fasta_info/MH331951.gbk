@@ -1,0 +1,64 @@
+LOCUS       MH331951                 731 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Sorex araneus voucher VZMU Serov4 recombination activating protein
+            2 (RAG2) gene, partial cds.
+ACCESSION   MH331951
+VERSION     MH331951.1
+KEYWORDS    .
+SOURCE      Sorex araneus (European shrew)
+  ORGANISM  Sorex araneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 731)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 731)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..731
+                     /organism="Sorex araneus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VZMU Serov4"
+                     /db_xref="taxon:42254"
+                     /geo_loc_name="Russia: Northern Urals, Pechora-Ilych NR"
+     gene            <1..>731
+                     /gene="RAG2"
+     mRNA            <1..>731
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>731
+                     /gene="RAG2"
+                     /codon_start=2
+                     /product="recombination activating protein 2"
+                     /protein_id="AZD26164.1"
+                     /translation="RYPAICLFKGNLESEKHEYIIHGGKTPNNELSDKIYTISVVCKN
+                     NKKVTFRCTEKDLVGDIPEARYGHSIDMVYSRGKTMGVLFGGRSYMPSAQRITEKWNT
+                     VADCPPHVFLVDFEFGCSTSYILPELQDGLSFHVSIARKDTVYILGGHSLSNNIRPAS
+                     LYRIKVDLPLGSPAVNCTVLPGGISVSSAILTQTSNDEFIIVGGYQLENQKRMVCNIV
+                     SLEDNKIEINEMETPDWTPDIKHSK"
+ORIGIN      
+        1 tcgctaccca gccatttgtc tattcaaagg caacctggag tctgaaaaac atgaatacat
+       61 cattcatgga gggaaaacac caaacaatga gctttcagat aaaatatata ccatatctgt
+      121 tgtttgyaag aacaacaaaa aagttacttt tcgctgcaca gagaaagact tagtgggaga
+      181 tattcctgaa gccagatatg gtcattccat tgatatggta tatagtcgag gaaaaactat
+      241 gggtgttctc tttggaggac gctcgtacat gccttctgcc caaagaatca cagaaaartg
+      301 gaatactgta gcagactgcc caccccatgt tttcctggtg gattttgaat ttggatgttc
+      361 tacatcatac attcttccag aacttcaaga tggtctgtct tttcatgtct caattgccag
+      421 aaaagatacc gtttatattt taggaggaca ttcactttcc aataacattc gcccagccag
+      481 cctatacaga ataaaggttg atctgcccct gggtagccca gctgtgaatt gcacagtctt
+      541 gccaggagga atctcagttt ccagtgcaat actgactcaa acaagcaatg atgaatttat
+      601 tattgttggt ggttatcaac ttgaaaatca aaaaagaatg gtttgcaaca tcgtgtcttt
+      661 agaggataac aagatagaaa ttaatgaaat ggagactcca gactggaccc cggatattaa
+      721 gcacagcaaa a
+//
+

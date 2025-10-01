@@ -1,0 +1,60 @@
+LOCUS       ON161124                 534 bp    DNA     linear   MAM 13-NOV-2022
+DEFINITION  Nectogale elegans isolate FT144 brain-derived neurotrophic factor
+            (BDNF) gene, partial cds.
+ACCESSION   ON161124
+VERSION     ON161124.1
+KEYWORDS    .
+SOURCE      Nectogale elegans (Elegant water shrew)
+  ORGANISM  Nectogale elegans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Nectogale.
+REFERENCE   1  (bases 1 to 534)
+  AUTHORS   Fan,R., Tang,K., Dou,L., Fu,C., Faiz,A.U.H., Wang,X., Wang,Y.,
+            Chen,S. and Liu,S.
+  TITLE     Molecular phylogeny and taxonomy of the genus Nectogale (Mammalia:
+            Eulipotyphla: Soricidae)
+  JOURNAL   Ecol Evol 12 (10), e9404 (2022)
+   PUBMED   36311392
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 534)
+  AUTHORS   Chen,S. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-APR-2022) College of Life Sciences, Sichuan Normal
+            University, Chenglong Street 1819, Chengdu, Sichuan 610066, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Nectogale elegans"
+                     /mol_type="genomic DNA"
+                     /isolate="FT144"
+                     /db_xref="taxon:268758"
+                     /lat_lon="30.533 N 102.915 E"
+     gene            <1..>534
+                     /gene="BDNF"
+     mRNA            <1..>534
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>534
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="UZG77095.1"
+                     /translation="EANIRGQGSLAYPGVRTHGTLESVNGPKAGSRGLTSLADTFEHV
+                     IEELLDEDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSM
+                     RVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFY
+                     ETKCNPMGYTKEGCRGID"
+ORIGIN      
+        1 gaagcaaaca tccgcggaca aggcagcttg gcctacccag gagtgcggac ccatgggact
+       61 ctggagagcg tgaatgggcc caaggcaggg tcacgaggcc tgacatcatt ggctgacact
+      121 tttgaacacg tgatagaaga gctgttggat gaggaccaga aagttcggcc ccacgaagag
+      181 aacaataagg acgcggactt gtacacttcc cgggtgatgc tcagtagtca agtgcctttg
+      241 gagcctcctc ttctctttct gctggaggaa tacaaaaatt acctggatgc tgcaaacatg
+      301 tcgatgaggg tccggcgcca ctccgaccct gcccgccgcg gggagctgag cgtgtgcgac
+      361 agcattagcg agtgggtgac agcggcagat aagaagactg cagtggacat gtcgggcggg
+      421 acagtgactg tccttgagaa agtgccggta tcaaaaggcc aactgaagca gtacttctat
+      481 gagaccaagt gcaatcccat gggttacaca aaggagggct gccggggaat agac
+//
+

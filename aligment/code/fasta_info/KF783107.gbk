@@ -1,0 +1,66 @@
+LOCUS       KF783107                 804 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Hemiechinus auritus voucher Ha-Eg growth hormone receptor (GHR)
+            gene, exon 10 and partial cds.
+ACCESSION   KF783107
+VERSION     KF783107.1
+KEYWORDS    .
+SOURCE      Hemiechinus auritus (long-eared hedgehog)
+  ORGANISM  Hemiechinus auritus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Hemiechinus.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="Hemiechinus auritus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Ha-Eg"
+                     /db_xref="taxon:217708"
+                     /geo_loc_name="Egypt"
+     gene            <1..>804
+                     /gene="GHR"
+     mRNA            <1..>804
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>804
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="AIN37197.1"
+                     /translation="HDDSWVEFIELDIDDPDEKAEGSDTDRLLDADRHEAPNILGAKD
+                     DDSGRTSCYEPDILETDFSASDMCDGTSKVAQPQRWKGETDLLCLDPKNPSYSPSSEA
+                     PPAIQLSTLNLAPENKPRPLLMGGTESTHHAAPTQISSPSSLANIDFYAQVSDITPAG
+                     SVVLSPGQKNKTGIAQCDPHREVTSLCQANFIMDSAYFCEADAKKCITVAPHVEMEGR
+                     VEPSFNQEDIYITTESLTTTARRSAAAGHGLGSEMPVPDYTSIHLVQSPR"
+     exon            <1..>804
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 catgatgact cttgggttga attcatcgaa ctagatattg atgaccctga tgagaaggct
+       61 gaaggatcag acacagacag actcctagat gccgaccgtc atgaagcacc taatattctt
+      121 ggggcgaagg atgatgactc tgggcgtacc agctgttatg aacctgacat tctggaaact
+      181 gacttcagtg caagtgacat gtgtgatggt acctcaaaag ttgctcagcc acaaaggtgg
+      241 aaaggggaaa cagatctctt gtgccttgac ccgaagaatc caagttattc cccttctagt
+      301 gaggcccccc ctgctattca gctgtccact cttaatctag caccagaaaa caaaccacgg
+      361 ccacttctga tgggtgggac tgagtcaact caccacgctg ctcctactca aataagcagt
+      421 ccaagttcac tggcaaatat cgacttttac gcccaggtaa gcgacatcac cccagcaggg
+      481 agtgtggtcc tctccccggg ccaaaagaat aagacaggga tagcccagtg tgatccacat
+      541 cgagaagtca cctcactatg ccaagcaaac ttcatcatgg acagcgccta cttctgcgag
+      601 gccgatgcca aaaagtgcat cacggtagcc ccgcacgttg agatggaagg ccgtgtagag
+      661 cccagcttta accaggaaga catttacatc accacggaaa gccttaccac tactgcgagg
+      721 cgctctgctg cagcaggaca tggactyggc tctgagatgc ctgtaccaga ctacacctcg
+      781 attcacttag tgcagtctcc acgg
+//
+

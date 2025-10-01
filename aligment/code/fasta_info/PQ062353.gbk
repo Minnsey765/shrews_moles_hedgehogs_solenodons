@@ -1,0 +1,92 @@
+LOCUS       PQ062353                1719 bp    DNA     linear   MAM 18-DEC-2024
+DEFINITION  Neohylomys hainanensis isolate NeohyHai breast cancer protein 1
+            (BRCA1) gene, exon 11 and partial cds.
+ACCESSION   PQ062353
+VERSION     PQ062353.1
+KEYWORDS    .
+SOURCE      Neohylomys hainanensis (Hainan gymnure)
+  ORGANISM  Neohylomys hainanensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Neohylomys.
+REFERENCE   1  (bases 1 to 1719)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Gorchkhanov,D., Fei,L.I., Dung,D.T.,
+            Hai,B.T., Kruskop,S.V., Rozhnov,V.V. and Abramov,A.V.
+  TITLE     A new species of Neohylomys (Eulipotyphla: Galericidae) from
+            northern Vietnam
+  JOURNAL   Zootaxa 5541 (3), 294-306 (2024)
+   PUBMED   39646144
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1719)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Gorchkhanov,D., Fei,L., Dung,D.T.,
+            Hai,B.T., Kruskop,S.V., Rozhnov,V.V. and Abramov,A.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-2024) Vertebrate Zoology, Lomonosov Moscow State
+            University, Leninskie Gory 1, bldg 12, Biological Faculty, Moscow,
+            Moscow 119234, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1719
+                     /organism="Neohylomys hainanensis"
+                     /mol_type="genomic DNA"
+                     /isolate="NeohyHai"
+                     /db_xref="taxon:483536"
+                     /geo_loc_name="China: Hainan"
+     gene            <1..>1719
+                     /gene="BRCA1"
+     mRNA            <1..>1719
+                     /gene="BRCA1"
+                     /product="breast cancer protein 1"
+     CDS             <1..>1719
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer protein 1"
+                     /protein_id="XLM37240.1"
+                     /translation="LTEDTTNVEKAEFCSKSKQPGLARSQQSRWAESKEACHERQMPS
+                     PEKEVALNADSLCERKELHEQKTPGSSSPKYSQDASWIALNSSIQKVSEWLSRSDEML
+                     TSDDSYVGGSDPDTEVTRAEVPNARDGLFSSSEKTAVFTSGPLSTLRHESGGVYPKPV
+                     ESNIEDKIFGKTYRRKANLLNLSHVTEDVTIRAPAPEPLVAKEPLLATKLKRKRSTNV
+                     GLCPEDFIKKVDVAVVQKTPEKITEGPEQVGNKGQVMNTTTCGNKTEAQGDCAQKEKS
+                     DNPVESPEKQSALFSNPGNSEKECTTVSAHSSSLRKESPKVILDCQQKEENQGEKESE
+                     LKHLQSEHTTADSPVVCQTDTSGDNAKCSLKGVSQPCRTSQLERHEPELIVANKNLVL
+                     QNPYHLPPLSLMPSVTCKKNLSEGNPLSPEREVENGSLGQRTISTNSQTSASEDALKD
+                     GCSSSANDMGSSVNEVRSSSENTQAQLGRNRASRLNTILRSSLMRPEVFEQSLPVNTC
+                     KHPEMKGQGESEGSAQTADTDSAPCPCLNSANREQTMETSRASQLCSETPDGLVNDEE
+                     MKDNTSF"
+     exon            <1..>1719
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 ctcactgaag ayacaacgaa tgtagaaaag gctgaattct gtagtaaaag caagcagcct
+       61 ggattagcaa ggagccagca gagcagatgg gctgaaagta aggaagcatg tcatgagagg
+      121 cagatgccta gcccagagaa agaagtagct ctgaatgccg attctctgtg tgagagaaaa
+      181 gagctacatg aacagaaaac tccaggctcc agcagtccta aatattccca agatgcctcg
+      241 tggatagcac tgaacagtag catacagaaa gtgagtgagt ggctttccag aagtgatgaa
+      301 atgttaactt ctgatgactc ctacgtcggg ggatctgacc cagatactga agtaaccaga
+      361 gcagaagttc caaatgcaag agatggcctt ttcagctctt cagagaaaac ggctgtattc
+      421 accagtggtc ctctgagtac tttaagacat gaaagcggag gagtctaccc caaaccagtt
+      481 gagagtaata ttgaagataa aatatttggg aagacctaca ggaggaaggc aaaccttctt
+      541 aacttgagcc acgtaactga agatgtaact ataagggcac ctgctccaga acctctggtg
+      601 gcgaaagagc ctctccttgc aacgaaatta aaacgtaaaa gaagtactaa tgtaggtctt
+      661 tgtcctgagg attttatcaa aaaagttgat gtggcagttg ttcagaagac tcctgaaaag
+      721 ataactgagg gacctgagca ggtgggaaat aaaggccaag taatgaatac tactacttgt
+      781 ggtaataaga ctgaagcaca aggtgattgt gctcagaaag agaaaagtga taacccagta
+      841 gaatcaccag aaaaacaatc tgctctgttt tcaaatccag ggaattcaga aaaggaatgt
+      901 acaacagtgt ctgcccattc cagttctcta aggaaagaaa gtccgaaagt tattctggac
+      961 tgtcaacaaa aagaagagaa tcagggagag aaagaatctg aactcaaaca tttgcagtca
+     1021 gaacatacaa ctgcagactc tcctgtggtt tgtcagacag acacatcagg tgataatgcc
+     1081 aaatgtagct taaaaggagt ctcccagcct tgtcggacat ctcagttgga acgccatgaa
+     1141 cctgaactca ttgttgcaaa caaaaatttg gttttacaaa acccttatca cttaccccca
+     1201 ctctctctta tgccatctgt tacatgcaag aaaaacctgt ctgagggaaa tccgctgtca
+     1261 cctgaaaggg aggtggaaaa cgggagcctg ggtcaaagga ccataagcac caatagccaa
+     1321 accagtgcta gtgaggatgc tcttaaagat ggctgctcaa gcagtgctaa tgacatgggc
+     1381 tccagtgtga atgaggtaag gtctagtagt gaaaatactc aagctcaact cggtagaaac
+     1441 agagcatcca gattaaatac tattcttagg tcaagcctta tgcgacctga agtgtttgag
+     1501 cagagtcttc ctgtaaatac ttgtaagcac cctgaaatga aaggacaagg agagagtgaa
+     1561 ggtagtgctc agactgcaga tacagactct gccccgtgcc catgcctaaa ctcagctaat
+     1621 cgagagcaaa ctatggaaac cagtcgtgct tctcagcttt gttctgaaac gccggatggc
+     1681 ctagtaaatg atgaggaaat gaaagacaat acaagcttt
+//
+

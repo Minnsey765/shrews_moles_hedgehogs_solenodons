@@ -1,0 +1,59 @@
+LOCUS       OP599610                 561 bp    DNA     linear   MAM 12-JUN-2023
+DEFINITION  Crocidura suaveolens isolate Crimea1 apolipoprotein b (ApoB) gene,
+            partial cds.
+ACCESSION   OP599610
+VERSION     OP599610.1
+KEYWORDS    .
+SOURCE      Crocidura suaveolens (Lesser white-toothed shrew)
+  ORGANISM  Crocidura suaveolens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 561)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Abramov,A.V.,
+            Sheftel,B.I., Krystufek,B. and Lebedev,V.S.
+  TITLE     The first phylogenetic data on the elusive shrews of the Crocidura
+            pergrisea species complex
+  JOURNAL   Hystrix (2023) In press
+REFERENCE   2  (bases 1 to 561)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Zachos,F. and
+            Lebedev,V.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2022) Zoological museum, Lomonosov MSU, Bolshaya
+            Nikitskaya, 2, Moscow 125009, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..561
+                     /organism="Crocidura suaveolens"
+                     /mol_type="genomic DNA"
+                     /isolate="Crimea1"
+                     /db_xref="taxon:52631"
+     gene            <1..>561
+                     /gene="ApoB"
+     mRNA            <1..>561
+                     /gene="ApoB"
+                     /product="apolipoprotein b"
+     CDS             <1..>561
+                     /gene="ApoB"
+                     /codon_start=1
+                     /product="apolipoprotein b"
+                     /protein_id="WIL96129.1"
+                     /translation="VNAQYKKNKDKHPIPLPLDMLYLFFNHNINSFLRKVDNVRDKAL
+                     VFVTESYNEARIKLHDYNVENSLTKQQRTFQIPGYTIPVVNIQTSPFTVEMLPFGYVI
+                     PKVISTPNFTILGSGFFVPSYTLALPFLELPALHVPKYSLELSLPEFEVLSMPRNIFI
+                     PALGNITYDFSFKSSVIALSANAGLYN"
+ORIGIN      
+        1 gtaaatgctc agtataagaa aaacaaagac aagcatccca tcccacttcc tttggatatg
+       61 ctttatttat tctttaatca taacatcaat tcctttctca gaaaagttga taatgtcaga
+      121 gacaaggcat tagtttttgt tactgaatcc tataatgaag caagaattaa gttacatgat
+      181 tataatgttg aaaattctct aacgaaacaa caaaggactt ttcaaattcc aggatacacc
+      241 atcccagttg tcaatattca aacatctcca ttcacagtag agatgcttcc atttggctat
+      301 gtgatcccaa aagtgatcag cacccccaac tttaccatcc tgggttctgg cttctttgtg
+      361 ccctcatata ctttggcttt gccatttcta gaactaccag cccttcacgt ccctaagtat
+      421 tcccttgagc tttctcttcc agaattcgaa gtattgagca tgccaaggaa tattttcatt
+      481 ccagctctgg gaaatattac atatgacttt tcttttaaat caagtgtcat cgcactaagt
+      541 gccaatgctg gactttataa c
+//
+

@@ -1,0 +1,52 @@
+LOCUS       MH332222                 208 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Sorex alpinus voucher VZMU 4420 Growth hormone receptor (GHR) gene,
+            partial cds.
+ACCESSION   MH332222
+VERSION     MH332222.1
+KEYWORDS    .
+SOURCE      Sorex alpinus (alpine shrew)
+  ORGANISM  Sorex alpinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 208)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /organism="Sorex alpinus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VZMU 4420"
+                     /db_xref="taxon:62902"
+                     /geo_loc_name="Czech Republic: NE Bohemia, Krkono?e Mts."
+     gene            <1..>208
+                     /gene="GHR"
+     mRNA            <1..>208
+                     /gene="GHR"
+                     /product="Growth hormone receptor"
+     CDS             <1..>208
+                     /gene="GHR"
+                     /codon_start=3
+                     /product="Growth hormone receptor"
+                     /protein_id="AZD26435.1"
+                     /translation="IKVGIAQYDMHPEVVSRSQANFIMDNSYFCEADVKKCITVAPQL
+                     EVQSRVEPRFNQEDIYITTESLTTT"
+ORIGIN      
+        1 agattaaggt agggatagcc cagtatgaca tgcatccaga agtggtttcg cgctcccaag
+       61 caaacttcat catggacaat tcctacttct gtgaggccga tgtcaaaaag tgcatcacag
+      121 tggcccctca gctagaggtc caatcacgtg tagagccaag atttaaccag gaagacattt
+      181 acatcaccac agaaagcctt accactac
+//
+

@@ -1,0 +1,50 @@
+LOCUS       AY530070                 558 bp    DNA     linear   MAM 14-JUN-2004
+DEFINITION  Solenodon paradoxus BDNF gene, partial cds.
+ACCESSION   AY530070
+VERSION     AY530070.1
+KEYWORDS    .
+SOURCE      Solenodon paradoxus (Hispaniolan solenodon)
+  ORGANISM  Solenodon paradoxus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Solenodon.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   Roca,A.L., Bar-Gal,G.K., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brien,S.J. and Murphy,W.J.
+  TITLE     Mesozoic origin for West Indian insectivores
+  JOURNAL   Nature 429 (6992), 649-651 (2004)
+   PUBMED   15190349
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   Roca,A.L., Kahila Bar-Gal,G., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brian,S.J. and Murphy,W.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2004) National Cancer Institute, Laboratory of
+            Genomic Diversity, P.O. Box B Bldg. 560, Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="Solenodon paradoxus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:79805"
+     mRNA            <1..>558
+                     /product="BDNF"
+     CDS             <1..>558
+                     /codon_start=1
+                     /product="BDNF"
+                     /protein_id="AAS67635.1"
+                     /translation="YFGCMKAAPMKEASVRGQGSLAYPGVRTHGTLESVNGPKAGARG
+                     LTSLADTFEHVIEELLEEDQKVRPHEETNKDADLYTSRVMLSSQVPLEPPLLFLLEEY
+                     KNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVP
+                     VSKGQLKQYFYETKCNPMGYTKEGCR"
+ORIGIN      
+        1 tacttcggtt gcatgaaggc tgcccccatg aaagaagcca gcgtccgagg acaaggcagc
+       61 ttggcctacc caggtgtgcg gacccatggg actctggaga gtgtgaatgg gcccaaggca
+      121 ggtgccagag gcctgacgtc cttggctgac acttttgaac acgtgatcga agagctgttg
+      181 gaagaggacc agaaagttcg tccccatgaa gaaaccaata aggacgcgga cttgtacact
+      241 tcccgggtga tgctgagtag tcaagtgcct ttggagcctc ctcttctctt tctgctggag
+      301 gaatacaaaa attacctgga tgctgcaaac atgtccatga gggtccggcg ccactccgac
+      361 cccgcccgcc gcggggagct gagcgtgtgt gacagcatca gcgagtgggt gacagcagcg
+      421 gataaaaaga ctgcagtgga catgtcgggc gggacggtca ctgtcctgga aaaagtccct
+      481 gtatccaaag gccaactgaa gcagtacttc tacgagacca agtgcaatcc catgggttac
+      541 acgaaggagg gctgcagg
+//
+

@@ -1,0 +1,64 @@
+LOCUS       KY558568                 683 bp    DNA     linear   MAM 23-APR-2017
+DEFINITION  Paraechinus aethiopicus isolate BCEAW1 breast cancer type 1
+            susceptibility protein (BRCA1) gene, partial cds.
+ACCESSION   KY558568
+VERSION     KY558568.1
+KEYWORDS    .
+SOURCE      Paraechinus aethiopicus (Desert hedgehog)
+  ORGANISM  Paraechinus aethiopicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Paraechinus.
+REFERENCE   1  (bases 1 to 683)
+  AUTHORS   Derouiche,L., Vercammen,P., Bouhadad,R. and Fernandes,C.
+  TITLE     Genetic evidence supporting the taxonomic separation of the Arabian
+            and Northwest African subspecies of the desert hedgehog
+            (Paraechinus aethiopicus)
+  JOURNAL   Gene (2017) In press
+   PUBMED   28400268
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 683)
+  AUTHORS   Derouiche,L., Vercammen,P., Bouhadad,R. and Fernandes,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JAN-2017) cE3c - Centre for Ecology, Evolution and
+            Environmental Changes, Faculdade de Ciencias, Universidade de
+            Lisboa, Building C2, Campo Grande, Lisbon 1749-016, Portugal
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..683
+                     /organism="Paraechinus aethiopicus"
+                     /mol_type="genomic DNA"
+                     /isolate="BCEAW1"
+                     /db_xref="taxon:262775"
+     gene            <1..>683
+                     /gene="BRCA1"
+     mRNA            <1..>683
+                     /gene="BRCA1"
+                     /product="breast cancer type 1 susceptibility protein"
+     CDS             <1..>683
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer type 1 susceptibility protein"
+                     /protein_id="ARI50459.1"
+                     /translation="LRRQSPKVILDCEQKEENQGEKASEIKYLPSEHTTTGFPVVCYK
+                     DTSGEYAKCSVKGVSRHCQPSRFRGSEPELIVANKNLILQNLYHIPTLPTIMSSTKSI
+                     CKKNLFEEDSLSPERAVTNKSIIQSTVNTISQTNASENALKDVSSSSVNDMGSSTNEV
+                     GSSSENIQAKLCRNRGPRLNATLRASLMQPEVFEQCFLMNNCKHSEMKGQGENEGVIQ
+                     TVNIESDSCP"
+ORIGIN      
+        1 ttaaggagac aaagtccaaa agttattctg gactgtgaac aaaaagaaga aaatcaagga
+       61 gagaaagcat ctgaaatcaa gtatttgcca tcagaacata caactacagg ctttcctgtg
+      121 gtgtgttata aagatacatc aggtgagtat gccaaatgta gcgtaaaagg agtctccagg
+      181 cattgtcagc catctcggtt cagaggcagt gaacctgaac tcattgttgc aaataaaaat
+      241 ttaattttac aaaacctata tcatatacca acacttccta ccatcatgtc atctactaag
+      301 agtatatgca agaaaaacct gtttgaggaa gattcactgt cgcctgaaag agcagtgaca
+      361 aacaagagca tcatccaaag tacagtgaac accattagtc agactaatgc cagtgaaaat
+      421 gctcttaaag atgtcagttc aagcagtgtt aatgatatgg gttccagtac taatgaagta
+      481 ggttccagta gtgaaaacat tcaagctaaa ctatgtagaa acagaggacc cagattaaat
+      541 gctactctta gagcaagtct tatgcaacct gaagtctttg agcaatgttt tctgatgaat
+      601 aactgtaaac attctgaaat gaaaggacaa ggagaaaatg aaggtgttat tcagactgtt
+      661 aatatagaat ccgattcatg ccc
+//
+

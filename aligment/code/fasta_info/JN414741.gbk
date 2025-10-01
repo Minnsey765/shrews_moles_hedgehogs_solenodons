@@ -1,0 +1,69 @@
+LOCUS       JN414741                 903 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Solenodon paradoxus growth hormone receptor (GHR) gene, exon 10 and
+            partial cds.
+ACCESSION   JN414741
+VERSION     JN414741.1
+KEYWORDS    .
+SOURCE      Solenodon paradoxus (Hispaniolan solenodon)
+  ORGANISM  Solenodon paradoxus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Solenodon.
+REFERENCE   1  (bases 1 to 903)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 903)
+  AUTHORS   Meredith,R.W., Gatesy,J. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUL-2011) Department of Biology, University of
+            California, Riverside, 1354 Spieth Hall, Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..903
+                     /organism="Solenodon paradoxus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:79805"
+     gene            <1..>903
+                     /gene="GHR"
+     mRNA            <1..>903
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>903
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="AEP18631.1"
+                     /translation="AIHDNYKPEFYKDDSWVEFIELDIDDPDEKIEGSDTDRLLSNDR
+                     QKSLNILEAKDDDSGRTSCYEPDILETDFTASDTCEGPSAVAQQQRLKGEADLLCLDQ
+                     KNQSNSLSHDAAPAIQQPSIILPQEGKTRPLLIGGAESMPQAAHTQLSNPSSLANIDF
+                     YAQVSDITPAGSVVLSPGQKNKAGLSQCDIQPEVVSLCQANFILDNTYFCEADAKKCI
+                     PVTPHVKMKSHAEPSFNQEDIYITTESLTTAAGRSGAAELASGSEMPVPDYTSIHVVR
+                     SPQGLVLNATALPLPDKEFLSSCGY"
+     exon            <1..>903
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 gccattcatg acaactataa acctgaattc tacaaagatg actcttgggt tgaattcatt
+       61 gaactagaca ttgatgaccc tgatgaaaag attgaaggat cagacacaga cagacttctc
+      121 agcaatgacc gtcagaaatc ccttaatatc cttgaggcaa aggatgacga ctctggacgt
+      181 actagctgtt atgaacctga cattctggag actgatttca ctgccagcga cacatgtgag
+      241 ggtccctcag cggttgctca gcaacagagg ttaaaagggg aagcagatct cttgtgcctt
+      301 gaccagaaga atcaaagtaa ctcactgtct catgatgctg cccctgccat tcagcagccc
+      361 agcattatcc tcccacagga aggcaaaaca agaccacttc ttattggcgg agcagagtca
+      421 atgcctcagg ctgcccatac ccagctaagc aatccgagtt cgctggcaaa catcgacttt
+      481 tacgcccagg taagtgacat tacaccagca gggagtgtgg tcctttctcc aggccaaaag
+      541 aataaagcag ggctatccca gtgcgacata cagccagaag ttgtctccct ctgccaagca
+      601 aacttcatcc tggacaacac ctacttctgt gaggcagatg ccaaaaagtg cattcccgtg
+      661 acccctcacg tcaagatgaa atcgcatgca gagccaagct ttaaccagga agacatttac
+      721 atcaccaccg aaagccttac cactgctgca gggaggtctg gggcagcaga actggcttca
+      781 ggttctgaga tgcctgtccc agactacacc tccattcatg tagtacggtc cccacagggc
+      841 cttgtcctca acgcgaccgc cttgcccttg cctgacaaag agtttctctc gtcgtgtggc
+      901 tat
+//
+

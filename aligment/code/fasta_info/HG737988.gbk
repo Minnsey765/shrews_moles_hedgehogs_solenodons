@@ -1,0 +1,50 @@
+LOCUS       HG737988                 519 bp    DNA     linear   MAM 12-DEC-2013
+DEFINITION  Talpa europaea bdnf gene for brain-derived neurotrophic factor,
+            isolate EM1.
+ACCESSION   HG737988
+VERSION     HG737988.1
+KEYWORDS    .
+SOURCE      Talpa europaea (European mole)
+  ORGANISM  Talpa europaea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Talpa.
+REFERENCE   1
+  AUTHORS   He,K., Shinohara,A., Jiang,X.L. and Campbell,K.
+  TITLE     Multilocus phylogeny of Talpine moles (Talpini, Talpidae,
+            Eulipotyphla) and its implications for systematics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   He,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2013) Biological Sciences, University of
+            Manitoba, 190 Dysart Road, Winnipeg, Manitoba, R3T 2N2, CANADA
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Talpa europaea"
+                     /mol_type="genomic DNA"
+                     /isolate="EM1"
+                     /db_xref="taxon:9375"
+                     /geo_loc_name="Denmark:Aarhus"
+     gene            <1..>519
+                     /gene="bdnf"
+     CDS             <1..>519
+                     /gene="bdnf"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="CDJ26166.1"
+                     /translation="ASVRGPGGLAYPGVRTHGTLESVNGPKAGSRGLTLADTFEHVIE
+                     ELLDEDQKARPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRV
+                     RRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFYET
+                     KCNPMGYTKEGCR"
+ORIGIN      
+        1 gccagtgtcc gaggaccagg cggcttggcc tacccaggtg tgcggaccca tgggactctg
+       61 gagagcgtga atgggcccaa ggcaggttca agaggcctga cgttggctga cacttttgaa
+      121 cacgtgatag aagaactact ggatgaggac cagaaagctc ggccccacga agaaaacaat
+      181 aaggacgcgg acttgtacac ctcccgggtg atgctcagta gtcaagtgcc tttggagcct
+      241 cctctcctct ttctgctcga ggaatacaaa aattacctgg atgctgcaaa catgtctatg
+      301 agggtccggc gccactccga ccccgcccgc cgcggggagc tgagcgtgtg cgacagcatc
+      361 agcgagtggg tgacggctgc ggataaaaag actgcagtgg acatgtcggg cgggacggtg
+      421 acggtcctcg aaaaagtccc tgtctcgaaa ggccaactga agcagtactt ctacgagacc
+      481 aagtgcaatc ccatgggcta cacaaaggag ggctgcagg
+//
+

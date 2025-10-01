@@ -1,0 +1,55 @@
+LOCUS       AY011449                 555 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Condylura cristata brain-derived neurotrophic factor (BDNF) gene,
+            partial cds.
+ACCESSION   AY011449
+VERSION     AY011449.1
+KEYWORDS    .
+SOURCE      Condylura cristata (star-nosed mole)
+  ORGANISM  Condylura cristata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Condylura.
+REFERENCE   1  (bases 1 to 555)
+  AUTHORS   Murphy,W.J., Eizirik,E., Johnson,W.E., Zhang,Y.P., Ryder,O.A. and
+            O'Brien,S.J.
+  TITLE     Molecular phylogenetics and the origins of placental mammals
+  JOURNAL   Nature 409 (6820), 614-618 (2001)
+   PUBMED   11214319
+REFERENCE   2  (bases 1 to 555)
+  AUTHORS   Murphy,W.J., Eizirik,E. and Johnson,W.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2000) Laboratory of Genomic Diversity, National
+            Cancer Institute-FCRDC, P.O. Box B, Bldg. 560, Rm. 11-10,
+            Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /organism="Condylura cristata"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:143302"
+     gene            <1..>555
+                     /gene="BDNF"
+     mRNA            <1..>555
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>555
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AAG47483.1"
+                     /translation="YFGCMKAAPMKEASVRGPGSLAYPGVRTHGTLESVNGPKAGSRG
+                     LTLADTFEHVIEELLDEDQKVRPHEENSKDADLYTSRVMLSSQVPLEPPLLFLLEEYK
+                     NYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPV
+                     SKGQLKQYFYETKCNPMGYTKEGCR"
+ORIGIN      
+        1 tacttcggtt gcatgaaggc tgcccccatg aaagaagcca gtgtccgagg accaggcagc
+       61 ttggcttacc caggtgtgcg gacccatggg actctggaga gcgtgaatgg gcccaaggcc
+      121 ggttcaagag gcctgacgtt ggctgacact tttgaacatg tgatagaaga gctcctggat
+      181 gaggaccaga aagtccggcc ccatgaagag aacagtaagg acgcggactt gtacacctcc
+      241 cgggtgatgc tcagtagtca agtgcctttg gagcctcctc tcctctttct gctcgaggaa
+      301 tacaaaaatt acctggatgc tgcaaacatg tccatgcggg tccggcgcca ctctgacccc
+      361 gcgcgccgcg gggagctgag tgtgtgcgac agcattagcg agtgggtgac ggcggcggat
+      421 aaaaagactg cagtggacat gtcgggcggg acggtgacgg tcctggaaaa agtccccgta
+      481 tcgaaaggcc aactgaagca gtacttctac gagaccaagt gcaatcccat gggctacaca
+      541 aaggaggggt gcagg
+//
+

@@ -1,0 +1,60 @@
+LOCUS       KF783046                 609 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Mesechinus dauuricus isolate 1 voucher ZMMU S-176486 recombination
+            activating protein 1 (RAG1) gene, partial cds.
+ACCESSION   KF783046
+VERSION     KF783046.1
+KEYWORDS    .
+SOURCE      Mesechinus dauuricus (Daurian hedgehog)
+  ORGANISM  Mesechinus dauuricus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Mesechinus.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Mesechinus dauuricus"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /specimen_voucher="ZMMU S-176486"
+                     /db_xref="taxon:111452"
+                     /geo_loc_name="Russia: Buryatia"
+     gene            <1..>609
+                     /gene="RAG1"
+     mRNA            <1..>609
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>609
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="AIN37136.1"
+                     /translation="NGPAVPEKAVRFSFTVMKITLAHGSQNVKVFEEAKPNSELCCKP
+                     LCLMLADESDHETLTAILSPLIAEREAMKSSELMLEMGGILRTFKFIFRGTGYDEKLV
+                     REVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERYEVWRSNPYHESVE
+                     ELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIG"
+ORIGIN      
+        1 caatgggcca gccgttccag aaaaggcagt tcgtttttcc ttcactgtca tgaaaatcac
+       61 cctagcacat ggatctcaga atgtaaaggt gtttgaggaa gccaaaccca actctgaatt
+      121 gtgctgcaag cctttgtgcc tcatgctggc agatgagtct gaccatgaga ccctgacggc
+      181 catcctgagc cctctcattg ctgagaggga ggccatgaag agcagtgaat taatgctgga
+      241 gatgggaggc atcctccgta catttaagtt catctttagg ggcactgggt atgatgagaa
+      301 acttgtcagg gaagtggaag gccttgaggc ctctggctca gtctacatct gtactctttg
+      361 tgatgccact cgcctggaag cctctcaaaa tcttgtcttc cactccatca ccaggagtca
+      421 cactgagaac ctggagcgct atgaggtctg gcgttccaat ccataccatg agtctgtgga
+      481 agaactgagg gatcgggtga aaggggtctc agcaaaaccc ttcattgaga ccgtcccttc
+      541 catagacgca ctgcactgtg acattggtaa tgcagctgag ttctacaaaa tttttcagct
+      601 agagatagg
+//
+

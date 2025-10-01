@@ -1,0 +1,50 @@
+LOCUS       AF434823                 967 bp    DNA     linear   MAM 02-DEC-2002
+DEFINITION  Podogymnura truei 12S ribosomal RNA gene, complete sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF434823
+VERSION     AF434823.1
+KEYWORDS    .
+SOURCE      mitochondrion Podogymnura truei (Mindanao gymnure)
+  ORGANISM  Podogymnura truei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Podogymnura.
+REFERENCE   1  (bases 1 to 967)
+  AUTHORS   Emerson,G.L. and Allard,M.W.
+  TITLE     Molecular systematics of Lipotyphla: evidence from mitochondrial
+            genes 12S rRNA and NADH2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 967)
+  AUTHORS   Emerson,G.L. and Allard,M.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2001) Department of Biological Sciences, The
+            George Washington University, 2023 G St NW Rm 340, Washington, DC
+            20052, USA
+FEATURES             Location/Qualifiers
+     source          1..967
+                     /organism="Podogymnura truei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:48905"
+     rRNA            1..967
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 taaaggtctg gtcccagcct ttctattagc taacaataaa cttacacatg caagtatcag
+       61 catgccagtg agaatgccct taaaccctta gatttgaaat aagagcagag gagcaggtat
+      121 aaagtacacc acttgtagct aaaaacgcct agcctagcca cgcccccacg ggttacagca
+      181 gtgataaacc ttaagcaatg aacgaaagtt tgactaagtt atattgttca tagggttggt
+      241 aaatttcgtg ccagccaccg cggtcatacg attaacccaa gctaatagac ttaacggtgt
+      301 aaagagtgta aaagacttaa acaaacaaat gaggataaga ttaacttaaa gtgtataaac
+      361 ttataagttc acaaaaactc agcaacgaaa gtatccccaa tgattctgct tacacgatag
+      421 ctagagccca aactgggatt agatacccca ttatgtctag ccgtaaacat aagtagtcac
+      481 aaacaagact attcaccaga gaactacgag ccacagccta aaactcaaag gacttggcgg
+      541 tgcttcatac ccccctagag gagcctgttc tataatcgat ataccacgat acacctcacc
+      601 aattcttgct aattcagtct atataccgcc atcttcagca aaccctgatt aaggaacaaa
+      661 agtaagcata atcatttttt acataaaaac gttaggtcaa ggtgtaactt atgaattggg
+      721 aagcaatggg ctacattctt taactaaaag aataacgaaa gtttctatga aactagaaac
+      781 caaaggagga tttagtagta agctaagatt agaaagctta actgaaaaag gcaatgaagc
+      841 acgtacacac cgcccgtcac cctcctcaaa tacaaataca agtctaacta cataaaaaca
+      901 ctaaaaaagt actagaggag ataagtcgta acaaggtaag tatactggaa agtgtacttg
+      961 gatcact
+//
+

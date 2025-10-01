@@ -1,0 +1,83 @@
+LOCUS       AJ000419                1140 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Sorex coronatus mitochondrial cytb gene.
+ACCESSION   AJ000419
+VERSION     AJ000419.2
+KEYWORDS    cytb gene; cytochrome b.
+SOURCE      mitochondrion Sorex coronatus (crowned shrew)
+  ORGANISM  Sorex coronatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Fumagalli,L., Taberlet,P., Stewart,D.T., Gielly,L., Hausser,J. and
+            Vogel,P.
+  TITLE     Molecular phylogeny and evolution of Sorex shrews (Soricidae:
+            insectivora) inferred from mitochondrial DNA sequence data
+  JOURNAL   Mol. Phylogenet. Evol. 11 (2), 222-235 (1999)
+   PUBMED   10191067
+REFERENCE   2
+  AUTHORS   Brunner,H., Lugon-Moulin,N., Balloux,F., Fumagalli,L. and Hauser,J.
+  TITLE     A taxonomical revaluation of the chromosome race Valais of the
+            common shrew Sor ex araneus (Insectivora: Soricidae)
+  JOURNAL   Acta Theriol. (Warsz) 47 (3), 245-275 (2002)
+REFERENCE   3
+  AUTHORS   Fumagalli,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-1997) Fumagalli L., Zoology, University of
+            Queensland, Brisbane, QLD 4066, AUSTRALIA
+  REMARK    revised by [4]
+REFERENCE   4  (bases 1 to 1140)
+  AUTHORS   Fumagalli,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-OCT-2002) Fumagalli L., Zoology, University of
+            Queensland, Brisbane, QLD 4066, AUSTRALIA
+COMMENT     On Oct 7, 2002 this sequence version replaced AJ000419.1.
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Sorex coronatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:62895"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="CAA04067.2"
+                     /db_xref="GOA:O79448"
+                     /db_xref="InterPro:IPR005797"
+                     /db_xref="InterPro:IPR005798"
+                     /db_xref="InterPro:IPR016174"
+                     /db_xref="InterPro:IPR016175"
+                     /db_xref="UniProtKB/Swiss-Prot:O79448"
+                     /translation="MTNLRKTHPLMKIVNSSFIDLPAPSNISSWWNFGSLLGVCLIIQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMYLETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALAGVHLLFLHETGSNNPSGLCSDADKI
+                     PFHPYYTIKDILGVLLLILALTSLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILWSIPNKLGGVLALVLSILILAVVPFLHTSKQRSMMFRPFSQCLFWILVADLLT
+                     LTWIGGQPVEHPFIIIGQLASILYFLLILVIMPITSVFENNLLKW"
+ORIGIN      
+        1 atgacaaatc tacgaaaaac ccacccacta ataaaaattg ttaacagctc attcatcgac
+       61 ctgcccgccc catccaatat ttcatcatga tgaaacttcg gctccctcct aggtgtctgc
+      121 ttaattatcc aaattcttac aggactcttt ttagcaatac attacacatc agacacaatg
+      181 actgctttct catcagtcac acacatctgc cgagatgtaa actacggatg actaatccga
+      241 taccttcatg ctaacggagc atcaatattc ttcatttgcc tattcctcca cgtcggacga
+      301 ggtctttact acggatccta tatatattta gaaacatgaa atatcggcgt attattacta
+      361 ttcgcagtaa tagccactgc ctttataggg tatgtcctcc catgaggaca aatatcattt
+      421 tgaggcgcaa cagtcattac taacctactc tcagcaatcc cttacatcgg ctcagatcta
+      481 gttgaatgaa tctgaggggg cttctctgta gacaaagcca ctctaacccg gttcttcgca
+      541 ttccacttta tcttaccctt catcattgct gctctagcag gagtacatct cctattcctg
+      601 catgaaaccg gctcaaacaa tccatcagga ctatgttcag acgcagacaa aattcccttt
+      661 cacccttact acactatcaa agacattcta ggagtacttc tcctcatcct agcccttaca
+      721 tccctagtat tgttctcccc agacttatta ggagacccag acaactacac acctgcaaat
+      781 cccctcaata caccacccca tattaaacca gaatgatatt tcctattcgc ttacgccatt
+      841 ctatgatcta tccctaacaa attaggtggg gtcctagcac tagtcctatc aattttaatt
+      901 ctagctgtag tccccttcct ccacacatct aaacaacgaa gcataatatt ccgcccattc
+      961 agccaatgtc tcttctgaat cctggtagca gacctcctca cactcacatg aattggaggc
+     1021 caaccagtag aacacccatt catcattatt ggacaattag cctcaatcct ttacttcctc
+     1081 cttattctag tcatcatgcc tattacaagc gtattcgaaa acaaccttct aaaatgaagg
+//
+

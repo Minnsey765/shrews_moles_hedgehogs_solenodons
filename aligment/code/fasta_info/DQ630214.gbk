@@ -1,0 +1,60 @@
+LOCUS       DQ630214                 828 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Crocidura olivieri isolate 1 BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   DQ630214
+VERSION     DQ630214.1
+KEYWORDS    .
+SOURCE      Crocidura olivieri (Olivier's shrew)
+  ORGANISM  Crocidura olivieri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 828)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 828)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..828
+                     /organism="Crocidura olivieri"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:214449"
+     gene            <1..>828
+                     /gene="BRCA1"
+     mRNA            <1..>828
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>828
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="ABG22185.1"
+                     /translation="AXFCNKSKQSDLGRSQQNRWIESKETYNDKQSPSTEQKVDLNAE
+                     PLYGRRKLNKQKLSCSDSPQDPQEMTWMTSKSSXQKVNDWFSRSDVVLTSDDFHDAGS
+                     NSNTKAETEEIPSAADGFFVSSEKEDLMASDQFDALMYESRRVLSKPVESNIEDKIFG
+                     KTYRRKASFPNLNCTTEDVILESSLLEPHTAHKHPFTNKLKRKRRMTSSLGPEDFINK
+                     VDSAVVQKSPEKKIERLNQMDQNGQVVNTTMKGLEIETRGDDTQKENIANSTASSEKE
+                     "
+ORIGIN      
+        1 gctnngttct gtaataaaag taaacagtct gacctaggaa gaagccaaca gaacagatgg
+       61 attgaaagta aagaaacata taatgataaa cagtctccca gcacagagca aaaggtagat
+      121 ctgaatgctg aacccctata tggaagaaga aaactgaaca aacagaaatt gtcatgctct
+      181 gacagccctc aggatcccca agagatgact tggatgactt cgaagagtag ccnacagaaa
+      241 gttaatgatt ggttttctag aagtgatgtt gtattaactt ctgatgattt ccatgatgca
+      301 gggtctaatt caaatacaaa agctgagaca gaagaaatcc caagtgcagc ngatgggttt
+      361 tttgtttctt cagagaaaga agatttaatg gccagtgatc agtttgatgc tttaatgtat
+      421 gaaagtagaa gagtcctctc caaaccagta gagagtaaca ttgaagataa aatatttggg
+      481 aaaacttacc ggaggaaagc aagcttccct aacttgaact gcacaactga agatgtaatt
+      541 ctagaatcat ctctactaga accacatacg gcacacaaac accccttcac aaataaatta
+      601 aaacgtaaaa gaagaatgac atcgagcctt ggtcctgagg attttataaa taaagtagat
+      661 tcggcggttg ttcaaaagtc tcctgaaaag aaaatcgaga ggctcaacca aatggatcaa
+      721 aatggtcagg tggtgaatac tactatgaaa ggtcttgaaa ttgaaacaag aggtgatgat
+      781 acccagaaag agaacatcgc taactcaaca gcatcatcag aaaaagaa
+//
+

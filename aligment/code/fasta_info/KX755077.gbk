@@ -1,0 +1,69 @@
+LOCUS       KX755077                 816 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scaptonyx fusicauda isolate Scxfus_4 growth hormone receptor (GHR)
+            gene, partial cds.
+ACCESSION   KX755077
+VERSION     KX755077.1
+KEYWORDS    .
+SOURCE      Scaptonyx fusicauda (long-tailed mole)
+  ORGANISM  Scaptonyx fusicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scaptonyx.
+REFERENCE   1  (bases 1 to 816)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 816)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..816
+                     /organism="Scaptonyx fusicauda"
+                     /mol_type="genomic DNA"
+                     /isolate="Scxfus_4"
+                     /specimen_voucher="KIZ:98168"
+                     /db_xref="taxon:3370766"
+                     /geo_loc_name="China: Yunnan"
+     gene            <1..>816
+                     /gene="GHR"
+     mRNA            <1..>816
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>816
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33482.1"
+                     /translation="FIELDIDDPDEKTEGSDTDRLLSNDQKSLHILGAKDDDSGRTSC
+                     YEPDILETDFNVSDLCDGTSEVAQPQRLKGEADLLCLDPKNQNNSPSNDAPPSTQQPS
+                     VSPTQENKPRPLLMGGTESTPQPSHSQLSNLSSLANIDFYAQVSDITPAGSVVLSPGQ
+                     KNKAGISQCDLPPEAASRCQANFIMDNAYFCEADAKKCITVAPPLDMETRGEPSFNQE
+                     DIYITTESLTTAAGRSGTAERAPGPEMPVPDYTSIHLVQSPQGLVLNATALPLP"
+ORIGIN      
+        1 ttcattgagt tagatattga cgaccctgat gaaaagacag aaggatcaga cacagacaga
+       61 ctccttagca atgaccagaa atcacttcat atccttgggg ccaaggatga cgactctggg
+      121 cgtaccagct gctatgaacc tgacattcta gagactgatt tcaatgtgag tgacctgtgt
+      181 gatggtacct cagaggtggc tcagccacaa aggttaaaag gggaagcaga tctcttgtgc
+      241 cttgacccga agaatcaaaa taactcacct tctaatgatg ctcccccctc tactcagcag
+      301 cccagtgtta gcccaacaca ggaaaacaaa ccaagaccac ttctcatggg tggaactgag
+      361 tcaactcctc aaccttccca tagtcagctc agcaacctga gttcactggc aaacatcgac
+      421 ttttatgccc aggtaagcga cattacaccc gcagggagtg tggtcctttc cccgggccaa
+      481 aagaataagg cagggatatc ccagtgcgac ttgcctccag aagcagcctc acgctgccaa
+      541 gcraacttca tcatggacaa cgcctacttc tgtgaggcgg atgccaaaaa gtgcatcacc
+      601 gtggcccctc ccctggacat ggaaacacgt ggagagccaa gctttaacca ggaagatatt
+      661 tacatcacca cagaaagcct taccactgct gctggcaggt ctgggacagc agaacgcgcc
+      721 cccggtcccg agatgcctgt gcccgactac acctccattc acctagtaca gtctccccag
+      781 ggtctcgtcc tcaatgcgac cgccttgccg ttgcct
+//
+

@@ -1,0 +1,51 @@
+LOCUS       AY986748                 523 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Paraechinus aethiopicus BDNF (BDNF) gene, partial cds.
+ACCESSION   AY986748
+VERSION     AY986748.1
+KEYWORDS    .
+SOURCE      Paraechinus aethiopicus (Desert hedgehog)
+  ORGANISM  Paraechinus aethiopicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Paraechinus.
+REFERENCE   1  (bases 1 to 523)
+  AUTHORS   Mussell,J.C., Allard,M.W. and Kilpatrick,C.W.
+  TITLE     A reexamination of Lipotyphla and Afrotheria based on both
+            molecular and morphological analyses
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 523)
+  AUTHORS   Mussell,J.C., Allard,M.W. and Kilpatrick,C.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2005) Functional Anatomy and Evolution, Johns
+            Hopkins University, 1830 E. Monument St., Baltimore, MD 21205, USA
+FEATURES             Location/Qualifiers
+     source          1..523
+                     /organism="Paraechinus aethiopicus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:262775"
+     gene            <1..>523
+                     /gene="BDNF"
+     mRNA            <1..>523
+                     /gene="BDNF"
+                     /product="BDNF"
+     CDS             <1..>523
+                     /gene="BDNF"
+                     /codon_start=2
+                     /product="BDNF"
+                     /protein_id="AAY90047.1"
+                     /translation="KAAPMKEANFRGQGSLVYPGMRTHGTLESANGPKAGARDLALAN
+                     TFEHVIEELLDEDQKVRPHDETPKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDA
+                     ANMSMRVRRHSDPARRGELSVCDSVSQWVTAADKKTAVDMSGGTVTVLEKVPVSKGQL
+                     KQYFYETRCNPLGF"
+ORIGIN      
+        1 aaaggctgcc cccatgaaag aagcaaactt ccgaggacaa ggcagcttgg tctacccagg
+       61 tatgcggacc catgggactt tggagagcgc gaatgggccc aaggcaggtg caagagacct
+      121 ggcattggct aacacttttg aacacgtgat agaagagctg ttggacgagg accagaaagt
+      181 tcgtccccat gacgaaaccc ctaaggacgc ggacttgtat acttctcgag tgatgctcag
+      241 tagtcaagtg cctttggagc ctcctcttct ctttctgctt gaggaataca aaaattacct
+      301 ggatgctgca aacatgtcga tgagggtccg gcgccactct gaccctgccc gccgtgggga
+      361 gctgagcgtg tgcgacagtg ttagtcagtg ggtgacagca gcagataaaa agactgcagt
+      421 ggacatgtcg ggcgggacgg tcaccgtcct tgaaaaagta cctgtatcca aaggccaact
+      481 gaagcagtac ttctacgaga ccaggtgcaa tccgctgggt ttc
+//
+

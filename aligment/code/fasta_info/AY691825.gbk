@@ -1,0 +1,53 @@
+LOCUS       AY691825                 968 bp    DNA     linear   MAM 14-OCT-2005
+DEFINITION  Sorex cinereus voucher FMNH 159789 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   AY691825
+VERSION     AY691825.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex cinereus (cinereus shrew)
+  ORGANISM  Sorex cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 968)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Phylogeny, phylogeography, and geographic variation of Sylvisorex
+            howelli (Soricidae), an endemic shrew of the Eastern Arc Mountains,
+            Tanzania
+  JOURNAL   J. Zool. 266, 341-354 (2005)
+REFERENCE   2  (bases 1 to 968)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Zoology, Division of Mammals,
+            Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago,
+            IL 60605, USA
+FEATURES             Location/Qualifiers
+     source          1..968
+                     /organism="Sorex cinereus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 159789"
+                     /db_xref="taxon:36803"
+                     /geo_loc_name="USA"
+     rRNA            <1..>968
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 taaaggtttg gtcctagcct tcctattagt tgttagtaaa cttacacatg caagtatccg
+       61 cgcccctgtg agaataccct cgtaaatcaa ctatgattaa aaggagtagg tatcaagcac
+      121 actcaatcct gagtagctta ttacaccttg cttagccaca cccccacggg aaacagcagt
+      181 gataaaaatt aagcaataaa cgaaagtttg actaagttat actaacattt agggttggta
+      241 aatttcgtgc cagccaccgc ggtcatacga ttaacccaaa ttaataggca acggcgtaaa
+      301 gcgtgttaag gagtcattta aacataaata aagataaaac ttaactaagc cgtagaaagc
+      361 aatagttaaa attaaaatac actacgaaag tgactttact acttctgact acacgatagc
+      421 taagacacaa actgggatta gataccccac tatgcttagc cctaaactta ggtatttaac
+      481 taacaaaaat acccgccaga gaactactag caatagctta aaactcaaag gacttggcgg
+      541 tgctttatat ccctctagag gagcctgttc tgtaatcgat aaaccccgtt aaacctcacc
+      601 accccttgct aattcagctt atataccgcc atcttcagca aaccctaaaa aggagcaata
+      661 gtaagcacaa gtatatgaca taaaaacgtt aggtcaaggt gtagcttatg gggtgggaag
+      721 aaatgggcta cattttctat gtattagaac atttacgaaa gtctttatga aattaaagac
+      781 taaaggagga tttagtagta agttaagaat agagtgctta actgaattag gccatgaagc
+      841 acgcacacac cgcccgtcac cctcttcaag tattttagac ttaaccaatc cataattaca
+      901 agtcacccaa tattagaaga gataagtcgt aacaaggtaa gcatactgga aagtgtgctt
+      961 ggatgaat
+//
+

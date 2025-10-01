@@ -1,0 +1,72 @@
+LOCUS       KX754528                 816 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Neurotrichus gibbsii isolate Neurgi_3 breast cancer 1 (BRCA1) gene,
+            exon 11 and partial cds.
+ACCESSION   KX754528
+VERSION     KX754528.1
+KEYWORDS    .
+SOURCE      Neurotrichus gibbsii
+  ORGANISM  Neurotrichus gibbsii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Neurotrichus.
+REFERENCE   1  (bases 1 to 816)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 816)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..816
+                     /organism="Neurotrichus gibbsii"
+                     /mol_type="genomic DNA"
+                     /isolate="Neurgi_3"
+                     /db_xref="taxon:182677"
+                     /geo_loc_name="Canada: British Columbia, Coquitlam"
+                     /note="SM-3"
+     gene            <1..>816
+                     /gene="BRCA1"
+     mRNA            <1..>816
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>816
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="APD32991.1"
+                     /translation="SKQPDLARSQQNRRAESKETCNDRQTPSTEKRVGLNADPMYARK
+                     ELNKQKPPCSDSPRNSQGVAWITLNSSIQKVNEWFSRSDEIVTSDDSCDGGSESNVEI
+                     PGAVEVPNAVDGFSGSSEKMDLMASDPPAFMCKSERVRTKPVESNIEDKIFGKIYRRK
+                     TSLPNLSHVTEDLIIGTSATEPQRAQEHPFTNKLRRKRRTTPGLCPEDFIKKVDLAVV
+                     QNTPKKISERTDQVDQNGQVTDITNSGHHGNETKRDYAQKEKSANLTEASEKEP"
+     exon            <1..>816
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agcaaacagc ctgacttagc aaggagccag cagaacagaa gggctgaaag taaagaaaca
+       61 tgtaatgata ggcagactcc cagcacagag aaaagggtag gcttgaatgc tgatcccatg
+      121 tatgcgagga aagaactgaa taagcagaaa cctccgtgct ctgacagccc cagaaattcc
+      181 caaggtgttg cctggataac actgaacagt agcattcaga aagttaatga gtggttttcc
+      241 agaagtgatg aaatagtaac ttctgatgac tcctgtgacg gggggtccga atcaaatgtt
+      301 gaaatacctg gtgcagtaga agttccaaat gcagtagatg ggttttctgg ttcttcagag
+      361 aaaatggact taatggccag tgatcctcct gctttcatgt gtaaaagtga aagagtccgc
+      421 accaagccag tagaaagtaa tattgaagat aagatatttg ggaaaatcta tcggcggaag
+      481 acaagcctcc caaacttgag ccacgtgact gaagatttaa ttatagggac atctgccaca
+      541 gaacctcaga gagctcaaga gcatcccttc acaaataaac taagacgtaa aagaagaact
+      601 acaccaggcc tttgtcctga ggattttatc aagaaagtcg atttggcagt tgttcaaaac
+      661 acccctaaaa agataagtga gagaactgac caagtggatc agaatggcca agtgacggat
+      721 attactaaca gtggtcatca tggtaatgag acaaaacgtg attatgctca gaaagagaag
+      781 agtgctaacc tgaccgaagc atcagaaaaa gaacct
+//
+

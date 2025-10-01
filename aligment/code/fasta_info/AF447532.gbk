@@ -1,0 +1,55 @@
+LOCUS       AF447532                 751 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Talpa europaea RAG2 gene, partial cds.
+ACCESSION   AF447532
+VERSION     AF447532.1
+KEYWORDS    .
+SOURCE      Talpa europaea (European mole)
+  ORGANISM  Talpa europaea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Talpa.
+REFERENCE   1  (bases 1 to 751)
+  AUTHORS   Teeling,E.C., Madsen,O., Van den Bussche,R.A., de Jong,W.W.,
+            Stanhope,M.J. and Springer,M.S.
+  TITLE     Microbat paraphyly and the convergent evolution of a key innovation
+            in Old World rhinolophoid microbats
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (3), 1431-1436 (2002)
+   PUBMED   11805285
+REFERENCE   2  (bases 1 to 751)
+  AUTHORS   Teeling,E.C., Madsen,O., Van Den Bussche,R.A., de Jong,W.W.,
+            Stanhope,M.J. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2001) Department of Biology, University of
+            California, Riverside, 1354 Speith, Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..751
+                     /organism="Talpa europaea"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9375"
+     mRNA            <1..>751
+                     /product="RAG2"
+     CDS             <1..>751
+                     /note="similar to exon 1 of Homo sapiens RAG2"
+                     /codon_start=1
+                     /product="RAG2"
+                     /protein_id="AAL78947.1"
+                     /translation="PPLRYPAICTIKGSLESGKHQYVIHGGKTPNNELSDKIYVMSVV
+                     CKSNKKVTFRCTEKDLVGDVPEARYGHSIDVVYSRGKSIGVLFGGRSYIPSAQRTTEK
+                     WNSVADCLPHVFLVDFEFGCSTSYILPELQDGLSFHVSIARNDTIYILGGHSLANNIR
+                     PANLYRIKVDLPLGSPAVNCTVLPGGISVSSAILTQTNKDEFVIVGGYQLENQKRMVC
+                     NIVSLEDNKIDIQEMETPDWTPDIKHSKIWFG"
+ORIGIN      
+        1 cctcctctcc gctacccagc catttgcaca atcaaaggca gcttagagtc tggaaagcat
+       61 caatacgtta tccatggtgg gaaaacacca aacaatgagc tttcagataa gatctatgtc
+      121 atgtctgttg tttgcaagag caacaaaaaa gttacttttc gttgcacaga gaaagacttg
+      181 gtaggagatg ttcctgaagc cagatatggt cattccattg atgtggtgta cagtcgagga
+      241 aaaagtattg gtgttctctt tggaggacgg tcatacatac cttctgccca gagaaccaca
+      301 gaaaaatgga atagtgtagc tgactgcctg ccccatgttt tcttggtgga ttttgaattt
+      361 gggtgctcta catcctacat tcttcctgaa cttcaggatg gactctcttt tcatgtctcc
+      421 attgccagaa atgataccat ttatattcta ggaggacatt ctcttgccaa taacatccgc
+      481 cctgccaacc tatatagaat aaaggttgat ctccccttgg gtagcccagc tgtgaattgc
+      541 acagtcttac caggaggaat ctctgtttcc agtgcaatcc tgactcaaac aaacaaggat
+      601 gaatttgtta ttgttggtgg ttatcagctt gaaaatcaaa aaagaatggt ctgcaacatt
+      661 gtctctttag aagacaacaa gatagatatt caggagatgg agactccaga ttggacccca
+      721 gatattaagc acagcaagat atggtttgga g
+//
+

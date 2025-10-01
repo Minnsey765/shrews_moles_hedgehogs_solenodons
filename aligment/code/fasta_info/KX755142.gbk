@@ -1,0 +1,71 @@
+LOCUS       KX755142                 861 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Condylura cristata isolate Concris_1 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755142
+VERSION     KX755142.1
+KEYWORDS    .
+SOURCE      Condylura cristata (star-nosed mole)
+  ORGANISM  Condylura cristata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Condylura.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Condylura cristata"
+                     /mol_type="genomic DNA"
+                     /isolate="Concris_1"
+                     /specimen_voucher="NMMNH:DJH5461 5448"
+                     /db_xref="taxon:143302"
+                     /geo_loc_name="USA: Michigan, Oakland Co."
+     gene            <1..>861
+                     /gene="APOB"
+     mRNA            <1..>861
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>861
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33547.1"
+                     /translation="EKTGLKEFLRTTKQSFDLSVKTQYKKNKDKHSISVPLDVLYVFM
+                     NRNINSFIRQFEKGRHQAWVFFTTAYNDAKIKFDKYKIEKSLNNQPRTFQVPGYTIPV
+                     FNIEASPSTVKMLPFGYVIPEEISTPSITIWGSGFSVPSYTLVLPSLELPALPVPTSP
+                     LXFSLPEFKILSTPRNILIPALGNLTYDFSFKSSVITLNTNAELYNQSDIVLHFLSSS
+                     SSVMDALQYKLEGTSSLTRKRGLKIATTLSLSNEFVGGSHNSTISLTKKNMEASVTTI
+                     AKAQFSNWNMN"
+ORIGIN      
+        1 gaaaaaactg gcttgaaaga attcttgaga acgacaaagc agtcatttga tttaagtgta
+       61 aagactcagt ataagaaaaa caaagacaag cattccatct cagtcccttt ggacgtgtta
+      121 tatgtgttta tgaatcgtaa catcaattcc ttcatcaggc agtttgaaaa aggcagacat
+      181 caagcttggg ttttctttac cactgcctac aatgatgcaa aaatcaagtt tgataagtac
+      241 aagattgaaa aatccctcaa caaccaaccc aggacctttc aagttccagg atacactatt
+      301 ccagtcttca acattgaagc atctccatca acagtaaaga tgctaccatt yggctatgtg
+      361 atcccagaag agatcagcac ccccagcatc accatctggg gttctggctt ctctgtgccc
+      421 tcatatacgt tagtcctgcc atccctagag ctgccagccc ttcctgtccc tacaagccca
+      481 ctcragtttt ctcttccaga attcaagata ttgagtaccc caaggaacat cttaattcct
+      541 gccctgggca atcttactta tgatttttcc tttaaatcaa gtgtcatcac actgaatacc
+      601 aatgctgaac tttataacca atcagacatt gttcttcatt tccttagttc ttcttcttct
+      661 gtcatggatg ctcttcagta taagctagag ggcacctcaa gtttgacgag gaaaagaggg
+      721 ctgaagatcg ccacaactct atccttgagt aatgaatttg tgggaggcag tcataacagt
+      781 accattagct taacaaaaaa gaacatggaa gcatcagtaa caacaatagc caaagctcaa
+      841 ttttcaaatt ggaatatgaa t
+//
+

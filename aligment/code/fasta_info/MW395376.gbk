@@ -1,0 +1,79 @@
+LOCUS       MW395376                 911 bp    DNA     linear   MAM 15-MAR-2021
+DEFINITION  Crocidura suaveolens voucher EBD 2.012.064.122M genotype A growth
+            hormone receptor (Ghr) gene, exon 10 and partial cds.
+ACCESSION   MW395376
+VERSION     MW395376.1
+KEYWORDS    .
+SOURCE      Crocidura suaveolens (Lesser white-toothed shrew)
+  ORGANISM  Crocidura suaveolens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 911)
+  AUTHORS   Forcina,G., Camacho-Sanchez,M., Tuh,F.Y., Moreno,S. and
+            Leonard,J.A.
+  TITLE     Markers for genetic change
+  JOURNAL   Heliyon 7 (1), e05583 (2021)
+REFERENCE   2  (bases 1 to 911)
+  AUTHORS   Forcina,G., Camacho-Sanchez,M., Tuh,F.Y., Moreno,S. and
+            Leonard,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-2020) CIBIO/InBIO, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            University of Porto, CIBIO-Rua Padre Armando Quintas 7, Vairao,
+            Porto 4485-661, Portugal
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 8.1.5
+            Assembly Name         :: Ghr
+            Coverage              :: 10X
+            Sequencing Technology :: 454; Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..911
+                     /organism="Crocidura suaveolens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="EBD 2.012.064.122M"
+                     /db_xref="taxon:52631"
+                     /geo_loc_name="Spain: Puntales, Marismas del Odiel"
+                     /lat_lon="37.2545 N 7.00995 W"
+                     /collection_date="25-Nov-2013"
+                     /collected_by="Luis Biedma"
+                     /note="genotype: A"
+     gene            <1..>911
+                     /gene="Ghr"
+     mRNA            <1..>911
+                     /gene="Ghr"
+                     /product="growth hormone receptor"
+     CDS             <1..>911
+                     /gene="Ghr"
+                     /codon_start=3
+                     /product="growth hormone receptor"
+                     /protein_id="QST77413.1"
+                     /translation="ILAIHDNYKPQFYNDDSWVEFIELDIDDPDEKAEGSDTDRLLNH
+                     DREKTLNILGAKDDDSGRTSCYEPDILETDFHASDTCDGTSELEQPQRLKEEAVILCL
+                     EKKQNHSLADDTLSSIPQPSVTLAQESKSRPLIMCGTESTHPTIHTQLSNPSSLANID
+                     FYAQVSDITPAGSVVLSPGQKMKAGMVHFDIHPEVVSLSQSNFIMDNAYFCEADAKKC
+                     ITAGPHLEVQSRAEPSFNQEDIYITTESLTTTAGRSGTAEPTLSSELPVPDYTSIHLV
+                     QSPQGLVLNATSLPLPDKEFLSSCGYV"
+     exon            <1..>911
+                     /gene="Ghr"
+                     /number=10
+ORIGIN      
+        1 caatcttagc cattcatgac aactataagc ctcaattcta caatgatgac tcttgggttg
+       61 aattcattga actagatatt gatgaccctg atgagaaggc tgaaggatca gatacagata
+      121 gacttctaaa ccatgaccgt gagaaaacac ttaatatttt gggggcaaaa gatgatgact
+      181 ctggacgtac cagctgttat gaacctgaca ttctggagac tgatttccat gctagtgaca
+      241 catgtgatgg tacctcagag cttgagcaac cacaaagatt aaaagaagaa gcagttatct
+      301 tgtgccttga gaagaaacaa aatcactcac ttgctgatga tactctctct tctattccac
+      361 aacccagtgt aaccttagca caggaaagta aatcaagacc acttattatg tgtggaactg
+      421 aatcaactca tccaactatt cacactcagc taagcaatcc aagttcactg gcaaatatcg
+      481 acttttatgc ccaggtaagc gacattacac cagcagggag tgtggtcctt tccccgggcc
+      541 aaaagatgaa ggcagggatg gtccactttg acattcatcc agaagtggtt tcactctccc
+      601 aatcaaactt catcatggac aatgcctact tctgtgaggc tgatgccaaa aagtgcatca
+      661 cagcaggccc tcacctagag gtccaatcac gtgcagagcc aagctttaac caggaagaca
+      721 tttacatcac cacagaaagc cttaccacta ctgctgggag gtctgggaca gcagaaccta
+      781 ctctgagttc tgagctgcct gtcccagact acacctccat tcatctagta cagtctccac
+      841 agggcctcgt cctgaatgcg acttccttgc ctttgcctga caaagagttt ctctcatcgt
+      901 gtggctatgt g
+//
+

@@ -1,0 +1,64 @@
+LOCUS       AF434829                1044 bp    DNA     linear   MAM 09-MAY-2017
+DEFINITION  Podogymnura truei NADH dehydrogenase subunit 2 (NADH2) gene,
+            complete cds; mitochondrial.
+ACCESSION   AF434829
+VERSION     AF434829.1
+KEYWORDS    .
+SOURCE      mitochondrion Podogymnura truei (Mindanao gymnure)
+  ORGANISM  Podogymnura truei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Podogymnura.
+REFERENCE   1  (bases 1 to 1044)
+  AUTHORS   Emerson,G.L. and Allard,M.W.
+  TITLE     Molecular systematics of Lipotyphla: evidence from mitochondrial
+            genes 12S rRNA and NADH2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   Emerson,G.L. and Allard,M.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2001) Department of Biological Sciences, The
+            George Washington University, 2023 G St NW Rm 340, Washington, DC
+            20052, USA
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Podogymnura truei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:48905"
+     gene            1..1044
+                     /gene="NADH2"
+     CDS             1..1044
+                     /gene="NADH2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAN76678.1"
+                     /translation="MNPITLTMMYSMIFLGPMIVFTSSHWLTTWIGFEMNLMAIIPLM
+                     MTKKTPRSTEAAAKYFMTQASASMILMFAIILNFTLYSQWNMNMKLNSISSCLLTTSM
+                     LMKLGMAPFHFWMPEVTQGMTLSTGMILLTWQKLAPLSIMYQILPSMNHQLILTSALL
+                     SIMIGGWGGLNQLQLRKILAYSSISHMGWMMAVLTYNPTLTTLNLTIYIIITLTMFMY
+                     LKCYKIKTTSMLSQMWNINITFTIMMSLVLLSLGGLPPLTGFMPKWLIIQELTKNNNI
+                     ILPTLMAMMSLINLMFYTRLIYLSSMTMLPTTTPSKLKWHHKTPKTNIMMPTLSTLSI
+                     LLMPLTPTFIILT"
+ORIGIN      
+        1 attaacccca ttaccttaac tataatatac tcaataatct tcttaggacc tataattgta
+       61 tttaccagct cccactggct aacaacatga attggcttcg aaataaacct aatagcaatt
+      121 atcccactaa taataacaaa aaaaacacca cgatcaacag aagccgcagc aaaatacttc
+      181 ataacacaag cctcagcctc cataattcta atattcgcaa ttatcttaaa cttcacatta
+      241 tacagccaat gaaacataaa cataaaactt aactcaattt cctcctgcct actaactaca
+      301 tcaatattaa taaaactagg catggcccca ttccacttct gaatacctga agtaacacaa
+      361 ggaataacac tatcaacagg aataatccta ctaacatgac aaaaactagc accactatca
+      421 attatatacc aaatcctacc atcaataaac catcaactaa tcctcacatc agccttgcta
+      481 tctatcataa tcggaggatg aggaggacta aaccaactac aactacgaaa aatcttagca
+      541 tattcatcaa tctcccatat aggatggata atagcagtac taacttataa tccaacatta
+      601 accaccctca acttaacaat ttacattatc atcacactaa caatatttat ataccttaaa
+      661 tgctataaaa tcaaaacaac ttcaatatta tcacaaatat gaaacatcaa catcacattc
+      721 acgatcataa tatccctagt attactatca ttagggggcc taccacctct aacaggattc
+      781 ataccaaaat gactaatcat ccaagaacta acaaaaaaca ataacattat cttaccaaca
+      841 ctcatagcta taatatccct aattaacctg atattctata ctcgactgat ttatttatca
+      901 tctataacta tgctcccaac tacaacccca tcaaaactaa aatgacacca taaaacccca
+      961 aaaacaaata tcataatacc caccctatcc accctatcaa tcctacttat acctctaaca
+     1021 ccaacattca tcatcttaac ttag
+//
+

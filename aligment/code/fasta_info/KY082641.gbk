@@ -1,0 +1,66 @@
+LOCUS       KY082641                 730 bp    DNA     linear   MAM 26-MAR-2017
+DEFINITION  Episoriculus caudatus voucher ZIN:96263 recombination activating
+            protein 2 (RAG2) gene, partial cds.
+ACCESSION   KY082641
+VERSION     KY082641.1
+KEYWORDS    .
+SOURCE      Episoriculus caudatus (Hodgson's brown-toothed shrew)
+  ORGANISM  Episoriculus caudatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Episoriculus.
+REFERENCE   1  (bases 1 to 730)
+  AUTHORS   Abramov,A.V., Bannikova,A.A., Lebedev,V.S. and Rozhnov,V.V.
+  TITLE     Revision of <i>Chimarrogale</i> (Lipotyphla: Soricidae) from
+            Vietnam with comments on taxonomy and biogeography of Asiatic water
+            shrews
+  JOURNAL   Zootaxa 4232 (2), 216-230 (2017)
+   PUBMED   28264392
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 730)
+  AUTHORS   Bannikova,A., Abramov,A., Lebedev,V. and Rozhnov,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-OCT-2016) Department of Vertebrate Zoology, Lomonosov
+            Moscow State University, Vorobievy Gory, Moscow 119234, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..730
+                     /organism="Episoriculus caudatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZIN:96263"
+                     /db_xref="taxon:62291"
+                     /geo_loc_name="Viet Nam: Lao Cai Province, Sa Pa"
+                     /note="genetic voucher AVA05-14"
+     gene            <1..>730
+                     /gene="RAG2"
+     mRNA            <1..>730
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>730
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="AQZ59951.1"
+                     /translation="RYPAICLFKGNLESEKHQYIIHGGKTPNNELSDKIYIISVVCKN
+                     NKKVTFRCTEKDLVGDIPEARYGHSIDMVYSRGKTMGVLFGGRSYMPSAQRITEKWNA
+                     VADCPPHVFLVDFEFGCSTAYVLPELQDGLSFHVSIARKDTIYILGGHSLSNNMRPAN
+                     LYRIKVDLPLGSPAVNCTVLPGGISVSSAILTQTSDDEFIIVGGYQLENQKRMVCNIV
+                     SLDDNKIEIHEMETPDWTPDIKHSK"
+ORIGIN      
+        1 cgatacccag ccatctgtct attcaaaggc aacctagaat ctgaaaaaca tcaatacatc
+       61 atccatggtg ggaaaacacc aaacaatgag ctttcagata agatatatat catatctgtt
+      121 gtttgcaaga acaacaaaaa agttactttt cgctgcacag agaaagactt ggtgggagat
+      181 attcctgaag ccagatatgg tcattccatt gatatggtat atagtcgagg gaaaactatg
+      241 ggcgttctct ttggaggacg ctcatacatg ccttctgccc aacgaatcac agaaaaatgg
+      301 aatgcggtag cagactgccc gcctcatgtt ttcctggtgg attttgaatt tggatgctct
+      361 acagcatacg ttcttccaga acttcaagat gggctgtctt ttcatgtctc aatcgccaga
+      421 aaagatacca tttacatttt aggaggacat tcactttcta ataacatgcg tccagccaac
+      481 ctgtacagaa taaaggttga tctgcccctg gggagcccag ctgtgaattg tacagtcttg
+      541 ccaggaggaa tctcagtttc cagtgcaata ctgacccaaa ccagtgatga cgaatttatt
+      601 attgtcggtg gttatcaact tgaaaatcaa aaaagaatgg tttgcaacat cgtgtctctc
+      661 gatgataaca agatagaaat tcatgagatg gagactccag actggacccc tgacattaag
+      721 cacagcaagc
+//
+

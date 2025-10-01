@@ -1,0 +1,57 @@
+LOCUS       KX754493                 815 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Neurotrichus gibbsii isolate Neurgi_1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KX754493
+VERSION     KX754493.1
+KEYWORDS    .
+SOURCE      mitochondrion Neurotrichus gibbsii
+  ORGANISM  Neurotrichus gibbsii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Neurotrichus.
+REFERENCE   1  (bases 1 to 815)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 815)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..815
+                     /organism="Neurotrichus gibbsii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Neurgi_1"
+                     /specimen_voucher="UWBM:80834"
+                     /db_xref="taxon:182677"
+                     /geo_loc_name="USA: Washington, King"
+     rRNA            <1..>815
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ggtttggtcc cagcctttct attagctgtc agtaaaatta cacatgcaag tatccgcacc
+       61 ccagtgagag tacccttgaa gtcagcatat gacataaagg agttggcatc aagcacacca
+      121 ataaggtagc taatgacgcc ttgctaagcc acacccccac gggaaacagc agtgataaaa
+      181 attaagccat gaacgaaagt ttgactaagt tatactgata aagggttggt aaatttcgtg
+      241 ccagccaccg cggtcatacg attaacccga gttaatagac atacggcgta aagagtgttt
+      301 aagaattttt ttcctaaaaa ctaaagctaa gacttaacta agatgtaaaa acctacagtt
+      361 aaagtaaaaa taagctacaa aagtggcttt aaaaaatttt ccgattacac gatagctaag
+      421 atccaaactg ggattagata ccccactatg cttagcccta aactaagata gtcctacata
+      481 caagactatc cgccagagaa ctactagcaa cagcttaaaa ctcaaaggac ttggcggtgc
+      541 tttatatccc tctagaggag cctgttctat aatcgataaa ccccgatata cctcaccaac
+      601 ccttgctaat tcagcctata taccgccatc ttcagcaaac cctcaaaagg agtagtagta
+      661 agcacaagta taagcataaa aacgttaggt caaggtgtag cttatgggtt gggaagaaat
+      721 gggctacatt ttctacatct agaatattac gaaaaccttt atgaaattaa aggcctaagg
+      781 aggatttagt agtaaattaa gaatagagtg cttag
+//
+

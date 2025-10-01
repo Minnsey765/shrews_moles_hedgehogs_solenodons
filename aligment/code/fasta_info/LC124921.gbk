@@ -1,0 +1,72 @@
+LOCUS       LC124921                1050 bp    DNA     linear   MAM 16-JAN-2025
+DEFINITION  Atopogale cubana BRCA1 gene for breast cancer 1, early onset,
+            partial cds, isolate: AMAR7.
+ACCESSION   LC124921
+VERSION     LC124921.1
+KEYWORDS    .
+SOURCE      Atopogale cubana (Cuban Solenodon)
+  ORGANISM  Atopogale cubana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Atopogale.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1050)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..1050
+                     /organism="Atopogale cubana"
+                     /mol_type="genomic DNA"
+                     /isolate="AMAR7"
+                     /db_xref="taxon:3370991"
+                     /geo_loc_name="Cuba: Alejandro de Humboldt National Park"
+                     /note="AMAR: Academic Mission of Almiqui Research"
+     gene            <1..>1050
+                     /gene="BRCA1"
+     CDS             <1..>1050
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="breast cancer 1, early onset"
+                     /protein_id="BAV56116.1"
+                     /translation="KDRMNVEKAEFCNKIKQPGVARSQQNRWAESKERRKDDRQPPST
+                     EEEVDLNAYPLHGRKELNEQKPLFPDSPRDSQDMTWITLNSSIRKVNEWFSRSGEMLT
+                     SDDSRGGVGEANIEVAAAADIPNAVDGFSGSSEKIDLMASDPYCAVKCERKRVHATAV
+                     ESNIQDKIFGKTYRRKASLPNLSHITKDLIIGTSAIEPQVTKELPLTSKLKQKRRATT
+                     GLRPEDFIKKIDLAVVQKTSEKIVGGADQRDQNDQVMNCTNNGHENEIKGDYTQKEKN
+                     ANVTESSEKDSVFKTKVESISSSISNMELELNVHSSKAPKKNKGRRKSSTRHIHALEL
+                     VVSKNPSPSIHTELQ"
+ORIGIN      
+        1 taaagacaga atgaatgtag aaaaggctga attctgtaat aaaatcaagc agcctggcgt
+       61 agcaaggagc cagcagaaca gatgggctga aagtaaggaa agacgtaaag atgacaggca
+      121 gcctcctagc acagaggaag aggtagattt gaatgcttat cccctgcatg ggagaaaaga
+      181 actaaatgaa cagaaacctc tctttcctga cagtcctaga gattcccaag acatgacttg
+      241 gataaccctg aatagtagta tacggaaggt taatgagtgg ttttccagaa gtggtgaaat
+      301 gttaacttct gatgactcac gtggtggggt aggtgaagca aatattgagg tagctgctgc
+      361 agcagacatt ccaaatgctg tagatggatt ttctggttct tcagagaaaa tagacttaat
+      421 ggctagtgat ccttattgtg ctgtgaaatg tgaacgtaaa agagtccacg ctacagcagt
+      481 agagagtaat attcaagata aaatatttgg gaaaacctac cggaggaagg caagccttcc
+      541 taatttgagc catataacta aagatctaat tataggaaca tctgctatag aacctcaagt
+      601 aacaaaagag ctccccctca caagtaaatt aaagcagaaa aggagagcta caacaggcct
+      661 tcgtccagaa gatttcatca agaaaataga tttggcagtt gttcaaaaga cttctgaaaa
+      721 gatagttggg ggagctgacc aaagggatca gaatgaccag gtcatgaatt gtactaataa
+      781 tggtcatgag aatgaaataa aaggtgatta tactcagaaa gagaaaaatg ctaatgtaac
+      841 agaatcatca gaaaaagatt ctgttttcaa aactaaagtt gaatctataa gcagcagtat
+      901 aagtaatatg gaactagaat taaatgtcca cagttcaaaa gcacctaaga agaataaggg
+      961 gaggaggaag tcctccacca ggcatattca tgcccttgaa ctagtagtca gtaaaaatcc
+     1021 aagtccatct attcatactg aactgcaaat
+//
+

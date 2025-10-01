@@ -1,0 +1,72 @@
+LOCUS       KX754519                 813 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Dymecodon pilirostris isolate Dypili_1 breast cancer 1 (BRCA1)
+            gene, exon 11 and partial cds.
+ACCESSION   KX754519
+VERSION     KX754519.1
+KEYWORDS    .
+SOURCE      Dymecodon pilirostris
+  ORGANISM  Dymecodon pilirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Dymecodon.
+REFERENCE   1  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Dymecodon pilirostris"
+                     /mol_type="genomic DNA"
+                     /isolate="Dypili_1"
+                     /db_xref="taxon:182680"
+                     /geo_loc_name="Japan: Tokushima, Tsurugi Mt."
+                     /note="HEG86-97"
+     gene            <1..>813
+                     /gene="BRCA1"
+     mRNA            <1..>813
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>813
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="APD32982.1"
+                     /translation="SXQPXLARSQQNRWAESKETCNDRQTPSTEKMVGLNADPMYGRK
+                     EMNKQKPPYSDSPRNSQGVGWITLNSSIRKVNEWFSRSDEILTSDDSCDGGSESNVEV
+                     TGAVEVLNTVGGFSGSSEKIDLMASDPPALMCKSERVLTKRVESNIEDKIFGKTYRRK
+                     TNLPNLSHVTEDLIIGMSATEPQLAQERPFTNKLKRKRRTTPGLCPEDFIKKVDLAVV
+                     QNTPEKISEGTDQMDQNGQVMDITYNGHGNETKCYYAQKAKSANPTESSEKES"
+     exon            <1..>813
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agcanncagc ctganttagc aaggagccaa cagaacagat gggctgaaag taaagaaaca
+       61 tgtaatgata ggcagactcc cagcacagag aaaatggtag gcctgaatgc tgatcccatg
+      121 tatgggagaa aagaaatgaa taagcagaaa cctccatact ctgacagtcc cagaaattcc
+      181 caaggtgttg gctggataac actgaacagt agcattcgga aagtcaatga gtggttttcc
+      241 agaagtgatg aaatactaac ttcagatgac tcatgtgatg gggggtccga atcaaatgtt
+      301 gaagtaactg gtgcagtaga agttctaaat acagtaggtg gattttctgg ttcttcagag
+      361 aaaatagact taatggccag tgatcctcct gctttaatgt gtaaaagtga aagagtcctc
+      421 accaaacgag tagaaagtaa tattgaagat aagatatttg ggaaaaccta tcggagaaag
+      481 acaaacctcc caaacttgag ccatgtgact gaagatttaa ttatagggat gtctgccaca
+      541 gaacctcagc tagctcaaga gcgtcccttc acaaataaat tgaaacgtaa aaggagaact
+      601 acaccaggcc tctgtcctga ggattttatc aagaaagtag atttggcagt tgttcagaac
+      661 acccctgaaa agataagtga gggaactgac caaatggatc agaatggaca agtgatggat
+      721 attacttata atggtcatgg gaatgaaaca aaatgttatt atgctcagaa agcaaaaagt
+      781 gctaacccaa ccgaatcatc agaaaaagaa tct
+//
+

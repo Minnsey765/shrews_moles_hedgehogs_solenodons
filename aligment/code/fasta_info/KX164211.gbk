@@ -1,0 +1,65 @@
+LOCUS       KX164211                 866 bp    DNA     linear   MAM 15-FEB-2017
+DEFINITION  Euroscaptor subanura voucher ZIN:102248 apolipoprotein B (apoB)
+            gene, partial cds.
+ACCESSION   KX164211
+VERSION     KX164211.1
+KEYWORDS    .
+SOURCE      Euroscaptor subanura
+  ORGANISM  Euroscaptor subanura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Euroscaptor.
+REFERENCE   1  (bases 1 to 866)
+  AUTHORS   Zemlemerova,E., Bannikova,A., Lebedev,V., Rozhnov,V. and Abramov,A.
+  TITLE     Secrets of the underground Vietnam: an underestimated species
+            diversity of Asian moles (Lipotyphla: Talpidae: Euroscaptor)
+  JOURNAL   Tr Zool Inst 320 (2), 193-220 (2016)
+REFERENCE   2  (bases 1 to 866)
+  AUTHORS   Zemlemerova,E., Bannikova,A., Lebedev,V., Rozhnov,V. and Abramov,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2016) Lomonosov Moscow State University,
+            Vorobievy Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..866
+                     /organism="Euroscaptor subanura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZIN:102248"
+                     /db_xref="taxon:1581555"
+                     /geo_loc_name="Viet Nam"
+     gene            <1..>866
+                     /gene="apoB"
+     mRNA            <1..>866
+                     /gene="apoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>866
+                     /gene="apoB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="AQM57775.1"
+                     /translation="KDKHSIPIPLDVFYVFMNHNINSFIRQFEKGRHQTLVSFTNAYN
+                     EVKLKLDKYKVEKSLNNHPRIFQIPGYTIPLFNIEASPSTVKMLPFGYVIPEEISTPS
+                     FTIWGSDFYVPPYTLVLPSLELPALPVPTGPLEFSLPEFKILSTPRNILIPTLGNITY
+                     DFSFKSSVITLNTNVELYNQSDIVVHFLSSSSSVMDALQYKLEGTSSLTRKRGLKLAT
+                     ALSLSNEFMGGSHNSTISLTKKNMEASVTTIAKVQISTLNMNFSQTLNGNTKSRPTVS
+                     SSIKLKYDFNSP"
+ORIGIN      
+        1 acaaagacaa gcattccatc ccaattcctt tggatgtgtt ttatgtgttt atgaatcata
+       61 acatcaattc tttcatcagg caatttgaga aaggcagaca tcagacttta gtttctttta
+      121 ccaatgccta taatgaagta aaactcaagt tagataagta caaggttgaa aagtccctca
+      181 ataaccatcc caggatcttt caaattcctg gatacactat tccactcttc aatattgaag
+      241 cttctccatc aacagtaaag atgttaccat ttggctatgt gatcccagaa gagataagca
+      301 cccccagttt caccatctgg ggttctgatt tctatgtgcc cccctataca ttagtcctac
+      361 catccctaga gctgccagcc cttcctgtcc ctacaggccc tctcgagttt tctcttccag
+      421 aattcaagat attgagtacc ccaaggaaca tcttaattcc taccctgggc aatattacct
+      481 atgatttttc ctttaaatca agtgtcatca cactgaatac caatgttgaa ctatataacc
+      541 aatcagacat tgttgttcat ttccttagtt cctcttcttc tgtcatggat gctctgcagt
+      601 acaagctaga gggtacctcc agtttgacga ggaaaagagg gctgaagtta gccacagcct
+      661 tgtctctgag taatgaattc atgggaggca gtcataacag taccattagc ttaacaaaaa
+      721 aaaacatgga agcatcagtg acaacaatcg caaaagttca aatttcaact ttgaatatga
+      781 atttcagtca gacacttaat gggaatacga agtccaggcc tactgtctct tcatccatta
+      841 aattaaagta cgatttcaat tccccc
+//
+

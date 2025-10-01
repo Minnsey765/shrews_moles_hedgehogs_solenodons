@@ -1,0 +1,55 @@
+LOCUS       JQ433919                 576 bp    DNA     linear   MAM 30-JUN-2013
+DEFINITION  Myosorex kihaulei voucher FMNH155611 brain-derived neurotrophic
+            factor (BDNF) gene, partial cds.
+ACCESSION   JQ433919
+VERSION     JQ433919.1
+KEYWORDS    .
+SOURCE      Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 576)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Phylogenetic relationships of Sri Lankan shrews, including the
+            endemic genera Feroculus and Solisorex
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 576)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2012) Department of Biology, Boston University, 5
+            Cummington Street, Boston, MA 02215, USA
+FEATURES             Location/Qualifiers
+     source          1..576
+                     /organism="Myosorex kihaulei"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH155611"
+                     /db_xref="taxon:307108"
+                     /geo_loc_name="Tanzania"
+     gene            <1..>576
+                     /gene="BDNF"
+     mRNA            <1..>576
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>576
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AFI80832.1"
+                     /translation="FGCMKAAPMKESNIRGQGSLVYPGVRTHGTLESVNGPKAGSRGL
+                     SLADTFEHVIEELLDEDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKN
+                     YLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVS
+                     KGQLKQYFYETKCNPMGYTKEGCRGIDKRHWK"
+ORIGIN      
+        1 tttggttgca tgaaagctgc ccccatgaaa gaatcaaaca tccgaggaca aggcagcttg
+       61 gtctacccag gagtgcggac ccatgggact ctggagagcg tgaatgggcc caaggcaggg
+      121 tcacgaggct tgtcattggc tgacactttt gaacacgtga tcgaagagct gttggatgag
+      181 gaccagaaag ttcggcccca tgaagaaaac aataaggacg cggacttgta cacttcccga
+      241 gtgatgctca gtagtcaagt gcctttggag cctcctcttc tctttctgct ggaggaatac
+      301 aaaaattacc tggatgctgc aaacatgtcg atgagggtcc ggcgccactc cgaccctgcc
+      361 cgccgtggag agctgagcgt gtgtgacagc attagcgagt gggtcacagc ggcagataaa
+      421 aagactgcag tggacatgtc aggcgggaca gtcactgtcc ttgaaaaagt tcctgtatca
+      481 aaaggccaac tgaagcagta cttctatgaa accaagtgca atcccatggg ttacacaaag
+      541 gagggctgca ggggcataga caaaaggcac tggaaa
+//
+

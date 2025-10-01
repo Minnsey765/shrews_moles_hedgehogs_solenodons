@@ -1,0 +1,69 @@
+LOCUS       OP846583                1140 bp    DNA     linear   MAM 24-APR-2023
+DEFINITION  Podogymnura truei minima voucher FMNH 148091 cytochrome b (CYTB)
+            gene, partial cds; mitochondrial.
+ACCESSION   OP846583
+VERSION     OP846583.1
+KEYWORDS    .
+SOURCE      mitochondrion Podogymnura truei minima
+  ORGANISM  Podogymnura truei minima
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Podogymnura.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Balete,D.S., Heaney,L.R., Rickart,E.A., Quidlat,R.S., Rowsey,D.M.
+            and Olson,L.E.
+  TITLE     A re-assessment of diversity among Philippine gymnures (Mammalia:
+            Erinaceidae: Podogymnura), with a new species from eastern Mindanao
+  JOURNAL   Zootaxa 5228 (3), 244-266 (2023)
+   PUBMED   37044652
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Olson,L.E. and Rowsey,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2022) School of Life Sciences, Arizona State
+            University, 734 W Alameda Dr. Room 158, Tempe, AZ 85282, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Podogymnura truei minima"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="minima"
+                     /specimen_voucher="FMNH 148091"
+                     /db_xref="taxon:2995528"
+     gene            1..>1140
+                     /gene="CYTB"
+     CDS             1..>1140
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WGG62788.1"
+                     /translation="MTNWRKTHPLLKIINNTFIDLPTPSNISSWWNFGSLLGLCLVTQ
+                     IITGLFLAMHYTSDTTTAFSSVTHICRDVNYGWLIRNLHANGASMFFICLFIHAGRGL
+                     YYGSYMMVETWNIGVILLLTVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDL
+                     VQWIWGGFSVDKATLTRFFAFHFILPFIITALATVHLLFLHETGSNNPSGLDSNSDKI
+                     PFHPYYTIKDILGGLFMLFTLLTLTLFFPDLLGDPDNFTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVVALIMSILILLLMPLLHTAKQRSMTFRPISQCLFWLLTADLIT
+                     LTWIGGQPVEHPYMIIGQLASILYFAIILCLMPIAGLLENHMTNWK"
+ORIGIN      
+        1 atgacaaact gacgaaaaac tcacccatta ctaaaaatta tcaacaacac cttcattgac
+       61 ctacccaccc catccaacat ctcatcctga tgaaacttcg ggtcattact aggactatgc
+      121 ctagttactc aaatcatcac agggctattc ctagcaatac actacacatc agatacaact
+      181 acagcattct catcagtaac ccatatttgc cgagacgtaa actacggatg actcatccga
+      241 aacctacatg caaacggagc ctcaatgttc ttcatttgcc tatttattca cgcaggccga
+      301 gggctgtact acggttctta catgatggtg gaaacatgaa atattggcgt tatcttactg
+      361 ctgacagtaa tagctacagc gttcataggc tacgttcttc catgaggaca aatatccttt
+      421 tgaggtgcca cagtaatcac caacctccta tcagcaatcc cttatatcgg aaccgaccta
+      481 gtccaatgaa tctgaggcgg attctcagtt gacaaagcca cactcacccg attcttcgcc
+      541 ttccacttta tcctcccatt catcattaca gcactagcaa cagtacatct tctatttcta
+      601 cacgaaacag gatccaataa cccatcaggc ttagactcaa acagtgacaa aattcccttt
+      661 catccatact acacaattaa agacattctt ggtggtttat ttatattatt caccctactc
+      721 accttgactc tattcttccc agacctacta ggagacccag acaacttcac accagccaac
+      781 ccactaaata ccccacccca cattaaacct gaatggtact tcctatttgc ctacgcaatc
+      841 ctgcgctcaa tcccaaacaa actgggagga gtagtagccc ttatcatatc aattctcatc
+      901 ctactcctta tacccctact ccatacagca aaacaacgaa gcataacatt ccgacctatt
+      961 agccaatgcc tattctgact tttaacagca gaccttatca cactaacatg aattggaggc
+     1021 caacctgttg aacaccccta tataattatt ggtcaactag cctcaatcct ttacttcgca
+     1081 atcatcctat gccttatacc aattgcaggc ctactagaaa atcatataac aaactgaaaa
+//
+

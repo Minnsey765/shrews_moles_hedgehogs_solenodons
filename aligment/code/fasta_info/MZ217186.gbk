@@ -1,0 +1,60 @@
+LOCUS       MZ217186                 654 bp    DNA     linear   MAM 19-OCT-2022
+DEFINITION  Scalopus aquaticus machrinus voucher FMNH_167213 cytochrome c
+            oxidase subunit 3 (COX3) gene, partial cds; mitochondrial.
+ACCESSION   MZ217186
+VERSION     MZ217186.1
+KEYWORDS    .
+SOURCE      mitochondrion Scalopus aquaticus machrinus
+  ORGANISM  Scalopus aquaticus machrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Alvarez-Castaneda,S.T. and Cortes-Calva,P.
+  TITLE     Revision of moles in the genus Scapanus
+  JOURNAL   Therya 12 (2), 275-281 (2021)
+REFERENCE   2  (bases 1 to 654)
+  AUTHORS   Alvarez-Castaneda,S.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAY-2021) Planeacion Ambiental y Conservacion, Centro
+            de Investigaciones Biologicas del Noroeste, Av Instituto
+            Politecnico Nacional 195, La Paz, Baja California Sur 23096, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Scalopus aquaticus machrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="machrinus"
+                     /specimen_voucher="FMNH_167213"
+                     /db_xref="taxon:2977537"
+                     /geo_loc_name="USA: MI"
+                     /lat_lon="42.5939 N 86.1017 W"
+     gene            <1..>654
+                     /gene="COX3"
+     CDS             <1..>654
+                     /gene="COX3"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 3"
+                     /protein_id="UYF11923.1"
+                     /translation="PWPLTGALSALLLTSGLAMWFHFSSTVLLCLGLLGNSLTMYQWW
+                     RDVVRESTFQGHHTPVVQKGLRYGMVLFIISEVFFFAGFFWAFYHSSLAPTHELGGFW
+                     PPAGIRPLNPLEVPLLNTSVLLASGVSITWAHHSLMEGNRKHMVQALFITIALGMYFT
+                     ALQAAEYYEAPFTISDGVYGSTFFMATGFHGFHVIIGTTFLTVCFMRQLKYHFTSKH"
+ORIGIN      
+        1 cccatgacct cttacagggg ccctctcagc cctcctttta acctccgggt tggcaatatg
+       61 atttcatttt agctcaacag tcttactatg cctgggccta ctaggtaact ccctaactat
+      121 ataccaatga tgacgagacg tagtgcgaga aagcacattc caaggccatc atacccccgt
+      181 tgtccaaaaa ggtctacgat atggaatagt cctgtttatt atttcagaag tgttcttctt
+      241 cgcaggcttt ttctgagcct tctatcactc cagcctagcc ccaacccacg aacttggagg
+      301 attttgacca ccagcaggaa tccgaccact taacccgtta gaagtcccac tattaaacac
+      361 gtctgtatta ttagcctcag gagtttcaat cacctgagcc catcacagcc tcatagaggg
+      421 taatcgtaag catatagtcc aagccctatt catcaccatc gccctaggaa tgtatttcac
+      481 agctctacaa gcagcagagt actatgaagc accttttaca atttctgacg gagtgtacgg
+      541 atcaactttt tttatagcga caggcttcca cggtttccat gtaattattg gaactacatt
+      601 cttaacagta tgttttatac gccaactaaa atatcacttc acatcaaaac atca
+//
+

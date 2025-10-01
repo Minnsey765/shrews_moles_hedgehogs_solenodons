@@ -1,0 +1,60 @@
+LOCUS       KF783055                 636 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Neotetracus sinensis isolate 1 voucher Neo78 recombination
+            activating protein 1 (RAG1) gene, partial cds.
+ACCESSION   KF783055
+VERSION     KF783055.1
+KEYWORDS    .
+SOURCE      Neotetracus sinensis (Shrew gymnure)
+  ORGANISM  Neotetracus sinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Neotetracus.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Neotetracus sinensis"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /specimen_voucher="Neo78"
+                     /db_xref="taxon:977878"
+                     /geo_loc_name="Viet Nam"
+     gene            <1..>636
+                     /gene="RAG1"
+     mRNA            <1..>636
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>636
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="AIN37145.1"
+                     /translation="SGPAVPEKAVRFSFTVMKITIAHDSQNVNVFEEAKPNSELCCKP
+                     LCLMLADESDHETLTAILSPLIAEREAMKSSQLMLEMGGILRTFKFIFRGTGYDEKLV
+                     REVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERYEVWRSNPYHETVE
+                     ELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEVFKNPNAS"
+ORIGIN      
+        1 cagtggtcca gctgttccag aaaaggcagt tcggttttcc ttcactgtca tgaaaatcac
+       61 catagcccac gactcccaga atgtaaacgt gtttgaggaa gccaaaccca actctgagct
+      121 gtgctgcaag cccttgtgcc tgatgctggc ggatgagtct gaccacgaga ccctgacggc
+      181 catcctgagc cctctcatcg ctgagaggga agccatgaag agcagtcagc taatgctcga
+      241 gatgggaggc attctccgca cctttaagtt catcttcagg ggcacggggt acgatgaaaa
+      301 acttgtccgg gaagtggaag gcctggaggc ttctggttca gtctacatct gtaccctttg
+      361 tgacgccact cgcctggaag cctctcagaa ccttgtcttc cattccatca ccagaagtca
+      421 cactgagaac ctggagcgct acgaggtctg gcgttccaat ccataccacg agaccgtgga
+      481 agagctgaga gatcgggtga aaggggtctc ggccaagccc tttatcgaga ctgtcccttc
+      541 catcgacgca ctgcactgtg acatcggtaa cgcagctgaa ttctacaaga ttttccagct
+      601 agagatagga gaggtgttta agaaccccaa cgcctc
+//
+

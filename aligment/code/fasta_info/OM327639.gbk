@@ -1,0 +1,58 @@
+LOCUS       OM327639                1470 bp    DNA     linear   MAM 26-JAN-2022
+DEFINITION  Anourosorex yamashinai voucher ASIZFZ001964 large subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OM327639
+VERSION     OM327639.1
+KEYWORDS    .
+SOURCE      mitochondrion Anourosorex yamashinai
+  ORGANISM  Anourosorex yamashinai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 1470)
+  AUTHORS   Chen,Y.N., Tsai,L.C., Hsieh,H.M., Lee,J.C.-I. and Huang,S.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JAN-2022) Forensic Science, Central Police
+            University, No. 56, Shuren Rd., Taoyuan City 333322, Taiwan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1470
+                     /organism="Anourosorex yamashinai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ASIZFZ001964"
+                     /db_xref="taxon:268756"
+                     /geo_loc_name="Taiwan"
+                     /collected_by="Academia Sinica Taiwan"
+     rRNA            <1..>1470
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 actaaagcta gcccaaacta ttactattat ttgttaaaat tcctaaatat attaaaataa
+       61 aacattcaca aaattaaagt ataggagata gaaattttaa aactggagcc atagagatag
+      121 taccgtaagg gaacgactga aagaatatat taaaagtaaa aaacagcaaa gattatccct
+      181 tgtacctttt gcataatgat ttaactagaa aaattttagc aaagagccct taagttaaac
+      241 accccgaaac cagacgagct atccatgaac agctataaaa ttgagctaac tcatctatgt
+      301 agcaaaatag tgagaagatt tatggataga ggtgaaaagc ctaccgagcc tggtgatagc
+      361 tggttgtcca gacaagaatt ttagttctaa tttaaattta csttataaca tcataattta
+      421 tttgtaaatt taaatattag tctaaaaggg tacagccttt tagatttagg atacaaccta
+      481 aattagagag taaaatattt taattcccat agttggccta aaagcagcca tcaattaaga
+      541 aagcgttcaa gctcaacagt aaattatatt caaatttaaa ccactaatat ttaactccta
+      601 aatttttact ggactaatct atataattat agaagtaata ctgttaatat gagtaacaag
+      661 attttaatct ccaagcgcaa acttatgtca gatcaaataa taactgataa ttaacagcca
+      721 aataaatata aattcaaatt aactatttat tataatactg ttaacccaac acaggagcgc
+      781 acaattttaa aggaaagatt taaagaagta aaaggaactc ggcaaacaca aaccccgcct
+      841 gtttaccaaa aacatcacct ctagcattac tagtattaga ggcactgcct gcccagtgac
+      901 aattgttaaa cggccgcggt atcctgaccg tgcaaaggta gcataatcat ttgttcctta
+      961 aatagggact tgtatgaatg gccacacgag ggtttaactg tctcttactt ccaatcagtg
+     1021 aaattgacct tcccgtgaag aggcgggaat atacaaataa gacgagaaga ccctatggag
+     1081 ctttaattta ataacccaaa agaaatttca ttttattaac ttaacaagat tttcaaactg
+     1141 ggttaaaaat ttaggttggg gtgacctcgg aaaatagaaa aacttccgag aaacatatac
+     1201 taagtctaac aagacaaagt aaattataca aattgatcca gtctaactga tcaacggaat
+     1261 aagttaccct agggataaca gcgcaatcct atttcagagt tcatatcgac aatagggttt
+     1321 acgacctcga tgttggatca ggacatccta atggtgcagc agctattaat ggttcgtttg
+     1381 ttcaacgatt aaagtcctac gtgatctgag ttcagaccgg agtaatccag gtcggtttct
+     1441 atctatttaa catttctccc agtacgaaag
+//
+

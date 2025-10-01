@@ -1,0 +1,58 @@
+LOCUS       GU981106                 513 bp    DNA     linear   MAM 06-MAR-2013
+DEFINITION  Anourosorex squamipes isolate Ansquam7 apolipoprotein B (ApoB)
+            gene, partial cds.
+ACCESSION   GU981106
+VERSION     GU981106.1
+KEYWORDS    .
+SOURCE      Anourosorex squamipes (mole shrew)
+  ORGANISM  Anourosorex squamipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 513)
+  AUTHORS   He,K., Li,Y.J., Brandley,M.C., Lin,L.K., Wang,Y.X., Zhang,Y.P. and
+            Jiang,X.L.
+  TITLE     A multi-locus phylogeny of Nectogalini shrews and influences of the
+            paleoclimate on speciation and evolution
+  JOURNAL   Mol. Phylogenet. Evol. 56 (2), 734-746 (2010)
+   PUBMED   20363345
+REFERENCE   2  (bases 1 to 513)
+  AUTHORS   He,K. and Jiang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang East Road, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..513
+                     /organism="Anourosorex squamipes"
+                     /mol_type="genomic DNA"
+                     /isolate="Ansquam7"
+                     /specimen_voucher="16164"
+                     /db_xref="taxon:127560"
+                     /geo_loc_name="China: Yunnan"
+     gene            <1..>513
+                     /gene="ApoB"
+     mRNA            <1..>513
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>513
+                     /gene="ApoB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="ADK21351.1"
+                     /translation="PLPLDMXDVFLNHNINSFLRQVEKVRDEALVLVIQSYNEAKMKF
+                     DEHKVEKSITQQRKTFQIPGYTIPVVNVEVSPFTVEMFPFGYVIPKEVSTPKFTILGS
+                     GFSVPSYTLVLPFLELPALHIPKFLELSFPDFKVSSIPRNIFIPALGNVTYDFSFKSS
+                     VITLNANAGLY"
+ORIGIN      
+        1 ccacttcctt tggatatgyt tgatgtgttt ttgaatcata atatcaattc ctttctgagg
+       61 caagttgaga aggtcagaga tgaggcattg gttcttgtta ttcaatccta taatgaagca
+      121 aaaatgaaat ttgatgagca taaggttgaa aaatctatca cccaacaacg aaagaccttt
+      181 caaattccag ggtacaccat tcctgttgtt aatgtcgaag tgtctccatt cacagtagag
+      241 atgtttccat ttggttatgt gatcccaaag gaggtcagca ccccaaagtt caccatcctg
+      301 ggttctggtt tctctgtgcc ttcctatact ttagtcctgc cctttctaga actaccagct
+      361 cttcatatcc ctaagtttct tgagctttct tttccagact tcaaagtatc gagtatccca
+      421 aggaatattt tcattccagc cctgggaaat gttacatatg atttttcctt taagtcaagt
+      481 gtcattacac tgaatgccaa tgctggactt tat
+//
+

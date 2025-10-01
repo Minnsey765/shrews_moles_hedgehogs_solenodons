@@ -1,0 +1,71 @@
+LOCUS       KX755184                 861 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scapanulus oweni isolate Soweni_4 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755184
+VERSION     KX755184.1
+KEYWORDS    .
+SOURCE      Scapanulus oweni (Gansu mole)
+  ORGANISM  Scapanulus oweni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanulus.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Scapanulus oweni"
+                     /mol_type="genomic DNA"
+                     /isolate="Soweni_4"
+                     /specimen_voucher="KIZ:110501"
+                     /db_xref="taxon:1300117"
+                     /geo_loc_name="China: Shaanxi"
+     gene            <1..>861
+                     /gene="APOB"
+     mRNA            <1..>861
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>861
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33589.1"
+                     /translation="EKTGLKDFLRTTKQSFDLSVKTQYKKNKDHHSIPIPLDVFYVFM
+                     NHNINSFIRQFEKGRHQALVFLTNAYNEAKIKLDKYKVEKSLNNQPRTFQIPGYTIPV
+                     LNIEASPSTVKMLPFGYGIPEEISTPSFTIWGSDFHVPSYTLVLPSLELPALPVPTSP
+                     LEFSLPEFKILSTPRNILIPALGNITYDFSFKSSVITLNTNAELYNQSDIVVHFLSSS
+                     SSVVDALQYKLEGSSSLTRKRGLKLATALSLSNEFVGGSHNSTISLTKKNMDASVTTI
+                     AKVQTSILNMN"
+ORIGIN      
+        1 gaaaaaacgg gcttgaagga cttcttgaga acgacaaagc aatcatttga tttaagtgta
+       61 aagactcagt ataagaaaaa caaagaccat cattccatcc cgattccttt ggatgtgttt
+      121 tatgtgttta tgaatcataa catcaattcc ttcatcaggc aatttgagaa aggcagacat
+      181 caggctttag tttttttgac caatgcctat aatgaagcaa aaattaagtt ggataagtat
+      241 aaggttgaaa aatccctcaa caaccaaccc aggacctttc aaattcctgg atacactatt
+      301 ccagtcctca acattgaagc ttctccatca acagtaaaga tgttaccatt tggctatggg
+      361 atcccagaag agatcagcac ccccagcttc accatctggg gttctgactt ccatgtgccc
+      421 tcctatacct tagtcctgcc atccctagag ctgccagccc ttcctgtccc tacaagccct
+      481 cttgagtttt ctcttccaga attcaagata ttgagtaccc caagaaacat cttaattcct
+      541 gccctgggca atattaccta tgatttttcc tttaaatcaa gtgtcatcac actgaatacc
+      601 aatgctgaac tttataacca atcagacatt gttgttcatt tccttagttc ctcttcttct
+      661 gttgtggatg ctttgcagta caagctagag ggtagctcaa gtttgacaag gaaaagaggg
+      721 ctgaagttgg ccacagcctt gtctctgagt aatgaatttg tgggaggcag tcacaacagt
+      781 accattagct taacaaaaaa aaacatggat gcatcagtga caacaattgc aaaagttcaa
+      841 acttcaattt tgaatatgaa t
+//
+

@@ -1,0 +1,54 @@
+LOCUS       GU473390                 574 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Congosorex phillipsorum voucher FMNH177684 apolipoprotein B (ApoB)
+            gene, partial cds.
+ACCESSION   GU473390
+VERSION     GU473390.1
+KEYWORDS    .
+SOURCE      Congosorex phillipsorum
+  ORGANISM  Congosorex phillipsorum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Congosorex.
+REFERENCE   1  (bases 1 to 574)
+  AUTHORS   Stanley,W.T. and Esselstyn,J.A.
+  TITLE     Biogeography and diversity among montane populations of mouse shrew
+            (Sorici= dae: Myosorex) in Tanzania
+  JOURNAL   Biol. J. Linn. Soc. Lond. 100 (3), 669-680 (2010)
+REFERENCE   2  (bases 1 to 574)
+  AUTHORS   Stanley,W.T. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JAN-2010) Biodiversity Institute, University of
+            Kansas, 1345 Jayhawk Blvd., Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..574
+                     /organism="Congosorex phillipsorum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH177684"
+                     /db_xref="taxon:456970"
+     gene            <1..>574
+                     /gene="ApoB"
+     mRNA            <1..>574
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>574
+                     /gene="ApoB"
+                     /codon_start=2
+                     /product="apolipoprotein B"
+                     /protein_id="ADL67004.1"
+                     /translation="LSVKAQYKKNKDKHPIPLALDMFYLFLNNNINFFFRQIEKVRDK
+                     ALIFVTESYNEAKIKLDEYNVENSLTKQQRTFQIPGYTIPVVNIEASPFTVEMLPFGY
+                     VIPKEINTPNLTILGSELLVPSYTLALPFLELPALQFPKNFLEFSLPEFKLLSMPRYI
+                     FIPALGNIIYDFSFKSSVITLNANAELYNQS"
+ORIGIN      
+        1 cttaagtgtg aaggctcagt ataagaaaaa caaagacaag catcccatac ctcttgcgtt
+       61 ggatatgttt tatttgttcc ttaataataa tatcaatttc tttttcaggc aaattgagaa
+      121 agtcagagac aaggcattaa tttttgttac tgaatcctat aatgaggcaa agattaagtt
+      181 agatgagtat aatgttgaaa actctctcac caaacaacaa agaacttttc aaattccagg
+      241 ctacaccatt ccagttgtca atattgaagc atctccattc acagtagaga tgcttccatt
+      301 tggctatgtg atcccaaaag agatcaacac ccccaacttg accatcctgg gttctgagtt
+      361 attggtacca tcatatactt tagccctgcc atttctagaa ctaccagctc ttcaattccc
+      421 taagaacttt cttgagtttt ctcttccaga atttaagcta ttgagtatgc caaggtatat
+      481 tttcattcca gctctgggaa atattatata tgatttttcc tttaaatcaa gtgtcatcac
+      541 actaaatgcc aatgctgaac tttataacca atca
+//
+

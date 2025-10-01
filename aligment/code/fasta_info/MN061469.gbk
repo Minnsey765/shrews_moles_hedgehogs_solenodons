@@ -1,0 +1,59 @@
+LOCUS       MN061469                 680 bp    DNA     linear   MAM 30-JUN-2020
+DEFINITION  Notiosorex crawfordi voucher MVZ:148830 cytochrome oxidase subunit
+            I (COX1) gene, partial cds; mitochondrial.
+ACCESSION   MN061469
+VERSION     MN061469.1
+KEYWORDS    .
+SOURCE      mitochondrion Notiosorex crawfordi (Desert shrew)
+  ORGANISM  Notiosorex crawfordi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Notiosorex.
+REFERENCE   1  (bases 1 to 680)
+  AUTHORS   Camargo,I. and Alvarez Castaneda,S.T.
+  TITLE     A new species and subspecies of desert shrew (Notiosorex) from Baja
+            California and California
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 680)
+  AUTHORS   Camargo,I. and Alvarez Castaneda,S.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUN-2019) Centro de Investigaciones Biologicas del
+            Noroeste, La Paz, Baja California Sur 23096, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..680
+                     /organism="Notiosorex crawfordi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:148830"
+                     /db_xref="taxon:268773"
+     gene            <1..>680
+                     /gene="COX1"
+     CDS             <1..>680
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="QIJ58545.1"
+                     /translation="LYMVFGAWAGMVGTALSILIRAELGQPGTLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMLGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPAVS
+                     QYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNFNTTFFDPSGGGDPILYQHLF
+                     CFFGHPEV"
+ORIGIN      
+        1 ttatatatag tatttggtgc ttgagccgga atagttggaa cagccttaag tatcttgatt
+       61 cgtgctgaat tgggacaacc aggcacatta ttaggagatg atcaaattta taatgtaatt
+      121 gtaaccgcac acgcatttgt tataattttc ttcatggtta tacctatcat actaggaggc
+      181 tttggcaact gattagttcc tttaataatt ggagccccag acatagcatt tcctcgaata
+      241 aataacataa gtttttgact tctccctccc tcttttctcc tccttcttgc ttcatcaact
+      301 gttgaagcag gagctggaac aggatgaacc gtatatcccc cattagctgg taatcttgct
+      361 catgctggag catcagttga cctagcaatc ttttcccttc acttagcagg ggtttcatca
+      421 attttaggtg ctattaattt tatcaccact attatcaata tgaaaccacc agctgtatct
+      481 caataccaaa caccattatt cgtttgatct gtacttatta ccgcagtact tttactttta
+      541 tccctccctg ttttagccgc tggcatcacc atgctattaa cagatcgaaa ctttaatact
+      601 actttctttg acccttctgg aggtggtgac cctatccttt atcaacatct cttctgcttc
+      661 ttcggccacc cagaagtcta
+//
+

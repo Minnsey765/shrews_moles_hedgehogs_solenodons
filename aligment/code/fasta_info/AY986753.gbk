@@ -1,0 +1,42 @@
+LOCUS       AY986753                 491 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Parascalops breweri BDNF-like (BDNF) gene, partial sequence.
+ACCESSION   AY986753
+VERSION     AY986753.1
+KEYWORDS    .
+SOURCE      Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1  (bases 1 to 491)
+  AUTHORS   Mussell,J.C., Allard,M.W. and Kilpatrick,C.W.
+  TITLE     A reexamination of Lipotyphla and Afrotheria based on both
+            molecular and morphological analyses
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 491)
+  AUTHORS   Mussell,J.C., Allard,M.W. and Kilpatrick,C.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2005) Functional Anatomy and Evolution, Johns
+            Hopkins University, 1830 E. Monument St., Baltimore, MD 21205, USA
+FEATURES             Location/Qualifiers
+     source          1..491
+                     /organism="Parascalops breweri"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:94437"
+     gene            <1..>491
+                     /gene="BDNF"
+     misc_feature    <1..>491
+                     /gene="BDNF"
+                     /note="similar to BDNF"
+ORIGIN      
+        1 gagctgcccc tatnaaaaaa gccagtgtcc gaggaccagn cagcttggcc tacccaggtg
+       61 tgcggaccca tgggactctg gagagcacga atgggcccaa ggcaggttca agaggcctga
+      121 cattggctga cacttttgaa cacgtgatag aagagctcct ggatgaggac cagaaaatcc
+      181 ggccccacga agagaacaat aaggacgcgg acttgtacac ctccagggta atgctcagta
+      241 gtcaagtgcc tttggagcct cctctcctct ttctgctcga gaatacaaaa attacctgga
+      301 tgctgcgaac atgtctatga gggtccggcg ccactccgac ccggcgcgcc gcggggagct
+      361 gagcgtgtgc gacagcatta gcgagtgggt gacggcggcg gataaaaaga ctgcagtgga
+      421 catgtcgggc gggacagtga cagtccttga aaaagtccct gtatcgaaag gccaactgaa
+      481 gcagtacttt t
+//
+

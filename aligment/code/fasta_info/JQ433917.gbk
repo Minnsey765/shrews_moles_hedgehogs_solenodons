@@ -1,0 +1,54 @@
+LOCUS       JQ433917                 579 bp    DNA     linear   MAM 30-JUN-2013
+DEFINITION  Suncus etruscus brain-derived neurotrophic factor (BDNF) gene,
+            partial cds.
+ACCESSION   JQ433917
+VERSION     JQ433917.1
+KEYWORDS    .
+SOURCE      Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 579)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Phylogenetic relationships of Sri Lankan shrews, including the
+            endemic genera Feroculus and Solisorex
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 579)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2012) Department of Biology, Boston University, 5
+            Cummington Street, Boston, MA 02215, USA
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Suncus etruscus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:109475"
+                     /geo_loc_name="India"
+     gene            <1..>579
+                     /gene="BDNF"
+     mRNA            <1..>579
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>579
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AFI80830.1"
+                     /translation="FGCMKAAPLKEANIRGQGSLAYPGVRTHGTLESVNGPKAGSRGL
+                     TSLADTFEHVIEELLDEDQKARPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYK
+                     NYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPV
+                     SKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWK"
+ORIGIN      
+        1 tttggttgca tgaaagctgc ccccytgaaa gaagcaaaca tccgaggaca aggcagcttg
+       61 gcctacccag gagtgcggac ccatgggact ctggagagcg tgaatgggcc caaggcaggt
+      121 tcacgaggcc tgacatcatt ggctgacact tttgaacacg tgatcgaaga gctgttggat
+      181 gaggaccaga aagctcggcc ccatgaagaa aacaataagg acgcggactt gtacacttcc
+      241 cgagtgatgc tcagtagtca agtgcctttg gagcctcctc ttctctttct gctggaggaa
+      301 tacaaaaatt acctggatgc tgcgaacatg tcgatgaggg tccggcgcca ctctgaccct
+      361 gcccgccgtg gggagctgag cgtgtgtgac agcatcagcg agtgggtgac agcagcagat
+      421 aaaaagactg cagtggacat gtcaggcggg acagtcactg tccttgaaaa agttcctgta
+      481 tcaaaaggcc aactgaagca gtacttctat gaaaccaaat gcaatcccat gggttacaca
+      541 aaggagggct gcaggggcat agacaaaagg cactggaaa
+//
+

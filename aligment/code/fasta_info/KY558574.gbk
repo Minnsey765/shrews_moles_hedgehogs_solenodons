@@ -1,0 +1,65 @@
+LOCUS       KY558574                 727 bp    DNA     linear   MAM 23-APR-2017
+DEFINITION  Paraechinus aethiopicus isolate 24bb apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KY558574
+VERSION     KY558574.1
+KEYWORDS    .
+SOURCE      Paraechinus aethiopicus (Desert hedgehog)
+  ORGANISM  Paraechinus aethiopicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Paraechinus.
+REFERENCE   1  (bases 1 to 727)
+  AUTHORS   Derouiche,L., Vercammen,P., Bouhadad,R. and Fernandes,C.
+  TITLE     Genetic evidence supporting the taxonomic separation of the Arabian
+            and Northwest African subspecies of the desert hedgehog
+            (Paraechinus aethiopicus)
+  JOURNAL   Gene (2017) In press
+   PUBMED   28400268
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 727)
+  AUTHORS   Derouiche,L., Vercammen,P., Bouhadad,R. and Fernandes,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JAN-2017) cE3c - Centre for Ecology, Evolution and
+            Environmental Changes, Faculdade de Ciencias, Universidade de
+            Lisboa, Building C2, Campo Grande, Lisbon 1749-016, Portugal
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..727
+                     /organism="Paraechinus aethiopicus"
+                     /mol_type="genomic DNA"
+                     /isolate="24bb"
+                     /db_xref="taxon:262775"
+     gene            <1..>727
+                     /gene="APOB"
+     mRNA            <1..>727
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>727
+                     /gene="APOB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="ARI50465.1"
+                     /translation="LNIPLTIPEMALPFTTLTTPQVKEFSLWEEAGLKKVLKTTKQSF
+                     DLSVKIQYMKNKNQHSISVPLDRVYVSIHRNINAFMGKFEKARDKTLGFLAKSYNEAR
+                     FKFNKPLNEQPRTFQIPGYTIPVINLEASPFTVEMLPFGYMIPKEISTPNFTIPGSDF
+                     SVSSYNLALPFLELPDLQIPGFLPQFSLPEFKAMSFPIPALGNITCDFSFKSSVITLN
+                     TNAGLYNQSDLVAHFVTSSSSVF"
+ORIGIN      
+        1 tcttaaacat tcctttaaca atccctgaaa tggctctacc tttcacaaca ctcacaactc
+       61 cccaggtgaa agaattctcc ttatgggaag aagcaggctt gaagaaagtc ttgaaaacaa
+      121 caaagcaatc atttgattta agtgtaaaga ttcaatacat gaaaaacaaa aaccagcatt
+      181 ccatctcagt tcccttagac agagtgtatg tgtccattca ccgtaatatc aatgccttca
+      241 tggggaaatt tgagaaagcc agagacaaga cattaggttt tcttgccaaa tcctataacg
+      301 aagcaagatt taagtttaat aaacccctca atgagcagcc caggaccttc cagattcctg
+      361 gatacactat tccagtcatc aatcttgaag cgtctccatt cacagtagag atgttgccat
+      421 ttggttacat gatcccaaag gagatcagca cccccaactt caccatccca ggttctgact
+      481 tttctgtatc ctcctataac ttagccctgc catttctaga acttccagac cttcaaatcc
+      541 ctgggttcct tcctcaattt tctcttccag aattcaaagc aatgagcttc ccaattccag
+      601 ctctgggaaa cattacctgt gatttctcct ttaaatctag tgtcattaca ctgaatacca
+      661 acgctggact ttataaccaa tcagatcttg tcgctcattt cgtcacctcc tcttcttctg
+      721 tctttag
+//
+

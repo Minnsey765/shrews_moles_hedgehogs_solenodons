@@ -1,0 +1,64 @@
+LOCUS       ON219790                 687 bp    DNA     linear   MAM 12-NOV-2022
+DEFINITION  Chimarrogale styani isolate CSD4477 recombination activating
+            protein 2 (RAG2) gene, partial cds.
+ACCESSION   ON219790
+VERSION     ON219790.1
+KEYWORDS    .
+SOURCE      Chimarrogale styani (Chinese water shrew)
+  ORGANISM  Chimarrogale styani
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Chimarrogale.
+REFERENCE   1  (bases 1 to 687)
+  AUTHORS   Fan,R., Tang,K., Dou,L., Fu,C., Faiz,A.U.H., Wang,X., Wang,Y.,
+            Chen,S. and Liu,S.
+  TITLE     Molecular phylogeny and taxonomy of the genus Nectogale (Mammalia:
+            Eulipotyphla: Soricidae)
+  JOURNAL   Ecol Evol 12 (10), e9404 (2022)
+   PUBMED   36311392
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 687)
+  AUTHORS   Chen,S. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2022) College of Life Sciences, Sichuan Normal
+            University, Chenglong Street 1819, Chengdu, Sichuan 610066, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..687
+                     /organism="Chimarrogale styani"
+                     /mol_type="genomic DNA"
+                     /isolate="CSD4477"
+                     /specimen_voucher="SCNU02859"
+                     /db_xref="taxon:1365920"
+     gene            <1..>687
+                     /gene="RAG2"
+     mRNA            <1..>687
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>687
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="UZF66021.1"
+                     /translation="HQYIIHGGKTPNNELSDKIYIISVVCKNNKKVTFRCTEKDLVGD
+                     VPEARYGHSIDMVYSRGKTMGVLFGGRSYMPSAQRTTEKWNAVADCPPHVFLVDFEFG
+                     CSTSYVLPELQDGLSFHVSIARKDTVYILGGHSLSNNMRPANLYRIKVDLPLGSPAVN
+                     CTVLPGGISVSSAILTQTSDDEFIIVGGYQLENQKRMVCNIVSFDDNKIEIHEMETPD
+                     WTPDIKHSKLW"
+ORIGIN      
+        1 catcaataca tcatccatgg tgggaaaaca ccaaacaatg agctttcaga taagatatat
+       61 atcatatctg ttgtttgcaa gaacaacaaa aaagttactt ttcgctgcac agagaaagac
+      121 ttggtgggag atgttcctga agccagatat ggtcattcca ttgatatggt atatagtcga
+      181 gggaaaacta tgggtgttct ctttggagga cgctcataca tgccttctgc ccaacgaacc
+      241 acagaaaaat ggaatgcggt agcagactgc ccacctcatg ttttcctggt ggattttgaa
+      301 tttggatgct ctacatcata tgttcttcca gaacttcaag atgggctgtc ttttcatgtc
+      361 tcaattgcca gaaaagatac cgtttacatt ttaggaggac attcactttc taataacatg
+      421 cgcccagcca acctgtacag aataaaggtt gatctgcccc tggggagccc agctgtgaat
+      481 tgcacagtct tgccaggagg aatctcagtt tccagtgcta tactgaccca aaccagcgat
+      541 gacgaattta ttattgttgg tggttatcaa cttgaaaatc aaaaaagaat ggtttgcaac
+      601 atcgtgtctt tcgatgataa caagatagaa attcatgaga tggagactcc agactggacc
+      661 cctgatatta agcacagcaa gctatgg
+//
+

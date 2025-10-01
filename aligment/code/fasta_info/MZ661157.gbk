@@ -1,0 +1,63 @@
+LOCUS       MZ661157                 725 bp    DNA     linear   MAM 10-AUG-2022
+DEFINITION  Sorex coronatus voucher CSCF-MAM-1203353 cytochrome oxidase subunit
+            1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MZ661157
+VERSION     MZ661157.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Sorex coronatus (crowned shrew)
+  ORGANISM  Sorex coronatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 725)
+  AUTHORS   Wyler,S.
+  TITLE     Small mammals reference
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 725)
+  AUTHORS   Wyler,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2021) InfoFauna - CSCF, University of Neuchatel,
+            Avenue de Bellevaux 51, Neuchatel, Neuchatel 2000, Suisse
+FEATURES             Location/Qualifiers
+     source          1..725
+                     /organism="Sorex coronatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CSCF-MAM-1203353"
+                     /db_xref="BOLD:MAMAA294-21.COI-5P"
+                     /db_xref="taxon:62895"
+                     /geo_loc_name="Switzerland: Solothurn"
+                     /lat_lon="47.243 N 7.538 E"
+                     /collection_date="17-Jul-2018"
+                     /identified_by="Marilena Palmisano"
+                     /PCR_primers="fwd_seq: cctactcrgccattttacctatg, rev_seq:
+                     acttctgggtgtccaaagaatca"
+     gene            <1..>725
+                     /gene="COI"
+     CDS             <1..>725
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="UUL99419.1"
+                     /translation="ILPMFVTRWLFSTNHKDIGTLYMVFGAWAGMVGTALSILIRAEL
+                     GQPGALLGDDQIYNVIVTAHAFVMIFFMVMPIMLGGFGNWLIPLMIGAPDMAFPRMNN
+                     MSFWLLPPSFLLLLASSTVEAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSS
+                     ILGSINFITTIINMKPPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNL
+                     NTTFFDPAGGGDPILYQHLFWFF"
+ORIGIN      
+        1 cattttacct atgttcgtaa cccgttgatt attttctacc aaccacaaag acatcggaac
+       61 tttatacatg gtatttgggg cctgggccgg aatagtagga acagccctga gtattttaat
+      121 tcgtgctgaa ttaggtcagc caggcgccct actaggtgat gaccagatct ataacgttat
+      181 tgtaactgcc cacgcattcg ttataatttt ctttatagtg ataccaatta tgctcggagg
+      241 ttttggaaac tggcttatcc ctttaatgat tggtgcacca gatatggcat tcccacgaat
+      301 aaataatata agcttctgac ttctcccccc atcatttctt ctactactag cctcatcaac
+      361 cgtcgaagca ggggcaggta ccggctgaac tgtctacccc ccattggccg ggaatctagc
+      421 ccatgcagga gcatctgttg acttagcaat tttttctctc cacttagcag gtgtttcatc
+      481 cattctaggg tcaatcaact tcattaccac aattattaat atgaaacctc ctgctatatc
+      541 tcaatatcaa acacccctat tcgtatgatc agtcctaatt acagcagtac ttctacttct
+      601 ctcactccca gttcttgcag ctggcattac tatactttta acagatcgta atcttaatac
+      661 tactttcttt gaccctgccg gaggtggaga cccaattctt tatcaacatc ttttctgatt
+      721 ctttg
+//
+

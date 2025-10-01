@@ -1,0 +1,51 @@
+LOCUS       FJ813738                 577 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Suncus murinus voucher KU165125 apolipoprotein B gene, partial cds.
+ACCESSION   FJ813738
+VERSION     FJ813738.1
+KEYWORDS    .
+SOURCE      Suncus murinus (house shrew)
+  ORGANISM  Suncus murinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 577)
+  AUTHORS   Esselstyn,J.A., Timm,R.M. and Brown,R.M.
+  TITLE     Do geological or climatic processes drive speciation in dynamic
+            archipelagos? The tempo and mode of diversification in Southeast
+            Asian shrews
+  JOURNAL   Evolution 63 (10), 2595-2610 (2009)
+   PUBMED   19500148
+REFERENCE   2  (bases 1 to 577)
+  AUTHORS   Esselstyn,J.A., Timm,R.M. and Brown,R.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAR-2009) Biodiversity Research Center, University of
+            Kansas, 1345 Jayhawk Blvd., Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1..577
+                     /organism="Suncus murinus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU165125"
+                     /db_xref="taxon:9378"
+     mRNA            <1..>577
+                     /product="apolipoprotein B"
+     CDS             <1..>577
+                     /codon_start=2
+                     /product="apolipoprotein B"
+                     /protein_id="ACY36346.1"
+                     /translation="DLSVNAQYKKNKDKHPIPLPLDMLYLFFNHNINSFLRQVDHVRD
+                     KALVFVTESYNEARIKLYDYNVENSLTKQQRTFQIPGYTIPVVNIETSPFTVEMLPFG
+                     YVIPKAISTPNFTILDSGFFVPSYTLALPFLELPALQVPKYSLELSLPEFEVLSMPRN
+                     IFIPALGNITYDFSFKSNVIALSAKAGLYNQS"
+ORIGIN      
+        1 tgacttaagt gtaaatgctc agtataagaa aaacaaagac aagcatccca tcccacttcc
+       61 tttggatatg ctttatttat tctttaatca taatatcaat tcctttctca gacaagttga
+      121 tcatgtcaga gacaaggcat tagtttttgt tactgaatcc tataatgaag caagaattaa
+      181 gttatatgat tataatgttg aaaattctct aacaaaacaa caaaggactt ttcaaattcc
+      241 aggatatacc attccagtcg tcaatattga gacatctcca ttcacagtag agatgcttcc
+      301 atttggctat gtgatcccaa aagcaatcag cacccccaac tttactatct tagattctgg
+      361 cttctttgtg ccctcatata ctttagcttt gccatttcta gaactaccag cccttcaagt
+      421 tcctaagtat tcccttgagc tttctcttcc agaatttgaa gtattgagta tgccaaggaa
+      481 tattttcatt ccagctctgg gaaatattac atatgacttt tcttttaaat caaatgtcat
+      541 cgcactaagt gccaaagctg gactttataa ccaatca
+//
+

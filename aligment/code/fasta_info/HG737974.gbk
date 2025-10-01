@@ -1,0 +1,51 @@
+LOCUS       HG737974                 519 bp    DNA     linear   MAM 12-DEC-2013
+DEFINITION  Euroscaptor longirostris bdnf gene for brain-derived neurotrophic
+            factor, specimen voucher SIK:0775.
+ACCESSION   HG737974
+VERSION     HG737974.1
+KEYWORDS    .
+SOURCE      Euroscaptor longirostris (long-nosed mole)
+  ORGANISM  Euroscaptor longirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Euroscaptor.
+REFERENCE   1
+  AUTHORS   He,K., Shinohara,A., Jiang,X.L. and Campbell,K.
+  TITLE     Multilocus phylogeny of Talpine moles (Talpini, Talpidae,
+            Eulipotyphla) and its implications for systematics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   He,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2013) Biological Sciences, University of
+            Manitoba, 190 Dysart Road, Winnipeg, Manitoba, R3T 2N2, CANADA
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Euroscaptor longirostris"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SIK:0775"
+                     /db_xref="taxon:481574"
+                     /geo_loc_name="Viet Nam:Vinh Phuuc"
+     gene            <1..>519
+                     /gene="bdnf"
+     CDS             <1..>519
+                     /gene="bdnf"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="CDJ26152.1"
+                     /translation="ASVRGPGSLAYPGVRTHGTLESANGPKAGSRGLTLADTFEHVIE
+                     ELLDEDQKARPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRV
+                     RRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFYET
+                     KCNPMGYTKEGCR"
+ORIGIN      
+        1 gccagtgtcc gaggaccagg cagcttggcc tacccaggtg tgcggaccca tgggactctg
+       61 gagagcgcga atgggcccaa ggcaggttca agaggcctga cgttggctga cacttttgaa
+      121 cacgtgatag aagaactcct ggatgaggac cagaaagctc ggccccacga agaaaacaat
+      181 aaggacgcag acttgtacac ctcccgggtg atgctcagta gtcaagtgcc tttggagcct
+      241 cctctcctct ttctgctcga ggaatacaaa aattacctgg atgctgcaaa catgtctatg
+      301 agggtccggc gccactccga ccctgcccgc cgcggggagc tgagtgtgtg tgacagcatt
+      361 agcgagtggg tgacagctgc ggataaaaag actgcagtgg acatgtcggg ggggacggtg
+      421 acggtcctcg aaaaagtccc tgtatcaaaa ggccaactga agcagtactt ctacgagacc
+      481 aagtgcaatc ccatgggcta cacaaaggag ggctgcagg
+//
+

@@ -1,0 +1,62 @@
+LOCUS       MG973452                 721 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Congosorex phillipsorum voucher FMNH:MAMM:177682 recombination
+            activating protein 1 (RAG1) gene, partial cds.
+ACCESSION   MG973452
+VERSION     MG973452.1
+KEYWORDS    .
+SOURCE      Congosorex phillipsorum
+  ORGANISM  Congosorex phillipsorum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Congosorex.
+REFERENCE   1  (bases 1 to 721)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 721)
+  AUTHORS   Giarla,T., Huterrer,R., Balete,D., Heaney,L. and Esselstyn,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..721
+                     /organism="Congosorex phillipsorum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:177682"
+                     /db_xref="taxon:456970"
+     gene            <1..>721
+                     /gene="RAG1"
+     mRNA            <1..>721
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>721
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AWS21449.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTIMRITVAQGPREVKVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKTSTLRLEMGGIPRSFQ
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHSENLQRY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKQPNASREERKRWQATLDKHL"
+ORIGIN      
+        1 tcctgtgacg ggatgggtga tgtgagcgag aagcacggca gtgggcctgc ggtccctgaa
+       61 aaggccgttc gcttttcctt caccatcatg aggatcactg tggcccaggg ccctcgggag
+      121 gtgaaggtgt ttgaggaagc caagcccaac tccgagctgt gctgtaagcc gctgtgcctt
+      181 atgctggcag acgagtcaga ccacgagacc ctgactgcca tcctgagccc cctcattgct
+      241 gagcgggagg ccatgaagac cagcactctg aggttggaaa tggggggcat cccgcgctcc
+      301 ttccagttca tcttcagggg caccgggtac gatgagaagc tcgtgcggga agtggaggga
+      361 ctcgaggcct ctggctccgt ctacatctgc acactgtgcg atgccacccg cctggaggcg
+      421 tcgcagaatc tggtcttcca ttccatcacc agaagtcaca gcgagaacct gcagcgctac
+      481 gaggtgtggc gttccaaccc ctaccacgag tcggtggagg agctgcggga tcgcgtgaaa
+      541 ggggtctcgg ccaaaccctt catcgagacg gtcccttcca tcgacgcgct ccactgcgac
+      601 atcggcaacg cggccgagtt ctacaagatt ttccagctgg agatagggga ggtgtataag
+      661 cagcccaacg cgtccagaga ggagaggaag cggtggcagg ccactctgga caagcatctc
+      721 c
+//
+

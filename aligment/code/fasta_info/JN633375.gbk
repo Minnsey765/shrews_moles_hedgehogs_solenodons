@@ -1,0 +1,64 @@
+LOCUS       JN633375                 555 bp    DNA     linear   MAM 01-NOV-2012
+DEFINITION  Podogymnura truei brain-derived neurotrophic factor (BDNF) gene,
+            partial cds.
+ACCESSION   JN633375
+VERSION     JN633375.1
+KEYWORDS    .
+SOURCE      Podogymnura truei (Mindanao gymnure)
+  ORGANISM  Podogymnura truei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Podogymnura.
+REFERENCE   1  (bases 1 to 555)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 555)
+  AUTHORS   Meredith,R., Janecka,J., Gatesy,J., Ryder,O., Fisher,C.,
+            Teeling,E., Goodbla,A., Eizirik,E., Simao,T., Stadler,T.,
+            Rabosky,D., Honeycutt,R., Flynn,J., Ingram,C., Steiner,C.,
+            Williams,T., Robinson,T., Burk,A., Westerman,M., Ayoub,N.,
+            Springer,M. and Murphy,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2011) Veterinary Integrative Biosciences, Texas
+            A&M University, TAMU 4458, College Station, TX 77843, USA
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /organism="Podogymnura truei"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:48905"
+     gene            <1..>555
+                     /gene="BDNF"
+     mRNA            <1..>555
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>555
+                     /gene="BDNF"
+                     /note="similar to Homo sapiens brain-derived neurotrophic
+                     factor (BDNF), transcript variant 16, exon 11d"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AEO95053.1"
+                     /translation="YFGCMKAAPMKEAHFRGQGSLAYPGLRTHGTLESANGPKASSRD
+                     LALASTFEHVLEELLDEDQKIRPHEETPKDADLYTSRVMLSSQVPLEPPLLFLLEEYK
+                     NYLDAANMSMRVRRHSDPARRGELSVCDSVSQWVTAADKKTAVDMSGGTVTVLEKVPV
+                     SKGQLKQYFYETRCNPLGFTKEGCR"
+ORIGIN      
+        1 tactttggtt gcatgaaggc tgcccccatg aaagaagcac acttccgagg acaaggcagc
+       61 ttggcctacc caggtctgcg gacccatggg actctggaga gcgcaaatgg gcccaaggca
+      121 agttcaagag acctggcgtt ggctagcact tttgaacatg tgctggaaga gctgttggac
+      181 gaggaccaga agattcgtcc ccatgaagaa acccctaagg acgcggactt gtatacttcc
+      241 cgagtgatgc tcagcagtca agtgcctttg gagccaccac ttctctttct gcttgaggaa
+      301 tacaaaaatt acctggatgc tgcaaacatg tcgatgaggg tccgacgcca ctccgaccct
+      361 gcccgccgtg gggagctgag cgtgtgcgac agcgttagcc agtgggtgac agcagcagat
+      421 aaaaagactg cagtggacat gtcgggcggg acggtcacgg tcctggaaaa ggtccctgtg
+      481 tccaaaggcc aactgaagca gtacttctac gagaccaggt gcaatcccct gggtttcacg
+      541 aaggaaggct gcagg
+//
+

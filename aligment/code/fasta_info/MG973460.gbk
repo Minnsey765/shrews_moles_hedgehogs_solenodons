@@ -1,0 +1,62 @@
+LOCUS       MG973460                 753 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Crocidura russula voucher ZFMK:2013.383 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   MG973460
+VERSION     MG973460.1
+KEYWORDS    .
+SOURCE      Crocidura russula (white-toothed shrew)
+  ORGANISM  Crocidura russula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Giarla,T., Huterrer,R., Balete,D., Heaney,L. and Esselstyn,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="Crocidura russula"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZFMK:2013.383"
+                     /db_xref="taxon:36802"
+     gene            <1..>753
+                     /gene="RAG1"
+     mRNA            <1..>753
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>753
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AWS21457.1"
+                     /translation="GRMGDVSEKHGSGPAVPEKAVRFSFTIMRITVAQGPQEVKVFEE
+                     TKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKTSQLKLEMGGIQRTFQFI
+                     FRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHSENLQRYEV
+                     WRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEVYK
+                     QPNVSKEERKRWQATLDKHLRKKMNLKPIMRMN"
+ORIGIN      
+        1 ggcaggatgg gtgatgtgag tgagaagcat ggcagtgggc ctgcagtgcc cgaaaaggct
+       61 gttcgttttt ccttcaccat catgaggatc actgtggccc agggccctca ggaggtgaag
+      121 gtgtttgagg aaaccaaacc caactccgag ctgtgttgca agcccctgtg cctaatgctg
+      181 gcagacgagt ctgaccatga gaccctgacg gctatcctga gcccactcat tgctgagcgg
+      241 gaggccatga agaccagcca gctgaagctg gagatgggtg gcatccaacg caccttccag
+      301 ttcatcttca ggggcactgg gtatgatgag aaactcgtgc gggaagtgga gggcctcgag
+      361 gcttctggct ccgtctacat ctgcaccctg tgtgatgcca ctcgcctgga ggcctcgcag
+      421 aatctggtct tccattccat caccagaagc cacagtgaga acttgcagcg ctatgaggtc
+      481 tggcgttcca acccctacca tgagtcggtg gaggagctgc gggatcgtgt gaaaggggtc
+      541 tcggccaaac ccttcataga gactgtccct tccatcgatg ccctccactg tgacattggc
+      601 aatgcggcag agttctacaa gatcttccag cttgagatag gggaggtgta taagcagccc
+      661 aatgtctcca aagaagagag gaagagatgg caggccactc tggacaagca tctccgaaag
+      721 aagatgaact tgaagccaat tatgaggatg aat
+//
+

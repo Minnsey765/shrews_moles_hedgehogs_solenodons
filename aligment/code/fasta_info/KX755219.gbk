@@ -1,0 +1,69 @@
+LOCUS       KX755219                 796 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Parascalops breweri isolate HT-1 breast cancer 2 (BRCA2) gene,
+            partial cds.
+ACCESSION   KX755219
+VERSION     KX755219.1
+KEYWORDS    .
+SOURCE      Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1  (bases 1 to 796)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 796)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..796
+                     /organism="Parascalops breweri"
+                     /mol_type="genomic DNA"
+                     /isolate="HT-1"
+                     /db_xref="taxon:94437"
+                     /geo_loc_name="USA: New York, Columbia County, Hillsdale"
+                     /note="Pbrewe_1"
+     gene            <1..>796
+                     /gene="BRCA2"
+     mRNA            <1..>796
+                     /gene="BRCA2"
+                     /product="breast cancer 2"
+     CDS             <1..>796
+                     /gene="BRCA2"
+                     /codon_start=2
+                     /product="breast cancer 2"
+                     /protein_id="APD33624.1"
+                     /translation="EXTELSTILEESGSQYEFTQFKKPSHIPXNNPLEMPEKQRTVLN
+                     PTSEEWKDPDLKLTVSAPLTCRVNKKFEDEVGSKRKFACLLKTNCNKSTYAYLTDKNK
+                     VEFSGFCSALGTKLNVSSGALQKAMKLFSDIENISEKTAEVSPGNFSSSNDSVVSEFK
+                     IENDNKKNNKCQIMLQNNTEITTGLFVEKKTEDYQSSKKNKDNRFTGESRNICNLVET
+                     DDNDSSKKDTVCIHRAKNDLPCLDHNICQKLSSQFTKEGNTLIKEGL"
+ORIGIN      
+        1 agaaatnact gaactctcaa ctatattgga agaatcagga agtcagtatg aatttacaca
+       61 gtttaagaag ccaagccaca taccacngaa taatccatta gaaatgcctg aaaaacagag
+      121 gactgtcttg aatcccactt cagaggaatg gaaagatcct gatcttaagc tcacagtcag
+      181 tgccccattg acctgtcggg taaacaagaa atttgaagat gaagttggaa gtaagcgaaa
+      241 gtttgcttgc ttgttgaaaa ctaactgcaa caaaagtact tatgcctatt taacagataa
+      301 aaataaggtg gagtttagtg ggttttgttc tgctcttggc acaaaactga atgtttctag
+      361 tggagccctg caaaaagcca tgaaactgtt tagtgacatt gagaatatta gtgagaaaac
+      421 tgcagaagta agtccaggaa atttctcttc aagtaatgat tctgttgttt cagagtttaa
+      481 aatagaaaat gataataaga aaaataataa atgtcaaata atgttacaaa ataatactga
+      541 gataactact ggcctttttg ttgaaaaaaa gactgaagat taccaaagca gtaaaaaaaa
+      601 taaagataac agattcactg gtgagagcag aaacatttgt aacttagtag aaactgatga
+      661 caatgattca agtaaaaaag atacagtttg cattcataga gctaaaaatg acttgccatg
+      721 tcttgatcac aacatatgtc aaaaattatc tagccagttt acaaaagagg gaaacactct
+      781 aattaaagaa ggttta
+//
+

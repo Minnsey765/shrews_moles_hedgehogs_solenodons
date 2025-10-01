@@ -1,0 +1,75 @@
+LOCUS       MG422537                 657 bp    DNA     linear   MAM 04-NOV-2018
+DEFINITION  Sorex cinereus voucher BIORTP-024_H12 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MG422537
+VERSION     MG422537.1
+DBLINK      BioProject: PRJNA472144
+KEYWORDS    .
+SOURCE      mitochondrion Sorex cinereus (cinereus shrew)
+  ORGANISM  Sorex cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Dewaard,J.R.
+  TITLE     BIOUG Archive GGBN Data Release
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Dewaard,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2017) Collections, Centre for Biodiversity
+            Genomics, 50 Stone Road East, Guelph, Ontario N1G 2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Sorex cinereus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BIORTP-024_H12"
+                     /db_xref="BOLD:ABRCI917-16.COI-5P"
+                     /db_xref="taxon:36803"
+                     /geo_loc_name="Canada: Ontario, Puslinch Township, 2.5 Km
+                     ESE of Arkell, Consession Road 11"
+                     /lat_lon="43.537 N 80.134 W"
+                     /collection_date="04-Sep-2016"
+                     /collected_by="Paul Hebert"
+                     /identified_by="Alex V. Borisenko"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>657
+                     /gene="COI"
+     CDS             <1..>657
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AYJ30888.1"
+                     /translation="TLYMVFGAWAGMVGTALSILIRAELGQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPIMLGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGSINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 actttatata tagtatttgg tgcttgagcc ggtatagtag gcacagccct aagcattcta
+       61 attcgtgctg aattaggcca accaggcgca ctactaggtg atgaccaaat ctataatgta
+      121 atcgttactg ctcacgcatt cgttataatt ttctttatag ttatgcctat catacttgga
+      181 ggttttggaa attgacttat tcctctaatg attggtgccc ccgatatagc tttcccacgt
+      241 ataaacaata taagcttttg actacttccc ccctcattcc tattacttct agcctcatca
+      301 accgtagaag caggagcagg aacaggctga accgtttatc ctcctctagc cggtaactta
+      361 gcccacgcag gagcatccgt tgacctagca attttttccc tacacctagc aggtgtctca
+      421 tcaatcttag gctcaattaa ttttattact actattatta acataaaacc tcccgcaata
+      481 tctcaatatc aaacaccatt atttgtatga tctgtcttaa ttacagcagt attgctactc
+      541 ctttcacttc cagtacttgc agctggaatt acaatattat taacagatcg taatcttaac
+      601 actacattct ttgatcccgc tggaggtgga gaccctattc tttatcaaca cttattc
+//
+

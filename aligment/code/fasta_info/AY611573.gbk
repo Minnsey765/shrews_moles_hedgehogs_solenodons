@@ -1,0 +1,62 @@
+LOCUS       AY611573                1140 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Notiosorex crawfordi isolate TK90852 cytochrome b gene, complete
+            cds; mitochondrial.
+ACCESSION   AY611573
+VERSION     AY611573.1
+KEYWORDS    .
+SOURCE      mitochondrion Notiosorex crawfordi (Desert shrew)
+  ORGANISM  Notiosorex crawfordi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Notiosorex.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   McAliley,L.R., Oniell,M.B. and Baker,R.J.
+  TITLE     Molecular evidence for genetic subdivisions within the desert
+            shrew, Notiosorex crawfordi
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   McAliley,L.R., Oniell,M.B. and Baker,R.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-APR-2004) Department of Biological Sciences, Texas
+            Tech University, Flint and Main Streets, Lubbock, TX 79409, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Notiosorex crawfordi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TK90852"
+                     /db_xref="taxon:268773"
+     CDS             1..1140
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAV35160.1"
+                     /translation="MINLRKTHPLMKIVNNSFIDLPTPSNISSWWNFGSLLGICLIIQ
+                     ILTGLFLAMHYTSDTLTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYLFMETWNIGVLLLFTVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDL
+                     VQWIWGGFSVDKATLTRFFAFHFILPFIIAALAGVHLLFLHETGSNNPSGISSDADKI
+                     PFHPYYTIKDILGILLLILTLSSLVLFSPDMLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILILILSPLLHTAKQRSMMFRPFSQCLFWILVADLLT
+                     LTWIGGQPVEHPFIIIGQLASILYFSLILIIMPITSLLENKLLKW"
+ORIGIN      
+        1 atgatcaacc tccgaaaaac acacccttta ataaaaattg ttaacaactc atttattgat
+       61 ctacccaccc catcaaatat ctcatcttga tgaaactttg gctctctctt aggaatctgc
+      121 ctaattatcc aaatcctcac aggcctattt ttagcaatac attatacatc agatactcta
+      181 acagctttct catccgtcac ccatatttgt cgagacgtaa actacggctg actcattcgc
+      241 tatctccacg caaatggagc atcaatattt tttatctgcc ttttcctaca cgtcggacga
+      301 ggcctttact acggatctta cttatttata gagacatgaa atattggcgt tctactatta
+      361 tttacagtca tagctacagc ctttatagga tatgttcttc catgaggaca aatatcattc
+      421 tgaggagcaa cagtcattac aaacctctta tcagctatcc cctatattgg ttctgactta
+      481 gttcaatgaa tttgaggggg cttttccgtt gataaagcaa cactcacccg attcttcgct
+      541 tttcacttta ttttaccttt cattattgct gcccttgcag gagttcatct cttatttctt
+      601 cacgaaacag gatctaataa tccatccgga atctcctcag acgctgataa aattccattt
+      661 cacccttact acacaattaa agacatttta ggaattctac tccttatcct aacactctca
+      721 tccctagtct tattctcacc agacatgctc ggagatcctg acaattacac accagccaat
+      781 ccccttaaca ctcccccaca cattaaacca gaatgatatt tcctatttgc atatgcaatt
+      841 ctccgatcta ttcctaacaa attaggaggt gtcctagctc tagttctatc tatcttgatc
+      901 ctaatcctct ctccactcct ccacacagct aaacagcgaa gcataatatt ccgaccattc
+      961 agccaatgtc ttttctgaat cttagtagca gacctactaa cattaacatg aattggaggc
+     1021 caacccgttg aacacccctt catcattatt ggtcaactag catcaatctt atatttctcc
+     1081 ttaattttaa ttattatacc cattacaagc ctactcgaaa acaaactatt aaaatgaaga
+//
+

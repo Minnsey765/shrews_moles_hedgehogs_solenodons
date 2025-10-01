@@ -1,0 +1,69 @@
+LOCUS       KF876415                1116 bp    DNA     linear   MAM 18-MAR-2014
+DEFINITION  Sylvisorex lunaris voucher FMNH203754 cytochrome b (cytb) gene,
+            partial cds; mitochondrial.
+ACCESSION   KF876415
+VERSION     KF876415.1
+KEYWORDS    .
+SOURCE      mitochondrion Sylvisorex lunaris (Moon Forest Shrew)
+  ORGANISM  Sylvisorex lunaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Sylvisorex.
+REFERENCE   1  (bases 1 to 1116)
+  AUTHORS   Demos,T.C., Kerbis Peterhans,J.C., Agwanda,B. and Hickerson,M.J.
+  TITLE     Uncovering cryptic diversity and refugial persistence among small
+            mammal lineages across the Eastern Afromontane biodiversity hotspot
+  JOURNAL   Mol. Phylogenet. Evol. 71, 41-54 (2014)
+   PUBMED   24184338
+REFERENCE   2  (bases 1 to 1116)
+  AUTHORS   Demos,T.C., Kerbis Peterhans,J.C., Agwanda,B. and Hickerson,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-NOV-2013) Biology, City College of New York - CUNY,
+            160 Convent Ave., New York, NY 10031, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1116
+                     /organism="Sylvisorex lunaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:203754"
+                     /db_xref="taxon:307106"
+     gene            <1..>1116
+                     /gene="cytb"
+     CDS             <1..>1116
+                     /gene="cytb"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AHB34190.1"
+                     /translation="RKTHPLMKIINSSFIDLPAPSNISAWWNFGSLLGICLIVQILTG
+                     LFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGLYYGS
+                     YMYLETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTSLVEWI
+                     WGGFSVDKATLTRFFAFHFILPFIVAALAGVHLLFLHETGSNNPSGLNSDADKIPFHP
+                     YYTIKDILGILIMIASLSSLVLFTPDMLGDPDNYIPANPLNTPPHIKPEWYFLFAYAI
+                     LRSIPNKLGGVLALVLSILILAIIPFLHTAKQRSMMFRPMSQCMFWILVADLLTLTWI
+                     GGQPVEHPFVVIGQMASVAYFAMILLIMPMTSIIENR"
+ORIGIN      
+        1 tccgaaaaac ccacccatta ataaaaatta tcaatagctc ttttatcgac ctccccgcac
+       61 cctcaaacat ttccgcatga tgaaactttg gctcattact aggaatctgc ctaattgtcc
+      121 aaatcctcac cggattattc ctagctatac actatacatc agacaccata acagccttct
+      181 cttccgtaac tcatatctgc cgagatgtaa actacggttg actcatccga tatcttcatg
+      241 caaacggcgc atccatattc tttatctgcc tctttctcca tgtgggccga ggactctatt
+      301 atggctctta catatatctt gaaacatgaa atatcggcgt gctacttcta tttgcagtca
+      361 tagccaccgc ctttatagga tatgttcttc cttgaggaca aatatcattt tggggagcaa
+      421 cagtaattac taacctactc tcagctatcc cttatattgg tactagcctt gtagaatgaa
+      481 tttgaggcgg attttccgtc gacaaagcca ctttgacccg atttttcgcc tttcatttta
+      541 tcctcccttt tattgtagca gctcttgcag gagtacactt actattctta catgaaactg
+      601 gatcaaacaa cccctccgga ttaaactcag acgcagacaa aattcctttc cacccctact
+      661 atactatcaa agatattcta ggcattttaa ttataattgc ctccctctcc tccctcgtct
+      721 tattcacccc agacatgcta ggagacccag acaactatat ccccgcaaat cctttaaata
+      781 ctcccccaca catcaagcca gaatgatatt tcttatttgc ctatgcaatc ctacgatcaa
+      841 ttcctaataa gctaggtgga gtccttgccc tcgttctatc gattttaatt ttagctatta
+      901 tccctttcct tcacacagcc aagcaacgaa gcataatatt ccgcccaata agccaatgta
+      961 tattttgaat cttagtagca gacctgctta cattaacatg aatcggaggc caaccagtcg
+     1021 agcacccctt tgtagtaatt ggccaaatgg cctctgtagc ctacttcgcc ataatcttac
+     1081 taattatacc tataacaagc atcatcgaga atcgac
+//
+

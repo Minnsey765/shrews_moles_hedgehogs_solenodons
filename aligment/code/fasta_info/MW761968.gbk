@@ -1,0 +1,60 @@
+LOCUS       MW761968                 504 bp    DNA     linear   MAM 17-AUG-2021
+DEFINITION  Crocidura suaveolens voucher EBD2014007015 recombination activating
+            protein 2 (RAG2) gene, partial cds.
+ACCESSION   MW761968
+VERSION     MW761968.1
+KEYWORDS    .
+SOURCE      Crocidura suaveolens (Lesser white-toothed shrew)
+  ORGANISM  Crocidura suaveolens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 504)
+  AUTHORS   Hinckley,A., Camacho-Sanchez,M., Ruedi,M., Hawkins,M.T.R.,
+            Mullon,M., Cornellas,A., Tuh Yit Yuh,F. and Leonard,J.A.
+  TITLE     Evolutionary history of Sundaland shrews (Eulipotyphla: Soricidae:
+            Crocidura) with a focus on Borneo
+  JOURNAL   Zool J Linn Soc (2021) In press
+REFERENCE   2  (bases 1 to 504)
+  AUTHORS   Hinckley,A., Camacho-Sanchez,M., Ruedi,M., Hawkins,M., Mullon,M.,
+            Cornellas,A., Tuh,F. and Leonard,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAR-2021) Conservation and Evolutionary Genetics,
+            EBD-CSIC, Avenida Americo Vespucio, 26, Sevilla, Sevilla 41092,
+            Spain
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious mapper v. 11.0.5
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..504
+                     /organism="Crocidura suaveolens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="EBD2014007015"
+                     /db_xref="taxon:52631"
+     gene            <1..>504
+                     /gene="RAG2"
+     mRNA            <1..>504
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>504
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="QYU73370.1"
+                     /translation="HGGKTPNNELSDKIYIISVDCKNNKKVTFRCTEKDLVGDVPEAR
+                     YGHSIDMVYSRGKAMGVLFGGRSYMPPAQRTTEKWNSVADCLPHVFLLDFEFGCSTSY
+                     VLPELQDGLSFHVSIARKDTIYILGGHSLSNNIRPANLYRIKVDLPLGSPAVNCTILP
+                     GGISVSSA"
+ORIGIN      
+        1 catggaggga aaacaccaaa caatgagctt tcagataaga tatatatcat atctgttgat
+       61 tgcaaaaaca acaaaaaggt tacctttcgc tgcacagaga aagacttagt aggagatgtc
+      121 cctgaagcta gatatggcca ttccattgac atggtgtata gtagaggtaa agctatgggt
+      181 gttctttttg gagggcgctc atacatgcct cctgcccaaa gaaccacaga aaaatggaat
+      241 tctgtagctg actgcctgcc ccatgttttc ttgttggatt ttgaatttgg gtgttctaca
+      301 tcatatgttc ttccagaact tcaagatgga ctatcttttc atgtctcaat tgccagaaag
+      361 gataccattt atattttagg agggcattca ctttccaata acattcgccc agccaatctg
+      421 tacagaataa aggttgatct gcccttgggc agcccagctg tgaattgcac aatcctgcca
+      481 ggaggaatct ctgtctccag tgca
+//
+

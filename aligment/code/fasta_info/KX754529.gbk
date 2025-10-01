@@ -1,0 +1,72 @@
+LOCUS       KX754529                 807 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Parascalops breweri isolate HT-1 breast cancer 1 (BRCA1) gene, exon
+            11 and partial cds.
+ACCESSION   KX754529
+VERSION     KX754529.1
+KEYWORDS    .
+SOURCE      Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1  (bases 1 to 807)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 807)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..807
+                     /organism="Parascalops breweri"
+                     /mol_type="genomic DNA"
+                     /isolate="HT-1"
+                     /db_xref="taxon:94437"
+                     /geo_loc_name="USA: New York, Columbia County, Hillsdale"
+                     /note="Pbrewe_1"
+     gene            <1..>807
+                     /gene="BRCA1"
+     mRNA            <1..>807
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>807
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="APD32992.1"
+                     /translation="SKQSDLARSQQNRWAESKETCNDRQTPNPEKRVGLNADPRYGRK
+                     EPNEQKPPCSDSPRNSQGVAWITLNSSIRKVNEWFSRSDEILTSDDSHDGESESNIEM
+                     TGAAEVPNAVDGFSGSSEKIDLMASDPPALMCKSERVCTKPVESNIEDKIFGKTYRRK
+                     TSLPNLSHVTEYLNIGTSATEPQIAQERPFTNRLKRKRTTPGLCPEDFIKKVDLAVQN
+                     TPEKISEGTDQMDQSGQVMDITYNGHGNETKRDYAQKEKSANPAESSEKES"
+     exon            <1..>807
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agcaaacagt ctgacttagc aaggagccag cagaacagat gggctgaaag taaagaaaca
+       61 tgtaatgata ggcagactcc caacccagag aaaagggtag gcctgaatgc tgatcccagg
+      121 tatgggagaa aagaaccgaa tgagcagaaa cctccatgct ctgacagccc cagaaattcc
+      181 caaggtgttg cctggataac actgaacagt agcattcgga aagttaatga gtggttttcc
+      241 agaagtgatg aaatattaac ttctgatgac tctcacgatg gggagtccga atcaaatatt
+      301 gaaatgactg gtgcagcaga agttccaaac gcagtagatg gattttctgg ttcttcagag
+      361 aaaatagact taatggccag cgatcctccc gctttaatgt gtaaaagtga aagagtttgc
+      421 accaaaccag tagaaagcaa tattgaagat aagatatttg ggaaaaccta tcggaggaag
+      481 acaagcctcc caaacttgag ccacgtgact gagtatttaa atatagggac atctgccaca
+      541 gaacctcaga tagctcaaga gcgtcccttc acaaatagat tgaaacgtaa aagaactaca
+      601 ccaggccttt gtcctgagga ttttatcaag aaagtagatt tggcagttca gaacacccct
+      661 gaaaagataa gtgagggaac tgaccaaatg gatcagagtg gtcaagtgat ggatattact
+      721 tataatggtc atgggaatga aacaaaacgt gattatgctc agaaagagaa aagtgctaac
+      781 ccagctgaat catcagaaaa agaatct
+//
+

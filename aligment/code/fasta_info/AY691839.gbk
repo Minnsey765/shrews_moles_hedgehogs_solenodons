@@ -1,0 +1,67 @@
+LOCUS       AY691839                1044 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Myosorex kihaulei voucher FMNH 155622 NADH dehydrogenase subunit 2
+            (ND2) gene, complete cds; mitochondrial.
+ACCESSION   AY691839
+VERSION     AY691839.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 1044)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Phylogeny, phylogeography, and geographic variation of Sylvisorex
+            howelli (Soricidae), an endemic shrew of the Eastern Arc Mountains,
+            Tanzania
+  JOURNAL   J. Zool. (Lond.) 266 (4), 341-354 (2005)
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Zoology, Division of Mammals,
+            Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago,
+            IL 60605, USA
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 155622"
+                     /db_xref="taxon:307108"
+                     /geo_loc_name="Tanzania"
+     gene            1..1044
+                     /gene="ND2"
+     CDS             1..1044
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAW29762.1"
+                     /translation="MNPLIFIMLILTIILGTSIILTSTHWFMIWLGFEMNMMAMIPVL
+                     MKKYSPRAAEAATKYFLTQATASMILMLALIINLMYSGQWTIMNMTNNMASLLITIAL
+                     TMKLGLAPFHFWVPEVTQGVSLQAGLILLTWQKIAPLAVMYQIFASINPNLLLTMALL
+                     SIMIGGWGGLNQTQLRKIMAYSSIAHMGWMTAIMIYNPNLMLLNLLLYILMTTSMFMM
+                     FMYNSTTTTLSLSLTWNKTPLMTVLMMTTLLSLGGLPPLTGFMPKWMIIHELTKNNSV
+                     ILPTSMAILALINLFFYMRLTYSTSLTMFPTINNMKMKWQFQNTHHTTLLAPLITLST
+                     LILPLTPMFILMT"
+ORIGIN      
+        1 atcaaccctc taatctttat catattaatc ttaactatca tcttagggac ttctattatc
+       61 cttacttcaa cacattgatt tataatttga cttggatttg aaatgaatat gatagccata
+      121 atcccagtcc taataaaaaa atatagcccg cgcgccgctg aagcagcaac taaatatttt
+      181 ctaacccaag ccacagcatc aataattctt atattggctc taatcattaa cctaatatat
+      241 tcagggcaat gaaccattat aaatataact aacaacatag catccctatt aatcactatt
+      301 gccctaacta taaaactagg tttagctccc tttcacttct gagtaccaga agtaacacaa
+      361 ggggtctcat tacaagcagg cttaatttta ctaacatgac aaaaaatcgc tcccctggct
+      421 gttatatatc aaatcttcgc atcaatcaat ccaaacctcc tactaactat agccctccta
+      481 tccattataa ttggtggttg aggcggacta aaccaaactc aactacgaaa aattatagca
+      541 tactcttcca tcgcccatat aggatgaata acagctatta taatttataa ccctaacctc
+      601 atactattaa atctcttact ctacatccta ataactactt caatatttat aatatttata
+      661 tacaattcaa ctactactac cctctcattg tcccttacat gaaacaaaac tcctttgata
+      721 acggtactta taataactac tctcttatca ttaggaggtc taccacctct aactggcttt
+      781 atacctaaat gaataattat ccatgaactc acaaagaaca atagcgtaat tttaccaaca
+      841 agcatagcaa tcctagcatt aatcaattta tttttctaca tacgattaac atactccacc
+      901 tcactgacaa tattcccaac aatcaataat atgaaaataa aatggcaatt ccaaaacaca
+      961 catcatacaa cactacttgc cccattaatc acactatcaa ccctaatctt accactaacc
+     1021 cccatattca tcctaataac ctaa
+//
+

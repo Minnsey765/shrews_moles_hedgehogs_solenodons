@@ -1,0 +1,84 @@
+LOCUS       AF069539                2604 bp    DNA     linear   MAM 18-AUG-1998
+DEFINITION  Scalopus aquaticus 12S ribosomal RNA gene, complete sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            complete sequence; mitochondrial genes for mitochondrial RNAs.
+ACCESSION   AF069539
+VERSION     AF069539.1
+KEYWORDS    .
+SOURCE      mitochondrion Scalopus aquaticus (eastern mole)
+  ORGANISM  Scalopus aquaticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 2604)
+  AUTHORS   Stanhope,M.J., Waddell,V.G., Madsen,O., de Jong,W., Hedges,S.B.,
+            Cleven,G.C., Kao,D. and Springer,M.S.
+  TITLE     Molecular evidence for multiple origins of Insectivora and for a
+            new order of endemic African insectivore mammals
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 95 (17), 9967-9972 (1998)
+   PUBMED   9707584
+REFERENCE   2  (bases 1 to 2604)
+  AUTHORS   Stanhope,M.J., Waddell,V.G., Madsen,O., de Jong,W., Cleven,G.C.,
+            Kao,D. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUN-1998) Biology, University of California,
+            Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..2604
+                     /organism="Scalopus aquaticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:71119"
+     rRNA            1..965
+                     /product="12S ribosomal RNA"
+     tRNA            966..1032
+                     /product="tRNA-Val"
+     rRNA            1033..2604
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 taaaaggttt ggtcctggcc tttctattag ctgtcagtaa aattacacat gcaagtatcc
+       61 gcgccccagt gaaaatgccc ttgaagtcat catagacata aaggagccgg catcaagtac
+      121 accataatgg tagctaacga cgccttgctt agccacgccc ccacgggaaa cagcagtgat
+      181 aaaaattaag ctatgaacga aagtttgact aagttatact gatatagggt tggtaaattt
+      241 cgtgccagcc accgcggtca tacgaataac ccaagttaat agatacacgg cgtaaagagt
+      301 gttaaagaac ctggcattgt aaataaagct aagacttaac taagacgtaa aaatctccag
+      361 ttaaagtaaa aacaaactac gaaagtggct ttatattatt ctgatcacac gatagctaag
+      421 acccaaactg ggattagata ccccactatg cttagcccta aactaagaca atccaactaa
+      481 caagattgtt cgccagagaa ctactagcaa tagcttaaaa ctcaaaggac ttggcggtgc
+      541 tttatatccc tctagaggag cctgttctgt aatcgataaa ccccgataaa cctcaccaac
+      601 ccttgctaat tcagcctata taccgccatc ttcagcaaac ccttaaaggg agccacagta
+      661 agcacaagta tatacataaa aacgttaggt caaggtgtag ctaatgagtt gggaagaaat
+      721 gggctacatt ttctatatct agaacacttt aacgaaagtc tttatgaaac gaaagactaa
+      781 aggaggattt agtagtaaat taagaataga gtgcttaatt gaattaggcc atgaagcacg
+      841 cacacaccgc ccgtcaccct cctcaagtac taaagccagt caatatacat aatatatagg
+      901 caataaatac aagaggagat aagtcgtaac aaggtaagca tactggaaag tgtgcttgga
+      961 ttaaccaaag tgtagcttaa acaaaagcac ctggcttaca cccagaagat ttcattaaaa
+     1021 tgaccacttt gaactaaagc tagcccaatc gaccacaaat tcaactatta catgaacata
+     1081 aaacaaaaca tttacttagt aaaagtatag gagatagaaa ttacaattgg cgctatagag
+     1141 aaagtaccgc aagggaacga gtgaaagaat atattaaaag taaaaaaaag caaagtttaa
+     1201 cccttctacc ttttgcataa tgagctagct agcagacctt agcaaagaga acttaagtta
+     1261 agccccccga aaccagacga gctacctacg agcagcataa cagagcgaac tcgtctatgt
+     1321 ggcaaaatag tgagaagact tataggtagt ggtgaaaagc ctaacgagcc tggtgatagc
+     1381 tggttgtcca gaaaagaatt ttagttcagc tttaatttat acagacaagc cctcaaaact
+     1441 ctaatgtaaa attaaacgtt agtctaaaga ggtacagccc tttagacgca ggatacaacc
+     1501 ttaactggag agtaagttca taatctaacc atagttggcc taaaagcagc catcaattaa
+     1561 gaaagcgttc aagctcaacc atacattaca acattaatac ctaaaactaa cccaactccc
+     1621 agactttaac tggactaatc tattaacaaa tagaagaaat aatgctagta tgagtaacaa
+     1681 gaaatagttc tcccggcaca ggtttatatc agatcggatg cccactgata gttaacaaaa
+     1741 taataataat aattaaaaaa tagaacaatt attaagtaaa ctgttaaccc aacacaggag
+     1801 tgccaaacag ggaaagatta aaagaagtaa aaggaactcg gcaaacacaa gccccgcctg
+     1861 tttaccaaaa acatcacctc tagcatgaaa agtattggag gcactgcctg cccagtgacg
+     1921 caagttaaac ggccgcggta tcctgaccgt gcaaaggtag cataatcatt tgttctctaa
+     1981 ttaaggactt gtatgaatgg ccacacgagg gtttaactgt ctcttacttc taatcagtga
+     2041 aattgacctt cccgtgaaga ggcgggaata atacaataag acgagaagac cctatggagc
+     2101 ttcaattaac cagttcaata aggtgtaata ctaaacccaa ccaggggata aaaaacctaa
+     2161 aactgaaccg gcaatttagg ttggggtgac ctcggagtaa aaaacaacct ccgagagatt
+     2221 tcagtcgaga cctacaagtc aaaacctgaa aaaaatttaa ttgatccaac aaccatgttg
+     2281 atcaacggaa caagttaccc tagggataac agcgcaatcc tatttaagag tccatatcga
+     2341 caatagggtt tacgacctcg atgttggatc aggacatccc aatggtgcag aagctattaa
+     2401 tggttcgttt gttcaacgat taaagtccta cgtgatctga gttcagaccg gagcaatcca
+     2461 ggtcggtttc tatctattat atatttctcc cagtacgaaa ggacaagaga aataaggcca
+     2521 actctacagg agagccttaa aattaataga tgatatcatc tcaatctagt aatttataac
+     2581 cacgcaagcc caagaaaagg gctt
+//
+

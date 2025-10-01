@@ -1,0 +1,60 @@
+LOCUS       OP846379                 534 bp    DNA     linear   MAM 20-FEB-2023
+DEFINITION  Suncus etruscus voucher AMNH:275574 NADH dehydrogenase subunit 6
+            (ND6) gene, complete cds; mitochondrial.
+ACCESSION   OP846379
+VERSION     OP846379.1
+KEYWORDS    .
+SOURCE      mitochondrion Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 534)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,M.A., William Dee,J.,
+            Swanson,M.T., Hiller,A.E., Khan,F.A.A. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncusater Medway, 1965 (Soricidae, Crocidurinae), place it
+            in the genus Palawanosorex
+  JOURNAL   Zookeys 1137, 17-31 (2022)
+   PUBMED   36760481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 534)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2022) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Suncus etruscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMNH:275574"
+                     /db_xref="taxon:109475"
+     gene            1..534
+                     /gene="ND6"
+     CDS             1..534
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="WDD44863.1"
+                     /translation="MMTYIVTILSTIFVISFVGFSSKPSPIYGGVGLIISGGVGCGIV
+                     LNYGGSFLGLMVFLIYLGGMLVVFGYTTAMAMEEYPEVWSSNYTVLLTLIMGVIGELL
+                     LIIYTTLEEDIKLEIVLSFHGEGDWYLYDTGDTGFFSEEPMSIAALYSYGFWLVIVSG
+                     WSLVTCIVVVMEITRGN"
+ORIGIN      
+        1 atgatgacat atattgtgac tattttaagc actatttttg tgattagttt cgtagggttt
+       61 tcttcaaaac cctcacctat ttatggaggg gttggattaa ttattagtgg gggagttggt
+      121 tgtggtattg tgttgaatta tggtggttcg tttttaggct taatggtatt tttaatttat
+      181 ttaggaggaa tgctggttgt gtttggttat actacagcta tagctatgga ggaatatcct
+      241 gaggtatggt cttctaatta tactgttctt ttaacattaa ttataggtgt tattggagag
+      301 ttattattaa ttatttatac aacattagaa gaagatatta agttagaaat tgtattaagt
+      361 ttccatggag aaggggattg gtatctttat gatactggtg atacagggtt ttttagtgaa
+      421 gaacctataa gtattgcggc gttatacagt tatggatttt ggcttgtaat tgtatcaggg
+      481 tgatctctag taacttgtat tgttgtagtt atagaaatta cgcgaggaaa ttaa
+//
+

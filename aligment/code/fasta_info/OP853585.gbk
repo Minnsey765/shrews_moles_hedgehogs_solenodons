@@ -1,0 +1,79 @@
+LOCUS       OP853585                1377 bp    DNA     linear   MAM 20-FEB-2023
+DEFINITION  Suncus etruscus voucher AMNH:275574 NADH dehydrogenase subunit 4
+            (ND4) gene, partial cds; mitochondrial.
+ACCESSION   OP853585
+VERSION     OP853585.1
+KEYWORDS    .
+SOURCE      mitochondrion Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 1377)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,M.A., William Dee,J.,
+            Swanson,M.T., Hiller,A.E., Khan,F.A.A. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncusater Medway, 1965 (Soricidae, Crocidurinae), place it
+            in the genus Palawanosorex
+  JOURNAL   Zookeys 1137, 17-31 (2022)
+   PUBMED   36760481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1377)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2022) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1377
+                     /organism="Suncus etruscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMNH:275574"
+                     /db_xref="taxon:109475"
+     gene            1..>1377
+                     /gene="ND4"
+     CDS             1..>1377
+                     /gene="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="WDD44940.1"
+                     /translation="MLKIIIPSIMMIPLTWLSNMKNIWINTTLYSLLIALITLNFFNQ
+                     PDSNPLYFSATFYTDSLSTPLLALTTWLLPLMIMASQNHLMNETMTRKKIYITMLILL
+                     QIFLIMTFSATELILFYILFEATLVPTLILITRWGNQTERLNAGLYFLFYTLIGSLPL
+                     LIALVHIQNLMGTLNISLTHLWSQNIMNSWSNDFLWLACMMAFLVKMPLYGLHLWLPK
+                     AHVEAPVAGSMVLAAVLLKLGSYGMMRITILLNPLSKDMMYPFLILSLWGMIMTSSIC
+                     LRQTDLKSLIAYSSVSHMALVIVAILIQTPWSFMGATTLMIAHGLTSSMLFCLANTNY
+                     ERIHSRTMILARGLQTILPVMATWWLLASLTNLALPPTINLIGELLIILSSFSWSYIT
+                     MLLMGLNVVITALYSLYMLIMTQRGKYSQHIQTINPSFTRENALMALHMLPLLLLTLN
+                     PKLILGPTF"
+ORIGIN      
+        1 atgctaaaaa ttattatccc ttctattata ataattcccc ttacctgact atctaacata
+       61 aaaaacatct gaattaatac aaccctttat agcctattaa ttgctttaat tactttaaat
+      121 ttctttaatc aaccagatag caatcccctt tatttctctg ctaccttcta cactgattca
+      181 ctctctactc ccctcctagc attaacaaca tgattattac ctctaataat tatagctagt
+      241 caaaatcatc ttataaatga gacaataaca cggaaaaaaa tttatattac aatattaatt
+      301 ttacttcaaa ttttccttat cataacattc tctgccacag aattaatttt attttatatc
+      361 ctatttgaag ctactctcgt acctactcta attctcatta cccgatgagg aaatcaaaca
+      421 gaacgtctaa atgctggttt atatttctta ttttatacat taattggttc tcttccccta
+      481 ttaattgcac tcgttcatat tcaaaattta ataggtacac tcaatatttc ccttactcat
+      541 ctctgatcac aaaatattat aaactcttga tcaaatgatt tcctatgact agcatgcata
+      601 atagcatttc tagtaaaaat accattatat gggcttcact tgtggctgcc aaaagcccat
+      661 gttgaagccc ctgttgccgg ctcaatagta ctagcagcag tacttctaaa actagggagt
+      721 tatggtataa tacgtattac aattctccta aaccccttat caaaggatat aatatatccc
+      781 tttctaatct tatccttatg aggtataatt ataactagct caatttgctt acgccaaact
+      841 gacctaaaat cccttattgc ttactcctct gtaagtcata tagctttagt aattgtagct
+      901 atcctcatcc aaacaccctg aagctttata ggagcaacaa ctttaataat tgcccacggc
+      961 ctaacttcat caatactatt ttgcctagct aatactaatt atgaacgcat tcatagtcgt
+     1021 actataattc tagcccgagg gttacaaaca attttaccag ttatagcaac ctgatgactc
+     1081 ttagctagcc taacgaacct cgccttacct cctacaatta atttgattgg agaattatta
+     1141 attattctct cttccttctc ttgatcttat atcacaatat tattaatagg cttaaatgta
+     1201 gtaattacag ccctgtattc attatatata ttaattataa ctcaacgagg aaaatattcc
+     1261 caacatattc agacaattaa tccatcattt acacgagaaa atgctttaat agccttacac
+     1321 atattacctc ttcttctcct tacattaaat cctaaactaa ttttaggccc aacattt
+//
+

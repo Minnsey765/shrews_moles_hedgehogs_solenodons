@@ -1,0 +1,78 @@
+LOCUS       MW395381                 889 bp    DNA     linear   MAM 15-MAR-2021
+DEFINITION  Hylomys suillus voucher BOR342 genotype A growth hormone receptor
+            (Ghr) gene, exon 10 and partial cds.
+ACCESSION   MW395381
+VERSION     MW395381.1
+KEYWORDS    .
+SOURCE      Hylomys suillus (short-tailed gymnure)
+  ORGANISM  Hylomys suillus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Hylomys.
+REFERENCE   1  (bases 1 to 889)
+  AUTHORS   Forcina,G., Camacho-Sanchez,M., Tuh,F.Y., Moreno,S. and
+            Leonard,J.A.
+  TITLE     Markers for genetic change
+  JOURNAL   Heliyon 7 (1), e05583 (2021)
+REFERENCE   2  (bases 1 to 889)
+  AUTHORS   Forcina,G., Camacho-Sanchez,M., Tuh,F.Y., Moreno,S. and
+            Leonard,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-2020) CIBIO/InBIO, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            University of Porto, CIBIO-Rua Padre Armando Quintas 7, Vairao,
+            Porto 4485-661, Portugal
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 8.1.5
+            Assembly Name         :: Ghr
+            Coverage              :: 10X
+            Sequencing Technology :: 454; Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..889
+                     /organism="Hylomys suillus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BOR342"
+                     /db_xref="taxon:48897"
+                     /geo_loc_name="Malaysia: Kinabalu"
+                     /lat_lon="6.04352202 N 116.5643812 E"
+                     /collection_date="10-Mar-2013"
+                     /collected_by="Melissa T.R. Hawkins"
+                     /note="genotype: A"
+     gene            <1..>889
+                     /gene="Ghr"
+     mRNA            <1..>889
+                     /gene="Ghr"
+                     /product="growth hormone receptor"
+     CDS             <1..>889
+                     /gene="Ghr"
+                     /codon_start=2
+                     /product="growth hormone receptor"
+                     /protein_id="QST77418.1"
+                     /translation="KPDLYSDDSWVEFIELDIDDPDEKTEGSDTARLXXXXXXXXXXX
+                     XXXXXXXXXRTSCYEPDILETDFNASDICDGTSEVGQPQRLKGEADLLCLDQTNQDYS
+                     PSDDATPAAQLPHVNLAPEDKPRPLLISGTESTHQAAPIKVSNPNSLTNIDFYAQVSD
+                     ITPAGSVVLSPGQKNKAGIPHGDPNPEVVSLCQANFIMDSAYFCEADAKXXXXXXXXX
+                     XXESRVEPSFNQEDIYITTESLTTTTRRSGTTEHAPSSEMPVPDYTSIHLVQSPQGLV
+                     LNATALPLPDKEFLSSCGYV"
+     exon            <1..>889
+                     /gene="Ghr"
+                     /number=10
+ORIGIN      
+        1 taaacctgac ttgtacagtg atgactcttg ggtggaattc attgagctgg atattgatga
+       61 ccctgatgaa aagacagaag gatcagacac agccaggctn nnnnnnnnnn nnnnnnnnnn
+      121 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn cgtaccagct gttatgaacc
+      181 tgacattctg gagactgatt tcaatgcgag cgacatatgt gatggaacct cagaagtcgg
+      241 tcagccacaa aggttgaaag gggaagcaga tctcttgtgc cttgaccaga caaatcaaga
+      301 ttactcaccc tctgatgacg ctacccctgc tgctcagctg cctcatgtta acctagcacc
+      361 ggaagacaaa ccaaggccac ttttgattag tggaactgag tcaactcatc aagctgctcc
+      421 tattaaagta agcaacccaa attcactgac aaatattgac ttctatgccc aggtaagtga
+      481 catcacacca gctggaagtg tggtcctttc cccaggccaa aagaataagg cagggatacc
+      541 ccacggtgat ccaaatccag aagtagtctc actctgccaa gcaaacttca tcatggatag
+      601 tgcctacttc tgtgaggctg atgccaaaan nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      661 ngaatcccgt gtagagccaa gctttaacca ggaagacatt tacatcacca cagaaagcct
+      721 taccactact actaggaggt ctggtacaac agaacacgct cccagttctg agatgcctgt
+      781 tccagactat acctctatac atttagtaca gtctccacaa gggcttgtcc tcaacgcaac
+      841 tgccttgccc ttgcctgaca aagagttcct ctcatcatgt ggctatgtg
+//
+

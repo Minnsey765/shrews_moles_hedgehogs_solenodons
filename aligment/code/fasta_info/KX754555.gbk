@@ -1,0 +1,74 @@
+LOCUS       KX754555                1008 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Dymecodon pilirostris isolate Dypili_1 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   KX754555
+VERSION     KX754555.1
+KEYWORDS    .
+SOURCE      Dymecodon pilirostris
+  ORGANISM  Dymecodon pilirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Dymecodon.
+REFERENCE   1  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1008
+                     /organism="Dymecodon pilirostris"
+                     /mol_type="genomic DNA"
+                     /isolate="Dypili_1"
+                     /db_xref="taxon:182680"
+                     /geo_loc_name="Japan: Tokushima, Tsurugi Mt."
+                     /note="HEG86-97"
+     gene            <1..>1008
+                     /gene="RAG1"
+     mRNA            <1..>1008
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1008
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="APD33018.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTVMKITIAHGSQNVKVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQLMLEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHAENLERY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPNASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTQETVEAVCELIPSE
+                     ERHEALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFAELLSTKFKYRYEGK
+                     IT"
+ORIGIN      
+        1 tcttgtgacg ggatgggaga tgtgagcgag aagcacggga gtgggccagc cgttccagaa
+       61 aaggctgttc gcttttcatt caccgtcatg aagatcacga tagcgcacgg ctcccagaat
+      121 gtgaaggtgt tcgaagaagc caaaccaaat tccgaactgt gttgcaagcc cttgtgcctt
+      181 atgctggcgg acgagtctga ccacgagacc ttgactgcca tcctgagccc ccttattgcg
+      241 gagagggagg ccatgaagag cagccagtta atgctcgaaa tgggaggcat cctccgaact
+      301 ttcaagttca tctttagggg cacaggatat gacgagaaac ttgtccggga agtggaagga
+      361 cttgaggcct ccggctcagt ctatatttgt accctctgtg atgccacccg cttggaagcg
+      421 tcccaaaatc tcgtcttcca ctccatcacc agaagccacg ccgagaactt ggagcgctac
+      481 gaggtctggc gttccaaccc ctaccacgag tccgtggaag aattgaggga tcgcgtgaaa
+      541 ggcgtctcgg cgaaaccctt cattgagacc gtcccttcca tcgatgccct tcactgtgac
+      601 attggcaacg cggctgagtt ctacaagatc ttccagctgg agatagggga ggtgtacaag
+      661 aatcccaatg cctccaaaga agaaaggaaa agatggcagg ctacactgga caagcatctc
+      721 cgaaagaaga tgaacctgaa accaatcatg aggatgaacg gcaacttcgc caggaagctc
+      781 atgacccaag agacagtgga agcagtttgt gaattaattc cctcagagga gaggcacgaa
+      841 gctctgcggg agctgatgga cctttatctg aagatgaaac ccgtgtggcg atcctcctgc
+      901 cctgctaagg agtgcccaga atccctctgc cagtacagct tcaattcaca gcgttttgct
+      961 gagctcctct ccaccaagtt caagtataga tacgagggca aaatcacc
+//
+

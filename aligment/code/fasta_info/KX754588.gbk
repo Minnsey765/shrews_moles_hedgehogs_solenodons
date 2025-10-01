@@ -1,0 +1,67 @@
+LOCUS       KX754588                 693 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Neurotrichus gibbsii isolate Neurgi_3 recombination activating
+            protein 2 (RAG2) gene, partial cds.
+ACCESSION   KX754588
+VERSION     KX754588.1
+KEYWORDS    .
+SOURCE      Neurotrichus gibbsii
+  ORGANISM  Neurotrichus gibbsii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Neurotrichus.
+REFERENCE   1  (bases 1 to 693)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 693)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="Neurotrichus gibbsii"
+                     /mol_type="genomic DNA"
+                     /isolate="Neurgi_3"
+                     /db_xref="taxon:182677"
+                     /geo_loc_name="Canada: British Columbia, Coquitlam"
+                     /note="SM-3"
+     gene            <1..>693
+                     /gene="RAG2"
+     mRNA            <1..>693
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>693
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="APD33051.1"
+                     /translation="ESEKHQYIIHGGKTPNNELSDKIYVMSVVCKNNKKVTFRCTEKD
+                     LVGDVPEARYGHSIDVVYSRGKSIGVLFGGRSYMPSTQRTTEKWNSVADCLPHVFLVD
+                     FEFGCSTSYTLPELQDGLSFHVSIARNDTIYILGGHSLANNIRPANLYRIKVDLPLGS
+                     PAVNCTVLPGGISVSSAILTQTNNDEFVIVGGYQHENQKRMVCNIVSLEDNKIDIHEM
+                     ETPDWTPDIKHSK"
+ORIGIN      
+        1 gaatctgaaa agcatcaata catcatccac ggagggaaaa caccaaacaa tgagctttca
+       61 gataagatct atgtcatgtc tgttgtttgc aaaaacaaca aaaaagttac ttttcgttgc
+      121 acagagaaag acttggtagg agatgttcct gaagccagat atggtcattc cattgatgtg
+      181 gtatatagcc gaggaaaaag tattggtgtt ctctttggag gacggtcata catgccttct
+      241 acccagagaa ccacagaaaa atggaatagt gtagctgact gcctacccca tgttttcttg
+      301 gtagattttg aatttgggtg ttctacatcc tacactcttc ctgaacttca ggatggactc
+      361 tcttttcacg tctccattgc cagaaatgac accatttata ttctaggagg acattctctt
+      421 gccaataaca tccgccctgc caatctatat agaataaagg ttgatctccc cttgggtagc
+      481 ccagctgtga attgtacagt cttaccagga ggaatctctg tctccagtgc aatccttact
+      541 caaacaaaca atgatgaatt tgttattgtt ggtggttatc agcatgaaaa tcaaaaaaga
+      601 atggtctgca acattgtctc tttagaagac aacaagatag atatacatga gatggagact
+      661 ccagattgga ccccagatat taagcacagc aag
+//
+

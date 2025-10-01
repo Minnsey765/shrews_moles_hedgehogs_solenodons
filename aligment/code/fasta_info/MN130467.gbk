@@ -1,0 +1,71 @@
+LOCUS       MN130467                 813 bp    DNA     linear   MAM 18-OCT-2021
+DEFINITION  Scaptonyx fusicauda isolate SF_JF2 breast cancer 1 (BRCA1) gene,
+            exon 11 and partial cds.
+ACCESSION   MN130467
+VERSION     MN130467.1
+KEYWORDS    .
+SOURCE      Scaptonyx fusicauda (long-tailed mole)
+  ORGANISM  Scaptonyx fusicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scaptonyx.
+REFERENCE   1  (bases 1 to 813)
+  AUTHORS   He,K., Gutierrez,E.E., Heming,N.M., Koepfli,K.-P., Wan,T., He,S.,
+            Jin,W., Liu,S.-Y. and Jiang,X.-L.
+  TITLE     Cryptic phylogeographic history sheds light on the generation of
+            species diversity in sky-island mountains
+  JOURNAL   J Biogeogr 46 (10), 2232-2247 (2019)
+  REMARK    DOI: 10.1111/jbi.13664
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   He,K. and Jiang,X.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2019) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang Donglu, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Lasergene v. 7.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Scaptonyx fusicauda"
+                     /mol_type="genomic DNA"
+                     /isolate="SF_JF2"
+                     /specimen_voucher="KIZ:Y204053"
+                     /db_xref="taxon:3370766"
+                     /geo_loc_name="China: Chongqing, Nanchuan, Mt. Jinfo"
+     gene            <1..>813
+                     /gene="BRCA1"
+     mRNA            <1..>813
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>813
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="UCT00745.1"
+                     /translation="SKQPDLARSQKNRRAESKETCNDGQTPSTEKRVGLTADPMHGRK
+                     ELNKQKPPYSDSPRNSQGVAWITLNSSIQKVNEWFSRSDEILTSDDSCDGGSNSSIKM
+                     TSAVEVPDAVDGFSGSSEKIDLMASDPPALMCKSESVRTKPVTSNIEDKIFGKTYRRK
+                     TSLPNLSHVTEDLILGTSVTETQIAQEHTFTNKLKRKRRTTPGLCPEDFIKKVDLAVV
+                     QNTPEKISEGTDQMDQNGQVTDTTYSGHGNETKXNYTQKEKSANPTESSEKES"
+     exon            <1..>813
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agcaaacagc ctgacttagc aaggagccaa aagaacagaa gggctgaaag taaagaaaca
+       61 tgtaatgatg ggcagactcc cagcacagag aaaagggtag gcttgactgc tgatcccatg
+      121 catgggagaa aagaactgaa taagcagaaa cctccatact ctgacagccc cagaaattcc
+      181 caaggtgttg cctggataac actgaacagt agtattcaga aagttaatga gtggttttcc
+      241 agaagtgatg aaatactaac ttctgatgac tcatgtgatg gggggtccaa ctcaagtatt
+      301 aaaatgacca gtgcagtaga agttccagat gcagtagatg gattttctgg ttcttcagag
+      361 aaaatagact taatggccag tgatcctcct gctttaatgt gtaaaagtga aagcgtccgc
+      421 accaaaccag taacaagtaa tattgaagat aagatatttg ggaaaactta tcggaggaag
+      481 acaagcctcc caaacctgag ccatgtgact gaagatttaa ttttagggac rtctgtcaca
+      541 gaaactcaga tagctcaaga gcataccttc acaaataaac taaaacgtaa aaggagaact
+      601 acaccaggcc tttgtcctga ggattttatc aagaaagtag acttggcagt tgttcagaac
+      661 acccctgaaa agataagtga gggaactgac caaatggatc agaatggcca agttacagat
+      721 actacttaca gtggtcatgg gaatgaaaca aagygtaatt atactcagaa agagaaaagt
+      781 gctaacccaa ccgaatcatc agaaaaagaa tct
+//
+

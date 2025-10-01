@@ -1,0 +1,62 @@
+LOCUS       HG737927                1010 bp    DNA     linear   MAM 12-DEC-2013
+DEFINITION  Scaptochirus moschatus rag1 gene for recombination activating gene
+            1, specimen voucher KIZ:SD111101.
+ACCESSION   HG737927
+VERSION     HG737927.1
+KEYWORDS    .
+SOURCE      Scaptochirus moschatus (short-faced mole)
+  ORGANISM  Scaptochirus moschatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scaptochirus.
+REFERENCE   1
+  AUTHORS   He,K., Shinohara,A., Jiang,X.L. and Campbell,K.
+  TITLE     Multilocus phylogeny of Talpine moles (Talpini, Talpidae,
+            Eulipotyphla) and its implications for systematics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1010)
+  AUTHORS   He,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2013) Biological Sciences, University of
+            Manitoba, 190 Dysart Road, Winnipeg, Manitoba, R3T 2N2, CANADA
+FEATURES             Location/Qualifiers
+     source          1..1010
+                     /organism="Scaptochirus moschatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ:SD111101"
+                     /db_xref="taxon:446353"
+                     /geo_loc_name="China:Shandong"
+     gene            <1..>1010
+                     /gene="rag1"
+     CDS             <1..>1010
+                     /gene="rag1"
+                     /codon_start=1
+                     /product="recombination activating gene 1"
+                     /protein_id="CDJ26105.1"
+                     /translation="SCIGMGDVSEKHGSGPAVPEKAVRFSFTVMKITIAHGSQNVKVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQLMLEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPNASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARRLMTKETVEAVCELIPSE
+                     ERHAALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFDEVLSTKFKYRYEGK
+                     IT"
+ORIGIN      
+        1 tcttgtattg ggatgggaga tgtgagtgag aagcacggga gtgggccagc tgttccagaa
+       61 aaggctgttc gattttcatt cactgtcatg aaaatcacta tcgcgcatgg ctcacagaat
+      121 gtgaaggtgt ttgaagaagc caaaccgaat tccgaactgt gttgcaagcc tttgtgcctt
+      181 atgctggcgg acgagtctga ccacgagacc ctgactgcca tcctgagccc ccttattgct
+      241 gagagggagg ccatgaagag cagccaatta atgctcgaaa tgggaggcat cctccggact
+      301 tttaagttca tctttagggg cacaggatat gatgagaaac ttgtccggga agtggaagga
+      361 cttgaggctt ctgggtcagt ctatatttgt accctctgtg atgccacccg cttggaagca
+      421 tcccaaaatc ttgtcttcca ctccataacc agaagccata ccgagaacct ggagcgctat
+      481 gaggtctggc gttccaaccc ctaccacgag tctgtggaag aattgaggga tcgcgtgaaa
+      541 ggggtctcgg ccaaaccctt cattgagaca gtcccttcca tagatgccct tcactgtgac
+      601 attggcaatg cagctgaatt ctacaagatc ttccagctag agatagggga ggtgtataag
+      661 aatccaaatg cctccaaaga ggaaaggaaa agatggcagg ctacactgga caaacacctt
+      721 cgaaagaaga tgaacctgaa gccaatcatg aggatgaatg gcaactttgc cagaaggctc
+      781 atgaccaaag agacagttga agcagtctgt gaactaattc cctcagagga gagacatgca
+      841 gctctgcggg agctgatgga cctttatctg aagatgaaac ctgtgtggcg atcatcatgc
+      901 cctgctaagg agtgcccaga atccctctgc cagtatagtt tcaattcaca gcgttttgat
+      961 gaagtcctct ctaccaagtt taagtataga tatgagggca aaatcaccaa
+//
+

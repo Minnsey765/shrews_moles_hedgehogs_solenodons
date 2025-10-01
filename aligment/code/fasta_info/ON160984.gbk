@@ -1,0 +1,64 @@
+LOCUS       ON160984                 687 bp    DNA     linear   MAM 13-NOV-2022
+DEFINITION  Nectogale elegans isolate FT144 recombination activating protein 2
+            (RAG2) gene, partial cds.
+ACCESSION   ON160984
+VERSION     ON160984.1
+KEYWORDS    .
+SOURCE      Nectogale elegans (Elegant water shrew)
+  ORGANISM  Nectogale elegans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Nectogale.
+REFERENCE   1  (bases 1 to 687)
+  AUTHORS   Fan,R., Tang,K., Dou,L., Fu,C., Faiz,A.U.H., Wang,X., Wang,Y.,
+            Chen,S. and Liu,S.
+  TITLE     Molecular phylogeny and taxonomy of the genus Nectogale (Mammalia:
+            Eulipotyphla: Soricidae)
+  JOURNAL   Ecol Evol 12 (10), e9404 (2022)
+   PUBMED   36311392
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 687)
+  AUTHORS   Chen,S. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-APR-2022) College of Life Sciences, Sichuan Normal
+            University, Chenglong Street 1819, Chengdu, Sichuan 610066, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..687
+                     /organism="Nectogale elegans"
+                     /mol_type="genomic DNA"
+                     /isolate="FT144"
+                     /db_xref="taxon:268758"
+                     /lat_lon="30.533 N 102.915 E"
+     gene            <1..>687
+                     /gene="RAG2"
+     mRNA            <1..>687
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>687
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="UZG76955.1"
+                     /translation="HQYIIHGGKTPNNELSDKIYIISVVCKNNKKVTFRCTEKDLVGD
+                     VPEARYGHSIDMVYSRGKTMGVLFGGRAYMPSAQRTTEKWNAVADCPPHVFLVDFEFG
+                     CSTSYVLPELQDGLSFHVSIARKDTIYILGGHSLSNNMRPANLYRIKVDLPLGSPAVN
+                     CTVLPGGISVSSAILTQTSDDQFIIVGGYQLENQKRMVCNIVSFDDNKIEIHEMETPD
+                     WTPDIKHSKLW"
+ORIGIN      
+        1 catcaataca tcatccatgg tgggaaaaca ccaaacaatg agctttcaga taagatatat
+       61 atcatatctg ttgtttgcaa gaacaacaaa aaagttactt ttcgctgcac agagaaagac
+      121 ttggtgggag atgttcctga agccagatat ggtcattcca ttgatatggt atatagtcga
+      181 gggaaaacta tgggtgttct ctttggagga cgcgcataca tgccttctgc ccaacgaacc
+      241 acagaaaaat ggaatgcggt agcagactgc ccacctcatg ttttcctggt ggattttgaa
+      301 tttggatgct ctacatcata tgttcttcca gaacttcaag atgggttgtc ttttcatgtc
+      361 tcaattgcca gaaaagatac catttacatt ttaggaggac attcactttc taataacatg
+      421 cgcccagcca acctgtacag aataaaggtt gatctgcccc tggggagccc agctgtgaat
+      481 tgcacagtct tgccaggagg aatctcagtt tccagtgcaa tactgaccca aaccagcgat
+      541 gaccaattta ttattgtcgg tggttatcaa cttgaaaatc aaaaaagaat ggtttgcaac
+      601 atcgtgtctt tcgatgataa caagatagaa attcatgaga tggagactcc agactggacc
+      661 cctgatatta agcacagcaa gctatgg
+//
+

@@ -1,0 +1,65 @@
+LOCUS       ON161064                 768 bp    DNA     linear   MAM 13-NOV-2022
+DEFINITION  Nectogale elegans isolate FT144 Growth hormone receptor (GHR) gene,
+            partial cds.
+ACCESSION   ON161064
+VERSION     ON161064.1
+KEYWORDS    .
+SOURCE      Nectogale elegans (Elegant water shrew)
+  ORGANISM  Nectogale elegans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Nectogale.
+REFERENCE   1  (bases 1 to 768)
+  AUTHORS   Fan,R., Tang,K., Dou,L., Fu,C., Faiz,A.U.H., Wang,X., Wang,Y.,
+            Chen,S. and Liu,S.
+  TITLE     Molecular phylogeny and taxonomy of the genus Nectogale (Mammalia:
+            Eulipotyphla: Soricidae)
+  JOURNAL   Ecol Evol 12 (10), e9404 (2022)
+   PUBMED   36311392
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 768)
+  AUTHORS   Chen,S. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-APR-2022) College of Life Sciences, Sichuan Normal
+            University, Chenglong Street 1819, Chengdu, Sichuan 610066, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..768
+                     /organism="Nectogale elegans"
+                     /mol_type="genomic DNA"
+                     /isolate="FT144"
+                     /db_xref="taxon:268758"
+                     /lat_lon="30.533 N 102.915 E"
+     gene            <1..>768
+                     /gene="GHR"
+     mRNA            <1..>768
+                     /gene="GHR"
+                     /product="Growth hormone receptor"
+     CDS             <1..>768
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="Growth hormone receptor"
+                     /protein_id="UZG77035.1"
+                     /translation="DTDKLLNHNPEKSLNILGAKDDDSGRTSCYDPDILETDFNASDT
+                     GDGTLEPAQPQRLKEEADLLCLDQKNQNLSFSDDALSSTPRPSATLAQENKPRPLGMG
+                     GTESTHPTTHTQSSNPSSLANIDFYAQVSDITPAGSVVLSPGQKAKAGVAQYDIHPEM
+                     VSRSHANFVMDNAYFCEADAKKCIPAAPRLEVQSHVEPSFNQEDIYITTESLTTTAGR
+                     SGTVEQAPSSELPVPDYTSIHLVQSPQGLILNATALPL"
+ORIGIN      
+        1 gataccgaca aacttctaaa ccacaaccct gagaaatcac ttaacatcct tggggcaaaa
+       61 gacgacgact ctggacgtac cagctgttac gatcctgaca ttctggagac tgattttaac
+      121 gcgagtgaca caggtgatgg taccttagag cctgcacagc cacagaggtt aaaagaggaa
+      181 gcagatctct tgtgccttga ccagaagaat cagaatctct cattctctga tgatgctctc
+      241 tcttctaccc cacgccccag tgctaccttg gcacaggaaa ataaaccaag accacttggt
+      301 atgggtggca ctgaatcaac tcatcccact actcatactc agtcaagcaa tccaagttca
+      361 ctggcaaata ttgactttta tgcccaggta agtgacatta caccagcagg gagtgtggtt
+      421 ctctccccag gccaaaaggc taaggcgggg gtagcccagt atgacataca cccagaaatg
+      481 gtgtcacgct cccacgcaaa cttcgtcatg gacaatgcct acttctgtga ggctgatgcc
+      541 aaaaagtgca tcccagcggc ccctcgacta gaggtccaat cacatgtaga gccaagcttt
+      601 aaccaggagg acatatacat caccacagaa agccttacca ctacggctgg gaggtctggg
+      661 accgtggagc aggctccgag ttctgagctt cctgtcccag actacacctc cattcaccta
+      721 gtccagtctc cacagggcct catcctgaat gcaactgcct tgcccctg
+//
+

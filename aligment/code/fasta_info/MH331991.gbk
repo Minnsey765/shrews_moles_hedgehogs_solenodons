@@ -1,0 +1,60 @@
+LOCUS       MH331991                 559 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Crocidura olivieri voucher ZMMU:S-172813 Apolipoprotein B (ApoB)
+            gene, partial cds.
+ACCESSION   MH331991
+VERSION     MH331991.1
+KEYWORDS    .
+SOURCE      Crocidura olivieri (Olivier's shrew)
+  ORGANISM  Crocidura olivieri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 559)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 559)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..559
+                     /organism="Crocidura olivieri"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU:S-172813"
+                     /db_xref="taxon:214449"
+                     /geo_loc_name="Ethiopia: Vanzaye, Gumara River"
+     gene            <1..>559
+                     /gene="ApoB"
+     mRNA            <1..>559
+                     /gene="ApoB"
+                     /product="Apolipoprotein B"
+     CDS             <1..>559
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="Apolipoprotein B"
+                     /protein_id="AZD26204.1"
+                     /translation="NAQYKKNKDKHPIPLPLDILYLFFNHNINSFLRKVDNVRDKALV
+                     YVTESYNEARIKLHDYNVENSLTKQQRTFQIPGYTIPVVNIETSPFTVEMLPFGYVIP
+                     KVISTPNFTILGSGFVVPSYTLALPFLELPALQVPMYSLELSLPEFEVLSMPRNIFIP
+                     ALGNITYDFSFKSSVITVSANAGLY"
+ORIGIN      
+        1 taaatgctca gtataagaaa aacaaagaca agcatcccat cccacttcct ttggatatac
+       61 tttatttatt ctttaatcat aatatcaatt cctttctcag aaaagttgat aatgtcagag
+      121 acaaggcatt agtttatgtt actgaatcct ataatgaagc aagaattaag ttacatgatt
+      181 ataatgttga aaattctcta acgaaacaac aaaggacttt tcaaattcca ggatatacca
+      241 tcccagttgt caatattgaa acatctccgt tcacagtaga gatgcttcca tttggctatg
+      301 tgatcccaaa agtgatcagc acccccaact ttaccatcct gggttctggc ttcgttgtgc
+      361 cctcatatac tttagctttg ccatttctag aactgccagc ccttcaagtc cctatgtatt
+      421 cccttgagct ttctcttcca gaatttgaag tattgagtat gccaaggaat attttcattc
+      481 cagctctggg aaatattaca tatgactttt cttttaaatc aagtgtcatc acagtaagtg
+      541 ccaatgctgg actttataa
+//
+

@@ -1,0 +1,64 @@
+LOCUS       AF434834                1044 bp    DNA     linear   MAM 09-MAY-2017
+DEFINITION  Parascalops breweri NADH dehydrogenase subunit 2 (NADH2) gene,
+            complete cds; mitochondrial.
+ACCESSION   AF434834
+VERSION     AF434834.1
+KEYWORDS    .
+SOURCE      mitochondrion Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1  (bases 1 to 1044)
+  AUTHORS   Emerson,G.L. and Allard,M.W.
+  TITLE     Molecular systematics of Lipotyphla: evidence from mitochondrial
+            genes 12S rRNA and NADH2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   Emerson,G.L. and Allard,M.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2001) Department of Biological Sciences, The
+            George Washington University, 2023 G St NW Rm 340, Washington, DC
+            20052, USA
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Parascalops breweri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:94437"
+     gene            1..1044
+                     /gene="NADH2"
+     CDS             1..1044
+                     /gene="NADH2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAN76683.1"
+                     /translation="MNPLVFLVISFTVAMGTMIVLISSHWLMIWIGFEMNMLAIIPLL
+                     MKNFNPRSMEAATKYFLTQATASMLLMLAIVINLIYSGQWTTMKMLNTTTSLMMTTAL
+                     AMKLGMAPFHFWVPEVTQGVPLTSGMVLLTWQKIAPLSVMMQMADSINTNLLLSMAVL
+                     SIAMGGWGGLNQTQLRKIMAYSSIAHMGWMAAILTFNTTMTILNLVMYIMMTISMFML
+                     LHMNSSTTTLSLSHLWNKTPLLSTLILLTLLSLGGLPPLSGFMPKWMIINEMTKNDNI
+                     ILPTLMAIMALLNLFFYMRLTYSTSLTLFPSTNNMKMKWQFESNKKIPLLSPLIVLST
+                     LTLPMTPMLMALQ"
+ORIGIN      
+        1 ataaaccctt tggtatttct agtaatttca ttcaccgtag caataggaac aataattgtt
+       61 ctaatcagct cacactggtt aataatctga atcggcttcg aaataaacat actagcaatc
+      121 attcccctac taataaaaaa ttttaaccca cgctcaatag aagccgctac aaaatatttc
+      181 cttacccaag caacagcatc aatactacta atactagcca tcgtaatcaa cctcatttac
+      241 tctggacaat gaactacaat aaaaatactc aacacaacta cctccctaat aataacaact
+      301 gccctagcca taaaattagg aatagcccca tttcacttct gagtaccaga agtcacacaa
+      361 ggagtaccac taacctcagg catagtatta cttacatgac aaaaaatcgc tccactatca
+      421 gtcataatac aaatagccga ctcaatcaac accaacctcc tcctatcaat agcagttcta
+      481 tctattgcca taggaggatg aggcggatta aaccaaacac aactacgaaa aattatagcc
+      541 tattcatcaa tcgcccatat aggatgaata gcagccatcc taacatttaa caccaccata
+      601 actattctaa acctagtcat atatattata atgacaattt ccatatttat actactacat
+      661 ataaactcat ccacaaccac cctatcacta tcccacctat gaaataaaac acctcttcta
+      721 tcaaccctta ttctactaac actactatcc ctgggaggac taccccctct atctggcttt
+      781 ataccaaaat gaataatcat taacgaaatg acaaaaaacg acaatatcat tttacccaca
+      841 ctcatagcaa tcatggccct actaaactta ttcttctaca tacgattaac ttactcaaca
+      901 tccctaacat tattcccatc cactaacaac ataaaaataa aatgacaatt cgaaagcaat
+      961 aaaaaaatcc cactcttatc accattaatt gttttatcca ctttaacatt accaataacg
+     1021 cctatactca tagcgctaca atag
+//
+

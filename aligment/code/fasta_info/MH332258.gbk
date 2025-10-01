@@ -1,0 +1,65 @@
+LOCUS       MH332258                 735 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Sorex caecutiens voucher ZMMU:S-188557 Growth hormone receptor
+            (GHR) gene, partial cds.
+ACCESSION   MH332258
+VERSION     MH332258.1
+KEYWORDS    .
+SOURCE      Sorex caecutiens (Laxmann's shrew)
+  ORGANISM  Sorex caecutiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 735)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 735)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..735
+                     /organism="Sorex caecutiens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU:S-188557"
+                     /db_xref="taxon:62276"
+                     /geo_loc_name="Mongolia: Hentey, Selenga Aimag,
+                     Khonin-Nuga"
+     gene            <1..>735
+                     /gene="GHR"
+     mRNA            <1..>735
+                     /gene="GHR"
+                     /product="Growth hormone receptor"
+     CDS             <1..>735
+                     /gene="GHR"
+                     /codon_start=2
+                     /product="Growth hormone receptor"
+                     /protein_id="AZD26471.1"
+                     /translation="DDPDEKTEGSDTDRLLNQDYDKSLNILGAKDDDSGRTSCYEPDI
+                     LETDFNASDMCDDTLELAPKPQRLKEEADLLCLDQKNQNHSLSDDALSSTPRLSVTLA
+                     QENKPRPLVTGGTESTHPTTHTQPSNPSSLANIDFYAQVSDITPAGSVVLSPGQKIKA
+                     GIAQYDMHPEVVSRSQANFIMDNAYFCEADAKKCITVAPQLEVQSRVEPRFNQEDIYI
+                     TTESLTTTAGRSVTAELAPSPELPVP"
+ORIGIN      
+        1 tgatgatcct gacgaaaaga ctgaaggatc agatacagac agacttctaa accaagacta
+       61 tgataagtca cttaatatcc tcggggcaaa agatgatgac tctggacgta ccagctgtta
+      121 tgaacctgac attctagaga ctgattttaa tgctagtgac atgtgtgatg ataccttaga
+      181 gcttgcgcca aagccacaaa ggttaaaaga ggaagcagat ctcttgtgcc ttgaccagaa
+      241 gaatcaaaat cattcactct ctgatgatgc tctctcttct actccacgcc tcagtgtaac
+      301 cttagcacag gaaaataaac caagaccact tgttacgggt ggaactgaat caactcatcc
+      361 aactactcat actcagccaa gcaatccaag ttcgctggca aatatcgact tttatgccca
+      421 ggtaagtgac attacaccag cagggagtgt ggttctttcc cccggccaga agattaaggc
+      481 agggatagcc cagtatgaca tgcatccaga agtggtttcg cgctcccaag caaacttcat
+      541 catggacaat gcctacttct gtgaggctga tgccaaaaag tgcatcacag tggcccctca
+      601 actagaggtc caatcccgtg tagagccaag atttaaccag gaagacattt acatcaccac
+      661 agaaagcctt accactactg ctgggaggtc tgtgacagca gaactggccc cgagtcctga
+      721 gttgcctgtc ccaga
+//
+

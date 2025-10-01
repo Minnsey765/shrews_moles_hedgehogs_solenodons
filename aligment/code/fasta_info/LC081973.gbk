@@ -1,0 +1,57 @@
+LOCUS       LC081973                 540 bp    DNA     linear   MAM 01-FEB-2017
+DEFINITION  Crocidura lasiura ApoB gene for apolipoprotein B, partial cds,
+            specimen_voucher: SDO991018-2.
+ACCESSION   LC081973
+VERSION     LC081973.1
+KEYWORDS    .
+SOURCE      Crocidura lasiura
+  ORGANISM  Crocidura lasiura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1
+  AUTHORS   Ohdachi,S.D., Yoshizawa,K., Takada,Y., Motokawa,M., Iwasa,M.A.,
+            Arai,S., Moribe,J., Uematsu,Y., Sakai,E., Tateishi,T. and
+            Kinoshita,G.
+  TITLE     Phylogeography of the Japanese white-toothed shrew (Eulipotyphla:
+            Soricidae) throughout the range; a clear division between eastern
+            and western genetic types without a prominent geographic barrier
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 540)
+  AUTHORS   Ohdachi,S.D., Yoshizawa,K., Takada,Y., Motokawa,M., Iwasa,M.A.,
+            Arai,S., Moribe,J., Uematsu,Y., Sakai,E., Tateishi,T. and
+            Kinoshita,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2015) Contact:Satoshi D. Ohdachi Hokkaido
+            University, Institute of Low Temperature Science; N19 W8, Sapporo,
+            Hokkaido 060-0819, Japan
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Crocidura lasiura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SDO991018-2"
+                     /db_xref="taxon:167043"
+                     /geo_loc_name="South Korea: Gangwon Province, Mt. Odaesan"
+     gene            <1..>540
+                     /gene="ApoB"
+     CDS             <1..>540
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="BAW89510.1"
+                     /translation="NAQYKKNKDKHPIPLPLDMLYLFFNHNINSFLRQVDHVRDKALV
+                     FVTESYNEARIKLHDYNVENSLTKQQRTFQIPGYTVPVINIETSPFTVEMLPFGYVIP
+                     KAISTPNFTILGSGFFVPSYTLALPFLELPALQVPKSSLELSLPEFEVLSMPRNIFIP
+                     ALGNITYDFSFKSSVIALS"
+ORIGIN      
+        1 taaatgctca gtataagaaa aacaaagaca agcatcccat tccacttcct ttggatatgc
+       61 tttatttatt ctttaatcat aatattaatt cctttctcag acaagtggat catgtcagag
+      121 acaaggcatt agtttttgtt actgaatcct ataatgaagc aagaattaag ttacatgatt
+      181 ataatgttga aaattctcta acaaaacaac aaaggacttt tcaaattcca ggatataccg
+      241 tcccagttat caatattgaa acatctccat tcacagtaga gatgcttcca tttggctatg
+      301 tgatcccaaa agcgatcagc acccccaact ttaccatcct gggctctggc ttctttgtgc
+      361 cctcatatac tttagctttg ccatttctag aactaccagc ccttcaagtc cctaagagtt
+      421 cccttgagct ttctcttcca gaatttgaag tattgagtat gccaaggaat attttcattc
+      481 cagctctggg aaatattaca tatgactttt cttttaaatc aagtgtcatc gcactaagtg
+//
+

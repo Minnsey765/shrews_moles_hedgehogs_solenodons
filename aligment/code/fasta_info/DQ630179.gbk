@@ -1,0 +1,53 @@
+LOCUS       DQ630179                 517 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Chimarrogale himalayica isolate 1 ApoB (ApoB) gene, partial cds.
+ACCESSION   DQ630179
+VERSION     DQ630179.1
+KEYWORDS    .
+SOURCE      Chimarrogale himalayica (Himalayan water shrew)
+  ORGANISM  Chimarrogale himalayica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Chimarrogale.
+REFERENCE   1  (bases 1 to 517)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 517)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Chimarrogale himalayica"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:227887"
+     gene            <1..>517
+                     /gene="ApoB"
+     mRNA            <1..>517
+                     /gene="ApoB"
+                     /product="ApoB"
+     CDS             <1..>517
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="ApoB"
+                     /protein_id="ABG20767.1"
+                     /translation="PLPLDMFYVVFSHNINSFIRQVKKVRDKALGFVIQSYNEAKIKS
+                     DEYKIENSITKQPRTFKIPGYTIPVANIEASPSTVEMFPFGYVIPKEINTPNFTILGS
+                     GFSVPSYTLVLPFLELPALHIPKFLELSFPEFKVLSIPKNVFIPALGNITYDFSFKSS
+                     VITLNANAGLY"
+ORIGIN      
+        1 tcccacttcc tttggatatg ttttatgtgg tttttagtca taatatcaat tcctttatca
+       61 gacaagttaa gaaagtcaga gacaaggcat tgggttttgt tatacaatcc tataatgaag
+      121 caaaaattaa atctgatgag tataagattg aaaactctat caccaaacaa ccaaggacct
+      181 tcaaaattcc agggtacacc attcctgttg ctaatattga agcatctcca tccacagtag
+      241 agatgtttcc atttggttat gtgatcccaa aagaaatcaa cacccccaac ttcactattc
+      301 tgggttctgg cttctctgtg ccctcatata ctttagtcct gccatttcta gaattaccag
+      361 cccttcatat ccctaaattt cttgagcttt cttttccaga attcaaagta ctgagtatcc
+      421 caaagaatgt tttcattcca gccctgggaa atattacata tgatttttcc tttaaatcaa
+      481 gtgtcattac actgaatgcc aatgctggac tttataa
+//
+

@@ -1,0 +1,75 @@
+LOCUS       LC124847                1181 bp    DNA     linear   MAM 30-AUG-2016
+DEFINITION  Mogera wogura APOB gene for apolipoprotein B, partial cds,
+            specimen_voucher: personal collection:Satoshi D.
+            Ohdachi:SDO-11/02/24-2.
+ACCESSION   LC124847
+VERSION     LC124847.1
+KEYWORDS    .
+SOURCE      Mogera wogura (Japanese mole)
+  ORGANISM  Mogera wogura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Mogera.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1181)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..1181
+                     /organism="Mogera wogura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="personal collection:Satoshi D.
+                     Ohdachi:SDO-11/02/24-2"
+                     /db_xref="taxon:62295"
+                     /geo_loc_name="Japan: Kagoshima, Yakushima Is."
+     gene            <1..>1181
+                     /gene="APOB"
+     CDS             <1..>1181
+                     /gene="APOB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="BAV56042.1"
+                     /translation="LNIPLTIPEMTLPYTSLTTPPVKDFSIWERTGLKEFLKTTKQSF
+                     DLSVKTQYKKNKDKHSISIPLDVFYVFMNHNINSFIRQFEKGRHQALVSFTNAYNEAK
+                     LKFDKYKVEKSLNNQPRIFHIPGYTIPLFNIEASPSTVKMLPFGYVIPEEISTPSFTI
+                     WGSDFYVPSYTLVLPSLELPALPVPTSPLEFSLPEFKILSTPRNILIPALGNITYDFS
+                     FKSSVITLTTNAELYNQSDIVVHFFSSSSSVVDALQYKLEGTSSLTRKRGLKLATALS
+                     LSNEFVGGSHNSTISLTKKNMEASVTTIAKVQISILNMNFSQTLNANTKSRPTVSSSI
+                     ELKYDFNSPSLDSTAAGEVDYKLSFESLTSYFSIESSTKGNIKGSVLSQKYSGMLANE
+                     A"
+ORIGIN      
+        1 tcttaaacat tcctttaaca attcctgaaa tgactctacc ttacacatca ctcacaactc
+       61 ccccagtgaa agatttctcc atatgggaaa gaacaggctt gaaggaattt ttgaaaacaa
+      121 caaagcagtc atttgattta agtgtaaaga ctcagtataa gaaaaacaaa gacaagcatt
+      181 ccatctcaat tcctttggat gtgttttatg tgtttatgaa tcataacatc aattctttca
+      241 tcaggcaatt tgagaaaggc agacatcagg ctttagtttc tttcaccaat gcctataatg
+      301 aagcaaaact caagtttgat aagtacaagg ttgaaaagtc cctcaacaac caacccagga
+      361 tctttcatat tcctggatac actattccac tcttcaacat tgaagcttct ccatcaacag
+      421 tgaagatgtt accatttggc tatgtgatcc cagaagagat aagcaccccc agtttcacca
+      481 tctggggttc tgacttctac gtgccctctt atacattagt cctgccatcc ctagagttgc
+      541 cagcccttcc tgtccctaca agccctcttg agttttctct tccagaattc aagatattga
+      601 gtaccccaag gaacatctta attcctgccc tgggcaatat tacctatgat ttttccttta
+      661 aatcaagtgt catcacactg actaccaatg ctgaactata taaccaatca gacattgttg
+      721 ttcatttctt tagttcctcc tcttctgtcg tggatgctct gcagtacaag ctagagggta
+      781 cctccagttt gacgaggaaa agagggctga agttagccac agccttgtct ctgagtaatg
+      841 aattygtggg aggcagtcat aacagtacca ttagcttaac aaaaaaaaac atggaagcat
+      901 cagtgacaac aatcgcaaaa gttcaaattt caattttgaa tatgaatttc agtcagacgc
+      961 ttaatgcgaa taccaagtcc aggcctactg tctcttcatc cattgaatta aagtacgatt
+     1021 tcaattcccc cagtctggac tctactgctg caggagaagt tgactacaag ctcagttttg
+     1081 aaagcctcac ctcttacttt tccattgaat catccaccaa aggaaatatc aagggttcag
+     1141 tcctttcaca gaaatattca ggaatgcttg ccaatgaggc c
+//
+

@@ -1,0 +1,71 @@
+LOCUS       KX755167                 858 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Parascalops breweri isolate HT-1 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755167
+VERSION     KX755167.1
+KEYWORDS    .
+SOURCE      Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1  (bases 1 to 858)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 858)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..858
+                     /organism="Parascalops breweri"
+                     /mol_type="genomic DNA"
+                     /isolate="HT-1"
+                     /db_xref="taxon:94437"
+                     /geo_loc_name="USA: New York, Columbia County, Hillsdale"
+                     /note="Pbrewe_1"
+     gene            <1..>858
+                     /gene="APOB"
+     mRNA            <1..>858
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>858
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33572.1"
+                     /translation="EKTGLKDFLRTTKQSFDLSVKTQYKKNKDQHSIPIPLDVFYMFM
+                     NRNINSFIRQLEKGRHLTSVFLTNAYNEAKIKLDKYKVEKSLNNQPRTFQIPGYTIPV
+                     LNIEVSPSTVKMLPFGYGIPEEISTPSFTIWGSDFHVPSYTLVLPLELPALPVPTSPL
+                     EFSLPEFKLLSTPRNILIPALGNITYDFSFKSSVITLNTNAELYNHSDIVIHFLSSSS
+                     SVVDALQYKLEGTSSLTRKRGLKLATALSLSNEFVGGSHNSTISLTKKNMDVSVTTMA
+                     KVQISILNVN"
+ORIGIN      
+        1 gaaaaaacgg gcttgaaaga cttcttgaga acgacaaagc aatcatttga tttaagtgta
+       61 aagactcagt ataagaaaaa caaagaccag cattccatcc caattccttt ggatgtgttt
+      121 tacatgttca tgaatcgtaa catcaattcc ttcatcaggc aacttgagaa aggcagacat
+      181 ctgacttcag tttttttaac caatgcctat aatgaagcaa aaattaagtt ggataagtac
+      241 aaggttgaaa aatccctcaa caaccaaccc aggacctttc aaattcctgg atacactatt
+      301 ccagtcctca acattgaagt ttctccatca acagtaaaga tgttaccatt tggttatgga
+      361 atcccagaag agatcagcac ccccagcttc accatctggg gttctgactt ccatgtgccc
+      421 tcctatacct tagtcctgcc cctagagctg ccagcccttc ctgtccctac aagccctctt
+      481 gagttttctc ttccagaatt caagctattg agtaccccaa gaaacatctt aattcctgcc
+      541 ctcggcaata ttacctatga tttttccttt aaatcaagtg tcatcacact gaataccaat
+      601 gctgaacttt ataaccattc agacattgtt attcatttcc ttagttcctc ttcttctgtt
+      661 gtggatgctt tgcagtacaa gctagagggt acctcaagtt tgacgaggaa aagagggctg
+      721 aagttagcca cagccttgtc tctgagtaat gaatttgtgg gaggcagtca taacagtacc
+      781 attagcttaa caaaaaaaaa catggatgta tcagtgacaa caatggcgaa agttcaaatt
+      841 tcaattttga atgtgaat
+//
+

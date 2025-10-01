@@ -1,0 +1,65 @@
+LOCUS       AY243373                1267 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Talpa europaea apolipoprotein B gene, partial cds.
+ACCESSION   AY243373
+VERSION     AY243373.1
+KEYWORDS    .
+SOURCE      Talpa europaea (European mole)
+  ORGANISM  Talpa europaea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Talpa.
+REFERENCE   1  (bases 1 to 1267)
+  AUTHORS   Amrine-Madsen,H., Koepfli,K.P., Wayne,R.K. and Springer,M.S.
+  TITLE     A new phylogenetic marker, apolipoprotein B, provides compelling
+            evidence for eutherian relationships
+  JOURNAL   Mol. Phylogenet. Evol. 28 (2), 225-240 (2003)
+   PUBMED   12878460
+REFERENCE   2  (bases 1 to 1267)
+  AUTHORS   Amrine-Madsen,H., Koepfli,K.-P., Wayne,R.K. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-2003) Biology, University of California, 1354
+            Spieth Hall, Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..1267
+                     /organism="Talpa europaea"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9375"
+     mRNA            <1..>1267
+                     /product="apolipoprotein B"
+     CDS             <1..>1267
+                     /note="apoB; LDL receptor binding domain"
+                     /codon_start=2
+                     /product="apolipoprotein B"
+                     /protein_id="AAP50761.1"
+                     /translation="NLDFLNIPLTIPEMTLPYTSLTTPPVKDFSIWEKTGLKEXLRTT
+                     KQSFDLSVKTXYKKNKDKHSISIPLDAFYVFMNHNINSFIRQFEKGRHQALVSFTNAY
+                     NEAKIKFDKYKVEKSLNNQPRIFQIPGYTIPLFNIEASPSMVKMLPFGYVIPEEISTP
+                     SFTIWGSDFYVPSYTLVLPSLELPALPVPTSPLEFSLPEFKILSTPRNILIPALGNIT
+                     YDFSFKSSVITLNTNAELYNQSDIVVHFLSSSSSVVDALQYKLEGTSSLTRKRGLKLA
+                     TALSLSNEFVGGSHNSTISLTKKNLEASVTTIAKVQISILNMNFSQTLNGNTKSRPTV
+                     SSSIELKYDFNSPSLDSTAAGEVDHKLRLESLTSYFSIESSNKGNIKGSVLSQKYSGM
+                     LANEASTYLNSKGTRSSLKLQGASKVDGIW"
+ORIGIN      
+        1 caacctggat ttcttaaaca ttcctttaac aattcctgaa atgactctac cttatacatc
+       61 actcacaact cccccagtga aagatttctc catatgggaa aaaacaggct tgaaggaant
+      121 tttgagaaca acaaagcagt catttgattt aagtgtaaag actcngtaca agaaaaacaa
+      181 agacaagcat tccatctcca ttcctttgga tgcgttttat gtgtttatga atcataacat
+      241 caattctttc atcaggcaat ttgagaaagg cagacatcag gctttagttt cttttaccaa
+      301 tgcctataat gaagcaaaaa tcaagtttga taagtacaag gttgaaaagt ccctcaataa
+      361 ccaacccagg atctttcaaa ttcctggata cactattcca ctcttcaaca ttgaagcttc
+      421 tccatcaatg gtaaagatgt taccatttgg ctatgtgatc cccgaagaga taagcacccc
+      481 cagtttcacc atctggggtt ctgacttcta tgtgccctcc tatacgttag tcctgccgtc
+      541 cctagagctg ccagcccttc ctgtccctac aagccctctc gagttttctc ttccagaatt
+      601 caagatattg agtaccccaa ggaacatctt aattcctgcc ctgggcaata ttacctatga
+      661 tttttcattt aaatcaagtg tcatcacact gaataccaat gctgaacttt ataaccaatc
+      721 agacattgtt gttcatttcc ttagttcctc ttcttctgtc gtggatgctc tgcagtacaa
+      781 gctagagggc acctccagtt tgacaaggaa aagagggctg aagttagcca cagccttgtc
+      841 tctgagtaat gaattcgtgg gaggcagtca taacagtacc attagcttaa caaaaaaaaa
+      901 cttggaagca tcagtgacaa caatcgcaaa agttcaaatt tcaattttga atatgaattt
+      961 cagtcagaca cttaatggga ataccaagtc aaggcctact gtctcttcat ccattgaatt
+     1021 aaagtacgat ttcaattccc ccagtctgga ctctactgct gcaggagaag ttgaccacaa
+     1081 gctcagatta gaaagcctca cctcttactt ttccattgaa tcatctaaca aaggaaatat
+     1141 caagggctca gtcctttcac agaaatattc aggaatgctt gccaatgagg ccagcactta
+     1201 cttgaattcc aagggcactc ggtcctcatt gaagctgcaa ggggcttcca aagttgatgg
+     1261 catctgg
+//
+

@@ -1,0 +1,64 @@
+LOCUS       OP857507                1469 bp    DNA     linear   MAM 23-NOV-2022
+DEFINITION  Myosorex kihaulei voucher Myosorex_kihaulei_FMNH205242 large
+            subunit ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP857507
+VERSION     OP857507.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 1469)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncus ater, place it in the genus Palawanosorex
+  JOURNAL   Zootaxa (2022) In press
+REFERENCE   2  (bases 1 to 1469)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2022) Biology, Siena College, 515 Loudon Rd,
+            Loudonville, NY 12211, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.14.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1469
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Myosorex_kihaulei_FMNH205242"
+                     /db_xref="taxon:307108"
+     rRNA            <1..>1469
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 taaagtatag gagatagaaa taattatata tggcgcaata gagattagta ccgtaaggga
+       61 acgactgaaa gaaaaattaa aagtaaaaaa tagcaaagat taaaccttgt accttttgca
+      121 taatgaatta actagaaaca ctttagcaaa gagatcttta gttaaaagcc ccgaaaccag
+      181 acgagctatt tataaatagc taacagagcc aactcgtcta tgtagcaaaa tagtgagaaa
+      241 atttataaat agaggtgaaa agcctaccga gcctggtgat agctggttgt tcagctaaga
+      301 atcttagttc aactttaaaa ttactaaaaa aacaaaacaa ttataaagta attttaaatg
+      361 ttactccata ggggtacagc cctatggaat aaggatacaa ccttaattag agagtatatt
+      421 attcacaaaa ccatagttgg cttaaaagca gccatcaatt aagatagcgt tcaagctcaa
+      481 caaaaaccgt attacttaat cctattattt aataattaac tcctagtaca aacactgaac
+      541 tattctacat atatgtagaa gaaatactgt taatatgagt aacaagatat ttatctccca
+      601 gcacaagttt atatcagccc taatacttaa ctgatagtta acaaccaaat aaatttaaac
+      661 acaaattaaa cctttattta accattgtta atccaacacc ggagtgcatt aaggaaagat
+      721 taaaagaaat aaaaggaact cggcaaacat aaaccccgcc tgtttaccaa aaacatcacc
+      781 tctagcataa caagtattag aggcactgcc tgcccagtga cacaagttaa acggccgcgg
+      841 tatcctgacc gtgcaaaggt agcataatca tttgttcctt aattagggac tagtatgaat
+      901 ggccacacga gggtttaact gtctcttatt tctaatcagt gaaattgacc ttcccgtgaa
+      961 gaggcgggaa taacaaaata agacgagaag accctatgga gcttaaatta tataacccaa
+     1021 taataataac tatatctcct aattcagggg ttaaaagcta attatttggg ctatagattt
+     1081 cggttggggt gacctcggag tacaaaataa cctccgagag atttaaacca agataaacaa
+     1141 atcaaagtaa taaatcaaac attgatccaa tctaattgat caacgaaaca agttacccta
+     1201 gggataacag cgcaatccta ttcaagagtc cttatcgaca atagggttta cgacctcgat
+     1261 gttggatcag gacatcctaa tggtgcagca gctattaatg gttcgtttgt tcaacgatta
+     1321 aagtcctacg tgatctgagt tcagaccgga gcaatccagg tcggtttcta tctattcaaa
+     1381 atttctccca gtacgaaagg acaagagaaa tgaagcctac tcctaagagc gccttctcga
+     1441 atttagatga tattatatca acctaatta
+//
+

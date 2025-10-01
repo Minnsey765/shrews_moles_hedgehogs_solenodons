@@ -1,0 +1,43 @@
+LOCUS       EF507185                 574 bp    DNA     linear   MAM 20-FEB-2010
+DEFINITION  Congosorex phillipsorum voucher FMNH 177682 (holotype) 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   EF507185
+VERSION     EF507185.1
+KEYWORDS    .
+SOURCE      mitochondrion Congosorex phillipsorum
+  ORGANISM  Congosorex phillipsorum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Congosorex.
+REFERENCE   1  (bases 1 to 574)
+  AUTHORS   Ferry,A.K., Goodman,S.M. and Olson,L.E.
+  TITLE     Phylogenetics of African shrews using 16S
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 574)
+  AUTHORS   Ferry,A.K., Goodman,S.M. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2007) Biology and Wildlife, University of Alaska
+            Fairbanks, 907 Yukon Drive, Fairbanks, AK 99775-6960, USA
+FEATURES             Location/Qualifiers
+     source          1..574
+                     /organism="Congosorex phillipsorum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 177682 (holotype)"
+                     /db_xref="taxon:456970"
+                     /geo_loc_name="Tanzania"
+     rRNA            <1..>574
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aaaccccgcc tgtttaccaa aaacatcacc tctagcatta caagtattag aggcactgcc
+       61 tgcccagtga cacaagttta aacggccgcg gtatcctgac cgtgcaaagg tagcataatc
+      121 atttgttcct taattaggga ctagtatgaa tggccacacg agggtttaac tgtctcttat
+      181 ttctaatcag tgaaattgac cttcccgtga agaggcggga atactcaaac aagacgagaa
+      241 gaccctatgg agcttaaatt aaataactca acaaaataat atttacccaa taggaactaa
+      301 acctaaacct tgacatgagt tataaatttc ggttggggtg acctcggagt ataaaaaacc
+      361 ctccgagaaa tttaagccaa gattcaccaa tcaaagctaa taataacaat tgatccaatc
+      421 ttattgatca acggaacaag ttaccctagg gataacagcg caatcctatt caagagtcca
+      481 tatcgccaat agggtttacg acctcgatgt tggatcagga catcctaatg gtgcagcagc
+      541 tattaacggt tcgtttgttc aacgattaaa gtcc
+//
+

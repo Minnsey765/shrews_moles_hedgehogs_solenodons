@@ -1,0 +1,63 @@
+LOCUS       MH332078                 702 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Sorex cinereus voucher HLC 16289 Breast cancer type 1
+            susceptibility protein (BRCA1) gene, partial cds.
+ACCESSION   MH332078
+VERSION     MH332078.1
+KEYWORDS    .
+SOURCE      Sorex cinereus (cinereus shrew)
+  ORGANISM  Sorex cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 702)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 702)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /organism="Sorex cinereus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="HLC 16289"
+                     /db_xref="taxon:36803"
+                     /geo_loc_name="Canada: Alberta, Kananaskis"
+     gene            <1..>702
+                     /gene="BRCA1"
+     mRNA            <1..>702
+                     /gene="BRCA1"
+                     /product="Breast cancer type 1 susceptibility protein"
+     CDS             <1..>702
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="Breast cancer type 1 susceptibility protein"
+                     /protein_id="AZD26291.1"
+                     /translation="TESKENYDRQTFSTEKVELSADPLSGRKQPNKQKLPCSDSSGDS
+                     QEVTWISQNSSIQKVNDWFSRSGDVLSSDDLHDEGSESNTEVAEIIEISSAADEFSGS
+                     SEKIDLTASESRRALSKPVESNIEDKIFGKTYRRKTSFPHLNRITEDAILGSALLEPH
+                     IAQEQPFTNKLKRKRSITSSLSPKDFIKKVDLAVVQKTPEKVIEKSDQIDQNGQVINI
+                     TTNGQSEIKSDYVQE"
+ORIGIN      
+        1 gactgaaagt aaagaaaact atgatagaca gactttcagc acagagaagg tagagctgag
+       61 tgctgatccc ctatctggga gaaaacaacc taataagcag aaattgccat gctctgacag
+      121 ttctggagat tcccaagagg tgacttggat atctcaaaac agtagcatac agaaagttaa
+      181 tgattggttt tccagaagtg gtgatgtatt atcttctgat gatctccatg atgaaggatc
+      241 ggaatcaaat actgaagtag ctgaaataat agaaatttca agtgcagcag atgaattttc
+      301 tggttcttca gagaaaatag acttaacggc cagtgaaagt agaagagcgc tctccaaacc
+      361 agtagagagt aatattgagg ataaaatatt tgggaaaacc tatcggagga aaacaagctt
+      421 ccctcacttg aatcgcataa ccgaagatgc aatactagga tcagctctcc tagaacctca
+      481 tatagcacaa gagcaaccct tcacaaacaa attaaaacgt aaaagaagca taacatcaag
+      541 cctttctcct aaagatttta tcaagaaagt ggatttggca gttgttcaaa agactcctga
+      601 aaaggtaatc gagaagagtg accaaattga tcaaaacggc caggtgataa atattactac
+      661 taatggtcag agtgaaataa aaagtgatta tgtccaagaa ga
+//
+

@@ -1,0 +1,68 @@
+LOCUS       KX755083                 819 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Talpa europaea isolate EM-1 growth hormone receptor (GHR) gene,
+            partial cds.
+ACCESSION   KX755083
+VERSION     KX755083.1
+KEYWORDS    .
+SOURCE      Talpa europaea (European mole)
+  ORGANISM  Talpa europaea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Talpa.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Talpa europaea"
+                     /mol_type="genomic DNA"
+                     /isolate="EM-1"
+                     /db_xref="taxon:9375"
+                     /geo_loc_name="Denmark: Aarhus"
+                     /note="Teurop_1"
+     gene            <1..>819
+                     /gene="GHR"
+     mRNA            <1..>819
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>819
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33488.1"
+                     /translation="FIELDIDDPDEKTEGSDTDRLISNDHQKSLHILGAKDDDSGRTS
+                     CYEPDILETDFNVSDLCDGTSEVPQPQRLKGEADLLCLDQKNQNNSPSNDAPHYTQQP
+                     SVSPTQENKPRPLLIGGTESAPQASHSQLSNLSSLANIDFYAQVSDITPAGSVVLSPG
+                     QKNKAGISQCDAHPEAVSRCQANFIMDNAYFCEADAKKCITMAPHMDSETRGEPSFNQ
+                     EDIYITTESLTTTAGRSGTAERAPGSEMPVPDYTSIHIVQSPQGLVLNATALPLP"
+ORIGIN      
+        1 ttcattgagc tagatattga tgatcctgat gaaaagacag aaggatcaga cacagacaga
+       61 cttataagca acgatcacca gaaatcactt catatccttg gggcaaagga tgatgactct
+      121 gggcgtacca gctgctatga acctgacatt ctggagactg atttcaatgt gagtgacctg
+      181 tgtgatggta cctcagaggt gcctcagcct caaaggttaa aaggggaagc agatctcttg
+      241 tgccttgayc agaagaatca aaataactca ccttctaatg atgctcccca ctatactcag
+      301 cagcccagtg ttagcccaac acaggaaaac aaaccaagac cacttctcat tggtggaact
+      361 gagtcygctc ctcaagcttc ccatagtcag ctaagcaatc tgagttcact ggcaaatatc
+      421 gacttttatg cccaggtaag cgacattaca ccagcaggga gtgtggtcct ttccccgggc
+      481 caaaagaata aggcagggat ctcccagtgy gatgcacatc cagaagcagt ctcacgctgc
+      541 caagcaaact tcatcatgga caacgcctac ttctgtgagg cagatgccaa aaagtgcatc
+      601 accatggccc ctcacatgga ttctgaaaca cggggagagc caagctttaa ccaggaagac
+      661 atttatatca ccacagaaag ccttaccact actgctggca ggtctgggac agcagaacgt
+      721 gctccgggtt ctgaaatgcc tgtcccagac tacacctcca ttcatatagt acagtctccc
+      781 caaggtctgg tcctcaacgc cactgccttg cccttgcct
+//
+

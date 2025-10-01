@@ -1,0 +1,57 @@
+LOCUS       MZ661239                1062 bp    DNA     linear   MAM 10-AUG-2022
+DEFINITION  Crocidura russula voucher CSCF-MAM-1203236 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MZ661239
+VERSION     MZ661239.1
+KEYWORDS    .
+SOURCE      mitochondrion Crocidura russula (white-toothed shrew)
+  ORGANISM  Crocidura russula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 1062)
+  AUTHORS   Wyler,S.
+  TITLE     Small mammals reference
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1062)
+  AUTHORS   Wyler,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2021) InfoFauna - CSCF, University of Neuchatel,
+            Avenue de Bellevaux 51, Neuchatel, Neuchatel 2000, Suisse
+FEATURES             Location/Qualifiers
+     source          1..1062
+                     /organism="Crocidura russula"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CSCF-MAM-1203236"
+                     /db_xref="BOLD:MAMAA291-21.16S"
+                     /db_xref="taxon:36802"
+                     /geo_loc_name="Switzerland: Solothurn"
+                     /lat_lon="47.198 N 7.406 E"
+                     /collection_date="16-Aug-2018"
+                     /identified_by="Thomas Briner"
+                     /PCR_primers="fwd_seq: cctaccgagcctggtgatag, rev_seq:
+                     atagatagaaaccgacctgg"
+     rRNA            <1..>1062
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgtgtccaga tgagaattta agttcaactt taagtttgcc taataaatat tgaattttaa
+       61 tgtaatctta aatgttaatc tgcaggggta cagccctgca gaataagact acaaccttaa
+      121 ttagagagta aatttatata ataaccatag ttggcctaaa agcagccacc aattaagaaa
+      181 gcgttcaagc tcaacaatta aacttatact taattcaaag aataatataa actcctaact
+      241 tagatactgg actattctac ttacctgtag aagaaatact gttaatatga gtaacaagat
+      301 tttatatctc caaacacacg tgtatatcag cccgaatccc aactgataat taacaattag
+      361 acaaacctaa acattcaatt gactattttc cataacattg ttaatccaac cccggagtgt
+      421 atataaggaa agattaaaaa aagtaaaagg aactcggcaa acaaaaaccc cgcctgttta
+      481 ccaaaaacat cacctctagc attaccagta ttagaggcac tgcctgccca gtgacattag
+      541 ttaaacggcc gcggtatcct gaccgtgcaa aggtagcata atcatttgtt ccttaattag
+      601 ggacttgtat gaatggcccc acgagggttt aactgtctct tacttttaat cagtgaaatt
+      661 gaccttcccg tgaagaggcg ggaatatata aataagacga gaagacccta tggagcttaa
+      721 attaacgtgt ccaacaaaat ctattcttaa tccaacagga aataaaaata ttttaactgg
+      781 acaacaaatt ttggttgggg tgacctcgga gtataacaaa acctccgaga gatattgacc
+      841 aagacttacc cgtcaaagta atataattta ttgatccaat catattgatc aacgaaacaa
+      901 gttaccctag ggataacagc gcaatcctat ttaagagttc atatcgacaa tagggtttac
+      961 gacctcgatg ttggatcagg acatccaaat ggtgcaacag ctattaaagg ttcgtttgtt
+     1021 caacgattaa agtcctacgt gatctgagtt cagacggaga tc
+//
+

@@ -1,0 +1,89 @@
+LOCUS       OP853565                1821 bp    DNA     linear   MAM 20-FEB-2023
+DEFINITION  Myosorex kihaulei voucher FMNH:MAMM:205242 NADH dehydrogenase
+            subunit 5 (ND5) gene, complete cds; mitochondrial.
+ACCESSION   OP853565
+VERSION     OP853565.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 1821)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,M.A., William Dee,J.,
+            Swanson,M.T., Hiller,A.E., Khan,F.A.A. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncusater Medway, 1965 (Soricidae, Crocidurinae), place it
+            in the genus Palawanosorex
+  JOURNAL   Zookeys 1137, 17-31 (2022)
+   PUBMED   36760481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1821)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esslestyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2022) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1821
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:205242"
+                     /db_xref="taxon:307108"
+     gene            1..1821
+                     /gene="ND5"
+     CDS             1..1821
+                     /gene="ND5"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="WDD44920.1"
+                     /translation="MNLFFTLFLTSLITLTVPVFMTMTPIYNTNKFPYYTKSIISYAF
+                     LLSLIPTIMFINSGNEAVISNWCWLSIQTIKLSMSFKLDYFSMIFMPVALFITWSIME
+                     FSMWYMHSDPNINRFFKYLLMFLITMMILVTANNLFQLFIGWEGVGIMSFLLIGWWYG
+                     RADANTAALQAILYNRVGDVGFILSMAWFLFHANSWELHQIFLMDMKYTTIPLVGLIL
+                     AATGKSAQFGLHPWLPSAMEGPTPVSALLHSSTMVVAGVFLIIRFYPLVENNSLARSL
+                     ILSLGALTTLFAAVCALTQNDIKKIVAFSTSSQLGLMMVTIGINQPHLAFLHICTHAF
+                     FKAMLFMCSGSIIHSLNDEQDIRKMGGLYKSMPFTTTALIVGSLALTGMPFLTGFYSK
+                     DLIIESANTSYTNAWALLITLIATTLTAVYSTRIIYFALLGQPRHNTLILINENNPLL
+                     INSIKRLLIGSIFAGFIISQNLIPMNTPQMTMPMYLKIMALIITITGFALALELNNYS
+                     QNLKINKTYHSYKFSNMLGYFPTTMHRLIPSSSLLMSQKLASMVLDLTWMEAVMPKLT
+                     SKMQMIYSTAVSSQKGLIKSYFLSFMITLMISLTLFNSLA"
+ORIGIN      
+        1 ataaacctat tcttcactct attcctaaca tctttaatta cattaactgt gcctgtattt
+       61 ataaccataa cacctatcta caatacaaat aaattcccat actatacaaa atctattatc
+      121 tcatacgctt tcctacttag ccttattcct actattatat tcatcaattc gggtaatgaa
+      181 gcagtaatct ccaactgatg ttgattaagt attcaaacaa ttaaattatc aataagcttt
+      241 aaacttgatt atttttcaat aatctttata ccagtagcac tttttattac ctgatcaatt
+      301 atggaattct caatatgata catacactcc gaccctaaca ttaaccgatt tttcaaatac
+      361 ctcctcatat tccttattac aataataatt ctagttactg caaataattt attccaactt
+      421 tttattggct gagagggagt agggatcatg tctttcttat taatcggatg gtgatacggt
+      481 cgtgcagacg ctaacacagc agccctacaa gctatcctct ataatcgagt cggagatgtt
+      541 ggatttattc tatctatagc atgatttcta ttccatgcta actcctgaga actacaccaa
+      601 attttcctaa tagacataaa atacactacc atcccccttg taggcctaat tcttgctgct
+      661 actggcaaat cagcccaatt cggactacac ccctgactcc catcagcaat agaaggcccc
+      721 acccctgttt ccgccctact ccactccagc acaatagttg tagcaggggt attcctaatc
+      781 attcgattct accccttagt agaaaataac tcactagccc gatctctaat cctatcttta
+      841 ggagcattaa ctaccctatt cgcagctgta tgtgccctaa cccaaaatga tatcaaaaaa
+      901 atcgtagcat tttcgacttc cagccaacta ggactaataa tagtaacaat tggcattaac
+      961 caaccacacc tagcatttct tcatatctgc actcacgcct tcttcaaagc catattattt
+     1021 atatgttctg gctcaattat tcatagccta aatgatgaac aagatatccg aaaaatagga
+     1081 ggcttatata aatccatgcc cttcaccaca actgccctca ttgttggaag ccttgcccta
+     1141 accggcatac cttttcttac aggattctat tcaaaagacc tgatcattga gtctgccaac
+     1201 acgtcgtata ccaacgcctg agccctatta attacattaa tcgcaaccac cctgacagcc
+     1261 gtctacagca cgcgaatcat ttacttcgcc ttacttggac aaccacgtca taacacccta
+     1321 attctgatta atgaaaataa tcccctttta attaattcta ttaaacgatt attaatcgga
+     1381 agcattttcg ctggatttat catttcacaa aacttaattc caataaacac accccaaata
+     1441 actataccaa tatacttaaa aatcatagcc ctaattatta ctatcactgg ctttgcttta
+     1501 gcacttgaac taaacaacta ttcccaaaac ctaaaaatta ataaaactta ccattcctac
+     1561 aaattctcaa atatattagg ttatttcccc actactatac accgacttat cccctcatcc
+     1621 agcctactaa taagccaaaa gctagcctca atagttctag atctcacatg aatggaagca
+     1681 gttataccaa aattaacttc caaaatacaa ataatctact ctaccgcagt atctagtcaa
+     1741 aaagggctta tcaaatccta cttcctctca ttcataatta cattaataat tagcctaaca
+     1801 ttatttaatt ccctcgcgta a
+//
+

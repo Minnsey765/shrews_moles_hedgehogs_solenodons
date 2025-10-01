@@ -1,0 +1,62 @@
+LOCUS       LC124897                 570 bp    DNA     linear   MAM 30-AUG-2016
+DEFINITION  Anourosorex yamashinai BDNF gene for brain-derived neurotrophic
+            factor, partial cds, specimen_voucher: personal collection:Satoshi
+            D. Ohdachi:SDO-03/3/12-5.
+ACCESSION   LC124897
+VERSION     LC124897.1
+KEYWORDS    .
+SOURCE      Anourosorex yamashinai
+  ORGANISM  Anourosorex yamashinai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 570)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..570
+                     /organism="Anourosorex yamashinai"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="personal collection:Satoshi D.
+                     Ohdachi:SDO-03/3/12-5"
+                     /db_xref="taxon:268756"
+                     /geo_loc_name="Taiwan: Chiayi"
+     gene            <1..>570
+                     /gene="BDNF"
+     CDS             <1..>570
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="BAV56092.1"
+                     /translation="ISYFGCMKAAPMKEANSRGQGGLAYPGVRTHGTLESVNGPKAGS
+                     RGGLTSSLADTFEHVIEELLDEDQKVRPHEENSKDADLYTSRVMLSSQVPLEPPLLFL
+                     LEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVL
+                     EKVPVSKGQLKQYFYETKCNPMGYTKEGCR"
+ORIGIN      
+        1 atttcatact ttggttgcat gaaggctgcc cccatgaaag aagcaaacag ccgaggacaa
+       61 ggcggcttgg cctacccagg agtgcggacc catgggactc tggagagcgt gaatgggccc
+      121 aaggcaggtt cacgaggagg cctgacatcc tccctggctg acacttttga acacgtgata
+      181 gaagagctgt tggatgagga ccagaaagtt cggccccacg aagagaacag taaggacgcg
+      241 gacttgtaca cttcccgggt gatgctcagt agccaagtgc ctttggagcc gcctcttctc
+      301 ttcctgctgg aggaatacaa aaattacctg gatgctgcaa acatgtctat gagggtccgg
+      361 cgccactccg accctgcccg ccgtggggag ctgagcgtgt gcgacagcat tagcgagtgg
+      421 gtgacagcgg cagataagaa gactgcagtg gacatgtcgg gcgggacagt cactgtcctt
+      481 gagaaagtcc cggtatccaa aggccaactg aagcagtact tctatgagac caagtgcaat
+      541 cccatgggtt acacaaagga gggctgcagg
+//
+

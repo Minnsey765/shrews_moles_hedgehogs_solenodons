@@ -1,0 +1,52 @@
+LOCUS       LC013316                 845 bp    DNA     linear   MAM 19-SEP-2015
+DEFINITION  Euroscaptor subanura mitochondrial gene for 12S ribosomal RNA,
+            partial sequence, isolate: SIK0939.
+ACCESSION   LC013316
+VERSION     LC013316.1
+KEYWORDS    .
+SOURCE      mitochondrion Euroscaptor subanura
+  ORGANISM  Euroscaptor subanura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Euroscaptor.
+REFERENCE   1
+  AUTHORS   Shinohara,A., Kawada,S., Son,N.T., Can,D.N., Sakamoto,S.H. and
+            Koshimoto,C.
+  TITLE     Molecular phylogenetic relationships and intra-species diversities
+            of three Euroscaptor spp. (Talpidae: Lipotyphla: Mammalia) from
+            Vietnam
+  JOURNAL   Raffles Bull. Zool. 63, 366-375 (2015)
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Shinohara,A. and Kawada,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-DEC-2014) Contact:Akio Shinohara Frontirer Science
+            Resrarch Center, University of Miyazaki; KIhara 5200, Kiyotake,
+            Miyazaki, Miyazaki 889-1692, Japan
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /organism="Euroscaptor subanura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SIK0939"
+                     /db_xref="taxon:1581555"
+                     /geo_loc_name="Viet Nam:Xuan Son National Park, Phu Tho"
+     rRNA            <1..>845
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 aggtttggtc ctggcctttc tattagctgt cagtaaattt acacatgcaa gtttccgcac
+       61 accagtgaga atacccttaa aatcattaaa tgacataaag gagtgggcat caagtacacc
+      121 caaaactagg gtagctaata acgccttgcc tagccacacc cccacgggat acagcagtga
+      181 taaaaattaa gctatgaacg aaagtttgac taagttatac tgataaaggg ttggtaaatt
+      241 tcgtgccagc taccgcggtc atacgattaa cccaagttaa tagatatacg gcgtaaagag
+      301 tgtttaagag taaaataata aaataaagcc aagacttaac taagatgtaa aactctacag
+      361 ttaaagtaaa aataaactac gaaagtggct ttaacatatt ctgatcacac tatagctaag
+      421 acccaaactg ggattagata ccccactatg cttagcccta aaccaagaca atccaactaa
+      481 caagattgtt cgccagagaa ctactagcaa tagcttaaaa ctcaaaggac ttggcggtgc
+      541 tttatatccc tctagaggag cctgttctgt aatcgataaa ccccgataaa cctcaccaac
+      601 tcttgctaat tcagcttata taccgccatc ttcagcaaac ccttaaaagg aattatagta
+      661 agcataaata cttgcgtaaa aacgttaggt caaggtgtag cttatgagtt gggaagaaat
+      721 gggctacatt ttctaattct agaatataca ctttacgaaa acctttatga aatgaaaggt
+      781 taaaggagga tttagtagta aattaagaat agagtgctta attgaatcag gccatgaagc
+      841 acgca
+//
+

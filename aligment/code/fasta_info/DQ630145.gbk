@@ -1,0 +1,53 @@
+LOCUS       DQ630145                 520 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Suncus etruscus isolate 2 ApoB (ApoB) gene, partial cds.
+ACCESSION   DQ630145
+VERSION     DQ630145.1
+KEYWORDS    .
+SOURCE      Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 520)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 520)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..520
+                     /organism="Suncus etruscus"
+                     /mol_type="genomic DNA"
+                     /isolate="2"
+                     /db_xref="taxon:109475"
+     gene            <1..>520
+                     /gene="ApoB"
+     mRNA            <1..>520
+                     /gene="ApoB"
+                     /product="ApoB"
+     CDS             <1..>520
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="ApoB"
+                     /protein_id="ABG20733.1"
+                     /translation="PLPLDMLYLFFNHNINSFLRQVDHVRDKALVFVTESYNEARIKL
+                     HDYNVENSLTKQQRTFQIPGYTIPVINIETSPFTVEMLPFGYVIPKAISTPNFTILGS
+                     GFFVPSYTLALPFLELPALQVPKYSLELSLPEFEVLSMPRNIFIPALGNITYDFSFKS
+                     SVIALSANAGLY"
+ORIGIN      
+        1 tcccacttcc tttggatatg ctttatttat tctttaatca taatatcaat tcctttctca
+       61 gacaagttga tcatgtcaga gacaaggcat tagtttttgt tactgaatcc tataatgaag
+      121 caagaattaa gttacatgat tataatgttg aaaattctct aaccaaacaa caaaggactt
+      181 ttcaaattcc aggatatacc atcccagtta tcaatattga aacatctccg ttcacagtag
+      241 agatgcttcc atttggctat gtgatcccaa aagcgatcag cacccccaac tttaccatcc
+      301 tgggttctgg cttctttgtg ccctcatata ctttagcttt gccatttcta gaactaccag
+      361 cccttcaagt ccctaagtat tcccttgagc tttctcttcc agaatttgaa gtattgagta
+      421 tgccaaggaa tattttcatt ccagctctgg gaaatattac atatgacttt tcttttaaat
+      481 caagtgtcat cgcactaagt gccaatgctg gactttataa
+//
+

@@ -1,0 +1,77 @@
+LOCUS       AF548402                1272 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Sorex monticolus apolipoprotein B 100 (apoB-100) gene, exon 26 and
+            partial cds.
+ACCESSION   AF548402
+VERSION     AF548402.1
+KEYWORDS    .
+SOURCE      Sorex monticolus (montane shrew)
+  ORGANISM  Sorex monticolus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 1272)
+  AUTHORS   Amrine-Madsen,H., Koepfli,K.P., Wayne,R.K. and Springer,M.S.
+  TITLE     A new phylogenetic marker, apolipoprotein B, provides compelling
+            evidence for eutherian relationships
+  JOURNAL   Mol. Phylogenet. Evol. 28 (2), 225-240 (2003)
+   PUBMED   12878460
+REFERENCE   2  (bases 1 to 1272)
+  AUTHORS   Koepfli,K.-P., Amrine-Madsen,H.M., Richardson,P., Dragoo,J.,
+            Pires,D.B., Springer,M.S. and Wayne,R.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-SEP-2002) Organismic Biology, Ecology and Evolution,
+            University of California, Los Angeles, 621 Charles E. Young Drive
+            South, Los Angeles, CA 90095-1606, USA
+FEATURES             Location/Qualifiers
+     source          1..1272
+                     /organism="Sorex monticolus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AFTC 11763"
+                     /db_xref="taxon:62903"
+     gene            <1..>1272
+                     /gene="apoB-100"
+     mRNA            <1..>1272
+                     /gene="apoB-100"
+                     /product="apolipoprotein B 100"
+     CDS             <1..>1272
+                     /gene="apoB-100"
+                     /note="contains the LDL receptor-binding domain"
+                     /codon_start=3
+                     /product="apolipoprotein B 100"
+                     /protein_id="AAP97358.1"
+                     /translation="GVNGEANLDFLNIPLTIPEMTLPYTXLKTPQVKNFSIWEKTGLK
+                     KFLKTTKQSFDLSVKTQYKKNKDMYPIPLPLAMFDVVFNHHINSFIRQVEKIREKAFV
+                     FVIESYNEAKVKYDVYKVEKSITKQSRTFQIPGYTIPVVNIEASPFTVEMFPLGYVIP
+                     KEINTPNFTILGSGFSVPSYTLVLPFPELPTLHVPKFLELSLPELSIPKNIFIPALGN
+                     ITYDFSFKSSVITLNANAGLYNQSDIVAHVLTSSSSVFDALQYKLEGTSSLTRKRGLK
+                     LATAFSLSNEYVEGKHDSTISFAKKNMEASVATTAKIHLPILRMNFTQELNGNSKSKH
+                     AISSFIKLQYNFNSPHLYSTAIGTVGHKFQLENPTSYFSIESSTKGNINGSILSREYS
+                     GTIASEFSTYLNSKSSRSAVKLQGTSKVDGI"
+     exon            <1..>1272
+                     /gene="apoB-100"
+                     /number=26
+ORIGIN      
+        1 taggagtgaa tggagaagct aacttggatt tcttaaatat tcctttaaca attcctgaaa
+       61 tgactctacc ttatacartg ctcaaaacgc cacaggtgaa aaatttctcc atatgggaaa
+      121 aaacaggctt gaagaaattt ttgaaaacaa caaagcaatc atttgactta agtgtaaaga
+      181 ctcagtataa gaaaaacaaa gacatgtatc ccattccact tcctttggct atgtttgatg
+      241 tggtttttaa tcatcatatc aattccttta tcaggcaagt tgagaaaatc agagagaagg
+      301 catttgtttt tgttattgaa tcctataatg aagcaaaagt taaatatgat gtgtataagg
+      361 ttgaaaaatc tatcaccaaa caatcaagga cctttcagat tccaggttat accattcctg
+      421 tggtcaatat tgaagcatct cccttcacag tagagatgtt tccattgggt tatgtaatcc
+      481 caaaagaaat caacaccccc aacttcacta tcctgggttc tggcttctcg gtgccctcat
+      541 atactttagt cctgccattt ccagaactac caacccttca tgtccctaag tttcttgagc
+      601 tttcccttcc agaattgagt atcccaaaga atattttcat tccagccctg ggaaatatta
+      661 catatgactt ttcctttaaa tcaagtgtca ttacactgaa tgccaatgct ggactttata
+      721 accaatcaga tattgttgct catgtcttaa catcctcttc ctctgtcttt gatgcactgc
+      781 agtacaaatt agagggcacc tcaagtttga ccagaaaaag aggtttgaaa ttagccacag
+      841 ctttctctct aagtaatgaa tatgttgaag gcaagcacga tagtaccatt agctttgcca
+      901 agaaaaacat ggaagcatca gtagcaacaa ctgcaaaaat ccatcttcca attttgagaa
+      961 tgaattttac acaagaactt aatggaaatt ctaagtcaaa acatgccatc tcttcattca
+     1021 ttaaattaca gtataatttc aattcccccc atctgtactc tactgctatt gggacagttg
+     1081 gccacaagtt ccaattagaa aatcctactt cttacttttc cattgagtca tctaccaaag
+     1141 gaaatatcaa tgggtcaatc ctttcacggg aatattcggg aactattgcc agtgagttca
+     1201 gcacttattt gaattccaag agttctcgat ctgcagtgaa gctgcaagga acttctaaag
+     1261 ttgatggtat ct
+//
+

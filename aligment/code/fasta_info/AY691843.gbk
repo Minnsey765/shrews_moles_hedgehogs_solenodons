@@ -1,0 +1,67 @@
+LOCUS       AY691843                1044 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Sorex cinereus voucher FMNH 159789 NADH dehydrogenase subunit 2
+            (ND2) gene, complete cds; mitochondrial.
+ACCESSION   AY691843
+VERSION     AY691843.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex cinereus (cinereus shrew)
+  ORGANISM  Sorex cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 1044)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Phylogeny, phylogeography, and geographic variation of Sylvisorex
+            howelli (Soricidae), an endemic shrew of the Eastern Arc Mountains,
+            Tanzania
+  JOURNAL   J. Zool. (Lond.) 266 (4), 341-354 (2005)
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Zoology, Division of Mammals,
+            Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago,
+            IL 60605, USA
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Sorex cinereus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 159789"
+                     /db_xref="taxon:36803"
+                     /geo_loc_name="USA"
+     gene            1..1044
+                     /gene="ND2"
+     CDS             1..1044
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAW29766.1"
+                     /translation="MNPMILTMILLTIMSGTMIVLMSSHWFMIWIGFEMNMLAVIPML
+                     MKNYSPRSMEASTKYFMTQATASMILMLAIIMNLMYSGQWTITNITNPTASILMTMAL
+                     VMKLGLSPFHFWVPEVTQGISLTSGMILLTWQKIAPLSVLYQIFPSINLDMLLTMSLL
+                     SIMVGGWGGLNQTQLRKIMAYSSIAHMGWMTAIMIYEPNIMLLNLVVYITMTISTFML
+                     FIYSSSTTTLSLSHTWNKMPLITTLILTIMLSLGGLPPLTGFLPKWMIIQELTKNNSI
+                     ILPTTMAILSLLNLFFYMRLTYSTSLTMFPTTNNNKMKWQFENTKQIPLMAPLITIST
+                     LTLPLAPLLITLY"
+ORIGIN      
+        1 ataaacccta taatcctaac tataattcta cttaccatca tatcagggac cataattgtc
+       61 ctaataagct cacactgatt cataatctgg attggtttcg aaataaacat attagcagtt
+      121 atcccaatac taataaaaaa ttacagcccc cgttcaatag aagcctctac caaatacttt
+      181 ataacccaag ccactgcatc tataattcta atactagcaa ttattataaa cctaatatac
+      241 tcaggccaat gaacaatcac caacatcaca aatcctacag catcaattct aataacaata
+      301 gccctggtca taaaactagg actatctcca tttcacttct gagtcccaga agttacccaa
+      361 ggaatttcac taacatcagg aataatctta ctaacatgac aaaaaatcgc tccgctatca
+      421 gtattatacc aaatcttccc ctccatcaac ctagatatgc tactaaccat atccttacta
+      481 tcaattatag tagggggctg aggtggacta aatcaaacac aactacgaaa aatcatagca
+      541 tattcatcca tcgcccacat aggatgaata acagctatta taatttacga acccaacatt
+      601 atactactaa acctagtagt ctacattaca ataaccattt caacatttat actattcatc
+      661 tattcatcat ctaccacaac actgtcacta tcacatacat gaaacaaaat accattaatc
+      721 accacactaa tcctgactat catactatca ctaggaggac tccccccact aacaggattt
+      781 ctaccaaagt gaataatcat tcaagaactt acaaaaaaca atagcattat tttacctaca
+      841 acaatagcca ttctatccct cctaaacctc tttttctaca tacgattaac atattcaact
+      901 tccctcacca tattcccaac aacaaataat aacaaaataa aatgacaatt tgaaaataca
+      961 aaacaaatcc ccctcatagc acctctaatt acaatctcaa cactcacact tcccctagca
+     1021 ccccttctaa ttacactcta ctag
+//
+

@@ -1,0 +1,55 @@
+LOCUS       JQ433920                 579 bp    DNA     linear   MAM 30-JUN-2013
+DEFINITION  Sorex araneus voucher MVZ155871 brain-derived neurotrophic factor
+            (BDNF) gene, partial cds.
+ACCESSION   JQ433920
+VERSION     JQ433920.1
+KEYWORDS    .
+SOURCE      Sorex araneus (European shrew)
+  ORGANISM  Sorex araneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 579)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Phylogenetic relationships of Sri Lankan shrews, including the
+            endemic genera Feroculus and Solisorex
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 579)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2012) Department of Biology, Boston University, 5
+            Cummington Street, Boston, MA 02215, USA
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Sorex araneus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ155871"
+                     /db_xref="taxon:42254"
+                     /geo_loc_name="Switzerland"
+     gene            <1..>579
+                     /gene="BDNF"
+     mRNA            <1..>579
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>579
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AFI80833.1"
+                     /translation="FGCMKAAPMKEANIRGQGSLAYPGVRTHGTLESVNGPQAGSRGL
+                     TSLADTFEHVIEELLDEDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYK
+                     NYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPV
+                     SKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWK"
+ORIGIN      
+        1 ttcggttgca tgaaggctgc ccccatgaaa gaagcaaaca tccgaggaca aggcagcttg
+       61 gcctacccag gagtgcggac ccatgggact ctggagagcg tgaatgggcc ccaggcaggt
+      121 tcacgaggcc tgacatcatt ggctgacact tttgaacatg tgatwgaaga gctgctggat
+      181 gaggaccaga aagttcggcc ccacgaagaa aacaataagg acgcggactt gtacacttcc
+      241 cgagtgatgc tcagtagtca agtgcctttg gagcctcctc ttctctttct gctggaggaa
+      301 tacaaaaatt acctggatgc tgcaaacatg tcgatgaggg tccggcgcca ctctgaccct
+      361 gcccgccgtg gggagctgag cgtgtgcgac agcattagcg agtgggtgac ggcggcagat
+      421 aaaaagactg cagtggacat gtcgggcggg acagtcactg tccttgaaaa agtccctgta
+      481 tcaaaaggcc aactgaagca gtacttctat gagaccaagt gcaatcccat gggttacacg
+      541 aaggagggct gcaggggcat agacaaaagg cactggaaa
+//
+

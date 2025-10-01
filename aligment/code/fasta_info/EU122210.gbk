@@ -1,0 +1,43 @@
+LOCUS       EU122210                 540 bp    DNA     linear   MAM 04-MAY-2011
+DEFINITION  Euroscaptor longirostris voucher MVZ186406 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EU122210
+VERSION     EU122210.1
+KEYWORDS    .
+SOURCE      mitochondrion Euroscaptor longirostris (long-nosed mole)
+  ORGANISM  Euroscaptor longirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Euroscaptor.
+REFERENCE   1  (bases 1 to 540)
+  AUTHORS   Meegaskumbura,S.H., Meegaskumbura,M.P.B., Pethiyagoda,R.,
+            Manamendra-Arachchi,K. and Schneider,C.J.
+  TITLE     Crocidura hikmiya, a new shrew (Mammalia: Soricomorpha: Soricidae)
+            from Sri Lanka
+  JOURNAL   Zootaxa 1665, 19-30 (2007)
+REFERENCE   2  (bases 1 to 540)
+  AUTHORS   Meegaskumbura,S.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-AUG-2007) Biology, Boston University, 5 Cummington
+            Street, Boston, MA 02215, USA
+FEATURES             Location/Qualifiers
+     source          1..540
+                     /organism="Euroscaptor longirostris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ186406"
+                     /db_xref="taxon:481574"
+     rRNA            <1..>540
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 cacctctggc attacagtat cagaggcact gcctgcccag tgacataagt taaacggccg
+       61 cggtatcctg accgtgcaaa ggtagcataa tcatttgttc tctaattaag gacttgtatg
+      121 aaaggccaca cgagggttta actgtctctt acttttaatc agtgaaattg accttcccgt
+      181 gaagaggcgg gaataaaaca ataagacgag aagaccctat ggagcttcaa ttaattaact
+      241 caagaaagaa tcaccttcct ccccgacagg caacaacata actgtaactg agttaacaat
+      301 ttcggttggg gtgacctcgg agtacagacc aacctccgag agatttcagt ctagacttac
+      361 aagtcaaaac ctgcaaaaaa tcacaattga tccaataaat tttgatcaac ggaacaagtt
+      421 accctaggga taacagcgca atcctattta agagtccata tcgacaatag ggtttacgac
+      481 ctcgatgttg gatcaggaca tcccaatggt gcagccgcta ttaatggttc gtttgttcaa
+//
+

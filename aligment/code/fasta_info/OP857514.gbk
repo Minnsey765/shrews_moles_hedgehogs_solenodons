@@ -1,0 +1,66 @@
+LOCUS       OP857514                1576 bp    DNA     linear   MAM 23-NOV-2022
+DEFINITION  Suncus etruscus voucher Suncus_etruscus_AMNH275574 large subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP857514
+VERSION     OP857514.1
+KEYWORDS    .
+SOURCE      mitochondrion Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 1576)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncus ater, place it in the genus Palawanosorex
+  JOURNAL   Zootaxa (2022) In press
+REFERENCE   2  (bases 1 to 1576)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2022) Biology, Siena College, 515 Loudon Rd,
+            Loudonville, NY 12211, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.14.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1576
+                     /organism="Suncus etruscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="Suncus_etruscus_AMNH275574"
+                     /db_xref="taxon:109475"
+     rRNA            <1..>1576
+                     /product="large subunit ribosomal RNA"
+ORIGIN      
+        1 actaaagcta gcccataaaa taaaccctaa gttaaaatct taataataaa tatataaaac
+       61 atttacttac tataattaaa gtataggaga tagaaataat tccactggcg caatagagac
+      121 acagtaccgt aagggaatga gtgaaagaaa taattaaaag taaaatatag caaagattac
+      181 cccttgtacc ttttgcataa tgacttaact agaaaaattt tagcaaagag aactttagtt
+      241 aaacaccccg aaaccagacg agctattcat gaacagctaa atagagccaa ctcatctatg
+      301 tggcaaaata gtgagaagat ttatggatag aggtgatatg cctaccgagc ctggtgatag
+      361 ctggttatcc agatcagaat tttagttcaa ctttaagttt acctaataaa cattcaattt
+      421 ttatgtaaac ttaaatgtta atctgcagag gtacagctct gcagaataag ataacaacct
+      481 taattagaga gtaaatttat acaacaacca tagttggcct aaaagcagcc accaattaag
+      541 aaagcgttca agctcaacaa ttaaattaat attaaattcg aaaaataata tgagctccta
+      601 atttaattac tggattattc tacctccatg tagaagaaat actgttaata tgagtaacaa
+      661 gattttaaat ctccaaacac acatgtatat cagcccgaat accaactgat aaataacaat
+      721 tagataaatc taaacattta attaatgatt ttccaccata ttgttaaccc aacaccggag
+      781 tgtacttaag gaaagattaa aaaaagtaaa aggaactcgg caaacataaa ccccgcctgt
+      841 ttaccaaaaa catcacctct agcattacca gtattagagg cactgcctgc ccagtgacat
+      901 tagttaaacg gccgcggtat cctgaccgtg caaaggtagc ataatcattt gttccttaat
+      961 tagggacttg tatgaatggc cccacgaggg tttaactgtc tcttactttt aatcagtgaa
+     1021 attgaccttc ccgtgaagag gcgggaataa aaaaataaga cgagaagacc ctatggagct
+     1081 taaattaaat tatctaataa atttatattt aatccaatag acataataat atatttaact
+     1141 agataacaaa ttttggttgg ggtgacctcg gagtataaca tagcctccga gctatataaa
+     1201 ctaagactta cctgtcaaag tgatataact tattgatcca atcttattga tcaacggaat
+     1261 aagttaccct agggataaca gcgcaatcct atttaagagt tcatatcgac aatagggatt
+     1321 acgacctcga tgttggatca ggacacccaa atggtgcagc agctattaaa ggttcgtttg
+     1381 ttcaacgatt aaagtcctac gtgatctgag ttcagaccgg agaaatccag gtcggtttct
+     1441 atctattaaa aatttctccc agtacgaaag gacaagagaa atgaagccta ccccaaaggg
+     1501 cgcttccata gacttacaga tgattacatc ttaatccgaa tgactattaa cataaactaa
+     1561 tcctagacca ggattc
+//
+

@@ -1,0 +1,67 @@
+LOCUS       AY691833                1044 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Sylvisorex lunaris voucher FMNH 144229 NADH dehydrogenase subunit 2
+            (ND2) gene, complete cds; mitochondrial.
+ACCESSION   AY691833
+VERSION     AY691833.1
+KEYWORDS    .
+SOURCE      mitochondrion Sylvisorex lunaris (Moon Forest Shrew)
+  ORGANISM  Sylvisorex lunaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Sylvisorex.
+REFERENCE   1  (bases 1 to 1044)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Phylogeny, phylogeography, and geographic variation of Sylvisorex
+            howelli (Soricidae), an endemic shrew of the Eastern Arc Mountains,
+            Tanzania
+  JOURNAL   J. Zool. (Lond.) 266 (4), 341-354 (2005)
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Zoology, Division of Mammals,
+            Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago,
+            IL 60605, USA
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Sylvisorex lunaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 144229"
+                     /db_xref="taxon:307106"
+                     /geo_loc_name="Uganda"
+     gene            1..1044
+                     /gene="ND2"
+     CDS             1..1044
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAW29756.1"
+                     /translation="MNPMIFTSLLATIMLGTSIVLTSSHWFLTWLGFEMNMMAIIPVL
+                     MKKYNPRSMEAATKYFLTQATASMILVLAIIINLMYSGQWTIMIMENPTASMLITIAL
+                     VMKLGLAPFHFWVPEVTQGVSLSSGLILLTWQKIAPLSLLYQIFPSINTNLLLIMSLL
+                     SIMIGGWGGLNQTQLRKIMAYSSIAHMGWMIAIMIYNPNLSLLNLLIYIMMTSSMFML
+                     LIINSTTSTSSLSRAWNINPIVVSTMMVILLSLGGLPPLTGFMPKWMIIQELTKNSSV
+                     MLPSLMAILALLNLFFYMRLTYSTALTMFPTMNNMKLTWQFQSTNIMPMMMSLISMSM
+                     LALPLAPSLITLN"
+ORIGIN      
+        1 attaatccta taatttttac ttccctgctc gcaactatca tattagggac atccattgta
+       61 ctaacgagct ctcactgatt cctaacatga ctaggatttg aaatgaatat aatagcaatt
+      121 attcctgtct taataaaaaa atataatcct cgatcaatgg aagctgcaac caaatatttc
+      181 ttaacccagg ccacagcatc catgattctc gtcctagcta ttattattaa ccttatatat
+      241 tcaggccaat ggacaattat aattatagaa aaccctacag cctcaatact tattaccatt
+      301 gccttagtaa taaaactagg cttagctcca tttcacttct gagtacctga agtaacccaa
+      361 ggagtatcct taagctcagg cctaatccta ctaacatgac aaaaaattgc cccactatct
+      421 ctcctatatc agattttccc atcaattaat actaacctac tcctaatcat atccttatta
+      481 tctattataa tcggtggttg aggaggccta aaccaaacac aactacggaa aattatagca
+      541 tactcatcca ttgcccatat aggctgaata atcgcaatta taatttataa tcctaatctt
+      601 tcactgctaa atttacttat ttatattata ataacttctt caatgtttat attactaatc
+      661 attaactcta ccacatcaac atcgtcccta tcacgcgcct gaaatattaa ccctattgtt
+      721 gtatcaacaa taatagtcat cctactatct ctaggtggac ttccacccct aacaggcttt
+      781 atacccaaat gaataattat tcaagaatta acaaaaaata gcagcgtaat attaccatcg
+      841 cttatggcta ttttagctct actcaatctg ttcttctata tacgacttac atactccaca
+      901 gcgctcacaa tatttcctac tataaacaac ataaaactaa catgacaatt ccaatccaca
+      961 aacatcatgc caataataat atcactaatc tcgatgtcaa tactagctct acccttagcc
+     1021 ccatcactca tcacactaaa ttag
+//
+

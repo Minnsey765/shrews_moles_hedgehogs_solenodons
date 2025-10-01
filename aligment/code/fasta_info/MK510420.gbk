@@ -1,0 +1,62 @@
+LOCUS       MK510420                 597 bp    DNA     linear   MAM 23-MAR-2019
+DEFINITION  Atelerix albiventris isolate 9558 recombination activating protein
+            1 (RAG1) gene, partial cds.
+ACCESSION   MK510420
+VERSION     MK510420.1
+KEYWORDS    .
+SOURCE      Atelerix albiventris (middle-African hedgehog)
+  ORGANISM  Atelerix albiventris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Atelerix.
+REFERENCE   1  (bases 1 to 597)
+  AUTHORS   Velo-Anton,G., Boratynski,Z., Ferreira,C.M., Lima,V.O., Alves,P.C.
+            and Brito,J.C.
+  TITLE     Intra-specific genetic diversity and distribution of North African
+            hedgehogs (Mammalia: Erinaceidae)
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2019) In press
+REFERENCE   2  (bases 1 to 597)
+  AUTHORS   Velo-Anton,G., Boratynski,Z., Ferreira,C.M., Lima,V.O., Alves,P.C.
+            and Brito,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2019) Animal Ecology, University of Potsdam -
+            Institute of Biochemistry and Biology, Maulbeerallee 1, Potsdam,
+            Brandenburg 14469, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..597
+                     /organism="Atelerix albiventris"
+                     /mol_type="genomic DNA"
+                     /isolate="9558"
+                     /db_xref="taxon:9368"
+                     /geo_loc_name="Mali: Kayes"
+                     /lat_lon="14.697 N 10.269 W"
+     gene            <1..>597
+                     /gene="RAG1"
+     mRNA            <1..>597
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>597
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="QBM92165.1"
+                     /translation="GSGPAVPEKAVRFSFTIMKITLAHGSQNVKVFEEAKPNSELCCK
+                     PLCLMLADESDHETLTAILSPLIAEREAMKSSELMLEMGGILRTFKFIFRGTGYDEKL
+                     VREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERYEIWRSNPYHESV
+                     EELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKI"
+ORIGIN      
+        1 tggcagtggg ccagccgttc cagaaaaggc agttcgtttt tccttcacta tcatgaaaat
+       61 caccctagca catggatctc agaatgtaaa ggtgtttgag gaagccaaac ccaactctga
+      121 actgtgctgc aagcctttgt gcctcatgct ggcagatgag tctgaccatg agaccctgac
+      181 ggccatcctg agccctctca ttgctgagag ggaggccatg aagagcagtg aattaatgct
+      241 ggagatggga ggcatcctcc gtacatttaa gttcatcttc aggggcactg ggtatgatga
+      301 gaaacttgtc agggaagtgg aaggccttga ggcctctggc tcagtctaca tctgtactct
+      361 ttgtgatgcc actcgcctgg aagcctctca aaatcttgtc ttccactcca tcaccaggag
+      421 tcacactgag aacctggagc gctatgagat ctggcgttcc aatccatacc atgaatctgt
+      481 ggaagaactg agggatcggg tgaaaggggt ctcagcaaaa cccttcattg agactgttcc
+      541 ttccatagat gcactgcact gtgacattgg taatgcagct gagttctaca aaatttt
+//
+

@@ -1,0 +1,66 @@
+LOCUS       JQ433902                1140 bp    DNA     linear   MAM 30-JUN-2013
+DEFINITION  Myosorex kihaulei voucher FMNH155611 cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   JQ433902
+VERSION     JQ433902.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Phylogenetic relationships of Sri Lankan shrews, including the
+            endemic genera Feroculus and Solisorex
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2012) Department of Biology, Boston University, 5
+            Cummington Street, Boston, MA 02215, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH155611"
+                     /db_xref="taxon:307108"
+                     /geo_loc_name="Tanzania"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AFI80815.1"
+                     /translation="MTNIRKTHPVMKIINNSFIDLPAPSNISSWWNFGSLLGICLIVQ
+                     IVTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYMHANGASMFFICLFLHVGRGL
+                     YYGSYMYFETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTTL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIVAALAGVHLLFLHETGSNNPSGINSDSDKI
+                     PFHPYYTIKDILGVLLMILVLSSLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILILMIIPLLHTSKQRSMMFRPISQCVFWVLVADLLT
+                     LTWIGGQPVEHPFIVIGQVASILYFTIILLIMPVTSIIENHMLKW"
+ORIGIN      
+        1 atgacaaaca tccgaaaaac ccacccagta ataaaaatta ttaacaactc ctttattgat
+       61 ctcccagccc catcaaatat ttcttcatga tgaaactttg gctcattact aggtatttgc
+      121 ctaatcgtcc aaattgttac aggactattc ttagcaatac attatacatc cgacaccata
+      181 actgcctttt catctgtcac ccacatctgc cgagacgtaa attacggctg actaatccgc
+      241 tacatacacg caaatggtgc ctcaatattc tttatctgcc tattccttca tgtaggccga
+      301 ggcttatact acggatcata catatatttc gaaacatgaa acattggtgt cctacttcta
+      361 tttgcagtca tagccacagc cttcatagga tacgtattac catgaggaca aatatctttc
+      421 tgaggagcaa cagtcattac taaccttctc tccgcaatcc catacatcgg cacaacctta
+      481 gttgaatgaa tctgaggagg attctccgta gacaaagcta ccttaactcg attctttgca
+      541 tttcacttta tcttaccatt tattgtagcc gccttagcag gcgtacacct tttattttta
+      601 cacgaaactg gctctaacaa cccttcgggc atcaattccg attcagacaa aatcccattc
+      661 cacccatatt acactatcaa agacatccta ggagtactac ttataattct cgtactatct
+      721 tctctagtac tattctcccc tgacctacta ggagacccag acaactacac cccagctaac
+      781 ccactaaaca caccacccca tattaaacca gaatgatatt ttctgtttgc ttacgctatt
+      841 ctacgctcca ttcccaacaa actaggagga gtattagccc tagtcctatc tattctaatc
+      901 ctaatgatta ttcccttact acacacatct aaacaacgaa gtataatatt ccgtcctatt
+      961 agccagtgcg tattttgagt attagtagct gatctattaa cactaacatg aatcggtggt
+     1021 caaccagtag aacacccctt tattgtaatt ggacaagtag cttcaatcct ctactttaca
+     1081 attattctac taatcatacc tgtaacaagc attatcgaaa atcatatatt aaaatgaaga
+//
+

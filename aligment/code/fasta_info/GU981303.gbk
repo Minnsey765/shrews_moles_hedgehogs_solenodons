@@ -1,0 +1,69 @@
+LOCUS       GU981303                1044 bp    DNA     linear   MAM 06-MAR-2013
+DEFINITION  Anourosorex yamashinai isolate Anyamas2 NADH dehydrogenase subunit
+            2 (ND2) gene, complete cds; mitochondrial.
+ACCESSION   GU981303
+VERSION     GU981303.1
+KEYWORDS    .
+SOURCE      mitochondrion Anourosorex yamashinai
+  ORGANISM  Anourosorex yamashinai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 1044)
+  AUTHORS   He,K., Li,Y.J., Brandley,M.C., Lin,L.K., Wang,Y.X., Zhang,Y.P. and
+            Jiang,X.L.
+  TITLE     A multi-locus phylogeny of Nectogalini shrews and influences of the
+            paleoclimate on speciation and evolution
+  JOURNAL   Mol. Phylogenet. Evol. 56 (2), 734-746 (2010)
+   PUBMED   20363345
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   He,K. and Jiang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang East Road, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Anourosorex yamashinai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Anyamas2"
+                     /specimen_voucher="THUB-S-00008"
+                     /db_xref="taxon:268756"
+                     /geo_loc_name="China: Yunnan"
+     gene            1..1044
+                     /gene="ND2"
+     CDS             1..1044
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ADK21548.1"
+                     /translation="MNPMILSVILLTIMTGTLIVTMSSHWFMIWIGFEMNMLAFIPLL
+                     IKNYNPRSMEASTKYFMTQATASMILMLAIMMNLIYEGQWTISNISNPTASILMTMAL
+                     VMKLGLSPFHFWVPEVTQGVSLASGMILLTWQKIAPLSVLYQIYPSINLDLILSMSLL
+                     SILIGGWGGLNQTQLRKIMAYSSIAHMGWMTAIMIYEPTIMLLNLFIYITMTFSTFML
+                     FIFTSTTNTLSLSHAWNKMPLITFLIMMVMLSLGGLPPLTGFLPKWMIIQELAKNNNI
+                     ILPTIMAILSLLNLFFYMRLTYSTTLTMFPTTNNMKMKWQYDNTKKMPLMAPMITIST
+                     LTIPLAPLMINLT"
+ORIGIN      
+        1 ataaatccaa taatcctaag tgttatttta ctaaccatca taacaggaac tttaatcgta
+       61 acaataagct ctcattgatt tataatctga attggctttg aaataaatat actagcattt
+      121 atcccgttac taattaagaa ttacaaccca cgctcaatgg aagcatcaac aaaatatttc
+      181 ataacacaag caacagcatc aataatcctt atattagcca ttataataaa cctaatttat
+      241 gaaggtcaat gaactatctc caatatttca aatccaacag catcaatcct aataactata
+      301 gcattagtaa taaaattagg attatcccct ttccacttct gagttccaga agtaacacaa
+      361 ggagtatctc tagcatcagg tataatcctc cttacatgac aaaaaatcgc accattatca
+      421 gttctttatc aaatctaccc atcaattaat ctagacctta ttctatcaat atcattatta
+      481 tcaattctaa tcggaggatg aggaggacta aatcaaacac aactacgaaa aattatagct
+      541 tattcttcta ttgcccatat aggctgaata accgctatta taatctatga acctacaatt
+      601 atattactca acttatttat ctatattaca ataacctttt ctacatttat acttttcatt
+      661 ttcacatcaa caactaatac actatcatta tcccatgcat ggaataaaat gcctttaatt
+      721 acatttctta ttataatagt aatattatca ttaggaggtc tacctccact aacaggcttt
+      781 ttaccaaaat gaataattat tcaagaacta gcaaaaaaca acaacatcat cctcccaact
+      841 attatagcta ttctatcatt actcaaccta ttcttttaca tgcgattaac ttactcaacc
+      901 acacttacca tatttccaac aacaaataat ataaaaataa aatgacaata cgataataca
+      961 aaaaaaatac cactcatagc accaataatt acaatttcaa cattaacaat ccccctagcc
+     1021 cccctcataa tcaacttaac ttag
+//
+

@@ -1,0 +1,69 @@
+LOCUS       KX755047                 819 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Euroscaptor longirostris isolate Eurosp_1 growth hormone receptor
+            (GHR) gene, partial cds.
+ACCESSION   KX755047
+VERSION     KX755047.1
+KEYWORDS    .
+SOURCE      Euroscaptor longirostris (long-nosed mole)
+  ORGANISM  Euroscaptor longirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Euroscaptor.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Euroscaptor longirostris"
+                     /mol_type="genomic DNA"
+                     /isolate="Eurosp_1"
+                     /db_xref="taxon:481574"
+                     /geo_loc_name="Viet Nam: Vinh Phuuc"
+                     /note="SIK0775"
+     gene            <1..>819
+                     /gene="GHR"
+     mRNA            <1..>819
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>819
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33452.1"
+                     /translation="FIELDIDDPDEKTEGSDTDRLISNDHQKSLNILGAKDDDSGXTS
+                     CYEPDILETDFNVSDLCDGTSEVAQPQRLKGEADLLCLDQKNQNNSPSNDAPPSTQQP
+                     SVSPTQENKPRPLLIGGTESVPQASHSQLSNLSSLANIDFYAQVSDITPAGSVVLSPG
+                     QRNKAGISQCNAHPEAVSRYQANFIMDNAYFCEADAKKCITVAPHLETETRGEPSFNQ
+                     EDIYITTESLTTTNGRSGTAERASSSEMPVPDYTSIHIVQSPQGLVLNATALPLP"
+ORIGIN      
+        1 ttcattgagc tagatattga tgatcctgat gaaaagacag aaggatcaga cacagacaga
+       61 cttataagca atgaccacca gaaatcactt aatatccttg gggcaaagga tgatgactct
+      121 gggcrtacca gctgctatga accagacatt ctggagactg atttcaatgt gagtgacctg
+      181 tgtgatggta cctcagaggt ggctcagcca caaaggttaa aaggggaagc agatctcttg
+      241 tgccttgacc agaagaatca aaataactca ccttctaatg atgctccccc ctctactcag
+      301 cagcccagtg ttagcccaac acaggaaaac aaaccaagac cacttctcat tggtggaact
+      361 gagtccgttc ctcaagcttc ccatagtcag ctaagcaatc tgagttcact ggcaaacatc
+      421 gacttttatg cccaggtaag cgacattaca ccagcaggga gtgtggtcct ttccccgggc
+      481 caaaggaata aggcagggat ctcccagtgc aatgcgcatc cagaagcagt ctcacgctac
+      541 caagcaaact tcatcatgga caacgcctac ttctgtgagg cagatgccaa aaagtgcatc
+      601 accgtggccc ctcacctgga gactgaaaca cggggagagc caagctttaa ccaggaagac
+      661 atttatatca ccacagaaag ccttaccact actaatggca ggtctgggac agcagaacgt
+      721 gcttcaagtt ctgaaatgcc tgtcccggac tacacctcta ttcacatagt acagtctccc
+      781 caaggtcttg tcctcaacgc aacngccttg cccttgcct
+//
+

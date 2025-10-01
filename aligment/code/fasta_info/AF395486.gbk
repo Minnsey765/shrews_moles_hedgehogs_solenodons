@@ -1,0 +1,74 @@
+LOCUS       AF395486                1640 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Sorex cinereus isolate 1077sx cytochrome b gene, complete cds; and
+            16S ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AF395486
+VERSION     AF395486.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex cinereus (cinereus shrew)
+  ORGANISM  Sorex cinereus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 1640)
+  AUTHORS   Brant,S.V. and Orti,G.
+  TITLE     Molecular phylogeny of short-tailed shrews, Blarina (Insectivora:
+            Soricidae)
+  JOURNAL   Mol. Phylogenet. Evol. 22 (2), 163-173 (2002)
+   PUBMED   11820838
+REFERENCE   2  (bases 1 to 1640)
+  AUTHORS   Brant,S.V. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2001) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588-0118, USA
+FEATURES             Location/Qualifiers
+     source          1..1640
+                     /organism="Sorex cinereus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="1077sx"
+                     /db_xref="taxon:36803"
+     CDS             1..1140
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="AAL65907.1"
+                     /translation="MTNLRKTHPLMKIINSSFIDLPAPSNISSWWNFGSLLGVCLIVQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMFLETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALAGVHLLFLHETGSNNPSGLCSDADKI
+                     PFHPYYTIKDILGVLLLILVLTSLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILVLAVVPFLHTSKQRSMMFRPFSQCLFWILVADLLT
+                     LTWIGGQPVEHPFIIIGQLASILYFLLILVLMPITSLFENNLLKW"
+     rRNA            1141..>1640
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 atgacaaacc tacgaaaaac ccacccctta ataaaaatta ttaacagctc atttattgat
+       61 ttacctgctc catctaacat ttcatcatga tgaaatttcg gttcccttct aggtgtttgc
+      121 ttaatcgtac aaattcttac aggactattc ctagcaatac actatacgtc agacacaata
+      181 accgccttct catcagtcac acacatttgt cgagacgtaa actacggatg actaatccgc
+      241 taccttcatg caaatggtgc atccatattc tttatttgcc tattccttca cgtcggacga
+      301 ggtctctatt acggatcata tatattccta gaaacatgaa acatcggagt actactatta
+      361 ttcgcagtaa tagcaactgc ctttataggg tacgtacttc catgaggaca aatgtctttc
+      421 tgaggagcaa cagtcattac aaacttacta tcagcaatcc cctacattgg ttcagactta
+      481 gtagaatgaa tctgaggtgg attctctgta gacaaagcca ccctaactcg attcttcgct
+      541 ttccacttta tcttgccctt cattatcgct gccctagcag gcgtgcacct cctattcctg
+      601 cacgaaacag gctcaaacaa cccttcagga ctatgttcag acgcagacaa aattccattc
+      661 cacccctact atacaatcaa agacatctta ggagtcctcc tactcatttt agtcctaaca
+      721 tccttagtct tattctcccc tgatttacta ggcgacccag acaattatac acccgccaac
+      781 ccccttaaca caccacccca cattaaacct gaatgatatt tcctatttgc ctatgccatc
+      841 ctccgatcaa tccctaacaa attaggtgga gtcctagccc tagttctatc aattctagtc
+      901 ctagcagtag tccccttcct tcacacatcc aaacaacgaa gtataatatt ccgcccattt
+      961 agccaatgct tattctgaat cctagtagca gacctactca cacttacatg aattggcgga
+     1021 caaccagttg aacatccatt tattattatc ggacaattag catcaatctt atatttcctc
+     1081 ttaatcctag tactcatacc tatcacaagt ctattcgaaa ataaccttct aaaatgaagg
+     1141 cactgcctgc cccagtgaca atagtttaaa acggccgcgg tatcctgacc gtgcaaaggt
+     1201 agcataatca tttgttcctt aaatagggac ttgtatgaat ggccacacga gggtttaact
+     1261 gtctcttact tccaatcagt gaaattgacc tttccgtgaa gaggcggaaa tatacaaata
+     1321 agacgagaag accctatgga gctttaattc acttaatcca acagaataac aattcactcc
+     1381 atcaaggatt aacaaatatt ctaactgggt taaaaatttc ggttggggtg acctcggagc
+     1441 ataaaataac ctccgagaaa tatttactaa gactaacaag tcaaagtgct attccacaaa
+     1501 ttgatccagt cctactgatc aacggaacaa gttaccctag ggataacagc gcaatcctat
+     1561 tttagagtcc ctatcgacaa tagggtttac gacctcgatg ttggatcagg acatcccaat
+     1621 ggtgcagcag ctattaacgg
+//
+

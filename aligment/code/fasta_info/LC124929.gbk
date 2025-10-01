@@ -1,0 +1,73 @@
+LOCUS       LC124929                1053 bp    DNA     linear   MAM 30-AUG-2016
+DEFINITION  Suncus murinus BRCA1 gene for breast cancer 1, early onset, partial
+            cds, specimen_voucher: personal collection:Satoshi D.
+            Ohdachi:SDO-11/12/7-1.
+ACCESSION   LC124929
+VERSION     LC124929.1
+KEYWORDS    .
+SOURCE      Suncus murinus (house shrew)
+  ORGANISM  Suncus murinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1053)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..1053
+                     /organism="Suncus murinus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="personal collection:Satoshi D.
+                     Ohdachi:SDO-11/12/7-1"
+                     /db_xref="taxon:9378"
+                     /geo_loc_name="Japan: Okinawa, Yonaguni Is."
+     gene            <1..>1053
+                     /gene="BRCA1"
+     CDS             <1..>1053
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="breast cancer 1, early onset"
+                     /protein_id="BAV56124.1"
+                     /translation="NDKTYVEKAQFCNESKQSGLGRSQQNRWIESKETYNDKQTPSTE
+                     QKVDLNAEPLYGRRKLNKQKLSCSDSPEDPQEMTWITSKSSLQKVNDWFSRSDDVLTF
+                     DDFHDSGSDSNTEAETEEIPSAADGFFVSSEKEDLMASDQCDALMYESRRVLSKPVES
+                     NIEDKVFGKTYRRKASFPNLNCTTEDVILESSLLEPQMAHKHPFTNKLKRKRRITSSL
+                     GPEDFIKKVDLAVVQNSPEKKIERINQMDQNGQVVSTTMKGLEIETRGDDTQKEKIPN
+                     STASSEKESAFRHKAEPVSNSISNMELELNIPDIPTSKTPKKKRLRRKSSTRHIHALE
+                     LVASRNLSPHNHIELH"
+ORIGIN      
+        1 taacgacaag acgtacgtag aaaaggctca gttctgtaat gaaagtaaac agtctggcct
+       61 aggaagaagc caacagaaca gatggatcga aagtaaagaa acatataatg ataaacagac
+      121 tcccagcaca gagcaaaagg tagatctgaa tgctgaaccc ctatatggaa gaagaaaact
+      181 gaacaaacag aaattgtcat gctctgacag ccctgaagac ccccaagaga tgacttggat
+      241 aacttcgaag agtagcctac agaaagttaa tgattggttt tctagaagtg atgatgtact
+      301 aacttttgat gatttccatg attcagggtc tgattcaaat acagaagctg agacagaaga
+      361 aatcccaagt gcagcagatg ggttttttgt ttcttcagag aaagaagatt taatggccag
+      421 tgatcagtgt gatgctttaa tgtatgaaag tagaagagtc ctctccaaac cagtagagag
+      481 taatattgag gataaagtat ttgggaaaac ttatcggagg aaagcaagct ttcctaactt
+      541 gaactgcaca actgaagatg taattctaga atcatcccta ctagaaccgc agatggcaca
+      601 taaacacccc ttcacaaata aattaaaacg taaaagaaga attacgtcga gccttggtcc
+      661 tgaggatttt ataaagaaag tagatttggc ggttgttcaa aattctcctg aaaagaaaat
+      721 cgagaggatc aaccaaatgg atcaaaatgg tcaggtggtg agtactacta tgaaaggtct
+      781 tgaaattgaa acaagaggtg atgataccca gaaagagaaa atccctaact caacagcgtc
+      841 atcagaaaaa gaaagtgctt tcagacataa agctgaacct gtaagtaaca gtataagcaa
+      901 tatggaacta gaattaaata ttccagatat tcctacttct aaaacaccaa agaagaagag
+      961 actgaggagg aagtcctcta ccaggcatat tcatgcactt gaactcgtag ccagtagaaa
+     1021 tttaagtcca cataatcata tagaacttca cat
+//
+

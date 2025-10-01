@@ -1,0 +1,53 @@
+LOCUS       AY691822                 966 bp    DNA     linear   MAM 14-OCT-2005
+DEFINITION  Myosorex kihaulei voucher FMNH 155622 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   AY691822
+VERSION     AY691822.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 966)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Phylogeny, phylogeography, and geographic variation of Sylvisorex
+            howelli (Soricidae), an endemic shrew of the Eastern Arc Mountains,
+            Tanzania
+  JOURNAL   J. Zool. 266, 341-354 (2005)
+REFERENCE   2  (bases 1 to 966)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Zoology, Division of Mammals,
+            Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago,
+            IL 60605, USA
+FEATURES             Location/Qualifiers
+     source          1..966
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 155622"
+                     /db_xref="taxon:307108"
+                     /geo_loc_name="Tanzania"
+     rRNA            <1..>966
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 taaaggtttg gtcccagcct tcctattagc caatagcaaa cttacacatg caagtatccg
+       61 cagacctgtg aaaatgccct ctaaatcaat ttgattaaaa ggagctggta tcaagcacgc
+      121 taatttctta gcagctcata acaccttgct tagccacacc cccacgggta acagcagtga
+      181 taaaaattaa gctataaacg aaagtttgac ttagttatgc tattatttaa ggttggtaaa
+      241 tttcgtgcca gccaccgcgg tcatacgatt aacctaagtt aataggcacc ggcgtaaaga
+      301 gtgttaaaat tatataaatc aataaagcta agattaaact aagctgtaga aagcattagt
+      361 tttaataaaa ataaactacc aaagtggctt tactaaaatt gatacacgac agctaagatc
+      421 caaactggga ttagataccc cactatgctt agccgtaaac taagacaatt acctaataaa
+      481 attgttcgcc agagtactac tagcaagcgc ttaaaactca aaggacttgg cggtgcttta
+      541 tatccctcta gaggagcctg ttctataatc gataaacccc gataaacctc accacccctt
+      601 gccaaatcag cttatatacc gccatcttca gcaaaccctt aaaaggagta acagtaagcc
+      661 caattatata acataaaaac gttaggtcaa ggtgtagcta atggggtggg aagaaatggg
+      721 ctacattttc tacattacat agaatatttt acgaaaatct ttatgaaact aaagattaaa
+      781 ggaggattta gtagtaagtt aagaatagag cgcttaactg aattaggcca tgaagcacgc
+      841 acacaccgcc cgtcaccctc ctcaagtatc taagtactaa catattcctt aatataatac
+      901 tttatcaata ttagaggaga taagtcgtaa caaggtaagc atactggaaa gtgtgcttgg
+      961 acgaat
+//
+

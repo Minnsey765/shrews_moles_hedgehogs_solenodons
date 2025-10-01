@@ -1,0 +1,68 @@
+LOCUS       AY170059                1044 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Scalopus aquaticus specimen-voucher LSUMZ-JWT6 NADH dehydrogenase
+            subunit 2 (ND2) gene, complete cds; mitochondrial gene for
+            mitochondrial product.
+ACCESSION   AY170059
+VERSION     AY170059.1
+KEYWORDS    .
+SOURCE      mitochondrion Scalopus aquaticus (eastern mole)
+  ORGANISM  Scalopus aquaticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 1044)
+  AUTHORS   Yoder,A.D., Burns,M.M., Zehr,S., Delefosse,T., Veron,G.,
+            Goodman,S.M. and Flynn,J.J.
+  TITLE     Single origin of Malagasy Carnivora from an African ancestor
+  JOURNAL   Nature 421 (6924), 734-737 (2003)
+   PUBMED   12610623
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   Yoder,A.D., Burns,M.M., Zehr,S., Delefosse,T., Veron,G.,
+            Goodman,S.M. and Flynn,J.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2002) Department of Ecology and Evolutionary
+            Biology, Yale University, PO Box 208105, New Haven, CT 06520-8105,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Scalopus aquaticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LSUMZ-JWT6"
+                     /db_xref="taxon:71119"
+     gene            1..1044
+                     /gene="ND2"
+     CDS             1..1044
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAN84593.1"
+                     /translation="MNPIVFMVITATVALGTMVVLTSSHWLMIWIGFEMNLLAIIPLL
+                     TKNFSPRSMEAATKYFLTQATASMLLMLAIVINLMWSGQWAVTKIQDSTAAMMMTIAL
+                     AMKLGMAPFHFWVPEVTQGVPLTSGMILLTWQKIAPLSVMLQVTDSINTNLILTLAVL
+                     SVAVGGWGGLNQTQLRKIMAFSSIAHMGWMAAIITYNTTMTILNLIIYIMMTVTMFML
+                     LHMNSSTTTLSLSHSWNKMPILSTLTMLTLMSLGGLPPLSGFMPKWMIIHEMTKNNSI
+                     IIPTLMVMMALLNLYFYMRLTYSTSLTLFPSMNNMKMKWQFEMNKKTPFMSTLIVLST
+                     MTLPLTPMLMTLE"
+ORIGIN      
+        1 ataaatccca tcgtgtttat agtaatcaca gcaaccgtag cactaggaac aatagtagta
+       61 ctaacaagct cgcactgatt aataatctga attggattcg aaataaacct actagctatc
+      121 atccctctac taacaaaaaa ttttagccca cgctcaatag aagcagccac aaaatacttc
+      181 ctcacacaag ccacagcctc aatgctactg atactagcaa ttgtcattaa tcttatatgg
+      241 tccggtcaat gagccgtaac aaaaattcaa gactcaacag ccgcaatgat gatgacaatt
+      301 gctctagcca taaagttagg gatagcccca ttccacttct gagtgccgga agtaacacaa
+      361 ggagtgccac taacttcagg cataatctta ttaacatgac aaaaaatcgc ccccttatca
+      421 gttatactcc aagtaaccga ctccatcaac accaacctaa tcctaacact agctgtctta
+      481 tcagttgctg taggaggatg aggggggctt aatcaaacac aattacggaa aatcatagca
+      541 ttttcatcaa ttgcccacat aggatgaata gcggcaatca ttacctacaa cacaaccata
+      601 acaatcttaa atctaatcat ttacattata ataacagtaa caatatttat actactacat
+      661 ataaactcat caacaaccac cctatcacta tctcactcat gaaacaaaat acccatccta
+      721 tctacactaa ctatactaac actaatatca ttaggagggc tacccccact atcagggttc
+      781 ataccaaaat gaatgatcat ccatgaaata acaaaaaata acagcatcat catcccaact
+      841 cttatagtaa taatagcgtt actaaacctc tacttttaca tacgactgac ttactcaaca
+      901 tctctaacat tatttccatc aataaacaac ataaaaatga aatgacagtt tgaaataaac
+      961 aaaaaaaccc ccttcatatc cacactgatt gtcctgtcaa ctatgacgtt acctctaacc
+     1021 cctatactaa taacgcttga atag
+//
+

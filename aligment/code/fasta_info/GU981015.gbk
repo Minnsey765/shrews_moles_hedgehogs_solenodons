@@ -1,0 +1,54 @@
+LOCUS       GU981015                 957 bp    DNA     linear   MAM 06-MAR-2013
+DEFINITION  Anourosorex yamashinai isolate Anyamas2 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   GU981015
+VERSION     GU981015.1
+KEYWORDS    .
+SOURCE      mitochondrion Anourosorex yamashinai
+  ORGANISM  Anourosorex yamashinai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 957)
+  AUTHORS   He,K., Li,Y.J., Brandley,M.C., Lin,L.K., Wang,Y.X., Zhang,Y.P. and
+            Jiang,X.L.
+  TITLE     A multi-locus phylogeny of Nectogalini shrews and influences of the
+            paleoclimate on speciation and evolution
+  JOURNAL   Mol. Phylogenet. Evol. 56 (2), 734-746 (2010)
+   PUBMED   20363345
+REFERENCE   2  (bases 1 to 957)
+  AUTHORS   He,K. and Jiang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang East Road, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..957
+                     /organism="Anourosorex yamashinai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Anyamas2"
+                     /specimen_voucher="THUB-S-00008"
+                     /db_xref="taxon:268756"
+                     /geo_loc_name="China: Yunnan"
+     rRNA            <1..>957
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 cttaaaggtt tggtcccagc cttcccatta gttgttagta aatttacaca tgcaagtatc
+       61 cgcaatcctg tgagaatacc ctctaaatca atatgattaa aaggagttga tatcaagcac
+      121 acttaaataa gtagcttctg acatcttgct tagccacacc cccacgggaa acagcagtga
+      181 taaaaattaa gcaataaacg aaagtttgac taagttatac taatataggg ttggtaaatt
+      241 tcgtgccagc caccgcggtc atacgattaa cccgaactaa taggcaacgg cgtaaagcgt
+      301 gttaaagaat caatatttat aataaagata aaaattaact aggccgtaga aagcaatagt
+      361 taaaattaaa atacacaacg aaagtgtctt tattaattcc taaacacgat agctaagacc
+      421 caaactggga ttagataccc cactatgctt agccctaaac ccaggtaatt tataacaaaa
+      481 ttacccgcca gagaactact agcaatagct taaaactcaa aggacttggc ggtgctttat
+      541 atccctctag aggagcctgt tctataatcg ataaaccccg atatacctta ccaccccttg
+      601 ctaattcagc ttatataccg ccatcttcag caaaccctaa aaaggagtaa tagtaagcac
+      661 aagcattata cataaaaacg ttaggtcaag gtgtagctta tgaggtggga agaaatgggc
+      721 tacattttct atgttagaat aataacgaaa gtatttatga aaattaaata ctaaaggagg
+      781 atttagtagt aagttaagaa tagagtgctt aactgaataa ggccatgaag cacgcacaca
+      841 ccgcccgtca ccctcctcaa gtacataaaa ttaattaata cctaattata attataaaat
+      901 attagaggag ataagtcgta acaaggtaag catactggaa agtgtgcttg gacaaat
+//
+

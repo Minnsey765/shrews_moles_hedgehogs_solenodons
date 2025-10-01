@@ -1,0 +1,54 @@
+LOCUS       OR554407                 101 bp    DNA     linear   MAM 05-JAN-2024
+DEFINITION  Hylomys suillus isolate T1773 brain-derived neurotrophic factor
+            (BDNF) gene, partial cds.
+ACCESSION   OR554407
+VERSION     OR554407.1
+KEYWORDS    .
+SOURCE      Hylomys suillus (short-tailed gymnure)
+  ORGANISM  Hylomys suillus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Hylomys.
+REFERENCE   1  (bases 1 to 101)
+  AUTHORS   Hinckley,A., Camacho-Sanchez,M., Chua,M.A.H., Ruedi,M., Lunde,D.,
+            Maldonado,J.E., Omar,H., Leonard,J.A. and Hawkins,M.T.R.
+  TITLE     An integrative taxonomic revision of lesser gymnures (Eulipotyphla:
+            Hylomys) reveals five new species and emerging patterns of local
+            endemism in Tropical East Asia
+  JOURNAL   Zool J Linn Soc, zlad177 (2023)
+REFERENCE   2  (bases 1 to 101)
+  AUTHORS   Hinckley,A., Camacho-Sanchez,M., Chua,M.A.H., Ruedi,M., Lunde,D.,
+            Maldonado,J.E., Omar,H., Leonard,J.A. and Hawkins,M.T.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2023) Vertebrate Zoology, Smithsonian National
+            Museum of Natural History, 10th St. & Constitution Ave. NW,
+            Washington, DC 20560, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 11.0.14.1
+            Assembly Name         :: BDNF
+            Coverage              :: >/=2X
+            Sequencing Technology :: Illumina; Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..101
+                     /organism="Hylomys suillus"
+                     /mol_type="genomic DNA"
+                     /isolate="T1773"
+                     /db_xref="taxon:48897"
+                     /geo_loc_name="Indonesia: Java"
+     gene            <1..>101
+                     /gene="BDNF"
+     mRNA            <1..>101
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>101
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="WRK13671.1"
+                     /translation="KTAVDMSGGTVTVLEKVPVSKGQLKQYFYETRC"
+ORIGIN      
+        1 aagactgcag tggacatgtc gggcgggacg gtcacggtcc ttgaaaaagt ccctgtatcc
+       61 aaaggccaac tgaagcagta cttctatgag accaggtgca a
+//
+

@@ -1,0 +1,75 @@
+LOCUS       KX754471                1140 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scalopus aquaticus isolate HPW622 cytochrome b (CYTB) gene,
+            complete cds; mitochondrial.
+ACCESSION   KX754471
+VERSION     KX754471.1
+KEYWORDS    .
+SOURCE      mitochondrion Scalopus aquaticus (eastern mole)
+  ORGANISM  Scalopus aquaticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Scalopus aquaticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="HPW622"
+                     /db_xref="taxon:71119"
+                     /geo_loc_name="USA: Illinois, Rock Island County"
+                     /note="Scalaq_2"
+     gene            1..1140
+                     /gene="CYTB"
+     CDS             1..1140
+                     /gene="CYTB"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="APD32963.1"
+                     /translation="MTNIRKTHPLIKIINNSFIDLPTPSNISSWWNFGSLLGICLILQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYMHANGASMFFICLFLHVGRGL
+                     YYGSYMFKETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIVAALAGVHLLFLHETGSNNPSGLSSDSDKI
+                     PFHPYYTIKDILGALIMLLALLSLTLFSPDLLGDPDNYIPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILVLVLMPLLHTSKQRSMMFRPISQCLFWLLVADLFT
+                     LTWIGGQPVEHPFIIIGQLASILYFTLILVLMPIASLLENNLLKW"
+ORIGIN      
+        1 atgacaaaca tccgaaagac ccacccccta atcaaaatta tcaacaactc atttatcgat
+       61 ttacccacgc catcaaacat ttcatcatga tgaaacttcg gatcattatt aggaatctgt
+      121 ctaattttac aaatcctaac aggattattc ctagctatac attatacatc tgacacaata
+      181 accgccttct catcagtcac acatatctgc cgagatgtaa attacggctg gctaattcga
+      241 tacatacatg ccaacggagc atctatattc tttatctgtc tatttcttca tgtaggacga
+      301 gggctatatt acggatccta catattcaaa gagacctgaa atatcggagt cttactttta
+      361 tttgccgtaa tagccacagc attcatagga tatgtactac catgaggaca gatatcattc
+      421 tgaggtgcaa cagttattac aaacctttta tcagctatcc cttacatcgg gaccgatctc
+      481 gtagaatgaa tctgaggcgg attctcagtt gataaagcaa ccctaacacg atttttcgct
+      541 ttccacttca tcctgccatt catcgtagca gctctggcag gagttcactt actatttcta
+      601 catgagacag ggtctaataa cccatcaggg ttatcatcag actctgataa aatcccattc
+      661 cacccatatt ataccattaa agacattcta ggagccctca ttatactctt agcactacta
+      721 tcacttaccc tattctcacc agacctgcta ggagacccag acaactatat cccagctaac
+      781 cctctaaata cacctccaca tatcaagcca gagtgatatt tcttatttgc ttacgcaatt
+      841 ctacggtcca ttccgaacaa gctaggagga gttctagccc tagtattatc aattctagta
+      901 ctagtcttaa tgcccctact ccatacatct aaacaacgaa gcataatatt tcgccccatc
+      961 agccaatgtt tattctgact actagtagca gacctattca ccctcacatg aatcggcgga
+     1021 caaccagtag aacacccatt tatcatcatc ggacaactag cctcaatcct ctacttcacc
+     1081 ctcattcttg tcctaatacc aatcgctagc ctattagaaa acaacctcct aaaatgaaga
+//
+

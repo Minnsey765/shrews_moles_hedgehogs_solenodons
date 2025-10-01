@@ -1,0 +1,58 @@
+LOCUS       MZ661231                1035 bp    DNA     linear   MAM 10-AUG-2022
+DEFINITION  Sorex alpinus voucher CSCF-MAM-1459608 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MZ661231
+VERSION     MZ661231.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex alpinus (alpine shrew)
+  ORGANISM  Sorex alpinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 1035)
+  AUTHORS   Wyler,S.
+  TITLE     Small mammals reference
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1035)
+  AUTHORS   Wyler,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2021) InfoFauna - CSCF, University of Neuchatel,
+            Avenue de Bellevaux 51, Neuchatel, Neuchatel 2000, Suisse
+FEATURES             Location/Qualifiers
+     source          1..1035
+                     /organism="Sorex alpinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CSCF-MAM-1459608"
+                     /db_xref="BOLD:MAMAA300-21.16S"
+                     /db_xref="taxon:62902"
+                     /geo_loc_name="Switzerland: Uri"
+                     /lat_lon="46.786 N 8.781 E"
+                     /collection_date="20-Sep-2019"
+                     /collected_by="Dietrich Adrian"
+                     /identified_by="Kathi Marki"
+                     /PCR_primers="fwd_seq: cctaccgagcctggtgatag, rev_seq:
+                     atagatagaaaccgacctgg"
+     rRNA            <1..>1035
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tagttcaacc ttaaatttac tacaaaaata caaaattaca ccgtaaattt aattgttaat
+       61 ctaaaagggt acagcccttt agactaagga tacaaccttc attagagagt aaatcacatt
+      121 aataaccata gttggcctaa aagcagccat caattaagaa agcgttcaag ctcaacaaca
+      181 atcaaattct taatttaata aattttcatt aactcctaat ttaccactgg actaatctat
+      241 taactaatag aagaaatact gttaatatga gtaacaagat ttatatctcc cagcacaagt
+      301 ttatgtcaga ccaaataata actgatagtt aacaaccaaa taaatataat cccacataaa
+      361 ttatttatta aatcactgtt aacccaacac aggcgtgcaa caaaggaaag attaaaagaa
+      421 gtaaaaggaa ctcggcaaac acaaaccccg cctgtttacc aaaaacatca cctctagcat
+      481 tactagtatt agaggcactg cctgcccagt gacaactgtt aaacggccgc ggtatcctga
+      541 ccgtgcaaag gtagcataat catttgttcc ttaaataggg acttgtatga atggccacac
+      601 gagggtttaa ctgtctctta cttctaatca gtgaaattga cctttccgtg aagaggcgga
+      661 aatacattaa taagacgaga agaccctatg gagctttaat tgacctaatc caacagaata
+      721 acaatatact ccaccaagga ccaacaaata ttctaattgg attataaatt tcggttgggg
+      781 tgacctcgga gcataaaata acctccgaga aacaaatacc aagactaaca agtcaaagta
+      841 acactttaca aattgatcca gtcttactga tcaacggaac aagttaccct agggataaca
+      901 gcgcaatcct attctagagt ccctatcgac aatagggttt acgacctcga tgttggatca
+      961 ggacatccca atggtgcagc agctattaat ggttcgtttg ttcaacgatt aaagtcctac
+     1021 gtgatctgag ttcag
+//
+

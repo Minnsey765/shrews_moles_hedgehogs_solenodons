@@ -1,0 +1,69 @@
+LOCUS       KX755066                 819 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scalopus aquaticus isolate HPW622 growth hormone receptor (GHR)
+            gene, partial cds.
+ACCESSION   KX755066
+VERSION     KX755066.1
+KEYWORDS    .
+SOURCE      Scalopus aquaticus (eastern mole)
+  ORGANISM  Scalopus aquaticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Scalopus aquaticus"
+                     /mol_type="genomic DNA"
+                     /isolate="HPW622"
+                     /db_xref="taxon:71119"
+                     /geo_loc_name="USA: Illinois, Rock Island County"
+                     /note="Scalaq_2"
+     gene            <1..>819
+                     /gene="GHR"
+     mRNA            <1..>819
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>819
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33471.1"
+                     /translation="FIELDIDDPDEKTEGSDTDRLLSNDRPKPLHILGAKDDDSGRTS
+                     CCEPDILETDFNVSDLCDGTSEVAQPQRLKGEADLLCLDQQDQNNSPPNDAPPSTQQP
+                     SVSPTQENKPRPLLIGGTESIPQASHSQLSNLSSLANIDFYAQVSDITPAGSVVLSPG
+                     QKNKAGIAQCDMHPEAVSRCQANFIMDNAYFCEADAKKCITMAPHMEIQTRGEPSFNQ
+                     EDIYITTESLTTTAGRSGTAEHAPGSEMPVPDYTSIHIVQSPQGLVLNATALPLP"
+ORIGIN      
+        1 ttcattgagc tagatattga cgaccctgat gaaaagacag aaggatcaga cacagacaga
+       61 cttctgagca atgaccgccc gaaacctctt catatccttg gggcaaagga cgacgactct
+      121 gggcgtacca gctgctgtga acctgacatt ctggagaccg atttcaatgt gagcgacctg
+      181 tgtgatggta cctcagaggt ggctcagcca caaaggttaa aaggggaagc agatctcttg
+      241 tgccttgacc agcaggatca aaataactcg cctcctaatg atgctccccc ctctactcag
+      301 cagcccagtg ttagcccaac acaggaaaac aaaccaagac cacttctcat tggtggaact
+      361 gagtcaattc ctcaagcttc ccacagtcag ctaagcaacc tgagttcact ggcaaacatc
+      421 gacttctatg cccaggtaag cgacattaca ccagcaggga gtgtggtcct ttccccgggc
+      481 cagaagaata aggcagggat agcccagtgt gacatgcacc cagaagcagt ctcacgctgc
+      541 caggcaaact tcatcatgga caacgcctac ttctgtgagg cagatgccaa aaagtgcatc
+      601 accatggccc ctcacatgga gatccaaaca cgtggagagc caagctttaa ccaggaagac
+      661 atttacatca ccacagaaag ccttaccact actgctggca ggtctgggac agcagaacac
+      721 gctccaggtt ccgagatgcc tgtccccgac tacacctcca ttcacatagt acagtctccc
+      781 cagggtctcg ttctcaacgc gactgctttg cccttgcct
+//
+

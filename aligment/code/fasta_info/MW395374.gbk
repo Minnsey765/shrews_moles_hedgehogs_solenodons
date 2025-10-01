@@ -1,0 +1,79 @@
+LOCUS       MW395374                 911 bp    DNA     linear   MAM 15-MAR-2021
+DEFINITION  Crocidura russula voucher EBD 2.012.064.121M genotype A growth
+            hormone receptor (Ghr) gene, exon 10 and partial cds.
+ACCESSION   MW395374
+VERSION     MW395374.1
+KEYWORDS    .
+SOURCE      Crocidura russula (white-toothed shrew)
+  ORGANISM  Crocidura russula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 911)
+  AUTHORS   Forcina,G., Camacho-Sanchez,M., Tuh,F.Y., Moreno,S. and
+            Leonard,J.A.
+  TITLE     Markers for genetic change
+  JOURNAL   Heliyon 7 (1), e05583 (2021)
+REFERENCE   2  (bases 1 to 911)
+  AUTHORS   Forcina,G., Camacho-Sanchez,M., Tuh,F.Y., Moreno,S. and
+            Leonard,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-2020) CIBIO/InBIO, Centro de Investigacao em
+            Biodiversidade e Recursos Geneticos, Campus Agrario de Vairao,
+            University of Porto, CIBIO-Rua Padre Armando Quintas 7, Vairao,
+            Porto 4485-661, Portugal
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 8.1.5
+            Assembly Name         :: Ghr
+            Coverage              :: 10X
+            Sequencing Technology :: 454; Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..911
+                     /organism="Crocidura russula"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="EBD 2.012.064.121M"
+                     /db_xref="taxon:36802"
+                     /geo_loc_name="Spain: Chucena"
+                     /lat_lon="37.3643 N 6.3899 W"
+                     /collection_date="15-Mar-2012"
+                     /collected_by="Jacinto Rom#n"
+                     /note="genotype: A"
+     gene            <1..>911
+                     /gene="Ghr"
+     mRNA            <1..>911
+                     /gene="Ghr"
+                     /product="growth hormone receptor"
+     CDS             <1..>911
+                     /gene="Ghr"
+                     /codon_start=3
+                     /product="growth hormone receptor"
+                     /protein_id="QST77411.1"
+                     /translation="ILAIHDNYKPEFYNDDSWVEFIELDIDYPDEKAEGSDTDRLLXH
+                     DREKTLNILGAKDDDSGRTSCYEPDMLETDFHASDTCDGTSELEQSQRLKEEAVLLCL
+                     EKKQNHSLSDDTLSSIPQPSVTLAQESKSRPLVLGGTESTHPTIHTQLSNPSSLANID
+                     FYAQVSDITPAGSVVLSPGQKMKAGMVHFDIHPEVVSLSQSNFIMDNAYFCEADAKKC
+                     ITAGPHLEVQSRAEPSFNQEDIYITTESLTTTAGRSGTAEPTLISELPVPDYTSIHLV
+                     QSPQGLVLNATSLPSPDKEFLSSCGYV"
+     exon            <1..>911
+                     /gene="Ghr"
+                     /number=10
+ORIGIN      
+        1 caatcttagc cattcatgac aactataagc ctgaattcta caatgatgac tcttgggttg
+       61 aattcattga actagatatt gattaccctg atgagaaggc tgaaggatca gatacagata
+      121 gacttctaar ccatgaccgt gagaaaacac ttaatatttt gggggcaaaa gatgatgact
+      181 ctggacgtac cagctgttat gaacctgaca tgctggagac tgatttccat gctagtgaca
+      241 catgtgatgg tacctcagag cttgagcagt cacaaaggtt aaaagaagaa gcggttctct
+      301 tgtgccttga gaagaaacaa aatcactcac tctccgatga tactctctct tctattccac
+      361 aacccagtgt aaccttagca caggaaagta aatcaagacc acttgttttg ggtggaactg
+      421 aatcaactca tccaactatt cacactcagc taagcaatcc aagttcactg gcaaatatcg
+      481 acttttatgc ccaggtaagc gacattacac cagcagggag tgtggtcctt tcyccgggcc
+      541 aaaagatgaa ggcagggatg gtccactttg acattcatcc agaagtggtt tcactctccc
+      601 aatcaaactt catcatggac aatgcctact tctgcgaggc tgatgccaaa aagtgcatca
+      661 cagcaggccc tcacctagag gtccaatcac gtgcagagcc aagctttaac caggaagaca
+      721 tttacatcac cacagaaagc cttaccacta ctgctgggag atctgggaca gcagaaccta
+      781 ctctgatttc tgagctgcct gtcccagact acacctccat tcatctagta cagtctccac
+      841 agggcctcgt cctgaatgcg acttccttgc cttcgcctga caaagagttt ctctcatcgt
+      901 gtggctatgt g
+//
+

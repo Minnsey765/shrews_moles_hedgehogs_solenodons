@@ -1,0 +1,63 @@
+LOCUS       MG973447                 804 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Suncus murinus brain-derived neurotrophic factor (BDNF) gene,
+            partial cds.
+ACCESSION   MG973447
+VERSION     MG973447.1
+KEYWORDS    .
+SOURCE      Suncus murinus (house shrew)
+  ORGANISM  Suncus murinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 804)
+  AUTHORS   Giarla,T., Huterrer,R., Balete,D., Heaney,L. and Esselstyn,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="Suncus murinus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU:M:164724"
+                     /db_xref="taxon:9378"
+     gene            <1..>804
+                     /gene="BDNF"
+     mRNA            <37..>804
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <37..804
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AWS21444.1"
+                     /translation="FHQVRRVMTILFLTMVISYFGCMKAAPMKEANIRGQGSLAYPGV
+                     RTHGTLESVNGPKAGSRGLTSSLADTFEHVIEELLDEDQKARPHEENNKDADLYTSRV
+                     MLSSQVPLEPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAAD
+                     KKTAVDMSGGTVTVLEKVPVSKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWNSQCRT
+                     TQSYVRALTMDSKKRIGWRFIRIDTSCVCTLTIKRGR"
+ORIGIN      
+        1 ccggtcctat gtcctgtgtg tgctttctcc ctacagttcc accaggtgag aagagtgatg
+       61 accatccttt tccttactat ggttatttca tactttggtt gcatgaaagc tgcccccatg
+      121 aaagaagcaa acatccgagg acaaggcagc ttggcctacc caggagtgcg gacccatggg
+      181 actctggaga gcgtgaatgg gcccaaggca ggttcacgag gcctgacatc atccttggct
+      241 gacacttttg aacacgtgat cgaagagctg ttggatgagg accagaaagc tcggccccat
+      301 gaagaaaaca ataaggacgc ggacttgtac acttcccgag tgatgctcag tagtcaagtg
+      361 cctttggagc ctcctcttct ctttctgctg gaggaataca aaaattacct ggatgctgcg
+      421 aacatgtcga tgagggtccg gcgccactct gaccctgccc gccgtgggga gctgagcgtg
+      481 tgtgacagca tcagcgagtg ggtgacagca gcagataaaa agactgcagt ggacatgtca
+      541 ggcgggacag tcactgtcct tgaaaaagtt cctgtatcaa aaggccaact gaagcagtac
+      601 ttctatgaaa ccaaatgcaa tcccatgggt tacacaaagg agggctgcag gggcatagac
+      661 aagaggcatt ggaattccca gtgccgaact acccagtcgt atgtgcgggc ccttaccatg
+      721 gatagcaaaa agagaattgg ctggcgattc ataaggatag acacttcctg tgtatgtaca
+      781 ttgaccatta aaaggggaag atag
+//
+

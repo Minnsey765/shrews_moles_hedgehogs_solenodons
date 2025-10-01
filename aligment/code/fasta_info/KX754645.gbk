@@ -1,0 +1,63 @@
+LOCUS       KX754645                 519 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Dymecodon pilirostris isolate Dypili_1 brain-derived neurotrophic
+            factor (BDNF) gene, partial cds.
+ACCESSION   KX754645
+VERSION     KX754645.1
+KEYWORDS    .
+SOURCE      Dymecodon pilirostris
+  ORGANISM  Dymecodon pilirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Dymecodon.
+REFERENCE   1  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Dymecodon pilirostris"
+                     /mol_type="genomic DNA"
+                     /isolate="Dypili_1"
+                     /db_xref="taxon:182680"
+                     /geo_loc_name="Japan: Tokushima, Tsurugi Mt."
+                     /note="HEG86-97"
+     gene            <1..>519
+                     /gene="BDNF"
+     mRNA            <1..>519
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>519
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="APD33108.1"
+                     /translation="ASVRGPGSLAYPGVRTHGTLESXGGPKAGSRGLTLADTFEHVIE
+                     ELLDEDQKARSHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRV
+                     RRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFYET
+                     KCNPMGYTKEGCR"
+ORIGIN      
+        1 gccagtgtcc gaggaccagg cagcttggcc tacccaggtg tgcggaccca tgggactctg
+       61 gagagcrccg gtgggcccaa ggcgggttcc agaggcctga cgttggccga cactttcgaa
+      121 cacgtgatag aagagctcct ggatgaggac cagaaagccc ggtcccatga agagaacaat
+      181 aaggacgcgg acttgtacac gtcccgggtg atgctcagta gtcaagtgcc tttggagccc
+      241 cctctcctct ttctgctcga ggaatacaaa aattacctgg atgctgcaaa catgtcgatg
+      301 agggtccggc gccactcgga ccccgcccgc cgcggggagc tgagcgtgtg cgacagcatt
+      361 agcgagtggg tgacggcggc ggataaaaag actgccgtgg acatgtcggg cgggacggtg
+      421 acggtcctgg agaaagtccc tgtatccaaa ggccaactga agcagtactt ctacgagacc
+      481 aagtgcaatc ccatgggcta cacaaaggag ggctgcagg
+//
+

@@ -1,0 +1,127 @@
+LOCUS       MT344823                3043 bp    DNA     linear   MAM 04-MAY-2020
+DEFINITION  Suncus murinus isolate MM6387 recombination activating protein 1
+            (RAG1) gene, partial cds.
+ACCESSION   MT344823
+VERSION     MT344823.1
+KEYWORDS    .
+SOURCE      Suncus murinus (house shrew)
+  ORGANISM  Suncus murinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 3043)
+  AUTHORS   Kikuchi,F., Aoki,K., Ohdachi,S.D., Tsuchiya,K., Motokawa,M.,
+            Jogahara,T., Son,N.T., Bawm,S., Lin,K.S., Thwe,T.L., Gamage,C.D.,
+            Ghadirian,T., Ranorosoa,M.C., Omar,H., Maryanto,I., Suzuki,H.,
+            Tanaka-Taya,K., Morikawa,S., Mizutani,T., Suzuki,M., Yanagihara,R.,
+            Akitsu,T. and Arai,S.
+  TITLE     Genetic diversity and phylogeography of Thottapalayam thottimvirus
+            (Hantaviridae) in Asian house shrew (Suncus murinus) in Eurasia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 3043)
+  AUTHORS   Kikuchi,F., Aoki,K., Ohdachi,S.D., Tsuchiya,K., Motokawa,M.,
+            Jogahara,T., Son,N.T., Bawm,S., Lin,K.S., Thwe,T.L., Gamage,C.D.,
+            Ghadirian,T., Ranorosoa,M.C., Omar,H., Maryanto,I., Suzuki,H.,
+            Tanaka-Taya,K., Morikawa,S., Mizutani,T., Suzuki,M., Yanagihara,R.,
+            Akitsu,T. and Arai,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2020) Infectious Disease Surveillance Center,
+            National Institute of Infectious Diseases, Toyama 1-23-1, Shinjuku,
+            Tokyo 162-8640, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..3043
+                     /organism="Suncus murinus"
+                     /mol_type="genomic DNA"
+                     /isolate="MM6387"
+                     /db_xref="taxon:9378"
+                     /sex="female"
+                     /tissue_type="lung"
+                     /geo_loc_name="Myanmar: Putao, Kachin state"
+                     /collection_date="29-May-2016"
+                     /collected_by="Suzuki, H."
+                     /note="field_number: HS1605292"
+     gene            <1..>3043
+                     /gene="RAG1"
+     mRNA            <1..>3043
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>3043
+                     /gene="RAG1"
+                     /codon_start=3
+                     /product="recombination activating protein 1"
+                     /protein_id="QJF48909.1"
+                     /translation="YLKFSEWKFKLFRVKSLEKAPEEAPVEKKASSEEKLSLQPSPAI
+                     PDQAEGLKPALSQAASKSHPKFLKKPHRDEKARDKAIHQANLRQLCRICGNSFKTTGV
+                     KRRYPVHGPVDGKTQSLLRKKEKKVTSWPDLIAKVFRIDVKADLDSVHPTEFCYHCWS
+                     LMHRKFRSGPCEVYFPRGATMEWRPHTPSCDICYGARRGLKRKSQQPNMQLSKKLKTV
+                     IDRARQARQRKRRAQAWLRSKQTLRKISDCSKVHLSTKLLALDFPEHFVKSISCQICE
+                     HILADPVETSCKHVFCRTCILRCLKVLGSYCPSCNYPCFPTDLESPVKSFLSILNSLL
+                     VRCPAKECNEEVSLEKYNHHISSHKNAKETLVHINKGGRPRQHLLSLTRRAQKHRLRE
+                     LKIQVKAFADKEEGGDVKSVCLTLFLLALRSRNEHRQADELEAIMQGRGSGLQPAVCL
+                     AIRVNTFLSCSQYHKMYRTVKAITGRQIFQPLHALRSAEKILLPGYHPFEWQPPLKNV
+                     SSSTDVGIIDGLSGLSSSVDDYPVDTIAKRFRYDAALVSALMDMEMDILDGMRAQDLE
+                     DYLSGPFTVVVKESCDGMGDVSEKHGSGPAVPEKAVRFSFTIMRITVAQGSQEVKVFE
+                     EAKPNSELCCKPLCLMLADESDHETLTVILSPLIAEREAMKTSQLKLEMGGIQRTFQF
+                     IFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHSENLQRYE
+                     VWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEVY
+                     KQPNVSKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTQETVEAVCELIPCQE
+                     RHEALRELMDLYLKMKPVWRSSCPAQECPEALCQYSFNSQRFAELLSTKFKYRYEGKI
+                     TNYFHKTLAHVPEIIERDGSIGAWASEGNESGNKLFRRFRKMNARQSKCYEMEDVLKH
+                     HWLYTSKYLQKFMNAHKVLKKPGFLMNSLASDREPLGTEDS"
+ORIGIN      
+        1 catatcttaa attttcagag tggaaattta agctcttcag ggtgaaatct ttggaaaaag
+       61 caccagaaga agctccagtg gaaaagaaag cttcctctga ggagaaactt tctcttcagc
+      121 catctccagc cattccagac caggcggagg gcctgaagcc agccctgtct caagcagctt
+      181 cgaagtctca ccccaagttt ctgaagaaac ctcacagaga tgagaaagct cgagacaaag
+      241 caattcatca agccaacctc cgacaactct gccgcatttg tggaaattct tttaagacca
+      301 ctggcgtcaa gaggagatat ccagtccatg ggcctgtgga tgggaagacc caaagcctct
+      361 tgcgaaagaa agaaaagaaa gtcacttcct ggccagacct cattgccaag gttttccgaa
+      421 ttgatgtgaa ggcggacctc gattctgtgc accccactga gttctgctac cactgctgga
+      481 gcctcatgca caggaagttt cgcagtggcc cctgtgaggt gtacttcccc aggggtgcca
+      541 ccatggagtg gcgaccccac acaccgtcct gtgacatctg ctatggtgcc cgccggggac
+      601 tcaagaggaa gagtcaacaa cccaacatgc agctcagcaa aaagctcaag actgtgattg
+      661 accgagcgag acaagcacgt cagcgcaaga gaagagctca ggcgtggctg cgcagcaaac
+      721 aaacactgag gaagatctct gactgtagca aggtgcatct tagcaccaag cttcttgccc
+      781 tggacttccc agaacacttt gtgaaatcca tttcctgcca gatctgcgaa cacatcctgg
+      841 cggaccccgt ggagaccagc tgcaagcatg tcttttgcag gacctgcatt ctccggtgct
+      901 tgaaagtcct gggtagctat tgtccttctt gcaactatcc ctgctttcct actgaccttg
+      961 agagcccggt gaagtctttt ctgagcatcc tgaattccct gctggtgaga tgtcccgcaa
+     1021 aagaatgcaa tgaggaggtc agcttggaga aatataatca ccatatctcc agccacaaaa
+     1081 atgccaaaga gactcttgta catattaata aagggggccg accccgccag catctcctgt
+     1141 cccttacccg gcgggctcag aagcaccggc tcagagagct caagatacaa gtcaaggctt
+     1201 ttgctgacaa agaagaaggt ggtgacgtga agtctgtgtg tctgaccttg ttcctgctgg
+     1261 ctttgcgctc aaggaatgaa catagacaag cagatgaact ggaggccatc atgcagggcc
+     1321 ggggctctgg cctgcagcca gccgtctgct tggccatccg tgtcaacacc ttcctcagtt
+     1381 gcagtcagta ccacaagatg taccggacag tgaaagccat cacgggcagg cagatcttcc
+     1441 aacctttgca tgccctgcgg agtgctgaga aaatcctgct gcctgggtac catccctttg
+     1501 agtggcagcc cccgctgaag aatgtctcca gcagcacaga tgtgggcatc attgatggcc
+     1561 tgtcaggact gtcctcctct gtggatgatt atcccgtgga caccatcgcc aagcgtttcc
+     1621 gctatgacgc agccttggtg tctgccttga tggacatgga aatggatatc ttggatggca
+     1681 tgagagccca agacctggag gactacctga gcggcccctt cactgtggtg gtgaaagaat
+     1741 cctgcgatgg gatgggtgat gtgagtgaga agcatggcag cgggcctgca gtgccagaaa
+     1801 aggctgttcg cttttccttc accatcatga ggatcactgt ggcccagggc tctcaggagg
+     1861 tgaaggtgtt tgaggaagcc aaacccaact ctgaactgtg ttgcaagccc ttgtgcctaa
+     1921 tgctggcaga cgagtctgac catgagaccc tgacggtcat cctgagccca ctcattgcag
+     1981 agcgggaggc catgaagacc agccaactga agctggagat gggtggcatc caacgcacct
+     2041 tccagttcat cttcaggggc actgggtatg atgagaaact cgtgcgggaa gtggaaggcc
+     2101 ttgaggcttc tggctctgtc tacatctgca ccctgtgtga tgccactcgc ctggaggcct
+     2161 cgcagaatct ggtcttccat tccatcacca gaagccacag tgagaacttg cagcgctatg
+     2221 aagtttggcg ttccaacccc taccatgagt cggtggagga gttgagggat cgtgtgaaag
+     2281 gggtctcggc caaacccttc atagaaaccg tcccttccat cgatgctctc cactgtgaca
+     2341 ttggcaatgc ggcagagttc tacaagatct tccagcttga gataggggag gtgtataagc
+     2401 agcccaatgt ctccaaagaa gagaggaaga gatggcaggc cactctggac aagcatctcc
+     2461 gcaagaagat gaacttgaag ccgattatga ggatgaatgg caacttcgcc aggaagctta
+     2521 tgactcaaga gactgtggaa gccgtctgtg aattaatccc ctgccaggag agacacgagg
+     2581 ctctgaggga gctgatggac ctttacttga agatgaaacc agtgtggcgt tcctcgtgtc
+     2641 cagctcaaga gtgccccgaa gccctctgcc agtacagttt caactcccag cgctttgctg
+     2701 aactcctctc taccaagttc aagtatagat atgagggcaa gatcaccaat tattttcaca
+     2761 agacactggc tcatgttcct gaaattattg agagggatgg ttccattggg gcctgggcca
+     2821 gtgaaggcaa tgagtctggc aacaagctat tcaggcgctt ccgcaaaatg aatgccaggc
+     2881 aatccaagtg ctatgagatg gaagatgtct tgaaacatca ctggctgtat acttccaagt
+     2941 acttgcagaa gtttatgaat gctcataagg tgttaaagaa acccgggttt ctcatgaact
+     3001 cactggcaag cgatagggag ccgctaggga cagaggactc tca
+//
+

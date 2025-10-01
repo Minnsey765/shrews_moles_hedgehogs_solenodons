@@ -1,0 +1,42 @@
+LOCUS       EF507205                 563 bp    DNA     linear   MAM 20-FEB-2010
+DEFINITION  Sylvisorex lunaris voucher FMNH 144229 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EF507205
+VERSION     EF507205.1
+KEYWORDS    .
+SOURCE      mitochondrion Sylvisorex lunaris (Moon Forest Shrew)
+  ORGANISM  Sylvisorex lunaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Sylvisorex.
+REFERENCE   1  (bases 1 to 563)
+  AUTHORS   Ferry,A.K., Goodman,S.M. and Olson,L.E.
+  TITLE     Phylogenetics of African shrews using 16S
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 563)
+  AUTHORS   Ferry,A.K., Goodman,S.M. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2007) Biology and Wildlife, University of Alaska
+            Fairbanks, 907 Yukon Drive, Fairbanks, AK 99775-6960, USA
+FEATURES             Location/Qualifiers
+     source          1..563
+                     /organism="Sylvisorex lunaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 144229"
+                     /db_xref="taxon:307106"
+     rRNA            <1..>563
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 caaaccccgc ctgtttacca aaaacatcac ttctagcatt aatagtatta gaagcactgc
+       61 ctgcccagtg acattagtta aacggccgcg gtatcctgac cgtgcaaagg tagcataatc
+      121 atttgttcct taattaggga cttgtatgaa tggctccacg agggtttaac tgtctcttac
+      181 ttttaatcag tgaaattgac cttcccgtga agaggcggga ataaacaaat aagacgagaa
+      241 gaccctatgg agcttaaatt aaattaccca aataaactta aaaattttct attagaacta
+      301 acattatttt attatgggta ataaattttg gttggggtga cctcggagaa taaaataacc
+      361 tccgagtaat aaaaccgaga cctaccagtc aaagcaacat tacttattga tccaatcata
+      421 ttgatcaacg gaataagtta ccctagggat aacagcgcaa tcctattcaa gagtccatat
+      481 cgacaatagg gtttacgacc tcgatgttgg atcaggacac ccaaatggtg tagcagctat
+      541 taaaggttcg tttgttcaac gat
+//
+

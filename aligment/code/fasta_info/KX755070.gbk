@@ -1,0 +1,69 @@
+LOCUS       KX755070                 819 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scapanus orarius isolate CM-3 growth hormone receptor (GHR) gene,
+            partial cds.
+ACCESSION   KX755070
+VERSION     KX755070.1
+KEYWORDS    .
+SOURCE      Scapanus orarius
+  ORGANISM  Scapanus orarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanus.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Scapanus orarius"
+                     /mol_type="genomic DNA"
+                     /isolate="CM-3"
+                     /db_xref="taxon:182674"
+                     /geo_loc_name="Canada: British Columbia, Abbotsford"
+                     /note="Scaora_3"
+     gene            <1..>819
+                     /gene="GHR"
+     mRNA            <1..>819
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>819
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33475.1"
+                     /translation="FIELDIDDXDEKTEGSDTDRLLSNDHPKSLHILGAKDDDSGRTS
+                     CCEPDILETDFNVSDLCDGTSEVAQPQRLKGEADLLCLDQQNQNNSPSNDAPPSTQQP
+                     SVSPTQENKPRPLLIGGTESTPQASHSQLSNLSSLANIDFYAQVSDITPAGSVVLSPG
+                     QKNKAGIAQCDVHPEAVSRCQANFIMDNAYFCEADAKKCITMAPHMEIQTRGEPSFNQ
+                     EDIYITTESLTTTAGRSGTAEHAPGSEMPVPDYTSIHIVQSPQGLVLNATALPLP"
+ORIGIN      
+        1 ttcattgagc tagatattga cgaccntgat gaaaagacag aaggatcaga cacagacaga
+       61 cttctgagca atgaccaccc gaaatctctt catatccttg gggcaaagga tgatgactct
+      121 gggcgtacca gctgctgtga acctgacatt ctggagactg atttcaatgt gagtgacctg
+      181 tgtgatggta cctcagaggt ggctcagcca caaaggttaa aaggggaagc agatctcttg
+      241 tgccttgacc agcagaatca aaataactca ccttctaatg atgctccccc ctctactcag
+      301 cagcccagtg ttagcccaac acaggaaaac aaaccaagac cacttctcat tggtggaact
+      361 gagtcaactc ctcaagcttc ccacagtcag ctaagcaatc tgagttcact ggcaaacatc
+      421 gacttttatg cccaggtaag cgacattaca ccagcaggga gtgtggtcct ttccccgggc
+      481 caaaagaata aggcagggat agcccagtgt gatgtgcacc cagaagcagt ctcacgctgc
+      541 caggcaaact tcatcatgga caacgcctac ttctgtgagg cagatgccaa aaagtgcatc
+      601 accatggccc ctcacatgga gatccaaaca cgtggagagc caagctttaa ccaggaagac
+      661 atttacatca ccacagaaag ccttaccact actgctggca ggtctgggac agcagaacac
+      721 gctccaggtt ccgagatgcc tgtccccgac tacacctcca ttcacatagt acagtctccc
+      781 cagggtctcg tcctcaacgc gactgccttg cccttgcct
+//
+

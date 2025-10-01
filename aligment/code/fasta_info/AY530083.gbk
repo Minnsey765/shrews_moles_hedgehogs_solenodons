@@ -1,0 +1,82 @@
+LOCUS       AY530083                2485 bp    DNA     linear   MAM 14-JUN-2004
+DEFINITION  Solenodon cubanus strain Scu-MCZ12413 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AY530083
+VERSION     AY530083.1
+KEYWORDS    .
+SOURCE      mitochondrion Atopogale cubana (Cuban Solenodon)
+  ORGANISM  Atopogale cubana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Atopogale.
+REFERENCE   1  (bases 1 to 2485)
+  AUTHORS   Roca,A.L., Bar-Gal,G.K., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brien,S.J. and Murphy,W.J.
+  TITLE     Mesozoic origin for West Indian insectivores
+  JOURNAL   Nature 429 (6992), 649-651 (2004)
+   PUBMED   15190349
+REFERENCE   2  (bases 1 to 2485)
+  AUTHORS   Roca,A.L., Kahila Bar-Gal,G., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brian,S.J. and Murphy,W.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2004) National Cancer Institute, Laboratory of
+            Genomic Diversity, P.O. Box B Bldg. 560, Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..2485
+                     /organism="Atopogale cubana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Scu-MCZ12413"
+                     /db_xref="taxon:3370991"
+     rRNA            <1..982
+                     /product="12S ribosomal RNA"
+     tRNA            983..1051
+                     /product="tRNA-Val"
+     rRNA            1052..>2485
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 taaaggcttg gtcctgacct ttttattggt tggtagtaaa tttacacatg caagtatccg
+       61 caagccagtg aaaatgccct ccaaacttcg cacacataca ttagttaaaa ggagcaggta
+      121 tcaagcacac tagtacacgt agcttaagac accttgcttt gccacacccc cacgggtatt
+      181 acagcagtga taaaaattta gcaatgaacg aaagtttgac taagttatac tacacaagag
+      241 ttggtaaatt tcgtgccagc caccgcggcc atacgattaa cccaaatcaa taaacaccgg
+      301 cgtaaagcgt gccaaagaga ccataacaaa ataaagttaa gatctgacta agatgtaaaa
+      361 atcacaagtc aacataaaaa taaaccacga aagtgacttt acacactcta attgcacgat
+      421 agctaagacc caaactggga ttagataccc cactatgctt agccctaaac acatacaact
+      481 aaacaaacaa agttgtccgc cagagtacta ctagcaacag cttaaaactc aaaggacttg
+      541 gcggtgcttt acatccacct agaggagcct gttctataat cgataaaccc cgttaaacct
+      601 caccaacttt tgccaattca gcctatatac cgccatcttc agcaaaccct aaaaaggaag
+      661 aaaagtaagc ataaatacga aaacgcaaat acgttaggtc aaggtgtagc caataagttg
+      721 ggaagaaatg ggctacattt tcttacacaa gaacaccata tttaacgaaa tccactatga
+      781 aatctagagg acaaaggagg atttagcagt aaattaagaa tagagagctt aattgaataa
+      841 ggccatgaag cacgcacaca ccgcccgtca ccctcctcaa atactaacaa tacttaaacc
+      901 atacataaac ctaacagtaa caagtataag aggagataag tcgtaacaag gtaagcatac
+      961 tggaaagtgt gcttggatta accaaagcgt agcttaatac taaagcacct gacctacact
+     1021 caggagactt ccttttagga acactttaag ccaaagctag cccaaacaac aaaacattca
+     1081 attaatcaat aaaaataaat caaaacattt agtaatcaat attagtatag gagatagaaa
+     1141 atataactgg cgctatagag aaagtaccgt aagggaaaga ttgaaagatt attcaaagca
+     1201 caaaacagca aagattaaaa cttctacctt ttgcataatg atttaactaa acatacttta
+     1261 gcaaagagaa cttaagttaa agaacccgaa accagacgag ctatccatga gcagtaatta
+     1321 gaaccaactc gtctatgtgg caaaatagtg agaagacttg tggatagagg tgaaaagcct
+     1381 accgagcctg gtgatagctg gttgtccagg aaaagaacgt aagttctaca ttaaatttac
+     1441 cacaaaaaac acataattca aatgtaaatt taaatgctaa cctaaagggg tacagctctt
+     1501 taggaccagg ataaaacctt gatcagagag tacataaaat ttaaaaccac agtaggccta
+     1561 aaagcagcca tcagttaaga aagcgttaaa gctcgaaaca caaacatatc taatcccaaa
+     1621 aaatattatt aactcctgaa tataatactg gaccattcta ttgattttta gaagagatac
+     1681 tgttaatatg agtaacaaga attaaattct ccacgcatac gtttatatca gatcagataa
+     1741 actactgata gttaacagcc atataataaa atacatacac acaaacatta ttaataaaac
+     1801 tgttaatcca acacaggaat gcgataaagg aaagattaaa agaagtaaaa ggaactcggc
+     1861 aaacaaaaac cccgcctgtt taccaaaaac atcacctcta gcataactag tattagaggc
+     1921 actgcctgcc cagtgactat tgtttaacgg ccgcggtact ctgaccgtgc aaaggtagca
+     1981 taatcatttg ttctctaaat aaggacttgc atgaacggct tgacgagggt ttaactgtct
+     2041 cttacttcca atcagtgaaa ttgacctccc agtgaagagg ctgggataaa ccaataagac
+     2101 gagaagaccc tatggagctt taattaactg gcctacatat aagaattata aaccgacagg
+     2161 tctaaaactt atgataacta gaccagcaat tttggttggg gtgacctcgg agtataaaaa
+     2221 aacctccgag tgaaaaaatt tagacttaca agtcaaaata aacatcacat attgatccat
+     2281 aatgcatgat caacggaaca agttacccta gggataacag cgcaatccta ttcaagagtc
+     2341 catatcgaca atagggttta cgacctcgat gttggatcag gacatcctaa tggtgcatcc
+     2401 gctattaatg gttcgtttgt tcaacgatta aagtcctacg tgatctgagt tcagaccgga
+     2461 gtatccaggt cggtttctat ctatt
+//
+

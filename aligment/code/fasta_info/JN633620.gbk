@@ -1,0 +1,67 @@
+LOCUS       JN633620                 692 bp    DNA     linear   MAM 08-AUG-2012
+DEFINITION  Podogymnura truei recombination activating protein 1 (RAG1) gene,
+            partial cds.
+ACCESSION   JN633620
+VERSION     JN633620.1
+KEYWORDS    .
+SOURCE      Podogymnura truei (Mindanao gymnure)
+  ORGANISM  Podogymnura truei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Podogymnura.
+REFERENCE   1  (bases 1 to 692)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 692)
+  AUTHORS   Meredith,R., Janecka,J., Gatesy,J., Ryder,O., Fisher,C.,
+            Teeling,E., Goodbla,A., Eizirik,E., Simao,T., Stadler,T.,
+            Rabosky,D., Honeycutt,R., Flynn,J., Ingram,C., Steiner,C.,
+            Williams,T., Robinson,T., Burk,A., Westerman,M., Ayoub,N.,
+            Springer,M. and Murphy,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-AUG-2011) Veterinary Integrative Biosciences, Texas
+            A&M University, TAMU 4458, College Station, TX 77843, USA
+FEATURES             Location/Qualifiers
+     source          1..692
+                     /organism="Podogymnura truei"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:48905"
+     gene            <1..>692
+                     /gene="RAG1"
+     mRNA            <1..>692
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>692
+                     /gene="RAG1"
+                     /note="similar to Homo sapiens recombination activating
+                     protein 1 (RAG1), exon 2"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AEO95287.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTVMKITIAHDSQNVNVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKNSQLMIEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHSENLERY
+                     EVWRSNPYHETVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPNASKEERK"
+ORIGIN      
+        1 tcttgtgacg gaatgggtga tgtaagtgag aagcatggca gtggaccagc cgttccagaa
+       61 aaggcagtcc ggttttcctt cactgtcatg aaaatcacca tagcccacga ctctcagaat
+      121 gtaaacgtgt ttgaggaagc caaacccaac tctgagctgt gctgcaagcc cttgtgcctg
+      181 atgctggcag atgagtctga ccacgagacc ctgacggcga tcctgagccc tctcatcgct
+      241 gagagggaag ccatgaagaa cagccagtta atgatcgaga tgggaggcat tctccgcacc
+      301 tttaagttca tcttcagggg cacagggtat gacgaaaaac ttgtccggga agtggaaggc
+      361 cttgaggcct ctggttcagt ctacatctgt accctttgcg atgccactcg cctagaagcc
+      421 tctcagaatc ttgtcttcca ctccatcacc aggagccaca gtgagaacct ggagcgctat
+      481 gaggtctggc gttccaaccc ataccacgag actgtggaag aactgagaga tcgggtgaaa
+      541 ggggtctcgg ccaagccctt catcgagaca gtcccttcca tcgatgcact gcactgtgac
+      601 atcggtaatg cagctgaatt ctacaagatt ttccagctag agatagggga ggtgtataag
+      661 aaccccaatg cctccaaaga ggaaaggaaa ag
+//
+

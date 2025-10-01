@@ -1,0 +1,99 @@
+LOCUS       AY121755                2728 bp    DNA     linear   MAM 24-JUL-2016
+DEFINITION  Crocidura russula BRCA1 gene, partial cds.
+ACCESSION   AY121755
+VERSION     AY121755.1
+KEYWORDS    .
+SOURCE      Crocidura russula (white-toothed shrew)
+  ORGANISM  Crocidura russula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 2728)
+  AUTHORS   Douady,C.J., Chatelier,P.I., Madsen,O., de Jong,W.W., Catzeflis,F.,
+            Springer,M.S. and Stanhope,M.J.
+  TITLE     Molecular phylogenetic evidence confirming the Eulipotyphla concept
+            and in support of hedgehogs as the sister group to shrews
+  JOURNAL   Mol. Phylogenet. Evol. 25 (1), 200-209 (2002)
+   PUBMED   12383761
+REFERENCE   2  (bases 1 to 2728)
+  AUTHORS   Douady,C.J., Chatelier,P.I., Madsen,O., de Jong,W.W., Catzeflis,F.,
+            Springer,M.S. and Stanhope,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUN-2002) Biology and Biochemistry, The Queen's
+            University of Belfast, 97 Lisburn Road, Belfast, Northern Ireland
+            BT9 7BL, United Kingdom
+FEATURES             Location/Qualifiers
+     source          1..2728
+                     /organism="Crocidura russula"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36802"
+     CDS             <1..>2728
+                     /note="similar to Homo sapiens BRCA1 gene exon 11"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="AAM82172.1"
+                     /translation="LFSNLHVEPCGTDTHASSLQHENSTLLLTNDRTHVEKAQFCNKS
+                     KQSGLGRSQQNRWIESKETYNDKQSPSTEQKVDLNAEPLYGRRKLNKQKLSCSDSPED
+                     PQEMTWMTSKSSLQKVNDWFSRSDAVLTSDDFHDAGSNSNTKAETEEIPSAADGFFVS
+                     SEKEDLMASDQFDALMYESRRVLSKPVESNIEDKIFGKTYRRKASFPNLNCTTEDVIL
+                     ESSLLEPHMAHKHPFTNKLKRKRRITSSLGPEDFIKKVDSADVQKSPENKIERLNQMD
+                     QNGQVANTTIKGLEIETRGDDTQKENIANSTASSEQEHASRHKAEPVSNSISNMELEL
+                     NIPAIPTSKHPKKRLRRKSSTRHIHALELVASRNLSPHNHTELQIDSCSSSEEIEDKE
+                     VEQMPVRHSKKLQVEHKELANSATNSNKPNEQTNKRSARSIFSELNLVNDCARVNRFR
+                     EFVNSSIRKEAEKNIGTIQESNRPKELRLSKGKGLEMETSIQSSCVTLVSETDYDSQS
+                     SNSLLDTNAPGKAKISPNQLIENPKKLTHDCTKDYGKDIVGFKGQLGYEVNPSQETCI
+                     DESELDTQYLQNTFKSSKRQSFSLLPSSRNTEKECSTVFESLRKQSKKTTVDSEQKEE
+                     NHKLEEIKMKHLPSIHSTNNFPGGCQKGSPVDYAKCSIKGISGFCPSQVRGNENELIA
+                     NLNLKTSCHVSPLSPNKSSVKSPSKKNSPEGKFKEHSLSPEKTLGNGSIAQNTMSNMS
+                     SKSNSREDAFKEVSSGTTNEVSSSTNEVGSSNNEVGSSEENVKAEFGQNRGHKLSAIL
+                     KSVLKQPEVYKQSNCTQPEIKKQGENEAVQNKTDFSPCLISDNPEXLMGTSNASQICS
+                     KTPDDLLNDDEINEISFAESDIRERSAVFNXSVQKVEFKGKHSSLDYTCLAPV"
+ORIGIN      
+        1 ttgttttcca acttgcatgt ggagccatgt ggtacagata ctcatgccag ctcattacag
+       61 catgagaaca gcactttatt actcactaac gacaggacgc atgtagaaaa ggctcagttc
+      121 tgtaataaaa gtaaacagtc tggcctagga agaagccaac agaacagatg gatcgaaagt
+      181 aaagaaacat ataatgataa acagtctccc agcacagagc aaaaggtaga tctgaatgcg
+      241 gaacccctat atggaagaag aaaactgaac aaacagaaat tgtcatgctc tgacagccct
+      301 gaggatcccc aagagatgac ttggatgact tcgaagagta gcctacagaa agttaatgat
+      361 tggttttcta gaagtgatgc tgtattaact tctgatgatt tccatgatgc agggtctaat
+      421 tcaaatacaa aagctgagac agaagaaatc ccaagtgcag cagatgggtt ttttgtttct
+      481 tcagagaaag aagatttaat ggccagtgat cagtttgatg ccttaatgta tgaaagtaga
+      541 agagtcctct ccaaaccagt agagagtaac attgaagata aaatatttgg gaaaacttat
+      601 cggaggaaag caagcttccc taacttgaac tgcacaactg aagatgtaat tctagaatca
+      661 tctctactag aaccgcatat ggcacacaaa caccccttca caaataaatt aaaacgtaaa
+      721 aggagaatta cgtcaagcct tggtcctgag gactttataa agaaagtaga ttcggcggat
+      781 gttcaaaagt ctcctgaaaa caaaatcgag aggctcaacc aaatggatca aaatggtcag
+      841 gtggcgaata ctactataaa aggtcttgaa attgaaacaa gaggtgatga tacccagaaa
+      901 gagaacatcg ctaactcaac agcatcatca gaacaagaac atgcttccag acataaagct
+      961 gaacctgtaa gtaacagtat aagcaatatg gaactagaat taaatattcc agctattcct
+     1021 acttctaaac acccaaagaa gagactgagg aggaagtcct ctaccaggca tattcatgca
+     1081 cttgaactcg tagccagtag aaatttaagt ccacataatc atacagaact tcagattgat
+     1141 agttgttcta gtagtgaaga gatagaggac aaagaagttg agcaaatgcc agtcaggcac
+     1201 agcaaaaagc ttcaagtgga acacaaagaa cttgcaaata gcgccaccaa tagcaacaaa
+     1261 ccaaatgaac aaacaaataa aagaagtgcc agaagtattt tttcagaact aaatttagtg
+     1321 aatgactgtg caagagttaa tagatttcgg gagtttgtca attctagcat tcggaaagaa
+     1381 gcagaaaaga acataggcac aattcaagag tcaaatcgtc ccaaagagct gagattaagt
+     1441 aaaggaaaag gtttggaaat ggaaacgtct attcagagtt cctgtgtgac attggtatct
+     1501 gaaactgatt atgacagtca gagtagtaac tcgttactgg acactaacgc cccaggaaag
+     1561 gcaaaaatat caccaaatca actaattgaa aacccaaaga aacttaccca tgactgtact
+     1621 aaagattacg gaaaggacat agtgggcttt aagggtcagc tgggatacga ggttaatcct
+     1681 tctcaggaaa catgtataga cgagagtgaa cttgatacac agtatttaca gaataccttc
+     1741 aagtcttcaa aacgtcaatc attttcgtta cttccaagtt caaggaatac agaaaaggaa
+     1801 tgttcaacag tctttgaatc cttaaggaaa caaagtaaaa aaacaactgt ggactctgaa
+     1861 caaaaagaag aaaatcataa actggaagaa attaaaatga agcatttgcc atcaatacat
+     1921 tcaactaata acttccctgg gggttgtcaa aaaggtagtc ccgttgatta tgccaaatgt
+     1981 agcataaaag gaatctctgg attttgtcca tcccaggtta gaggcaatga gaatgaactc
+     2041 atagcaaatt taaatttaaa aacttcatgt catgtatcac cactttctcc taacaaatca
+     2101 tctgttaaat ctcccagtaa gaaaaactcg ccagagggaa agtttaagga acactcactt
+     2161 tcacctgaaa aaacactggg aaatggaagc attgctcaaa atacaatgag caacatgagt
+     2221 agcaaaagta atagcagaga agatgctttt aaagaagtca gctcaggcac tactaatgaa
+     2281 gtaagttcca gtaccaatga agtaggctcc agtaataatg aagtaggttc cagtgaagaa
+     2341 aatgtgaaag ctgaatttgg tcaaaacaga ggacataagt taagtgctat acttaaatca
+     2401 gttcttaagc aacctgaagt ctataagcaa agtaattgta cacagcctga aataaagaaa
+     2461 caaggagaaa atgaagcagt tcagaataag acagattttt ctccatgtct gatatcagat
+     2521 aatccagaac ancttatggg aactagtaat gcttctcaga tttgttcaaa gactcctgat
+     2581 gaccttttaa atgatgatga aataaatgaa ataagttttg ctgaaagtga tattagggaa
+     2641 cggtctgcag tttttaatna aagtgtccag aaagtagaat tcaaagggaa gcatagttct
+     2701 ttagattata cgtgcttggc tccagttc
+//
+

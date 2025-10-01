@@ -1,0 +1,60 @@
+LOCUS       OP846372                 534 bp    DNA     linear   MAM 20-FEB-2023
+DEFINITION  Myosorex kihaulei voucher FMNH:MAMM:205242 NADH dehydrogenase
+            subunit 6 (ND6) gene, complete cds; mitochondrial.
+ACCESSION   OP846372
+VERSION     OP846372.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 534)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,M.A., William Dee,J.,
+            Swanson,M.T., Hiller,A.E., Khan,F.A.A. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncusater Medway, 1965 (Soricidae, Crocidurinae), place it
+            in the genus Palawanosorex
+  JOURNAL   Zookeys 1137, 17-31 (2022)
+   PUBMED   36760481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 534)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2022) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:205242"
+                     /db_xref="taxon:307108"
+     gene            1..534
+                     /gene="ND6"
+     CDS             1..534
+                     /gene="ND6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 6"
+                     /protein_id="WDD44856.1"
+                     /translation="MMTYIVTILSTIFVVSFVGFSSKPSPIYGGVGLIVSGGVGCGIV
+                     LNYGGSFLGLMVFLIYLGGMLVVFGYTTAMAMEEYPEMWASNVTVFMTFVLGMVGELL
+                     LMVYLSFEEDVKLEVVFNFNGQGDWLIYDTGDSGFFSEEPMSIAALYSYGFWLVIVSG
+                     WSLVTCVVVIMEITRGN"
+ORIGIN      
+        1 atgatgacat atattgttac tattttgagt accatttttg tagtaagttt tgttggtttt
+       61 tcttcaaaac cttctcctat ttatggtggg gttggattaa ttgttagtgg tggagttggt
+      121 tgtggtattg tattaaatta tggtggttct tttttagggt taatggtgtt tttaatttat
+      181 ttaggaggta tgttggttgt gtttggctat actacagcta tggctatgga agaatatcca
+      241 gaaatgtggg cttctaatgt tactgtattt ataacatttg ttttaggtat ggtaggagag
+      301 ctcttgttaa tggtttattt atcttttgaa gaagatgtta agttggaagt tgtttttaat
+      361 tttaatggtc aaggtgattg acttatttat gacactggtg attcaggatt ttttagtgaa
+      421 gagcctataa gtattgcggc tctttatagt tatgggttct gacttgtgat tgtctctggg
+      481 tgatcattag tgacatgtgt tgtagtaatt atagaaatta cgcgagggaa ttaa
+//
+

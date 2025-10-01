@@ -1,0 +1,63 @@
+LOCUS       MG973459                 801 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Diplomesodon pulchellum voucher MVZ:Mamm:179157 recombination
+            activating protein 1 (RAG1) gene, partial cds.
+ACCESSION   MG973459
+VERSION     MG973459.1
+KEYWORDS    .
+SOURCE      Diplomesodon pulchellum (Piebald shrew)
+  ORGANISM  Diplomesodon pulchellum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Diplomesodon.
+REFERENCE   1  (bases 1 to 801)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 801)
+  AUTHORS   Giarla,T., Huterrer,R., Balete,D., Heaney,L. and Esselstyn,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..801
+                     /organism="Diplomesodon pulchellum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Mamm:179157"
+                     /db_xref="taxon:458329"
+     gene            <1..>801
+                     /gene="RAG1"
+     mRNA            <1..>801
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>801
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AWS21456.1"
+                     /translation="LEDYLNGPFTVVVKESCDGMGDVSEKHGSGPAVPEKAVRFSFTI
+                     MRITVAQGPQEVKVFEEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKT
+                     SQLKLEMGGIQRTFQFIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLV
+                     FHSITRSHSENLQRYEVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGN
+                     AAEFYKIFQLEIGEVYKQPNVSKEERKRWQATLDKHLRKKMNLKPIMRM"
+ORIGIN      
+        1 ctggaggact acctgaacgg ccccttcact gtggtggtga aagaatcctg tgatgggatg
+       61 ggtgatgtga gtgagaagca tggcagtggg cctgcagtgc ccgaaaaggc tgttcgtttt
+      121 tccttcacca tcatgagaat cactgtggcc cagggccctc aggaggtgaa ggtgtttgag
+      181 gaagccaaac caaactccga gctgtgttgc aagcccctgt gcctaatgct ggcagacgag
+      241 tctgaccatg agaccctgac ggctatcctg agcccactca ttgctgagcg ggaggccatg
+      301 aagaccagcc agctgaagct ggagatgggt ggcatccaac gtaccttcca gttcatcttc
+      361 aggggcactg ggtatgatga gaaactcgtg cgggaagtgg agggcctcga ggcttctggc
+      421 tccgtctaca tctgcaccct gtgtgatgcc actcgcctgg aggcctcgca gaatctggtc
+      481 ttccattcca tcaccagaag ccacagtgag aacttgcagc gctatgaggt ctggcgttcc
+      541 aacccctacc atgagtcggt ggaggagctg cgggatcgtg tgaaaggggt ctcggccaaa
+      601 cccttcatag agactgtccc ttccatcgat gccctccact gtgacattgg caatgcggca
+      661 gagttctaca agatcttcca gcttgagata ggggaggtgt ataagcagcc caatgtctcc
+      721 aaagaagaga ggaagagatg gcaggccact ctggacaagc atctccgcaa gaagatgaac
+      781 ttgaagccaa ttatgaggat g
+//
+

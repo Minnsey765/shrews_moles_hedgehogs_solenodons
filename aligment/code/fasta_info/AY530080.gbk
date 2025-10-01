@@ -1,0 +1,90 @@
+LOCUS       AY530080                2358 bp    DNA     linear   MAM 14-JUN-2004
+DEFINITION  Solenodon paradoxus BRCA1 gene, partial cds.
+ACCESSION   AY530080
+VERSION     AY530080.1
+KEYWORDS    .
+SOURCE      Solenodon paradoxus (Hispaniolan solenodon)
+  ORGANISM  Solenodon paradoxus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Solenodon.
+REFERENCE   1  (bases 1 to 2358)
+  AUTHORS   Roca,A.L., Bar-Gal,G.K., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brien,S.J. and Murphy,W.J.
+  TITLE     Mesozoic origin for West Indian insectivores
+  JOURNAL   Nature 429 (6992), 649-651 (2004)
+   PUBMED   15190349
+REFERENCE   2  (bases 1 to 2358)
+  AUTHORS   Roca,A.L., Kahila Bar-Gal,G., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brian,S.J. and Murphy,W.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2004) National Cancer Institute, Laboratory of
+            Genomic Diversity, P.O. Box B Bldg. 560, Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..2358
+                     /organism="Solenodon paradoxus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:79805"
+     mRNA            <1..>2358
+                     /product="BRCA1"
+     CDS             <1..>2358
+                     /codon_start=3
+                     /product="BRCA1"
+                     /protein_id="AAS67642.1"
+                     /translation="YGNSLLQENSSLLLTKDRMNVEKAEFCNKIKQPGVARSQQSRWA
+                     ESKERRKDDRQPPSTEEKVDLNAPLHGRKELNEQKPLFSDSPRDSQDMTWITLNSSIR
+                     KVNEWFSRSGEMLTSDDSRDGVGEANIEVAAAADIPNAVDGFSGSSEKIDLMASDPYC
+                     AVKCESKRVHAKAVESNIQDKIFGKTYRRKASLPNLSHITKDLITGTSAIEPQVTKEL
+                     PLTSKLKQKRRATTGLRPEDFIKKIDLAVVQKTSEKIVGGADQRDQHDQVMNCTNNGH
+                     ENEIKGDYTQKEKNANVTESSEKDSVFKTKVESISSSISNMELELNVHSSKAPKKNKV
+                     RRKSSTRHIHALELVVSKNPSPSIHTELQIDSCSSTEEMKKKNSDQLLLRHSKKLPLM
+                     EEKEPATVVRKSNKPNEQINKTLISDAFPELNLASIPSFLTNCSSSNKLQEFVNSSLQ
+                     SEELEENLGAILVSNSNKDPKSLDRILIGGRGLQTERSVENIISLVPETDYSSQDSVS
+                     LRETYTLGXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                     XXXXXXXXXXXXXXXXXXXXTFKVSKRQSFALCPNAGNPEKECTTVYAHSTSLRKQSP
+                     KATLECGQKEENGGKKESKINHVQALRTTVGVPLVYQEDKPVDYATCGVKGVSWLCQP
+                     SPFRDNETEVIASKHLIFQNPYHILSVETISKKNLSEEKLEHSVSSKRAAGNRSIIQS
+                     TVSTTSQNNTREDTVKEGSSSSLNEVGSSTNEVGSSINEVRARCK"
+ORIGIN      
+        1 cttatggcaa ctcattactg caggagaaca gcagtttatt actcactaaa gacagaatga
+       61 atgtagaaaa ggctgaattc tgtaataaaa tcaagcagcc tggcgtagca aggagccagc
+      121 agagcagatg ggctgaaagt aaggaaagac gtaaagatga taggcagcct cctagcacag
+      181 aggaaaaggt agatttgaat gctcccctgc atgggagaaa agaactaaat gaacagaaac
+      241 ctctcttttc tgacagtcct agagattccc aagacatgac ttggataacc ctgaatagta
+      301 gtatacggaa ggttaatgag tggttttcca gaagtggtga aatgttaact tctgatgact
+      361 cacgtgatgg ggtaggtgaa gcaaatattg aggtagctgc tgcagcagac attccaaatg
+      421 cagtagatgg attttctggt tcttcagaga aaatagactt aatggctagt gatccttatt
+      481 gtgctgtgaa atgtgaaagt aaaagagtcc acgccaaagc agtagagagt aatattcaag
+      541 ataaaatatt tgggaaaacc taccggagga aggcaagcct tcctaatttg agccatataa
+      601 ctaaagatct aattacagga acatctgcta tagaacctca agtaacaaaa gagcttcccc
+      661 tcacaagtaa attaaagcag aaaaggagag ctacaacagg ccttcgtcct gaggatttca
+      721 tcaagaaaat agatttggca gttgttcaaa agacttctga aaagatagtt gggggagctg
+      781 accaaaggga tcagcatgac caggtcatga attgtactaa taatggtcat gagaatgaaa
+      841 taaaaggtga ttatactcag aaagagaaaa atgctaatgt aacagaatca tcagaaaaag
+      901 attctgtttt caaaactaaa gttgaatcta taagcagcag tataagtaat atggagctag
+      961 aattaaatgt ccacagttca aaagcaccta agaagaataa ggtgaggagg aagtcctcca
+     1021 ccaggcatat tcatgccctt gaactagtag tcagtaaaaa tccaagtcca tctattcata
+     1081 ctgaactgca aattgatagt tgttctagca ctgaagagat gaagaaaaaa aattcagatc
+     1141 aattgctact cagacacagc aaaaaacttc cactcatgga agagaaagag cctgcaactg
+     1201 tagtcagaaa gagtaacaaa ccaaatgaac aaataaataa aacattgatt agtgatgctt
+     1261 ttccagaact aaatttagca agcataccca gctttcttac caactgttca agctctaata
+     1321 aacttcagga gtttgtcaat tctagccttc aaagcgaaga actggaagag aacctaggag
+     1381 caattctagt gtctaatagt aacaaggacc ctaaatcttt agatcggatt ttaattggag
+     1441 ggagaggttt gcaaactgaa agatctgtag agaatattat ttcattggtg cctgagactg
+     1501 attatagcag tcaggacagt gtctcattac gtgaaacgta caccctaggn nnnnnnnnnn
+     1561 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1621 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1681 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1741 nnnnnnnnnn nnnnnnnngt actttcaagg tttcaaagcg tcagtcattt gctctgtgtc
+     1801 caaatgcagg aaatccagaa aaggaatgta ccacagtcta tgcccactcc acgtccttaa
+     1861 ggaaacaaag tccaaaagcc actctggaat gtggacaaaa agaagagaat gggggaaaga
+     1921 aggaatcgaa aatcaaccat gtgcaggcat tacgtacaac tgtgggtgtt cctttggttt
+     1981 atcaggaaga taagccagtt gattatgcca cctgtggcgt aaaaggagta tcttggcttt
+     2041 gtcagccatc tccatttaga gacaatgaaa ctgaagtcat tgcaagtaaa catttaattt
+     2101 tccaaaaccc atatcatatt ctatccgttg aaactatttc taagaaaaac ctgtcagagg
+     2161 aaaagcttga acattcagtg tcatctaaaa gagcagcagg aaacagaagc atcattcaga
+     2221 gcacagtaag cacaactagc caaaataaca ctagagagga tactgttaaa gaaggcagct
+     2281 caagcagtct taacgaagta ggttccagta ctaatgaagt aggctctagt attaatgaag
+     2341 tacgtgccag gtgtaaaa
+//
+

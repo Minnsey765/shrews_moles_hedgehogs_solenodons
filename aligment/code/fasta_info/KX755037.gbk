@@ -1,0 +1,69 @@
+LOCUS       KX755037                 819 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Chimarrogale platycephalus isolate Chimpl_1 growth hormone receptor
+            (GHR) gene, partial cds.
+ACCESSION   KX755037
+VERSION     KX755037.1
+KEYWORDS    .
+SOURCE      Chimarrogale platycephalus (flat-headed water shrew)
+  ORGANISM  Chimarrogale platycephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Chimarrogale.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Chimarrogale platycephalus"
+                     /mol_type="genomic DNA"
+                     /isolate="Chimpl_1"
+                     /db_xref="taxon:62293"
+                     /geo_loc_name="Japan: Miyazaki, Kobayashi"
+                     /note="SAS-59"
+     gene            <1..>819
+                     /gene="GHR"
+     mRNA            <1..>819
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>819
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33442.1"
+                     /translation="FIELDIDDPEEKTEGSDTDKLLNHDPEKPLNILGTKDDDSGRTS
+                     CYDPDILETDFNVSDTGDGTSEPAQPQRLKEEADLLCLDQKNQNLSLSDDALSSTPRP
+                     SATLAQENKPRPLGIGGTESTHPTTHTQSSNPSSLANIDFYAQVSDITPAGSVVLSPG
+                     QKAKAGVAQYDIHPEMVSRSHANFVMDSAYFCEADAKKCIPAAPRLEVQSHVEPSFNQ
+                     EDIYITTESLTTTAGRSGTVEQAPSSELPVPDYTSIHLVQSPQGLILNATALPLP"
+ORIGIN      
+        1 ttcattgagc tagatattga tgatcctgag gagaagactg aaggatcaga taccgacaaa
+       61 cttctaaacc acgaccctga gaaaccactt aacatccttg ggacaaaaga cgacgactct
+      121 ggacgtacca gctgttatga tcctgacatt ctagagactg attttaacgt gagtgacacg
+      181 ggtgatggta cctcagagcc tgctcagcca cagaggttaa aagaggaagc agatctcttg
+      241 tgccttgacc agaagaatca gaatctctca ctctctgatg atgctctctc ttctacccca
+      301 cgccccagtg ctaccttagc acaggaaaat aaaccaagac cacttggtat aggtggcact
+      361 gaatcaactc atcccactac tcatactcag tcaagcaatc caagttcact ggcaaatatt
+      421 gacttttatg cccaggtaag tgacattaca ccagcaggga gtgtggttct ctcccctggc
+      481 caaaaggcta aggcaggggt agcccagtac gacatacacc cagaaatggt gtcacgctcc
+      541 cacgcaaact tcgtcatgga cagtgcctac ttctgtgagg ctgatgccaa aaagtgcatc
+      601 ccagcggccc ctcgactaga ggtccaatca catgtagagc caagctttaa ccaggaggac
+      661 atatatatca ccacagaaag ccttaccact acggctggga ggtctgggac tgtggagcag
+      721 gctccgagtt ctgagctgcc tgtcccagac tacacctcca ttcacctagt ccagtctcca
+      781 cagggcctca tcctgaatgc aactgccttg cccctgcct
+//
+

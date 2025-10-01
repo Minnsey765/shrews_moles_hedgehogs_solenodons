@@ -1,0 +1,57 @@
+LOCUS       MW382002                 403 bp    DNA     linear   MAM 17-MAY-2021
+DEFINITION  Crocidura lasiura isolate NED171/2004 brain-derived neurotrophic
+            factor (BDNF) gene, partial cds.
+ACCESSION   MW382002
+VERSION     MW382002.1
+KEYWORDS    .
+SOURCE      Crocidura lasiura
+  ORGANISM  Crocidura lasiura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 403)
+  AUTHORS   Bannikova,A., Zemlemerova,E., Lebedev,V. and Lavrenchenko,L.
+  TITLE     The close relation of the two contrast endemic groups of Crocidura
+            from Ethiopia and Tanzania: evidence from mitochondrial and nuclear
+            data
+  JOURNAL   Mamm Biol (2021) In press
+REFERENCE   2  (bases 1 to 403)
+  AUTHORS   Bannikova,A., Zemlemerova,E., Lebedev,V. and Lavrenchenko,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2020) Laboratory for microevolution of mammals,
+            A.N. Severtsov Institute of Ecology and Evolution, Russian Academy
+            of Sciences, 33 Leninsky prospect, Moscow 119071, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..403
+                     /organism="Crocidura lasiura"
+                     /mol_type="genomic DNA"
+                     /isolate="NED171/2004"
+                     /db_xref="taxon:167043"
+                     /geo_loc_name="Russia: Khabarovsk region, Lazovsky
+                     district"
+     gene            <1..>403
+                     /gene="BDNF"
+     mRNA            <1..>403
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>403
+                     /gene="BDNF"
+                     /codon_start=2
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="QVE48356.1"
+                     /translation="VRTHGTLESVNGPKAGSRGLTSLADTFEHVIEELLDEDQKARPH
+                     EENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGEL
+                     SVCDSISEWVTAADKKTAVDMSGGTVTVLEKV"
+ORIGIN      
+        1 agtgcggacc catgggactc tggagagcgt gaatgggccc aaggcaggtt cacgaggcct
+       61 gacatcattg gctgacactt ttgaacacgt gatcgaagag ctgttggatg aggaccagaa
+      121 agctcggccc catgaagaaa acaataagga cgcggacttg tacacttccc gagtgatgct
+      181 cagtagtcaa gtgcctttgg agcctcctct tctctttctg ctggaggaat acaaaaatta
+      241 cctggatgct gcgaacatgt cgatgagggt ccggcgccac tctgaccctg cccgccgtgg
+      301 ggagctgagc gtgtgtgaca gcatcagcga gtgggtgaca gcagcagata aaaagactgc
+      361 agtggacatg tcaggcggga cagtcactgt ccttgaaaaa gtt
+//
+

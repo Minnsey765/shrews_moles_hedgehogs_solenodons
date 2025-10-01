@@ -1,0 +1,75 @@
+LOCUS       MN130782                1047 bp    DNA     linear   MAM 18-OCT-2021
+DEFINITION  Scaptonyx fusicauda isolate SF_JF1 recombination activating protein
+            1 (RAG1) gene, partial cds.
+ACCESSION   MN130782
+VERSION     MN130782.1
+KEYWORDS    .
+SOURCE      Scaptonyx fusicauda (long-tailed mole)
+  ORGANISM  Scaptonyx fusicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scaptonyx.
+REFERENCE   1  (bases 1 to 1047)
+  AUTHORS   He,K., Gutierrez,E.E., Heming,N.M., Koepfli,K.-P., Wan,T., He,S.,
+            Jin,W., Liu,S.-Y. and Jiang,X.-L.
+  TITLE     Cryptic phylogeographic history sheds light on the generation of
+            species diversity in sky-island mountains
+  JOURNAL   J Biogeogr 46 (10), 2232-2247 (2019)
+  REMARK    DOI: 10.1111/jbi.13664
+REFERENCE   2  (bases 1 to 1047)
+  AUTHORS   He,K., Gutierrez,E.E., Heming,N.M., Koepfli,K.-P., Wan,T., He,S.,
+            Jin,W., Liu,S.-Y. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2019) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang Donglu, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Lasergene v. 7.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1047
+                     /organism="Scaptonyx fusicauda"
+                     /mol_type="genomic DNA"
+                     /isolate="SF_JF1"
+                     /specimen_voucher="KIZ:Y204042"
+                     /db_xref="taxon:3370766"
+                     /geo_loc_name="China: Chongqing, Nanchuan, Mt. Jinfo"
+     gene            <1..>1047
+                     /gene="RAG1"
+     mRNA            <1..>1047
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1047
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="UCT01060.1"
+                     /translation="DYLSGPFTVVVKESCDGMGDVSEKHGSGPAVPEKAVRFSFTVMK
+                     ITIAHNSQNVNVFEEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQ
+                     LMLEMGGILRTFKFIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFH
+                     SITRSHTENLERYEVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAA
+                     EFYKIFQLEIGEVYKNPNASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTK
+                     ETVEAVCELIPSEERHEALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFAE
+                     LLSTKFKYRYEGKIT"
+ORIGIN      
+        1 gactacctga gcggcccctt taccgtggtg gtgaaggagt cctgtgatgg gatgggagac
+       61 gtgagtgaga agcacgggag tgggccagcc gttccagaaa aggckgttcg gttttccttc
+      121 accgtcatga aaatcaccat cgcgcacaac tcccagaacg tgaacgtgtt tgaagaggcc
+      181 aaacccaatt ccgaactgtg ctgcaagccc ttgtgcctta tgctggcgga cgagtctgac
+      241 cacgagaccc tcactgccat cctgagcccc ctcatcgccg agagggaggc catgaagagc
+      301 agccaactga tgctcgaaat gggcggcatt ctccggactt tcaagttcat cttcaggggc
+      361 acagggtatg atgagaagct tgtccgggaa gtggagggac tggaggcttc cgggtcggtc
+      421 tatatctgca ccctctgtga tgccacccgc ttggaagcgt cccagaatct cgtcttccac
+      481 tccataacca gaagccacac cgagaacttg gagcgctacg aggtctggcg ttccaacccc
+      541 taccacgagt cggtggaaga actgagggat cgcgtgaaag gcgtctcggc caaacccttc
+      601 atcgagacag tcccttccat cgatgccctg cactgcgaca tcggcaacgc cgccgagttc
+      661 tacaagatct tccagctgga gataggggag gtgtayaaga accccaatgc ctccaaagag
+      721 gagcggaaac gatggcaggc taccctggac aagcatctcc ggaagaaaat gaacctgaag
+      781 cccatcatga ggatgaatgg caactttgcc aggaagctca tgaccaagga gacagtggaa
+      841 gcggtttgtg aactgattcc ctcagaggag aggcacgaag ctctgcggga gctgatggac
+      901 ctytatctga agatgaaacc cgtgtggcga tcctcatgcc cagccaagga gtgcccagaa
+      961 tccctctgcc agtacagctt caattcacag cgttttgctg agctcctctc taccaagttc
+     1021 aagtatagat acgagggcaa aatcacc
+//
+

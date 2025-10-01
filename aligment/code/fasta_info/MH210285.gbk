@@ -1,0 +1,69 @@
+LOCUS       MH210285                1010 bp    DNA     linear   MAM 07-MAY-2019
+DEFINITION  Uropsilus soricipes voucher KIZ:090547 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   MH210285
+VERSION     MH210285.1
+KEYWORDS    .
+SOURCE      Uropsilus soricipes
+  ORGANISM  Uropsilus soricipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Uropsilus.
+REFERENCE   1  (bases 1 to 1010)
+  AUTHORS   Wan,T., He,K., Jin,W., Liu,S.-Y., Chen,Z.-Z., Zhang,B., Murphy,R.W.
+            and Jiang,X.-L.
+  TITLE     Climate niche conservatism and complex topography illuminate the
+            cryptic diversification of Asian shrew-like moles
+  JOURNAL   J. Biogeogr. 45 (10), 2400-2414 (2018)
+REFERENCE   2  (bases 1 to 1010)
+  AUTHORS   Wan,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2018) Mammal Ecology and Evolution, Kunming
+            Institute of Zoology, Chinese Academy of Sciences, 32 Jiaochang
+            Street, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1010
+                     /organism="Uropsilus soricipes"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ:090547"
+                     /db_xref="taxon:182671"
+     gene            <1..>1010
+                     /gene="RAG1"
+     mRNA            <1..>1010
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1010
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="QCI34900.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTVMKITIAHGSQNVKVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKISQLMLEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPSASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTKETVEAVCELIPSE
+                     ERHEALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFAELLSTKFKYRYEGK
+                     IT"
+ORIGIN      
+        1 tcatgtgatg gcatgggaga tgtgagtgaa aagcacggga gtggaccagc tgttcccgaa
+       61 aaggctgttc ggttttcatt cacagtcatg aaaatcacta tagctcatgg ctcacagaat
+      121 gtgaaggtct ttgaggaagc caaacccaat tctgaactgt gttgcaagcc cctgtgcctg
+      181 atgctggcgg atgaatctga ccatgagact ctaactgcca tcctgagccc cctcattgct
+      241 gaaagggagg ccatgaaaat cagccaatta atgcttgaaa tgggaggcat cctccggacc
+      301 tttaagttca tctttagggg cacaggatat gatgagaaac ttgtccgtga agtggaagga
+      361 cttgaggctt ccggatcagt ctatatttgt accctttgtg atgccacccg cttggaagct
+      421 tctcaaaatc ttgtcttcca ttccataacc agaagccaca ctgagaacct ggagcgctac
+      481 gaggtctggc gttccaatcc ctaccatgag tcagtggaag aattgaggga tcgagtgaaa
+      541 ggggtctccg ccaaaccctt cattgagaca gtcccttcca tagatgctct gcactgtgac
+      601 attggcaatg ccgctgagtt ctacaagatc ttccagcttg agatagggga ggtgtataag
+      661 aatcccagtg cctccaaaga ggaaaggaaa agatggcagg ctaccttgga caagcatctc
+      721 cgaaagaaga tgaacctgaa accaatcatg aggatgaatg gcaactttgc caggaagctc
+      781 atgaccaagg agacagtgga agcagtttgt gaattaattc cctcggagga gagacatgaa
+      841 gcgctgaggg agctgatgga cctttatctg aagatgaaac ctgtatggcg atcctcatgt
+      901 cctgccaagg aatgtccgga gtccctttgc cagtatagtt tcaattcaca gcgttttgcc
+      961 gagctcctct ctactaagtt caagtataga tatgagggca aaatcaccaa
+//
+

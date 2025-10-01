@@ -1,0 +1,63 @@
+LOCUS       KF778036                 555 bp    DNA     linear   MAM 06-NOV-2013
+DEFINITION  Uropsilus soricipes voucher KIZ:028555 brain-derived neurotrophic
+            factor (BDNF) gene, partial cds.
+ACCESSION   KF778036
+VERSION     KF778036.1
+KEYWORDS    .
+SOURCE      Uropsilus soricipes
+  ORGANISM  Uropsilus soricipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Uropsilus.
+REFERENCE   1  (bases 1 to 555)
+  AUTHORS   Wan,T., He,K. and Jiang,X.L.
+  TITLE     Multilocus phylogeny and cryptic diversity in Asian shrew-like
+            moles (Uropsilus, Talpidae): implications for taxonomy and
+            conservation
+  JOURNAL   BMC Evol. Biol. 13 (1), 232 (2013)
+   PUBMED   24161152
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 555)
+  AUTHORS   Wan,T., He,K. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2013) Mammal Ecology and Evolution, Kunming
+            Institute of Zoology, Chinese Academy of Sciences, East Jiaochang
+            Road, Kunming, Yunnan 650223, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7.1.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /organism="Uropsilus soricipes"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ:028555"
+                     /db_xref="taxon:182671"
+                     /geo_loc_name="China: Mt. Emei, Sichuan"
+     gene            <1..>555
+                     /gene="BDNF"
+     mRNA            <1..>555
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>555
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AGZ19913.1"
+                     /translation="YFGCMKAAPMKEASVRGPGSLAYPGVRTHGTLESVNGPKAGSRG
+                     LTLADTFEHVIEELLDEDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYK
+                     NYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPV
+                     SKGQLKQYFYETKCNPMGYTKEGCR"
+ORIGIN      
+        1 tacttcggtt gcatgaaggc tgcccccatg aaagaagcca gtgtccgagg accaggcagc
+       61 ttggcctacc caggtgtgcg gacccatggg actctggaga gcgtgaatgg gcccaaggca
+      121 ggttcgagag gcctgacttt ggctgacact tttgaacacg tgatagaaga gctcctggat
+      181 gaggaccaga aagtccggcc ccacgaagag aacaataagg acgcggactt gtacacctcc
+      241 agggtgatgc tcagtagtca agtgcctttg gagccgcctc tcctctttct gctcgaggaa
+      301 tacaaaaatt acctggatgc tgcaaacatg tctatgcggg tccggcgcca ctccgaccct
+      361 gcccgccgcg gggagctgag cgtgtgcgac agcattagcg agtgggtgac ggcggcggat
+      421 aaaaagactg cagtggacat gtcgggcggg acggtgacgg tcctggagaa agtccctgta
+      481 tcgaaaggcc aactgaagca gtacttctac gagaccaagt gcaatcccat gggttacaca
+      541 aaggagggct gcagg
+//
+

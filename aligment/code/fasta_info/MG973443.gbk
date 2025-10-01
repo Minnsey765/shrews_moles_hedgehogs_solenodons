@@ -1,0 +1,62 @@
+LOCUS       MG973443                 753 bp    DNA     linear   MAM 13-JUN-2018
+DEFINITION  Diplomesodon pulchellum brain-derived neurotrophic factor (BDNF)
+            gene, partial cds.
+ACCESSION   MG973443
+VERSION     MG973443.1
+KEYWORDS    .
+SOURCE      Diplomesodon pulchellum (Piebald shrew)
+  ORGANISM  Diplomesodon pulchellum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Diplomesodon.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   Hutterer,R., Balete,D.S., Giarla,T.C., Heaney,L.R. and
+            Esselstyn,J.A.
+  TITLE     A new genus and species of shrew (Mammalia: Soricidae) from Palawan
+            Island, Philippines
+  JOURNAL   J. Mammal. 99 (3), 518-536 (2018)
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Giarla,T., Huterrer,R., Balete,D., Heaney,L. and Esselstyn,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-FEB-2018) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /organism="Diplomesodon pulchellum"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ:Mamm:179157"
+                     /db_xref="taxon:458329"
+     gene            <1..>753
+                     /gene="BDNF"
+     mRNA            <1..>753
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..753
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AWS21440.1"
+                     /translation="RVMTILFLTMVISYFGCMKAAPMKEANIRGQGSLAYPGVRTHGT
+                     LESVNGPKAGSRGLTSXLADTFEHVIEELLDEDQKARPHEENNKDADLYTSRVMLSSQ
+                     VPLEPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAV
+                     DMSGGTVTVLEKVPVSKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWNSQCRTTQSYV
+                     RALTMDSKKRIGWRFIRIETSCVCTLTIKRGR"
+ORIGIN      
+        1 agagtgatga ccatcctttt ccttactatg gttatttcat actttggttg catgaaagct
+       61 gcccccatga aagaagcaaa catccgagga caaggcagct tggcctaccc aggagtgcgg
+      121 acccatggga ctctggagag cgtgaatggg cccaaggcag gttcacgagg cctgacatca
+      181 nnnttggctg acacttttga acacgtgatc gaagagctgt tggatgagga ccagaaagct
+      241 cggccccatg aagaaaacaa taaggacgcg gacttgtaca cttcccgagt gatgctcagt
+      301 agtcaagtgc ctttggagcc tcctcttctc tttctgctgg aggaatacaa aaattacctg
+      361 gatgctgcga acatgtcgat gagggtccgg cgccactctg accctgcccg ccgtggggag
+      421 ctgagcgtgt gtgacagcat cagcgagtgg gtgacagcag cagataaaaa gactgcagtg
+      481 gacatgtcag gcgggacagt cactgtcctt gaaaaagttc ctgtatcaaa aggccaactg
+      541 aagcagtact tctatgaaac caaatgcaat cccatgggtt acacaaagga gggctgcagg
+      601 ggaatagaca agaggcattg gaattcccag tgccgaacta cccagtcgta tgtgcgggcc
+      661 cttaccatgg atagcaaaaa gagaattggc tggcgattca taaggataga aacttcctgt
+      721 gtatgtacat tgaccattaa aaggggaaga tag
+//
+

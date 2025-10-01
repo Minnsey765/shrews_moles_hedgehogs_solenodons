@@ -1,0 +1,58 @@
+LOCUS       KF783110                 481 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Atelerix albiventris growth hormone receptor (GHR) gene, exon 10
+            and partial cds.
+ACCESSION   KF783110
+VERSION     KF783110.1
+KEYWORDS    .
+SOURCE      Atelerix albiventris (middle-African hedgehog)
+  ORGANISM  Atelerix albiventris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Atelerix.
+REFERENCE   1  (bases 1 to 481)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 481)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..481
+                     /organism="Atelerix albiventris"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9368"
+                     /geo_loc_name="Senegal: Dakar"
+     gene            <1..>481
+                     /gene="GHR"
+     mRNA            <1..>481
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>481
+                     /gene="GHR"
+                     /codon_start=3
+                     /product="growth hormone receptor"
+                     /protein_id="AIN37200.1"
+                     /translation="LSTVNXAPENKPQPLXIGGTESTHHAAPTQISSPSSLANIDFYA
+                     QVSDITPAGSVVLSPGQKNKTGVAQCDPHREVASLCQANFITDSAYFCEADAKKCITV
+                     VPHVEMEARVQPSFNQEDIYITTESLTTTARRSAAAGHTLGSEMPVPDYTSIHLVQS"
+     exon            <1..>481
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 agctgtccac tgttaatnta gcaccagaaa acaaaccaca gccacttntg ataggtggga
+       61 ctgagtcaac tcaccacgct gctcctactc aaataagcag tccaagttca ctggcaaata
+      121 tcgactttta cgcccaggta agcgacatca ccccagcagg gagtgtggtc ctctccccgg
+      181 gccaaaagaa taagacaggg gtagcccagt gtgatccaca tcgagaagtc gcctcactct
+      241 gccaagcaaa cttcatcacg gacagcgcct acttctgcga ggccgatgcc aaaaagtgca
+      301 tcacggtggt cccgcacgtt gagatggaag cccgtgtaca gcccagcttt aaccaggaag
+      361 acatttacat caccacggaa agccttacca ctactgcgag gcgctctgct gcagcagggc
+      421 atacactcgg ctccgagatg cctgtaccag actacacctc aattcactta gtgcagtcty
+      481 c
+//
+

@@ -1,0 +1,57 @@
+LOCUS       OP355881                 617 bp    DNA     linear   MAM 10-OCT-2023
+DEFINITION  Sorex minutus voucher VZMU Smin BBS growth hormone receptor gene,
+            partial cds.
+ACCESSION   OP355881
+VERSION     OP355881.1
+KEYWORDS    .
+SOURCE      Sorex minutus (Eurasian pygmy shrew)
+  ORGANISM  Sorex minutus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 617)
+  AUTHORS   Raspopova,A.A., Lebedev,V.S., Searle,J.B. and Bannikova,A.A.
+  TITLE     Discordant phylogenies in the Sorex araneus group (Soricidae,
+            Mammalia): footprints of past reticulations?
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 617)
+  AUTHORS   Raspopova,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2022) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..617
+                     /organism="Sorex minutus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VZMU Smin BBS"
+                     /db_xref="taxon:62280"
+                     /geo_loc_name="Russia: Karelia Rep., shore of the
+                     Kandalaksha Gulf, Poyakonda"
+     mRNA            <1..>617
+                     /product="growth hormone receptor"
+     CDS             <1..>617
+                     /note="GHR"
+                     /codon_start=2
+                     /product="growth hormone receptor"
+                     /protein_id="WNV29094.1"
+                     /translation="NILGAKDDDSGRTSCYEPDILETDFNASDMCDGTLELVPKPQRL
+                     KEEADLLCLDQKNQNHSLSDDALSSTPRLSVTLSQENKPRPLVTGGTESTHPTTHTQP
+                     SNPSSLANIDFYAQVSDITPAGSVVLSPGQKIKAGIAQYDMHPEVVSRSQANFIMDNA
+                     YFCEADAKKCITVAPQLEVQSRVEPRFNQEDIYITTESLTTTAGR"
+ORIGIN      
+        1 taatatcctt ggggcaaaag atgatgactc tggacgtacc agctgttatg aacctgacat
+       61 tctagagact gattttaatg ctagtgacat gtgtgatggt accttagagc ttgtgccaaa
+      121 gccacaaagg ttaaaagagg aagcagatct cttgtgcctt gaccagaaga atcaaaatca
+      181 ttcactctct gatgatgctc tctcttctac tccacgcctc agtgtaacct tatcacagga
+      241 aaataaacca agaccacttg ttacgggtgg aactgaatca actcatccaa ctactcatac
+      301 tcagccaagc aatccaagtt cnctggcaaa tatcgacttt tatgcccagg taagtgacat
+      361 tacaccagca gggagtgtgg ttctttcccc cggccagaag attaaggcag gaatagccca
+      421 gtatgacatg catccagaag tggtttcgcg ctcccaagca aacttcatca tggacaatgc
+      481 ctacttctgt gaggctgatg ccaaaaagtg catcacagtg gcccctcaac tagaggtcca
+      541 atcccgtgta gagccaagat ttaaccagga agacatttac atcaccacag aaagccttac
+      601 cactactgct gggaggt
+//
+

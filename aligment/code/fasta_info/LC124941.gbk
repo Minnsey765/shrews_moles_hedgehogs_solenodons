@@ -1,0 +1,72 @@
+LOCUS       LC124941                1044 bp    DNA     linear   MAM 30-AUG-2016
+DEFINITION  Mogera wogura BRCA1 gene for breast cancer 1, early onset, partial
+            cds, specimen_voucher: personal collection:Satoshi D.
+            Ohdachi:SDO-11/02/24-2.
+ACCESSION   LC124941
+VERSION     LC124941.1
+KEYWORDS    .
+SOURCE      Mogera wogura (Japanese mole)
+  ORGANISM  Mogera wogura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae; Mogera.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1044)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..1044
+                     /organism="Mogera wogura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="personal collection:Satoshi D.
+                     Ohdachi:SDO-11/02/24-2"
+                     /db_xref="taxon:62295"
+                     /geo_loc_name="Japan: Kagoshima, Yakushima Is."
+     gene            <1..>1044
+                     /gene="BRCA1"
+     CDS             <1..>1044
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="breast cancer 1, early onset"
+                     /protein_id="BAV56136.1"
+                     /translation="EDRMNVEKAEFCNKSKQPDLARSQQNRWAESKETCNDRQTPSTE
+                     KRVGLTADPTYGRKEPNKQNPPCSDSPRNSQGVAWITLNSSVQKVNEWFSRSDEMLTS
+                     DDSCDGGSESNVEMTGTVEVPNAVDGFSSSSEKIDLMASDPPALMCKSERVHTKPVES
+                     NIEDKIFGKTYRRKTSLPNLSHVTEDLIIVTSATDPQIAQERPFTNKLKRKKRTTPGL
+                     CPEDFIKKVDLAVVQNTPEKISERPDQMDQNGQVVGITYNAHGNETKCDYAQKEESAK
+                     LTDSPEKESSFSIKAEPISSSISNMELELNSHTSKAPKKNRLRRKSSTKHIHALELVV
+                     KRNPSPPNHTELQ"
+ORIGIN      
+        1 tgaagacaga atgaatgtag aaaaggctga attctgtaat aaaagcaaac agcctgactt
+       61 agcaaggagc caacagaaca gatgggctga aagtaaagaa acatgtaatg ataggcagac
+      121 tcccagcaca gagaaaaggg taggcctgac tgctgatccc acgtatggga gaaaagaacc
+      181 aaataagcag aatcctccat gctctgacag ccccagaaat tcccaaggtg ttgcctggat
+      241 aacactgaac agtagcgttc agaaagttaa tgagtggttt tccagaagtg atgaaatgtt
+      301 aacttctgat gactcatgtg atggggggtc cgaatcaaat gttgaaatga ctggtacagt
+      361 agaagttcca aatgcagtgg atggattttc tagttcttca gagaaaatag acttaatggc
+      421 cagtgatcct cctgctttaa tgtgcaaaag tgaaagagtc cacactaaac cagtagaaag
+      481 taatattgaa gataagatat ttggaaaaac ctatcggagg aagacaagcc tcccaaattt
+      541 gagccatgtg actgaagatt taattatagt gacatctgcc acagatcctc agatagctca
+      601 agagcgtccc ttcacaaata aattaaaacg taaaaagaga actacaccag gcctttgtcc
+      661 tgaggatttt atcaagaaag tagatttggc agttgttcag aacacccctg aaaagataag
+      721 tgagagacct gaccaaatgg atcagaatgg ccaagtggtg ggtattactt ataatgctca
+      781 tgggaatgaa acaaaatgtg attatgctca aaaagaggaa agtgctaagc tgactgactc
+      841 accagaaaaa gaatcttctt tcagcattaa agctgaaccc ataagtagca gtataagcaa
+      901 tatggaacta gaattaaata gccatacttc aaaagcacct aagaagaacc ggctgagaag
+      961 gaaatcctct acgaagcata ttcatgcact cgaactggtg gtcaaaagaa atccaagccc
+     1021 tcctaatcat acggaactac aaat
+//
+

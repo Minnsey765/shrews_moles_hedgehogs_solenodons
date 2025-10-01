@@ -1,0 +1,59 @@
+LOCUS       DQ630246                 784 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Neomys fodiens isolate 2 BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   DQ630246
+VERSION     DQ630246.1
+KEYWORDS    .
+SOURCE      Neomys fodiens (Eurasian water shrew)
+  ORGANISM  Neomys fodiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Neomys.
+REFERENCE   1  (bases 1 to 784)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 784)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..784
+                     /organism="Neomys fodiens"
+                     /mol_type="genomic DNA"
+                     /isolate="2"
+                     /db_xref="taxon:62282"
+     gene            <1..>784
+                     /gene="BRCA1"
+     mRNA            <1..>784
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>784
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="BRCA1"
+                     /protein_id="ABG22217.1"
+                     /translation="KSKQPGLARSQQNRWTENKETYNDGQTLSTEKKVDLNTDPLSGR
+                     KQPSKQKSPCSDITKDSQEMTWITLNSSIQKVNDWFSRSGDVSSDDCHDRGSESKIEG
+                     AEIIEISNAADEFSGSSEKIDLVARESRRALSRAFESNAEDKIFGKIYRRKASIPNLN
+                     RTADDVILGSFLQEPPLAQEHPSTNKLKRKRRVTSCLSPEDFIKKGDLVIAKKTPEKV
+                     ISNSHQTDQNGQVMNITSNDQSETISDYAQEKNANSTESSEKE"
+ORIGIN      
+        1 taaaagcaaa cagcctggct tagcaaggag ccagcagaac agatggactg aaaataagga
+       61 aacatataat gatggacaga ctctcagcac agaaaagaag gtagatctga atactgatcc
+      121 cctatctggg agaaaacaac caagtaagca gaaatcgccg tgctctgaca ttactaaaga
+      181 ttcccaagag atgacttgga taactctgaa cagtagcata cagaaagtta atgattggtt
+      241 ttccagaagt ggtgatgtat cttctgatga ttgccatgat agagggtctg aatcaaagat
+      301 agaaggagct gaaataatag aaatttcaaa tgcagcagat gaattctctg gttcttcaga
+      361 gaaaatagac ttagtggccc gtgaaagtag aagagctctc tccagagctt ttgagagtaa
+      421 tgctgaagat aaaatatttg ggaaaattta tcggaggaaa gcaagtatcc ctaacttgaa
+      481 ccgcacagct gacgatgtaa ttctaggatc atttctccaa gaacctccct tagcacaaga
+      541 gcacccctcc acaaacaaat taaaacgtaa aagaagagtt acatcatgcc tttctcctga
+      601 agattttatc aagaaaggag atttggtaat tgctaaaaaa actcctgaga aggtaattag
+      661 taacagtcac caaactgatc aaaatggcca ggtaatgaat attacttcta acgatcagag
+      721 tgaaacaata agtgattatg cccaggagaa aaatgctaac tcaacagagt catcagaaaa
+      781 agaa
+//
+

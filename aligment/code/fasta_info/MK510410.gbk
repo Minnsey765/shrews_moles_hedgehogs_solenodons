@@ -1,0 +1,63 @@
+LOCUS       MK510410                 639 bp    DNA     linear   MAM 23-MAR-2019
+DEFINITION  Paraechinus aethiopicus isolate 8348 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   MK510410
+VERSION     MK510410.1
+KEYWORDS    .
+SOURCE      Paraechinus aethiopicus (Desert hedgehog)
+  ORGANISM  Paraechinus aethiopicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Paraechinus.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Velo-Anton,G., Boratynski,Z., Ferreira,C.M., Lima,V.O., Alves,P.C.
+            and Brito,J.C.
+  TITLE     Intra-specific genetic diversity and distribution of North African
+            hedgehogs (Mammalia: Erinaceidae)
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2019) In press
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Velo-Anton,G., Boratynski,Z., Ferreira,C.M., Lima,V.O., Alves,P.C.
+            and Brito,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2019) Animal Ecology, University of Potsdam -
+            Institute of Biochemistry and Biology, Maulbeerallee 1, Potsdam,
+            Brandenburg 14469, Germany
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Paraechinus aethiopicus"
+                     /mol_type="genomic DNA"
+                     /isolate="8348"
+                     /db_xref="taxon:262775"
+                     /geo_loc_name="Morocco: Figuig"
+                     /lat_lon="32.159 N 2.732 W"
+     gene            <1..>639
+                     /gene="RAG1"
+     mRNA            <1..>639
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>639
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="QBM92155.1"
+                     /translation="GSGPAVPEKAVRFSFTVMKITLAHGSQNVKVFEEAKPNSELCCK
+                     PLCLMLADESDHETLTAILSPLIAEREAMKSSELMLEMGGILRTFKFIFRGTGYDEKL
+                     VREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERYEVWRSNPYHESV
+                     EELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEVYKNPNAS"
+ORIGIN      
+        1 cggcagtggg ccagccgttc cagaaaaggc agttcgtttt tccttcactg tcatgaaaat
+       61 caccctagca catggatctc agaatgtaaa ggtgtttgag gaagccaaac ccaactctga
+      121 actgtgctgc aagcctttgt gcctcatgct ggcagatgag tctgaccatg agaccctgac
+      181 ggccatcctg agccctctca ttgctgagag ggaggccatg aagagcagtg aattaatgct
+      241 ggagatggga ggcatcctcc gtacatttaa gttcatcttc aggggcactg ggtatgatga
+      301 gaaacttgtc agggaagtgg aaggccttga ggcctctggc tcagtctaca tctgtactct
+      361 ttgtgatgcc actcgcctgg aagcctctca aaatcttgtc ttccactcca tcaccaggag
+      421 tcacactgag aacctggagc gctatgaggt ctggcgttcc aatccatacc atgagtctgt
+      481 ggaagaactg agggatcggg tgaaaggggt ctcagcaaaa cccttcattg agaccgtccc
+      541 ttccatagac gcactgcact gtgacattgg taatgcagct gagttctaca aaatttttca
+      601 gctagagata ggggaggtgt ataagaaccc caatgcctc
+//
+

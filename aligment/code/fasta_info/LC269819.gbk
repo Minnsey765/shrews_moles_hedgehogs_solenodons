@@ -1,0 +1,51 @@
+LOCUS       LC269819                 517 bp    DNA     linear   MAM 02-JUN-2017
+DEFINITION  Chimarrogale platycephalus ApoB gene for apolipoprotein B, partial
+            cds, isolate: 12687.
+ACCESSION   LC269819
+VERSION     LC269819.1
+KEYWORDS    .
+SOURCE      Chimarrogale platycephalus (flat-headed water shrew)
+  ORGANISM  Chimarrogale platycephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Chimarrogale.
+REFERENCE   1
+  AUTHORS   Sekiya,T., Ichiyanagi,H. and Tojo,K.
+  TITLE     Establishing of Genetic Analyses Methods of Feces from the Water
+            Shrew, Chimarrogale platycephalus (Erinaceidae, Eulipotyphla)
+  JOURNAL   JSM Biol. (2017) In press
+REFERENCE   2  (bases 1 to 517)
+  AUTHORS   Yamazaki,H., Sekiya,T., Ichiyanagi,H. and Tojo,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-2017) Contact:Haruka Yamazaki Shinshu University,
+            Department of Biology, Faculty of Science; 3-1-1 Asahi, Matsumoto,
+            Nagano 390-0802, Japan
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Chimarrogale platycephalus"
+                     /mol_type="genomic DNA"
+                     /isolate="12687"
+                     /db_xref="taxon:62293"
+     gene            <1..>517
+                     /gene="ApoB"
+     CDS             <1..>517
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="BAX77875.1"
+                     /translation="PLPLDMFYVVFSHNINSFIRQVEKVRDKALGFVIQSYNEAKIKS
+                     DEYKIENSITKQPRTFKIPGYTIPVANIEASPSTVEMFPFGYVIPKEINTPSFTILGS
+                     GFSVPSFTLVLPFLELPALHIPKFLELSFPEFKVLSIPKNVFIPALGNITYDFSFKSS
+                     VITLNANAGLY"
+ORIGIN      
+        1 tcccacttcc tttggatatg ttttatgtgg tttttagtca taatatcaat tcctttatca
+       61 gacaagttga gaaagtcaga gacaaggcat tgggttttgt tatacaatcc tataatgaag
+      121 caaaaattaa atctgatgag tataagattg aaaactctat caccaagcaa ccaaggacct
+      181 tcaaaattcc agggtacacc attcctgttg ctaatattga agcatctcca tccacagtag
+      241 agatgtttcc atttggttat gtgatcccaa aagaaatcaa cacccccagc ttcactattc
+      301 tgggttctgg cttctctgtg ccctcattta ctttagtcct gccatttcta gaattaccag
+      361 cccttcatat ccctaaattt cttgagcttt cttttccaga attcaaagta ctgagtatcc
+      421 caaagaatgt tttcattcca gccctgggaa atattacata tgatttttcc tttaaatcaa
+      481 gtgtcattac actgaatgcc aatgctggac tttataa
+//
+

@@ -1,0 +1,60 @@
+LOCUS       MK965957                 694 bp    DNA     linear   MAM 01-JUN-2020
+DEFINITION  Notiosorex crawfordi voucher TTU:148050 cytochrome oxidase subunit
+            3 (COX3) gene, partial cds; mitochondrial.
+ACCESSION   MK965957
+VERSION     MK965957.1
+KEYWORDS    .
+SOURCE      mitochondrion Notiosorex crawfordi (Desert shrew)
+  ORGANISM  Notiosorex crawfordi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Notiosorex.
+REFERENCE   1  (bases 1 to 694)
+  AUTHORS   Camargo,I. and Alvarez-Castaneda,S.T.
+  TITLE     A new species and subespecies of desert shrew from Baja California
+            and California
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   Camargo,I. and Alvarez-Castaneda,S.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2019) Mammalogy, Centro de Investigaciones
+            Biologicas del Noroeste, Instituto Politecnico Nacional, La Paz,
+            Baja California Sur 23096, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Notiosorex crawfordi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TTU:148050"
+                     /db_xref="taxon:268773"
+     gene            <1..>694
+                     /gene="COX3"
+     CDS             <1..>694
+                     /gene="COX3"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 3"
+                     /protein_id="QIJ58531.1"
+                     /translation="AYHMVNPSAWPLMGALSALLLTSGLIMWFHFNSMTLLTIALLTN
+                     TMTMYQWWRDVVREGTFQGHHTPIVQKGLRYGMILFIISEVFFFSGFFWAFYHSSLAP
+                     THDLGGFWPPAGINPLNPLEVPLLNTSVLLASGVSITWAHHSLMEGNRKHMIQALFIT
+                     IALGLYFTLLQAAEYYEAPFTISDGVYGSTFFMATGFHGFHVIVGSTFLIVCFLRQLK
+                     YHFTSDHHFGFEA"
+ORIGIN      
+        1 tgcttaccat atggttaacc caagcgcctg accactaata ggtgctctgt cagctcttct
+       61 attaacttca ggtttaatta tatgattcca ttttaattca ataacccttt taacaattgc
+      121 tctattaact aacactataa caatatatca atgatgacgt gatgtagtcc gagaaggaac
+      181 atttcaagga catcatacac ctattgtaca aaaaggctta cgctacggaa taattctatt
+      241 tattatctca gaagtattct ttttcagtgg atttttctga gctttttatc actccagttt
+      301 agccccaaca cacgacttgg gaggattttg accaccagca ggcatcaacc cacttaatcc
+      361 ccttgaagtt cctctattaa atacatcagt cttattagca tcaggagtat ctattacctg
+      421 agcccatcat agcctaatag aaggaaatcg aaaacatata attcaagcat tatttattac
+      481 aattgcccta ggcctatact ttaccctact tcaagcagct gaatattatg aagccccatt
+      541 cacaatttct gatggagtat acggctcaac tttcttcata gccacaggat ttcatggatt
+      601 tcacgttatt gtaggatcca ctttcctaat tgtatgcttt ctacgtcaac tcaaatacca
+      661 ttttacatcc gatcaccatt tcggatttga agca
+//
+

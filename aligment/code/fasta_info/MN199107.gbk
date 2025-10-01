@@ -1,0 +1,70 @@
+LOCUS       MN199107                 771 bp    DNA     linear   MAM 27-NOV-2019
+DEFINITION  Blarinella quadraticauda voucher ZIN 101574 breast cancer type 1
+            susceptibility protein (brca1) gene, partial cds.
+ACCESSION   MN199107
+VERSION     MN199107.1
+KEYWORDS    .
+SOURCE      Blarinella quadraticauda (Asiatic short-tailed shrew)
+  ORGANISM  Blarinella quadraticauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Blarinella.
+REFERENCE   1  (bases 1 to 771)
+  AUTHORS   Bannikova,A.A., Jenkins,P.D., Solovyeva,E.N., Pavlova,S.V.,
+            Demidova,T.B., Simanovsky,S.A., Sheftel,B.I., Lebedev,V.S.,
+            Fang,Y., Dalen,L. and Abramov,A.V.
+  TITLE     Who are you, Griselda? A replacement name for a new genus of the
+            Asiatic short-tailed shrews (Mammalia, Eulipotyphla, Soricidae):
+            molecular and morphological analyses with the discussion of tribal
+            affinities
+  JOURNAL   Zookeys 888, 133-158 (2019)
+  REMARK    DOI: 10.3897/zookeys.888.37982
+REFERENCE   2  (bases 1 to 771)
+  AUTHORS   Bannikova,A., Jenkins,P., Solovyeva,E., Pavlova,S., Demidova,T.,
+            Simanovsky,S., Sheftel,B., Lebedev,V., Fang,Y., Dalen,L. and
+            Abramov,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2019) Zoological Museum, Lomonosov Moscow State
+            University, Bolshaya Nikitskaya 2, Moscow 125009, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..771
+                     /organism="Blarinella quadraticauda"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZIN 101574"
+                     /db_xref="taxon:1159882"
+                     /geo_loc_name="Viet Nam"
+                     /lat_lon="22.35 N 103.77 E"
+     gene            <1..>771
+                     /gene="brca1"
+     mRNA            <1..>771
+                     /gene="brca1"
+                     /product="breast cancer type 1 susceptibility protein"
+     CDS             <1..>771
+                     /gene="brca1"
+                     /codon_start=1
+                     /product="breast cancer type 1 susceptibility protein"
+                     /protein_id="QGN03734.1"
+                     /translation="GLVRSQQNRWTENKETYNDRQTPSTEQKVDLSADPLSRRKQLNK
+                     QKLPCSDNARNSQEMTWITLNNRIQKVNDWFSRSDDVLSSDDFCHGGPESNTEVAEVI
+                     EISSATDEFSGSPEKIDLTASENRKALSKPVKSNIEDKIFGKTYRRKSSLPNLNPTTE
+                     DVILGSSLLEPHMAQEHTFTNKLKRKRRVTSSLSPEDFIKKDLAIVQKTPEKVLEKSD
+                     QTDQNGQVMNITTDVQTEIRSDDARKEKNTNPADSSGKG"
+ORIGIN      
+        1 ggnttagtaa ggagccaaca gaacagatgg actgaaaata aggaaacata taatgataga
+       61 cagactccca gcacagagca aaaggtagat ctgagtgctg atcccctatc tcggagaaaa
+      121 caactgaata agcagaaatt gccatgctct gacaatgcta gaaattccca agagatgact
+      181 tggataactc tgaacaatag gatacagaaa gttaatgatt ggttttccag aagtgatgat
+      241 gtattatctt ctgatgattt ctgtcatgga ggaccagaat caaatactga agtagctgaa
+      301 gtaatagaaa tttcaagtgc aacagatgaa ttttctgggt ctccagagaa aatagactta
+      361 acagccagtg aaaatagaaa agccctctct aaacctgtaa agagtaatat tgaagataaa
+      421 atatttggga aaacctatcg gaggaaatca agcttaccta acttgaaccc cacaactgaa
+      481 gatgtaattc taggatcatc cctcctagag cctcatatgg cacaagagca caccttcaca
+      541 aacaaattaa aacgtaaaag aagagttaca tccagccttt ctcctgaaga ttttatcaag
+      601 aaagatttgg ccattgttca aaagactcct gaaaaggtac ttgagaagag tgaccaaacg
+      661 gatcagaatg gccaggtgat gaatattact actgatgttc agactgaaat cagaagtgat
+      721 gatgctagga aagagaaaaa tactaaccca gcagactcgt caggaaaagg a
+//
+

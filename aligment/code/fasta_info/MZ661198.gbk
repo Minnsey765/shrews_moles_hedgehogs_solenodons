@@ -1,0 +1,57 @@
+LOCUS       MZ661198                1021 bp    DNA     linear   MAM 10-AUG-2022
+DEFINITION  Sorex coronatus voucher CSCF-MAM-1203353 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MZ661198
+VERSION     MZ661198.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex coronatus (crowned shrew)
+  ORGANISM  Sorex coronatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 1021)
+  AUTHORS   Wyler,S.
+  TITLE     Small mammals reference
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1021)
+  AUTHORS   Wyler,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2021) InfoFauna - CSCF, University of Neuchatel,
+            Avenue de Bellevaux 51, Neuchatel, Neuchatel 2000, Suisse
+FEATURES             Location/Qualifiers
+     source          1..1021
+                     /organism="Sorex coronatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CSCF-MAM-1203353"
+                     /db_xref="BOLD:MAMAA294-21.12S"
+                     /db_xref="taxon:62895"
+                     /geo_loc_name="Switzerland: Solothurn"
+                     /lat_lon="47.243 N 7.538 E"
+                     /collection_date="17-Jul-2018"
+                     /identified_by="Marilena Palmisano"
+                     /PCR_primers="fwd_seq: tcttctgggtgtaggccagatgcttt,
+                     rev_seq: aaagcaaggcactgaaaatgcctaga"
+     rRNA            <1..>1021
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ctagatgagt gtcatgactc cataaacact taaaggtttg gtcccagcct tcccattagt
+       61 tgttagcaaa attacacatg caagtatccg cacccctgtg agaatgccct cgtaaatcat
+      121 ccatgattaa aaggagtagg tatcaagcac actctaatcg agtagcttat aacaccttgc
+      181 ttagccacac ccccacgggt aacagcagtg ataaaaatta agcaataaac gaaagtttga
+      241 ctaagttatg ctagcatagg gttggtaaat ttcgtgccag ccaccgcggt catacgatta
+      301 acccaaatta ataggcaacg gcgtaaagcg tgttaaagag agctataccc acacaaataa
+      361 agacaaaatt taactaggct gtagaaagca acagttaaaa ctaagatata ctacgaaagt
+      421 gactttatta tagctgatta cacgatagct aagatccaaa ctgggattag ataccccact
+      481 atgcttagcc ctaaactcag gtatttagtc taacaaaaat acccgccaga gaactactag
+      541 caatagctta aaactcaaag gacttggcgg tgctttatat ccctctagag gagcctgttc
+      601 tgtaatcgat aaaccccgat aaacctcacc accccttgct aattcagctt atataccgcc
+      661 atcttcagcg aaccctaaaa aggcataaca gtaagcaaga acatgaaaca taaaaacgtt
+      721 aggtcaaggt gtagcttatg aggtgggaag aaatgggcta cattttctat taactagaac
+      781 atttacgaaa gttattatga aactagtgac taaaggagga tttagtagta agttgagaat
+      841 agagtgctca actgaatcag gccatgaagc acgcacacac cgcccgtcac cctcttcaag
+      901 taccctggac tatactaata tataattaca agtcccccag tattagaaga gataagtcgt
+      961 aacaaggtaa gcatactgga aagtgtgctt ggacgaatca aagtgtagct taataagctc
+     1021 t
+//
+

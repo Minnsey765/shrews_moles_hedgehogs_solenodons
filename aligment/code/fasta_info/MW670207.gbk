@@ -1,0 +1,64 @@
+LOCUS       MW670207                 675 bp    DNA     linear   MAM 12-SEP-2021
+DEFINITION  Soriculus nigrescens isolate 969 recombination activating protein 2
+            (Rag2) gene, partial cds.
+ACCESSION   MW670207
+VERSION     MW670207.1
+KEYWORDS    .
+SOURCE      Soriculus nigrescens (Himalayan shrew)
+  ORGANISM  Soriculus nigrescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Soriculus.
+REFERENCE   1  (bases 1 to 675)
+  AUTHORS   Jiang,H., Fu,C., Tang,K., Li,F., Xie,F., Qin,B., Chen,D., Chen,S.
+            and Liu,S.
+  TITLE     Molecular phylogenetic and phylogeography of Soriculus nigrescens
+            in southwest China
+  JOURNAL   Authorea (2021) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 675)
+  AUTHORS   Jiang,H.J., Fu,C.K., Tang,K.Y., Li,F.J., Xie,F., Qin,B.X., Chen,D.,
+            Chen,S.D. and Liu,S.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-2021) College of Life Sciences, Sichuan Normal
+            University, No. 1819, Section 2, Chenglong Avenue, Longquan
+            District, Chengdu, Sichuan 610066, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..675
+                     /organism="Soriculus nigrescens"
+                     /mol_type="genomic DNA"
+                     /isolate="969"
+                     /db_xref="taxon:62296"
+     gene            <1..>675
+                     /gene="Rag2"
+     mRNA            <1..>675
+                     /gene="Rag2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>675
+                     /gene="Rag2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="QZZ69936.1"
+                     /translation="IQGNLESEKHQYIIHGGKTPNNELSDKIYIISVASKNNKKVTFR
+                     CTEKDLVGDIPEARYGHSIDMVYSRGKTMGVLFGGRSYMPSAQRTTEKWNAVADCPPH
+                     VFLVDFEFGCSTSYILPELQDGLSFHVSIARKDTIYILGGHSLSNNMRPANLYRIKVD
+                     LPLGSPAVNCTVLPGGISVSSAILTKTSDDEFIIVGGYQLENQKRMICNIVSLEDNKI
+                     EIHEMET"
+ORIGIN      
+        1 attcaaggca acctagaatc tgaaaaacat caatacatca tccatggtgg gaaaacacca
+       61 aacaatgagc tttcagataa gatatatatc atatctgttg ctagtaagaa caacaaaaaa
+      121 gttacttttc gctgcacaga gaaagattta gtgggagata ttcctgaagc cagatatggt
+      181 cattccattg atatggtata tagtcgaggg aaaactatgg gtgttctctt tggaggacgc
+      241 tcatacatgc cttctgccca acgaaccaca gaaaaatgga atgcggtagc agactgccca
+      301 cctcatgttt tcctggtgga ttttgaattt ggatgctcta catcatacat tcttccagaa
+      361 cttcaagatg ggctgtcttt tcatgtctca attgccagaa aagataccat ttacatttta
+      421 ggagggcatt cactttctaa taacatgcgc ccagccaacc tgtacagaat aaaggttgat
+      481 ctgcccctag ggagtccagc tgtgaattgc acagtcttgc caggaggaat ctcagtttcc
+      541 agtgcaatac tgaccaaaac cagtgatgac gaatttatta ttgttggtgg ttatcaactt
+      601 gaaaatcaaa aaagaatgat ttgcaacatc gtgtccttag aggataacaa gatagaaatt
+      661 catgagatgg agact
+//
+

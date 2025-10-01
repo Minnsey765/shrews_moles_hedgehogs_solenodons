@@ -1,0 +1,55 @@
+LOCUS       HG737944                 694 bp    DNA     linear   MAM 12-DEC-2013
+DEFINITION  Parascaptor leucura rag2 gene for recombination activating gene 2,
+            specimen voucher KIZ:0810480.
+ACCESSION   HG737944
+VERSION     HG737944.1
+KEYWORDS    .
+SOURCE      Parascaptor leucura (white-tailed mole)
+  ORGANISM  Parascaptor leucura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascaptor.
+REFERENCE   1
+  AUTHORS   He,K., Shinohara,A., Jiang,X.L. and Campbell,K.
+  TITLE     Multilocus phylogeny of Talpine moles (Talpini, Talpidae,
+            Eulipotyphla) and its implications for systematics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   He,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2013) Biological Sciences, University of
+            Manitoba, 190 Dysart Road, Winnipeg, Manitoba, R3T 2N2, CANADA
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Parascaptor leucura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ:0810480"
+                     /db_xref="taxon:1300119"
+                     /geo_loc_name="China:Yunnan, Kunming"
+     gene            <1..>694
+                     /gene="rag2"
+     CDS             <1..>694
+                     /gene="rag2"
+                     /codon_start=1
+                     /product="recombination activating gene 2"
+                     /protein_id="CDJ26122.1"
+                     /translation="ESGKQQYIIHGGKTPNNELSDKIYVMSVVCKSNKKVTFRCTEKD
+                     LVGDVPEARYGHSIDVVYSRGKSIGVLFGGRSYMPSAQRTTEKWNSVADCLPHVFLVD
+                     FEFGCSTAYILPELQDGLSFHVSIARNDTIYILGGHSLANNIRPTNLYRVKVDLPLGS
+                     PAVNCTVLPGGISVSSAILTQTNKDEFVIVGGYQLENQKRMVCNIVSLEDNKIDIQEM
+                     ETPDWTPDIKHSK"
+ORIGIN      
+        1 gagtctggaa agcaacaata cattatccat ggtgggaaaa caccaaacaa tgagctttca
+       61 gataagatct atgtcatgtc tgttgtttgc aagagcaaca aaaaagttac ttttcggtgc
+      121 acagagaaag acttggtagg agatgttcct gaagccaggt atggtcattc cattgatgtg
+      181 gtgtatagtc gaggaaaaag tattggtgtt ctctttggag gacggtcata catgccttct
+      241 gcccagagaa ccacagaaaa atggaatagt gtagctgact gcctgcccca tgttttcttg
+      301 gtggattttg aatttgggtg ctctacagcc tacattcttc ctgaacttca ggatggactc
+      361 tcttttcatg tctccattgc cagaaatgat accatttata ttctaggagg acattctctt
+      421 gccaataaca tccgccctac caacctatat agagtaaagg ttgatctccc cttgggtagc
+      481 cccgctgtga attgcacagt cttaccagga ggaatctctg tctccagtgc aatcctgact
+      541 caaacaaaca aggatgaatt tgttattgtt ggtggttatc agcttgaaaa tcaaaaaaga
+      601 atggtctgca acattgtctc tttagaagac aacaagatag atattcagga aatggagact
+      661 ccagattgga ccccagatat taagcacagc aaga
+//
+

@@ -1,0 +1,62 @@
+LOCUS       GU473785                 790 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Sorex minutus voucher 5337 haplotype A15 breast cancer
+            susceptibility 1 (BRCA1) gene, partial cds.
+ACCESSION   GU473785
+VERSION     GU473785.1
+KEYWORDS    .
+SOURCE      Sorex minutus (Eurasian pygmy shrew)
+  ORGANISM  Sorex minutus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 790)
+  AUTHORS   Yannic,G., Dubey,S., Hausser,J. and Basset,P.
+  TITLE     Additional data for nuclear DNA give new insights into the
+            phylogenetic position of Sorex granarius within the Sorex araneus
+            group
+  JOURNAL   Mol. Phylogenet. Evol. 57 (3), 1062-1071 (2010)
+   PUBMED   20883802
+REFERENCE   2  (bases 1 to 790)
+  AUTHORS   Yannic,G., Dubey,S., Hausser,J. and Basset,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2010) Department of Ecology and Evolution,
+            University of Lausanne, Biophore, Lausanne 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..790
+                     /organism="Sorex minutus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="5337"
+                     /db_xref="taxon:62280"
+                     /haplotype="A15"
+     gene            <1..>790
+                     /gene="BRCA1"
+     mRNA            <1..>790
+                     /gene="BRCA1"
+                     /product="breast cancer susceptibility 1"
+     CDS             <1..>790
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="breast cancer susceptibility 1"
+                     /protein_id="ADR78403.1"
+                     /translation="HKSKQPSLAKSQQNRWTESKEKYDRQTSSAEKKVDLSVDPLSGR
+                     KQPNKQELPCSGSSRDSQEMTWIPQNSSIQKVNDWFSRSDDVLSSDDFHDAGLESNTE
+                     VAEIIEISSAADEFSGSSEQIDLTASESRRTLSKPVESNIEDKIFGKTYRRKTSFPNL
+                     NRITEDVILGSSILEPHIAPEQPFTNKLKRKRSMTSSLCPEDFIKKGDLAVVQKTPEK
+                     VIEKSDQTDQNGQVMNITTNGESETKSDYAQKGKNTNPTESSEKE"
+ORIGIN      
+        1 tcataaaagc aaacagccta gcttagcaaa gagccaacag aacagatgga ctgaaagtaa
+       61 ggaaaaatat gataggcaga cttccagtgc agagaagaag gtagatctga gtgttgatcc
+      121 cctatctggg agaaaacaac ctaataagca ggaattgcca tgctctggca gctctagaga
+      181 ttcccaagag atgacttgga tacctcagaa cagtagcata caaaaagtta atgattggtt
+      241 ttccagaagt gatgatgtat tatcttctga tgatttccat gatgcagggt tggaatcaaa
+      301 tactgaagta gctgaaataa tagaaatttc cagtgcagca gatgaatttt ctggttcttc
+      361 agagcaaata gacttaacgg ccagtgaaag tagaagaacc ctctccaaac cagtagagag
+      421 taatattgaa gataaaatat ttgggaaaac gtatcggagg aaaacaagct tccctaactt
+      481 aaaccgcata acggaagatg taatactagg atcatctatc ctagagcctc atatagcacc
+      541 agagcaaccc ttcacaaaca aattaaaacg taaaagaagc atgacatcaa gcctttgtcc
+      601 tgaagatttt atcaagaaag gagatttggc agttgttcaa aagactcctg aaaaggtaat
+      661 cgagaagagt gaccaaactg atcaaaatgg ccaagtgatg aatattacta ctaatggtga
+      721 gagtgaaaca aaaagtgatt atgcccaaaa agggaaaaat actaacccaa cagagtcatc
+      781 agaaaaagaa
+//
+

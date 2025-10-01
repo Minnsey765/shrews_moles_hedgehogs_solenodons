@@ -1,0 +1,71 @@
+LOCUS       KX755169                 861 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scalopus aquaticus isolate HPW622 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755169
+VERSION     KX755169.1
+KEYWORDS    .
+SOURCE      Scalopus aquaticus (eastern mole)
+  ORGANISM  Scalopus aquaticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scalopus.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Scalopus aquaticus"
+                     /mol_type="genomic DNA"
+                     /isolate="HPW622"
+                     /db_xref="taxon:71119"
+                     /geo_loc_name="USA: Illinois, Rock Island County"
+                     /note="Scalaq_2"
+     gene            <1..>861
+                     /gene="APOB"
+     mRNA            <1..>861
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>861
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33574.1"
+                     /translation="EKTGLKDFLRTTKQSFDLSVKTQYKKNQDQHSIPIPLDVFYVFM
+                     NHNINSFIRQLEKGRHRALVFLTNAYNEAKIKLDKYKVEKSLNNQPRTFQIPGYTIPI
+                     LNIEASPSTVKMLPFGYGIPEEISTPSFTIGDSDFHVPSYTLVLPSLELPALPVPTSP
+                     LEFSLPEFKILSTPRNILIPALGNITYDFSFKSSVITLNTNAELYNQSDIVVHFLSSS
+                     SSVVDALQYKLEGTSSLTRKRGLKIATALSLSSEFVGGSHNSTISLTKKNMDASVTTI
+                     AKVQISILNMN"
+ORIGIN      
+        1 gagaaaacag gcttgaagga cttcttgaga acgacaaagc aatcatttga tttaagtgta
+       61 aagactcagt ataagaaaaa ccaagaccag cattccatcc caattccttt ggatgtgttt
+      121 tatgtgttta tgaatcataa catcaattcc ttcatcaggc aacttgagaa aggcagacat
+      181 cgggctttag tttttttgac caatgcctat aatgaagcaa aaattaagtt ggataagtac
+      241 aaggttgaaa aatccctcaa caaccaaccc aggacctttc aaattcctgg atacactatt
+      301 ccaatcctca acattgaagc ttctccatca acagtaaaga tgttaccatt tggctatggg
+      361 atcccagaag agatcagcac ccccagcttc accattgggg attctgactt ccatgtgccc
+      421 tcctatacgt tagtcctgcc atccctagag ctgccagccc ttcctgtccc tacaagccct
+      481 cttgagtttt ctcttccaga atttaagata ttgagtaccc caagaaacat cttaattcct
+      541 gccctaggca atattaccta tgatttttcc tttaaatcaa gtgtcatcac actgaatacc
+      601 aatgctgaac tttataacca atcagatatt gttgttcatt tccttagttc ctcttcttcg
+      661 gtggtggatg ccctgcagta caaactagag ggtacctcaa gtttaacgag gaaaagaggg
+      721 ctgaagatag ccacagcctt gtctctgagt agtgaatttg tgggaggcag tcataacagt
+      781 accattagct taacaaaaaa aaacatggat gcatcagtga caacaattgc gaaagttcaa
+      841 atttcaattt tgaatatgaa t
+//
+

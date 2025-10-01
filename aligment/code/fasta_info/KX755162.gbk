@@ -1,0 +1,71 @@
+LOCUS       KX755162                 861 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Parascaptor leucura isolate Parale_2 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755162
+VERSION     KX755162.1
+KEYWORDS    .
+SOURCE      Parascaptor leucura (white-tailed mole)
+  ORGANISM  Parascaptor leucura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascaptor.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Parascaptor leucura"
+                     /mol_type="genomic DNA"
+                     /isolate="Parale_2"
+                     /specimen_voucher="KIZ:0412179"
+                     /db_xref="taxon:1300119"
+                     /geo_loc_name="China: Yunnan, Yongde"
+     gene            <1..>861
+                     /gene="APOB"
+     mRNA            <1..>861
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>861
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33567.1"
+                     /translation="EKTGLKEFLRTTKQSFDLSVKTQYKKNKDKHSIPIPLDVFYVFM
+                     NHNINSFIRQFEKGRHQALVSFTNAYNEAKLKFDKYKVEKSLNNQPRIFQIPGYTIPL
+                     FNIEASPSTVKMLPFGYVIPEEISTPSFTIWGSDFYVPSYTFVLPSLELPALPVPTSP
+                     LEFSLPEFKILSTPRNILIPALGNITYDFSFKSSVITLNTNAELYNQSDIVVHFLSSS
+                     SSVMDALQYKLEGTSSLTRKRGLKLATALSLSNEFVGGSHNSTISLTKKNMEASVTTI
+                     AKVQISILNMN"
+ORIGIN      
+        1 gaaaaaacgg gcttgaagga atttttgaga acaacaaagc agtcatttga tttaagtgta
+       61 aagactcagt ataagaaaaa caaagacaag cattccatcc caattccttt ggatgtgttt
+      121 tatgtgttta tgaatcataa catcaattct ttcatcaggc aatttgagaa aggtagacat
+      181 caggctttag tttcttttac caatgcctat aatgaagcaa aactcaagtt tgataagtac
+      241 aaggttgaaa agtccctcaa caaccaaccc aggatctttc aaattcctgg atacactatt
+      301 ccactcttca acattgaagc ttctccatca acagtaaaga tgttaccatt tggctatgtg
+      361 attccagaag agataagcac ccctagtttc accatctggg gttctgactt ctatgtgccc
+      421 tcctatacat ttgtcctgcc gtccctggag ctgccagccc ttcctgtccc tacaagccct
+      481 ctcgagtttt ctcttccaga attcaagata ttgagtaccc caaggaacat cttaattcct
+      541 gccctgggca atattaccta tgatttttcc tttaaatcaa gtgtcatcac actgaatacc
+      601 aatgctgaac tatataacca atcagacatt gttgttcatt tccttagttc ctcttcttct
+      661 gtcatggatg ctctgcagta caagctagag ggtacctcca gtttgacgag gaaaagaggg
+      721 ctgaagttag ccacagcctt gtctctgagt aatgaattcg tgggaggcag tcataacagt
+      781 accattagct taacaaaaaa aaacatggaa gcatcagtga caacaatcgc aaaagttcaa
+      841 atttcaattt tgaatatgaa t
+//
+

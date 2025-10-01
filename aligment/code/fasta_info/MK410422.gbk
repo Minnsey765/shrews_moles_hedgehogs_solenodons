@@ -1,0 +1,92 @@
+LOCUS       MK410422                1545 bp    DNA     linear   MAM 24-MAR-2019
+DEFINITION  Dymecodon pilirostris isolate JA5196TA cytochrome oxidase subunit 1
+            (COX1) gene, complete cds; mitochondrial.
+ACCESSION   MK410422
+VERSION     MK410422.1
+KEYWORDS    .
+SOURCE      mitochondrion Dymecodon pilirostris
+  ORGANISM  Dymecodon pilirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Dymecodon.
+REFERENCE   1  (bases 1 to 1545)
+  AUTHORS   Arai,S., Kikuchi,F., Bawm,S., Son,N.T., Lin,K.S., Tu,V.T., Aoki,K.,
+            Tsuchiya,K., Tanaka-Taya,K., Morikawa,S., Oishi,K. and
+            Yanagihara,R.
+  TITLE     Molecular Phylogeny of Mobatviruses (Hantaviridae) in Myanmar and
+            Vietnam
+  JOURNAL   Viruses 11 (3), E228 (2019)
+   PUBMED   30866403
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1545)
+  AUTHORS   Arai,S., Kikuchi,F., Bawm,S., Son,N.T., Lin,K.S., Tu,V.T., Aoki,K.,
+            Tsuchiya,K., Tanaka-Taya,K., Morikawa,S., Yanagihara,R. and
+            Oishi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2019) Infectious Disease Surveillance Center,
+            National Institute of Infectious Diseases, Toyama 1-23-1, Shinjuku,
+            Tokyo 162-8640, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1545
+                     /organism="Dymecodon pilirostris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="JA5196TA"
+                     /db_xref="taxon:182680"
+                     /sex="female"
+                     /tissue_type="lung"
+                     /geo_loc_name="Japan: Okutama, Tokyo"
+                     /collection_date="25-Apr-2015"
+                     /collected_by="Tama zoo"
+     gene            1..1545
+                     /gene="COX1"
+                     /gene_synonym="COI"
+     CDS             1..1545
+                     /gene="COX1"
+                     /gene_synonym="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QBO24431.1"
+                     /translation="MFINRWLFSTNHKDIGTLYMLFGAWAGMVGTALSLLIRAELGQP
+                     GALLGDDQIYNVIVTAHAFVMIFFMVMPILLGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSTVEAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILG
+                     AINFITTIINMKPPAMSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGLISHIVTYYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGLDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIIAG
+                     FVHWFPLFTGYTLSQTWAKIHFAIMFVGVNMTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NTVSSMGSFISLTAVMLMVFMIWEAFASKREVSTVELTTTNIEWLHGCPPPYHTFEEP
+                     TYVNPK"
+ORIGIN      
+        1 atgttcatta atcgttgatt attctcaact aatcataaag atatcggtac attatatata
+       61 ctattcggag cctgagcagg catagtaggt accgccctaa gtttactaat tcgtgccgaa
+      121 ctagggcaac ccggagccct tctgggtgat gaccaaatct ataatgttat tgtaactgca
+      181 catgcatttg taataatctt cttcatagtt atgcctattt tactaggcgg cttcggcaac
+      241 tgactcgttc cactcataat tggtgcccca gacatagcat tcccacgtat aaacaacata
+      301 agcttttgac ttcttccacc atcattccta ttattattag catcatctac agttgaagcc
+      361 ggagcaggaa caggctgaac tgtatatcca cctctagctg gaaacctagc acatgcagga
+      421 gcttccgtag acctggcaat tttctccctt cacttggcag gtgtgtcatc cattttaggt
+      481 gcaattaatt ttatcacaac aattattaac ataaaacccc ctgcaatatc ccaatatcaa
+      541 acaccactct ttgtatgatc agtactaatt actgctgttt tactattact ttccctgcca
+      601 gttttagcag ctggaattac catactttta acagaccgaa atttaaacac cactttcttt
+      661 gacccagccg gcggaggaga tcctatttta tatcaacacc tattctgatt ctttgggcac
+      721 ccagaagtgt atattctaat tttaccaggc tttggattaa tctcacatat tgtcacatat
+      781 tattcaggaa aaaaagaacc atttggttat ataggaatag tatgagcaat aatgtcaatt
+      841 gggttcctag gctttattgt gtgagcccac cacatattca ctgtaggcct agacgttgat
+      901 acacgtgcat acttcacatc tgcaactata attatcgcta ttcctactgg ggtaaaagtc
+      961 ttcagctgat tagcaactct gcatggagga aatattaaat gatcacctgc catattatga
+     1021 gccctgggat tcattttttt attcacagta ggaggtctga caggaattgt tttagctaat
+     1081 tcatcattag acattgtact acatgacaca tactatgtag tcgcacattt ccactatgtg
+     1141 ctgtcaatag gggctgtatt tgcaattatc gccggatttg tacactgatt tccactattc
+     1201 actggatata cattaagcca aacttgagca aaaattcatt ttgccattat atttgttgga
+     1261 gtaaatataa catttttccc acaacacttt ttaggactct caggtatacc acgacgatac
+     1321 tcagactacc cagacgccta taccacatga aataccgttt catctatagg atcctttatt
+     1381 tcactaacag cagtgatact tatagtattt ataatttgag aagcatttgc atcaaaacga
+     1441 gaagtctcta cagtagaatt aacaacaact aatattgagt gacttcacgg ctgcccacca
+     1501 ccatatcata catttgaaga accaacttac gtaaacccta aataa
+//
+

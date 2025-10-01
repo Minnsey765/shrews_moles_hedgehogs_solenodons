@@ -1,0 +1,72 @@
+LOCUS       AB175120                1140 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Sorex alpinus mitochondrial gene for cytochrome b, complete cds.
+ACCESSION   AB175120
+VERSION     AB175120.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex alpinus (alpine shrew)
+  ORGANISM  Sorex alpinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1
+  AUTHORS   Ohdachi,S.D., Iwasa,M.A., Abe,H., Vogel,P., Oshida,T., Lin,L.K. and
+            Hasegawa,M.
+  TITLE     Molecular phylogenetics of the Soricidae (Insectivora, Mammalia)
+            based on mitochondrial cytchrome b gene sequences
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ohdachi,S.D., Iwasa,M.A., Abe,H., Vogel,P., Oshida,T., Lin,L.K. and
+            Hasegawa,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAR-2004) Satoshi D. Ohdachi, Institute of Low
+            Temperature Science, Hokkaido University; Kita-ku, Kita19 Nishi8,
+            Sapporo, Hokkaido 060-0819, Japan
+            (E-mail:ohd@pop.lowtem.hokudai.ac.jp, Tel:81-11-706-7474,
+            Fax:81-11-706-7142)
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Sorex alpinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="IZEA5439 (Institute of Ecology, Univ.
+                     of Lausanne, Switzerland)"
+                     /db_xref="taxon:62902"
+                     /tissue_type="liver"
+                     /geo_loc_name="Switzerland: Pont de Nant, Vaud Canton"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAE92685.1"
+                     /translation="MTNLRKTHPLMKIVNSSFIDLPAPSNISSWWNFGSLLGLCLIIQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMYLETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALAGVHLLFLHETGSNNPSGLSSDADKI
+                     PFHPYYTIKDILGVLLLILTLTSLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILILAVVPFLHTSKQRSMMFRPFSQCLFWILVADLLT
+                     LTWIGGQPVEHPFIIIGQLASILYFLLILVIMPITSLFENNLLKW"
+ORIGIN      
+        1 atgacaaacc ttcgaaaaac tcacccacta ataaaaattg ttaacagctc atttattgat
+       61 ttacctgccc catctaacat ttcatcatga tgaaactttg gttccctctt aggcctctgc
+      121 ctaattatcc aaatcctaac aggattgttt ctagctatac attatacatc agacacaata
+      181 actgccttct catcagttac acatatttgt cgagatgtaa attatgggtg actaatccgt
+      241 tatctacacg caaatggagc atcaatattc ttcatctgcc tcttcctaca cgtcggacga
+      301 ggcctttact acggatccta catatattta gaaacatgaa acatcggcgt actactatta
+      361 tttgcagtaa tggccactgc ctttataggg tacgtccttc catgaggaca aatatcattc
+      421 tgaggtgcaa cagtcattac taacctactc tcagcaatcc cctacattgg ctcagaccta
+      481 gtagagtgaa tttgaggagg tttctccgta gataaagcca ctttaacccg attcttcgca
+      541 ttccatttca tcttgccctt catcattgca gccctagccg gagtccatct tctattccta
+      601 cacgaaacag gctcaaacaa cccatcagga ttatcctccg atgcagacaa aatccccttc
+      661 cacccttact acacaattaa agacatccta ggagtccttc tacttattct aaccctcaca
+      721 tctctagtcc tattctctcc agacttacta ggagacccag acaactacac ccccgctaac
+      781 cctctcaaca cacctcccca tatcaaacca gaatggtatt ttctattcgc ctacgctatc
+      841 ctacgatcca tccctaataa attaggaggt gttttagcac tagtcctgtc tatcttaatt
+      901 ctagcagtag tgcctttcct ccacacatcc aaacaacgaa gcatgatatt ccgtccattc
+      961 agccaatgtc tcttctgaat cttagtagca gatctcctta cactcacatg aatcggaggc
+     1021 caaccagtcg aacatccatt tattatcatt ggacaactag catcaatctt atatttcctc
+     1081 ctcattctag taattatacc tatcacaagc ttattcgaaa ataacctcct aaaatgaaga
+//
+

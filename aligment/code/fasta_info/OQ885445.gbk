@@ -1,0 +1,67 @@
+LOCUS       OQ885445                1140 bp    DNA     linear   MAM 08-AUG-2023
+DEFINITION  Suncus etruscus voucher MHNG 1972.075 cytochrome b gene, complete
+            cds; mitochondrial.
+ACCESSION   OQ885445
+VERSION     OQ885445.1
+KEYWORDS    .
+SOURCE      mitochondrion Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Ruedi,M., Manzinalli,J., Dietrich,A. and Vinciguerra,L.
+  TITLE     Shortcomings of DNA barcodes: a perspective from the mammal fauna
+            of Switzerland
+  JOURNAL   Hystrix (2023) In press
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Ruedi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-APR-2023) Mammalogy, Natural History Museum Geneva,
+            Cp 6434, Geneva, GE 1211, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Suncus etruscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MHNG 1972.075"
+                     /db_xref="taxon:109475"
+                     /geo_loc_name="France"
+                     /lat_lon="44.722 N 4.585 E"
+     CDS             1..1140
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="WLD25673.1"
+                     /translation="MTNIRKTHPLMKIVNSSFIDLPAPSNISSWWNFGSLLGICLIAQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMYFETWNIGILLLFAVMATAFMGYXLPWGQMSFWGATVITNLLSAIPYIGTNL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIVAALAGVHLLFLHETGSNNPSGLNSDADKI
+                     PFHPYYTIKDILGALILITALSTLVLFSPDMLGDPDNYIPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILVLAVVPLLHTSKQRSMMFRPMSQCMFWILVADLFT
+                     LTWIGGQPVEYPFVEIGQLASMIYFLMILLIMPITSMIENQLLKW"
+ORIGIN      
+        1 atgaccaaca tccgaaagac ccatccacta ataaaaattg taaatagctc tttcattgat
+       61 ttaccagcac cctcaaatat ttcatcatga tgaaattttg gctcccttct aggtatttgc
+      121 ctaatcgcac aaatccttac tggattattc ttagctatac attacacttc agacactata
+      181 acagcctttt cttccgtcac acacatttgc cgagacgtaa attatggttg attaattcgc
+      241 taccttcacg ctaacggcgc ctccatattc tttatttgcc tatttcttca tgtaggacga
+      301 ggcctatact atggctccta tatatatttc gagacatgaa atatcggcat tttactttta
+      361 ttcgcagtaa tagccactgc tttcatagga tacgntctcc cttgaggaca aatatcattc
+      421 tgaggcgcta cagtaattac caacctctta tcagctattc cctatattgg tacaaacctt
+      481 gtagaatgaa tctgaggagg cttctccgtc gataaagcca ccttaacccg cttctttgcc
+      541 tttcacttta ttctcccttt tatcgtagct gcccttgcag gagtccatct tctatttctt
+      601 catgaaaccg gttcaaataa cccatccggc ctaaactcag acgcagacaa aatccctttc
+      661 cacccttatt atactattaa agatattcta ggagcactaa ttctaatcac tgcattatcc
+      721 accctagttt tattctcccc agatatacta ggagacccag acaattatat ccccgcaaac
+      781 cctctcaaca ctccacctca tattaaacca gagtgatatt ttctatttgc ctacgcaatt
+      841 ttacgatcaa ttcccaataa attaggtggg gtcctagctc tcgttctatc gattctagtc
+      901 ttagcagttg ttccgcttct acacacatct aaacaacgaa gtataatatt ccgaccaata
+      961 agtcagtgca tattctgaat tttagtagca gacctattta cactaacatg aattggaggc
+     1021 caaccagttg aatacccatt tgtagaaatc ggacaattag cctccataat ttatttccta
+     1081 ataattctct taattatacc catcacaagt ataatcgaaa atcaactttt aaaatgaaga
+//
+

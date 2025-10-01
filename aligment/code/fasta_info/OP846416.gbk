@@ -1,0 +1,65 @@
+LOCUS       OP846416                 777 bp    DNA     linear   MAM 20-FEB-2023
+DEFINITION  Myosorex kihaulei voucher FMNH:MAMM:205242 cytochrome oxidase
+            subunit 3 (COX3) gene, partial cds; mitochondrial.
+ACCESSION   OP846416
+VERSION     OP846416.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 777)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,M.A., William Dee,J.,
+            Swanson,M.T., Hiller,A.E., Khan,F.A.A. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncusater Medway, 1965 (Soricidae, Crocidurinae), place it
+            in the genus Palawanosorex
+  JOURNAL   Zookeys 1137, 17-31 (2022)
+   PUBMED   36760481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 777)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2022) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..777
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH:MAMM:205242"
+                     /db_xref="taxon:307108"
+     gene            <1..>777
+                     /gene="COX3"
+     CDS             <1..>777
+                     /gene="COX3"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 3"
+                     /protein_id="WDD44900.1"
+                     /translation="HQTHAYHMVNPSPWPLTGALSALLLTSGLVMWFHFNSMILMLMG
+                     LTANTLTMYQWWRDIIREGTFQGHHTPIVQKGLRYGMILFIISEIFFFAGFFWAFYHS
+                     SLVPTHELGGYWPPAGINPLNPLEVPLLNTSVLLASGVSITWAHHSLMEGNRKHMIQA
+                     LFITIALGVYFTILQAAEYYEAPFTISDGVYGSTFFMATGFHGFHVLVGSTFLMVCFL
+                     RQLKYHFTSKHHFGFEAAAWYWHFVDVVWLFLYVSIYWWGS"
+ORIGIN      
+        1 caccaaacac atgcatatca catagttaat cctagcccat ggcctctaac aggtgcacta
+       61 tccgccctac tattaacatc agggttagta atatgatttc acttcaactc tataattctt
+      121 atacttatgg gccttacagc taacacgctt acaatatatc aatgatgacg agacattatc
+      181 cgtgaaggga cattccaagg acatcatact cctattgtcc aaaaaggact ccgatatggc
+      241 ataatcctat tcattatttc cgaaattttc ttcttcgctg gatttttctg agctttctat
+      301 cattctagct tagtaccaac tcacgaatta ggaggttatt gaccacctgc tggcatcaac
+      361 cccctaaacc ctttagaagt ccccctactt aacacctctg tcctattagc ctctggagta
+      421 tctattacat gagcccatca tagcctaata gaaggtaacc gaaagcatat aattcaagcc
+      481 cttttcatca ccattgccct aggagtgtat tttactattc ttcaagcagc cgaatattat
+      541 gaagcgccat ttaccatctc agatggcgta tacggatcta ctttctttat agccacagga
+      601 ttccatggtt tccatgtact tgtaggctca acattcctaa tagtttgctt cttacgacaa
+      661 ttaaaatatc acttcacatc taaacatcat tttggcttcg aagccgcagc atgatattga
+      721 cactttgttg acgtagtatg actattcctt tacgtatcca tttattgatg aggctca
+//
+

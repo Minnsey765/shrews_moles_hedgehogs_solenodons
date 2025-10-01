@@ -1,0 +1,60 @@
+LOCUS       AY011871                 727 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Erinaceus concolor recombination activating protein 1 (RAG1) gene,
+            partial cds.
+ACCESSION   AY011871
+VERSION     AY011871.1
+KEYWORDS    .
+SOURCE      Erinaceus concolor (southern white-breasted hedgehog)
+  ORGANISM  Erinaceus concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Erinaceus.
+REFERENCE   1  (bases 1 to 727)
+  AUTHORS   Murphy,W.J., Eizirik,E., Johnson,W.E., Zhang,Y.P., Ryder,O.A. and
+            O'Brien,S.J.
+  TITLE     Molecular phylogenetics and the origins of placental mammals
+  JOURNAL   Nature 409 (6820), 614-618 (2001)
+   PUBMED   11214319
+REFERENCE   2  (bases 1 to 727)
+  AUTHORS   Murphy,W.J., Eizirik,E., Johnson,W.E., Zhang,Y.P., Ryder,O.A. and
+            O'Brien,S.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2000) Laboratory of Genomic Diversity, National
+            Cancer Institute-FCRDC, P.O. Box B, Bldg. 560, Rm. 11-10,
+            Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..727
+                     /organism="Erinaceus concolor"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:37316"
+     gene            <1..>727
+                     /gene="RAG1"
+     mRNA            <1..>727
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>727
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="AAG38389.1"
+                     /translation="TVVVKESCDGMGDVSEKHGNGPAVPEKAVRFSFTVMKITLAHGS
+                     QNVKVFEEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSELMLEMGG
+                     ILRTFKFIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHT
+                     ENLERYEVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQ
+                     LEIGEVYKNPNASKEERKRWQATL"
+ORIGIN      
+        1 cactgtagta gtgaaggaat cttgtgatgg aatgggtgat gtgagcgaga agcacggcaa
+       61 tgggccagcc gttccagaaa aggcagttcg tttttccttc actgtcatga aaatcaccct
+      121 agcacatgga tctcagaatg taaaggtgtt tgaggaagcc aaacccaact ctgaactgtg
+      181 ctgcaagcct ttgtgcctca tgctggcaga tgagtctgac catgagaccc tgacggccat
+      241 cctgagccct ctcattgctg agagggaggc catgaagagc agtgaattaa tgctggagat
+      301 gggaggcatc ctccgtacat ttaagttcat cttcaggggc actggatatg atgagaaact
+      361 tgtcagggaa gtggaaggcc ttgaggcctc tggctcagtc tacatctgta ctctttgtga
+      421 tgccactcgc ctggaagcct ctcaaaatct tgtcttccac tccatcacca ggagtcacac
+      481 tgagaacctg gagcgctatg aggtctggcg ttccaatcca taccatgagt ctgtggaaga
+      541 actgagggat cgggtgaaag gggtctcagc aaaacccttc attgagactg tcccttccat
+      601 agatgcactg cactgtgaca ttggtaatgc agctgagttc tacaaaattt ttcagctaga
+      661 gataggggag gtgtataaga accccaatgc ctccaaagag gaaaggaaaa gatggcaggc
+      721 tacactg
+//
+

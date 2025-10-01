@@ -1,0 +1,45 @@
+LOCUS       AF441243                 376 bp    DNA     linear   MAM 16-JUN-2004
+DEFINITION  Crocidura russula 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF441243
+VERSION     AF441243.1
+KEYWORDS    .
+SOURCE      mitochondrion Crocidura russula (white-toothed shrew)
+  ORGANISM  Crocidura russula
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 376)
+  AUTHORS   Lo Brutto,S., Azeuleo,M. and Sara,M.
+  TITLE     Mitochondrial simple sequence repeats and 12S-rRNA gene reveal two
+            distinct lineages of Crocidura russula (Mammalia, Soricidae)
+  JOURNAL   Heredity 92 (6), 527-533 (2004)
+   PUBMED   15162115
+REFERENCE   2  (bases 1 to 376)
+  AUTHORS   Lo Brutto,S., Arculeo,M., Sara,M. and Parrinello,N.
+  TITLE     Crocidura russula mitochondrial gene for 12S ribosomal RNA
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 376)
+  AUTHORS   Lo Brutto,S., Arculeo,M., Sara,M. and Parrinello,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-OCT-2001) Department of Animal Biology, University of
+            Palermo, Via Archirafi 18, Palermo 90123, Italy
+FEATURES             Location/Qualifiers
+     source          1..376
+                     /organism="Crocidura russula"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36802"
+                     /geo_loc_name="Italy"
+     rRNA            <1..>376
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ggcttagccc taaaccaaac aatcaaacaa caagactgtt cgccagagaa ctactagcaa
+       61 tagcttaaaa ctcaaaggac ttggcggtgc tttatatcca tctagaggag cctgttctat
+      121 aatcgataca ccccgatcaa cctcaccact tcttgctaat tccgcctata taccgccatc
+      181 ttcagcaaac ccttaaaagg catagtagta agcccaaaca tcttacataa aaacgttagg
+      241 tcaaggtgta gcttatggag tggaaagaaa tgggctacat tttctaaaaa tagaatactt
+      301 ttacgaaaac ccctatgaaa ctagaggcta aaggaggatt tagtagtaag ccaagaatag
+      361 agtgcttgac tgaata
+//
+

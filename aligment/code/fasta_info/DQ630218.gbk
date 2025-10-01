@@ -1,0 +1,61 @@
+LOCUS       DQ630218                 849 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Crocidura suaveolens isolate 1 BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   DQ630218
+VERSION     DQ630218.1
+KEYWORDS    .
+SOURCE      Crocidura suaveolens (Lesser white-toothed shrew)
+  ORGANISM  Crocidura suaveolens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 849)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 849)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..849
+                     /organism="Crocidura suaveolens"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:52631"
+     gene            <1..>849
+                     /gene="BRCA1"
+     mRNA            <1..>849
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>849
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="ABG22189.1"
+                     /translation="TRTWVEKAQFCNKSKQSGLGRSQQNRWLESKETYNDKQSPSTEQ
+                     KADLNAEPLYGRRKPNKQKLSCSDSPEDPQEMTWMTSTSSLQKVNDWFSRSDDVLTSD
+                     DFHDAGSNSNTKAETEEIPSAADGFFVSSEKEDLMASDQCDALMYESRRVLSKPVESN
+                     IEDKIFGKTYRRKASFPNLNCTTEDVTLESSPLKPHMAHKHPFTNKLKRKRRITSSLG
+                     PEDFIKKVDLAIVQKSPEKKIEMLNQMDQNGQVVNTTMKGLEIETRDDDTQKEKIANS
+                     TASSEKQ"
+ORIGIN      
+        1 accaggacgt gggtagaaaa ggctcagttc tgtaataaaa gtaaacagtc tggcctagga
+       61 agaagccaac agaacagatg gctcgaaagt aaagaaacat ataatgataa acagtctccc
+      121 agcacagagc aaaaggcaga tctgaatgct gaacccctat atggaagaag aaaaccgaac
+      181 aaacagaaat tgtcatgctc tgacagccct gaggatcccc aagagatgac ttggatgact
+      241 tcgacnagta gcctgcagaa agttaatgat tggttttcta gaagtgatga tgtattaact
+      301 tctgatgatt tccatgatgc agggtctaat tcaaatacaa aagctgagac agaagaaatc
+      361 ccaagtgcag cagatggatt ttttgtttct tcagagaaag aagatttaat ggccagtgat
+      421 cagtgtgatg ctttaatgta tgaaagtaga agagtcctct ccaaaccagt agagagtaac
+      481 attgaagata aaatatttgg gaaaacttat cggaggaaag caagcttccc taacttgaac
+      541 tgcacaactg aagatgtaac tctagaatca tccccactaa aaccgcatat ggcacacaaa
+      601 caccccttca caaataaatt aaaacgtaaa agaagaatta catcaagcct tggtcctgag
+      661 gattttataa agaaagtaga tttggcgatt gttcaaaagt ctcctgaaaa gaaaatcgag
+      721 atgctcaacc aaatggatca aaatggtcag gtggtgaata ctactatgaa aggtcttgaa
+      781 attgaaacta gagatgatga tacccagaaa gagaaaatcg ctaactcaac agcatcatca
+      841 gaaaaacaa
+//
+

@@ -1,0 +1,55 @@
+LOCUS       JF719697                 492 bp    DNA     linear   MAM 31-MAR-2013
+DEFINITION  Blarinella quadraticauda haplotype A3 apolipoprotein B (ApoB) gene,
+            partial cds.
+ACCESSION   JF719697
+VERSION     JF719697.1
+KEYWORDS    .
+SOURCE      Blarinella quadraticauda (Asiatic short-tailed shrew)
+  ORGANISM  Blarinella quadraticauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Blarinella.
+REFERENCE   1  (bases 1 to 492)
+  AUTHORS   Chen,S., Liu,S., Liu,Y., He,K., Chen,W., Zhang,X. and Yue,B.
+  TITLE     Molecular phylogeny and taxonomic reconsideration of Asiatic
+            short-tailed shrews, genus Blarinella (Mammalia, Soricomorpha,
+            Soricidae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 492)
+  AUTHORS   Chen,S., Liu,S., Liu,Y., He,K., Chen,W., Zhang,X. and Yue,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2011) Sichuan Key Laboratory of Conservation
+            Biology on Endangered Wildlife, College of Life Sciences, Sichuan
+            University, Chengdu, Sichuan 610064, China
+FEATURES             Location/Qualifiers
+     source          1..492
+                     /organism="Blarinella quadraticauda"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1159882"
+                     /haplotype="A3"
+     gene            <1..>492
+                     /gene="ApoB"
+     mRNA            <1..>492
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>492
+                     /gene="ApoB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="AFD29253.1"
+                     /translation="PLPLDMFYVFLNHNINSLIRQVEKVRDQALVFVTESYNVAKIKF
+                     DEYKVKKPITKQRRTFQIPGYTIPIVNIETSPLTVEMFPFGYVIPKELNTPNFTILGS
+                     GFSVPSYNLVLPFLELPVLHVPKFLEISLPEFKALNIPRNIFIPALGNITYDFSFKSS
+                     IITL"
+ORIGIN      
+        1 ccgcttcctt tggatatgtt ttatgtgttt cttaatcata atatcaattc tttaatcagg
+       61 caagttgaga aagtcagaga ccaggcatta gtttttgtta ctgaatccta taatgtagca
+      121 aaaattaaat ttgatgagta taaggttaaa aaacctatca ccaaacaacg aaggaccttt
+      181 caaattccag ggtataccat tcctattgtc aatattgaaa catctccact aacagtagag
+      241 atgtttccat tcggttatgt gatcccaaaa gagctcaaca cccccaattt taccatcctg
+      301 ggttccggct tctctgtgcc ctcatataat ttagtcctgc catttctaga actaccagtc
+      361 cttcatgtcc ctaagtttct tgagatttct cttccagaat tcaaagcatt gaatatccca
+      421 aggaatattt tcattccagc cctgggaaat attacatatg atttttcttt taaatcaagt
+      481 atcattacac tg
+//
+

@@ -1,0 +1,63 @@
+LOCUS       OP599589                 695 bp    DNA     linear   MAM 12-JUN-2023
+DEFINITION  Diplomesodon sp. isolate Dipl_08_1 breast cancer susceptibility 1
+            (BRCA1) gene, partial cds.
+ACCESSION   OP599589
+VERSION     OP599589.1
+KEYWORDS    .
+SOURCE      Diplomesodon sp.
+  ORGANISM  Diplomesodon sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Diplomesodon.
+REFERENCE   1  (bases 1 to 695)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Abramov,A.V.,
+            Sheftel,B.I., Krystufek,B. and Lebedev,V.S.
+  TITLE     The first phylogenetic data on the elusive shrews of the Crocidura
+            pergrisea species complex
+  JOURNAL   Hystrix (2023) In press
+REFERENCE   2  (bases 1 to 695)
+  AUTHORS   Bannikova,A.A., Lisenkova,A.A., Solovyeva,E.N., Zachos,F. and
+            Lebedev,V.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-OCT-2022) Zoological museum, Lomonosov MSU, Bolshaya
+            Nikitskaya, 2, Moscow 125009, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..695
+                     /organism="Diplomesodon sp."
+                     /mol_type="genomic DNA"
+                     /isolate="Dipl_08_1"
+                     /db_xref="taxon:3051455"
+                     /geo_loc_name="Russia: Astrakhan region, Dosang"
+     gene            <1..>695
+                     /gene="BRCA1"
+     mRNA            <1..>695
+                     /gene="BRCA1"
+                     /product="breast cancer susceptibility 1"
+     CDS             <1..>695
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer susceptibility 1"
+                     /protein_id="WIL96108.1"
+                     /translation="IESKETYNDKQSPSTEQKVDLNAEPLYGRRKLNKQKLSYSDSPE
+                     DPQEMTSKSSLQKVNDWFFRSDDVLTSDDFHNAGSNSNTKAETEEIPSAADGFFVSSE
+                     KEDLMASDQCDALMYESRRVLSKPVESNIEDKIFGKTYRRKASFPNLNCTTEDVTLES
+                     SLLEPQMAHKHPFTNKLKRKRRITSSLGPEDFIKKVDLAVVQKSPEKKIEKLNQMDQN
+                     GEVVNTIMKGLEI"
+ORIGIN      
+        1 atcgaaagta aagaaacata taatgataaa cagtctccca gcacagagca aaaggtagat
+       61 ctgaatgctg aacccctata tggaagaaga aaattgaaca aacagaaatt gtcatactct
+      121 gacagccctg aggatcccca agagatgact tcgaagagta gcctacagaa agttaatgat
+      181 tggtttttta gaagtgatga tgtattaact tctgatgatt tccataatgc aggatctaat
+      241 tcaaatacaa aagctgagac agaagaaatc ccaagtgcag cagatgggtt tttcgtttct
+      301 tccgagaaag aagatttaat ggccagtgat cagtgtgatg ctttaatgta tgaaagtaga
+      361 agagtcctct ccaaaccagt agagagtaac attgaagata aaatatttgg gaaaacttat
+      421 cggaggaaag caagcttccc taacttgaac tgcacaactg aagatgtaac tctagaatcg
+      481 tctctactag aaccgcaaat ggcacacaaa caccccttca caaataaatt aaaacgtaaa
+      541 agaagaatta catcaagcct tggtcctgag gattttataa agaaagtaga tttggcagtt
+      601 gttcaaaagt ctcctgaaaa gaaaattgag aagctcaacc aaatggatca aaatggtgag
+      661 gtggtgaata ctattatgaa aggtcttgaa attga
+//
+

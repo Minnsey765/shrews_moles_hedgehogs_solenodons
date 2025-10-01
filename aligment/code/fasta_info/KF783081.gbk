@@ -1,0 +1,64 @@
+LOCUS       KF783081                 834 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Atelerix albiventris isolate 1 breast cancer protein 1 (BRCA1)
+            gene, partial cds.
+ACCESSION   KF783081
+VERSION     KF783081.1
+KEYWORDS    .
+SOURCE      Atelerix albiventris (middle-African hedgehog)
+  ORGANISM  Atelerix albiventris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Atelerix.
+REFERENCE   1  (bases 1 to 834)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 834)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..834
+                     /organism="Atelerix albiventris"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:9368"
+                     /geo_loc_name="Senegal: Dakar"
+     gene            <1..>834
+                     /gene="BRCA1"
+     mRNA            <1..>834
+                     /gene="BRCA1"
+                     /product="breast cancer protein 1"
+     CDS             <1..>834
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer protein 1"
+                     /protein_id="AIN37171.1"
+                     /translation="MNVEKAEFCSKSKQPGLARNQQSRWAENMETCNDRQTPSPDKEV
+                     DLNADSLYERKELNEQISSYSNSPKDSENISWIALNSIQKVNEWLSRSDEMLTSDSYD
+                     KGSKSKTEVTGTTEVPNAIDRFFGSSEKINLTASDPHVALIHEGEGVHFKPVKNNIED
+                     KIFGKTYGRKAGLLNLSHVTEDVIIREPQVAKEPLLATKLKRKRRTDVGLCPEDFIKK
+                     VDVAIVQKTPEKIIKRPGQLDQSDQVMNIATNGHETETKSDYVQKEKNANPAESPEKE
+                     SA"
+ORIGIN      
+        1 atgaatgtag aaaaggctga attctgtagt aaaagcaaac agcctggctt agcaaggaac
+       61 caacagagca gatgggctga aaatatggaa acatgtaatg ataggcagac tcctagccca
+      121 gacaaagaag tagatctgaa tgctgattcc ctatatgaga gaaaagaact aaacgagcag
+      181 atctcttcat actccaacag tcctaaagat tccgaaaaca tttcttggat agcactgaat
+      241 agcatacaga aagtgaatga atggctttcc agaagtgatg aaatgttaac ttctgactca
+      301 tacgataagg gatctaaatc aaaaactgaa gtaactggaa caacagaagt tccaaatgca
+      361 atagatagat tttttggttc ttcagagaaa ataaacttaa cagccagtga tcctcatgtt
+      421 gctttaatac atgaaggtga aggagtccac ttcaaaccag taaagaataa tattgaagat
+      481 aaaatatttg ggaaaaccta tgggaggaag gcaggccttc ttaacttgag ccacgtaact
+      541 gaagatgtaa ttataaggga acctcaggta gccaaagagc ctctccttgc aactaaatta
+      601 aaacgtaaaa ggagaactga tgtaggtctt tgtcctgagg attttatcaa gaaagtagat
+      661 gtggcaattg ttcagaagac tcctgaaaag ataatcaaga gacctggcca actggatcaa
+      721 agtgaccaag taatgaatat tgctactaat ggtcatgaaa ctgaaacaaa gagtgattat
+      781 gttcagaagg agaaaaatgc taacccagca gaatcaccag aaaaagaatc tgct
+//
+

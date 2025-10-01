@@ -1,0 +1,53 @@
+LOCUS       AY691816                 967 bp    DNA     linear   MAM 14-OCT-2005
+DEFINITION  Sylvisorex lunaris voucher FMNH 144229 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   AY691816
+VERSION     AY691816.1
+KEYWORDS    .
+SOURCE      mitochondrion Sylvisorex lunaris (Moon Forest Shrew)
+  ORGANISM  Sylvisorex lunaris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Sylvisorex.
+REFERENCE   1  (bases 1 to 967)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Phylogeny, phylogeography, and geographic variation of Sylvisorex
+            howelli (Soricidae), an endemic shrew of the Eastern Arc Mountains,
+            Tanzania
+  JOURNAL   J. Zool. 266, 341-354 (2005)
+REFERENCE   2  (bases 1 to 967)
+  AUTHORS   Stanley,W.T. and Olson,L.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2004) Department of Zoology, Division of Mammals,
+            Field Museum of Natural History, 1400 S. Lake Shore Drive, Chicago,
+            IL 60605, USA
+FEATURES             Location/Qualifiers
+     source          1..967
+                     /organism="Sylvisorex lunaris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH 144229"
+                     /db_xref="taxon:307106"
+                     /geo_loc_name="Uganda"
+     rRNA            <1..>967
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 taaaggtttg gtcctagcct tcttattgac tgttagcaaa tttacacatg caagtctcca
+       61 cccacctgtg aaaataccct ctaaatcaat tttgattaaa aggagttggt atcaagcaca
+      121 ctttttacca aaaagtagct catgacacct tgcccagcca cacccccacg ggaaacagca
+      181 gtgataaaaa ttaggcaata aacgaaagtt tgacctagtt atgctaaata gggttggtaa
+      241 atttcgtgcc agccaccgcg gtcatacgat taacccaagt taataagcgc cggcgtaaag
+      301 cgtgttaaag gaaacttatt taaataaagt taagacttaa ctaggccgta gaaagcatta
+      361 gttaaaagaa aatcaaacta ctaaagtgac tttattaaat cccacacacg atagctaaga
+      421 accaaactgg gattagatac cccactatgc ttagccctaa accgaaatta ttaaataaca
+      481 aaattattcg ccagagtact actggcaaca gcctaaaact caaaggactt ggcggtgctt
+      541 tatatccatc tagaggagcc tgttctgtaa tcgatatacc ccgataaacc tcaccacctc
+      601 ttgccaaatc cgcctatata ccgccatctt cagcaaaccc ttaaaaggaa cagcagtaag
+      661 cctaagtatt atacataaaa acgttaggtc aaggtgtagc ttatgaggtg ggaagaaatg
+      721 ggctacattt tctacataac atagaacata tttaacgaaa gtctttatga aactaaagac
+      781 taaaggagga tttagtagta agtcaagaat agagtgcttg actgaataag gccatgaagc
+      841 acgcacacac cgcccgtcac cctcttcaag tataaagact taaccataat taatcaatta
+      901 gtcaacttat attagaggag ataagtcgta acaaggtaag catactggaa agtgtgcttg
+      961 gatgaat
+//
+

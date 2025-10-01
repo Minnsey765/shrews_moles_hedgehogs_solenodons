@@ -1,0 +1,57 @@
+LOCUS       KX754496                 821 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Parascalops breweri isolate HT-1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KX754496
+VERSION     KX754496.1
+KEYWORDS    .
+SOURCE      mitochondrion Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1  (bases 1 to 821)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 821)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..821
+                     /organism="Parascalops breweri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="HT-1"
+                     /db_xref="taxon:94437"
+                     /geo_loc_name="USA: New York, Columbia County, Hillsdale"
+                     /note="Pbrewe_1"
+     rRNA            <1..>821
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 ggtttggtcc cagcctttct attagctatc agtaaattta cacatgcaag tatccgcgcc
+       61 ccagtgagaa tacccttgaa atcattaatg atataaagga gtgggcatca agcacaccaa
+      121 tacggtagct caagacgcct tgcctagcca cacccccacg ggaaacagca gtgataaaaa
+      181 ttaagctatg aacgaaagtt tgactaagtt atactgatat agggttggta aatttcgtgc
+      241 cagccaccgc ggtcatacga ttaacccaag ttaatagaca tacggcgtaa agagtgttaa
+      301 agagttttaa aaaataaaat aaagccaaga cttaactaag atgtaaaaac ctacagttaa
+      361 agtaaaaaca aactacgaaa gtggctttac taatactctg attacacgat agctaagacc
+      421 caaactggga ttagataccc cactatgctt agccctaaac ctagacaatc aaatcaacaa
+      481 gattgttcgc cagagaacta ctagcaacag cttaaaactc aaaggacttg gcggtgcttt
+      541 atatccctct agaggagcct gttctgtaat cgataaaccc cgataaacct caccaaccct
+      601 tgctaattca gcctatatac cgccatcttc agcaaaccct taaaaggaag catagtaagc
+      661 gcaagtatag acataaaaac gttaggtcaa ggtgtagcta atgggttggg aagaaatggg
+      721 ctacattttc tatacctaga acacatctat ttaaacgaaa gtcttcatga aacggaagac
+      781 taaaggagga tttagtagta aattaagaat agagcgctta a
+//
+

@@ -1,0 +1,75 @@
+LOCUS       LC124832                1181 bp    DNA     linear   MAM 16-JAN-2025
+DEFINITION  Atopogale cubana APOB gene for apolipoprotein B, partial cds,
+            isolate: AMAR7.
+ACCESSION   LC124832
+VERSION     LC124832.1
+KEYWORDS    .
+SOURCE      Atopogale cubana (Cuban Solenodon)
+  ORGANISM  Atopogale cubana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Atopogale.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1181)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..1181
+                     /organism="Atopogale cubana"
+                     /mol_type="genomic DNA"
+                     /isolate="AMAR7"
+                     /db_xref="taxon:3370991"
+                     /geo_loc_name="Cuba: Alejandro de Humboldt National Park"
+                     /note="AMAR: Academic Mission of Almiqui Research"
+     gene            <1..>1181
+                     /gene="APOB"
+     CDS             <1..>1181
+                     /gene="APOB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="BAV56027.1"
+                     /translation="LRIPLTIPEMTFPYTTLRIPQVKDFSLWEKTSLKEFLKTTKQSF
+                     DLSVKAQYKKNKDQHSIPIPLDALYGFINHNINSFIEQCETVRDKALDFVTKSYNGAK
+                     MRFDQYKAEKSLNSPPRIFEIPGYTIPVINIKVSPFTVEMLPFGYVIPKEMRTPNFTI
+                     SGSSFYVPSYTFVLPFLELPAFHIPRKFDKLSLPEFKALSTPKKILISAIGNITYDFS
+                     FKSSLITLNTNVELYNQSDIIVHFLTSSSSVTEALQYKLEGTSSLTRKRGLKLATALS
+                     LSNKFVEGHHDSTISLTKKNIDASMTTAAQVQIPILKMNFKQEFNGNTKSKPTVSSSL
+                     ELKYDFNSPKLYSSMSGEVNHKLHMESLTSYFSIESSAKGDIKGLILSQEYSGTIANE
+                     A"
+ORIGIN      
+        1 tcttacgcat tcctttaaca attcctgaaa tgactttccc ttacacaaca ctcaggattc
+       61 cccaggtgaa agatttctcc ttatgggaaa aaacatcctt gaaggaattc ttgaaaacaa
+      121 caaagcaatc atttgattta agtgtaaagg ctcagtataa gaaaaacaaa gaccaacatt
+      181 ccatcccaat tcctttggat gcattgtatg ggtttatcaa tcataacatc aattccttca
+      241 ttgagcaatg tgaaacagtc agagataagg ccttagattt tgttaccaaa tcatataatg
+      301 gagcaaaaat gaggtttgat cagtataaag ctgaaaaatc tctcaacagc ccacccagga
+      361 tctttgaaat tcctggatat actattccag ttatcaatat caaagtatct ccatttacag
+      421 tggagatgct gccatttgga tatgtgattc caaaagagat gaggacgccc aattttacca
+      481 tctcaggttc tagcttctat gtgccttcgt atacatttgt cctgccattc ctggaactcc
+      541 cagcctttca tatccctagg aaatttgaca agctttctct tccagaattc aaagcattga
+      601 gtaccccaaa gaaaatttta atttcagcca taggcaatat tacctatgac ttttccttta
+      661 aatcgagtct catcacactg aataccaatg ttgaacttta taaccaatca gatattattg
+      721 ttcatttttt aacatcctct tcttctgtca ctgaagcact gcagtacaag ttagaaggca
+      781 cctcaagttt gacaaggaaa agggggctga agctagccac agctttgtct ctgagtaaca
+      841 aatttgtgga aggccatcat gacagtacta ttagtttaac caagaaaaac atagacgcat
+      901 ccatgacaac agctgcacaa gtccaaattc caattctgaa aatgaatttc aagcaggaat
+      961 ttaatggaaa taccaagtca aaacctactg tctcttcatc ccttgaatta aagtatgatt
+     1021 tcaattcccc caagctgtac tcatctatgt caggagaagt taaccacaaa ctccacatgg
+     1081 aaagccttac ctcttacttt tccattgagt cctctgccaa aggagatatc aagggtttga
+     1141 tcctttcaca ggaatattca ggaacaattg ccaatgaggc c
+//
+

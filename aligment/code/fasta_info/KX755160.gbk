@@ -1,0 +1,71 @@
+LOCUS       KX755160                 861 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Neurotrichus gibbsii isolate Neurgi_3 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755160
+VERSION     KX755160.1
+KEYWORDS    .
+SOURCE      Neurotrichus gibbsii
+  ORGANISM  Neurotrichus gibbsii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Neurotrichus.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Neurotrichus gibbsii"
+                     /mol_type="genomic DNA"
+                     /isolate="Neurgi_3"
+                     /db_xref="taxon:182677"
+                     /geo_loc_name="Canada: British Columbia, Coquitlam"
+                     /note="SM-3"
+     gene            <1..>861
+                     /gene="APOB"
+     mRNA            <1..>861
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>861
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33565.1"
+                     /translation="EKTGLKEFLRTTKQSFDLSVKTQYKKNKDQHSISIPLDVFYVFL
+                     HRNINSVIRQLEKSRHEAVVSLINAYNEAKIKFDKYKVEKSLNNQARTFQIPGYTIPV
+                     FNIEASPSTVKMSPFGFVIPEELSTPSFTIRGSDISVPSYTLALPSLVLPGLTAPMRP
+                     LEFSLPEFEILSTPRNILIPALGNITYDFSFKSSVITLNTNAELYNQSDIVVHFLSSS
+                     SSVVDALQYKLEASSSLTRKRGLKLATALSLSNEFVGGSHNSTISFTKKNMEASVTTT
+                     AKVQTSMLNMN"
+ORIGIN      
+        1 gaaaaaacag gcttgaagga attcttgaga accaccaagc agtcatttga tttaagtgta
+       61 aagactcagt acaagaaaaa caaagaccag cattccatct caattccttt ggatgtgttt
+      121 tatgtgtttc tgcatcggaa catcaattcc gtcatcaggc aattagagaa aagcagacat
+      181 gaggctgtag tatctcttat caatgcctat aatgaagcaa aaatcaaatt tgataagtac
+      241 aaggttgaaa agtccctcaa caaccaagcc aggacctttc aaattcctgg gtacactatt
+      301 ccagtcttca acattgaagc ttccccatca acagtaaaaa tgtcaccatt cggctttgtg
+      361 atcccagaag agctcagcac ccccagcttc accatccggg gttctgacat ctctgtcccc
+      421 tcctatacat tagccctgcc atccctggtg ctgccaggcc tgactgcccc tatgagacct
+      481 cttgagtttt ctcttccaga attcgagata ttgagcacgc caaggaacat cttaattcct
+      541 gcgctgggca atattaccta tgatttttcc tttaaatcga gtgtcatcac gctgaacacc
+      601 aatgctgagc tttataacca atcagacatt gtcgttcatt tccttagttc ctcttcttcc
+      661 gtcgtggatg ctctgcagta caagctggag gcctcctcaa gtttgacgag gaaaagaggg
+      721 ctcaagttag ccacagcctt gtctctgagc aatgagttcg tgggaggcag tcacaacagt
+      781 accattagct tcacaaaaaa aaacatggaa gcatcggtga caaccaccgc caaagtgcaa
+      841 acttcaatgt tgaatatgaa t
+//
+

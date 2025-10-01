@@ -1,0 +1,57 @@
+LOCUS       GU223699                 542 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Sorex caecutiens voucher MSB:Mamm:146478 apolipoprotein B (ApoB)
+            gene, partial cds.
+ACCESSION   GU223699
+VERSION     GU223699.1
+KEYWORDS    .
+SOURCE      Sorex caecutiens (Laxmann's shrew)
+  ORGANISM  Sorex caecutiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 542)
+  AUTHORS   Hope,A.G., Waltari,E., Dokuchaev,N.E., Abramov,S., Dupal,T.,
+            Tsvetkova,A., Henttonen,H., MacDonald,S.O. and Cook,J.A.
+  TITLE     High-latitude diversification within Eurasian least shrews and
+            Alaska tiny shrews (Soricidae)
+  JOURNAL   J. Mammal. 91 (5), 1041-1057 (2010)
+REFERENCE   2  (bases 1 to 542)
+  AUTHORS   Hope,A.G., Waltari,E., Dokuchaev,N.E., Abramov,S., Dupal,T.,
+            Henttonen,H., MacDonald,S.O. and Cook,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-NOV-2009) Department of Biology and Museum of
+            Southwestern Biology, University of New Mexico, MSC03 2020,
+            Albuquerque, NM 87131, USA
+FEATURES             Location/Qualifiers
+     source          1..542
+                     /organism="Sorex caecutiens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MSB:Mamm:146478"
+                     /db_xref="taxon:62276"
+     gene            <1..>542
+                     /gene="ApoB"
+     mRNA            <1..>542
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>542
+                     /gene="ApoB"
+                     /codon_start=2
+                     /product="apolipoprotein B"
+                     /protein_id="ADP06746.1"
+                     /translation="QSFDLSVKTQYKKNKDTYPIPLPLDIFYVYFNHNINSFIRQVEK
+                     VREKTFGFVIESYNEAKVKYDEYKVEKSDTKNPRTFQIPGYTIPVVNIEASSFTVEMF
+                     PFGYVIPRAINTPTFTILSSGFSVPSYTLVLPIPELPTLHVPKFLELSLPEFKELSIP
+                     RNIFIPALGNITYDFSFKSS"
+ORIGIN      
+        1 gcaatcattt gacttaagtg taaagactca gtataagaaa aacaaagaca cgtatcccat
+       61 cccacttcct ttggatatat tttatgtgta ttttaatcat aatatcaatt cctttatcag
+      121 gcaagttgag aaagtcagag agaagacatt tggtttcgtt attgaatcct ataatgaagc
+      181 aaaagttaaa tatgatgagt ataaggttga aaaatctgac accaaaaacc caaggacctt
+      241 tcaaattcca ggctacacca ttcctgttgt caatattgaa gcatcttcct tcacagtaga
+      301 gatgtttcca ttcggttatg tgatccccag agcgatcaac actcccacat tcaccatcct
+      361 gagttctggc ttttcagtgc cctcatatac tttagtcctg ccaattccag aactaccaac
+      421 ccttcatgtc cctaaatttc tcgagctttc tcttccagaa ttcaaagaat tgagtatccc
+      481 aaggaatatt tttattccag ccctgggaaa tattacctat gacttttcct ttaaatcaag
+      541 tg
+//
+

@@ -1,0 +1,66 @@
+LOCUS       KF783086                 849 bp    DNA     linear   MAM 15-SEP-2014
+DEFINITION  Neotetracus sinensis isolate 1 voucher Neo1 breast cancer protein 1
+            (BRCA1) gene, partial cds.
+ACCESSION   KF783086
+VERSION     KF783086.1
+KEYWORDS    .
+SOURCE      Neotetracus sinensis (Shrew gymnure)
+  ORGANISM  Neotetracus sinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Neotetracus.
+REFERENCE   1  (bases 1 to 849)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Contrasting evolutionary history of hedgehogs and gymnures
+            (Mammalia: Erinaceomorpha) as inferred from a multigene study
+  JOURNAL   Biol. J. Linn. Soc. Lond. (2014) In press
+REFERENCE   2  (bases 1 to 849)
+  AUTHORS   Bannikova,A.A., Lebedev,V.S., Abramov,A.V. and Rozhnov,V.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2013) Vertebrate Zoology, Lomonosov Moscow State
+            University, Vorobyevy Gory, 1/12, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..849
+                     /organism="Neotetracus sinensis"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /specimen_voucher="Neo1"
+                     /db_xref="taxon:977878"
+                     /geo_loc_name="Viet Nam"
+     gene            <1..>849
+                     /gene="BRCA1"
+     mRNA            <1..>849
+                     /gene="BRCA1"
+                     /product="breast cancer protein 1"
+     CDS             <1..>849
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer protein 1"
+                     /protein_id="AIN37176.1"
+                     /translation="TDIEKAEFCSKSKQAGLSMSQQSRWAESKEACHEQQTPSPEKEV
+                     DLNADSLCERKELHEQKTPGSSSPKYSQDASWIALNSSIQKVSEWLSRSDEMLTSDDS
+                     CDGGSEPNTAVTGAEVPNARDGLFSSSEKTDVITSGXLSTLRHESSRVYPKPVESNIE
+                     DKIFGKTYRRKANLLNLSHVTEDVTLRASDPEPPVAKEPLLATKLKRKRSTNVGLCPE
+                     DFIKKVDAAVVQKTPEKVTEGPEQVENKGQVMNITTSDHKTETQGDCAQKEKSDNSVE
+                     SPERQSA"
+ORIGIN      
+        1 acggatatag aaaaggctga attctgtagt aaaagcaagc aggctggctt atcaatgagc
+       61 cagcagagca gatgggctga aagcaaggaa gcgtgtcatg agcagcagac gcctagccca
+      121 gagaaagaag tagatctgaa tgccgattct ctgtgtgaga gaaaagagct gcatgagcag
+      181 aaaacaccag gctccagcag ccctaaatat tcccaagatg cctcttggat agcactgaac
+      241 agtagcatac agaaagtgag tgagtggctt tccagaagtg atgaaatgtt aacttctgat
+      301 gactcctgtg atgggggatc tgaaccaaat actgcggtaa ccggagcaga agttccaaat
+      361 gcaagagatg gacttttcag ctcttcagag aaaacagatg taatcaccag tggtcytctg
+      421 agtaccttaa gacatgaaag cagccgggtc taccccaaac cagttgagag taatattgaa
+      481 gataaaatat ttgggaagac ctacaggagg aaggcaaacc ttcttaactt gagccatgta
+      541 actgaagatg taactctaag ggcatctgat ccagaacctc cggtggcgaa agaacctctc
+      601 cttgcaacta aattaaaacg taaaaggagt acgaatgtag gtctttgtcc tgaggatttt
+      661 atcaagaaag ttgatgcagc agttgttcag aagactcctg aaaaggtaac tgaaggacct
+      721 gagcaggtgg aaaataaagg ccaagtaatg aatattacta ctagtgatca taagactgaa
+      781 acacaaggtg attgtgctca gaaagagaaa agtgataact ctgtagaatc accagaaaga
+      841 caatctgct
+//
+

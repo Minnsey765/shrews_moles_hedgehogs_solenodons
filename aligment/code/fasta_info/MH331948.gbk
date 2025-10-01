@@ -1,0 +1,64 @@
+LOCUS       MH331948                 731 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Sorex coronatus voucher VZMU Scor 2 recombination activating
+            protein 2 (RAG2) gene, partial cds.
+ACCESSION   MH331948
+VERSION     MH331948.1
+KEYWORDS    .
+SOURCE      Sorex coronatus (crowned shrew)
+  ORGANISM  Sorex coronatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 731)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 731)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..731
+                     /organism="Sorex coronatus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="VZMU Scor 2"
+                     /db_xref="taxon:62895"
+                     /geo_loc_name="Spain: Caldes de Boi, Lleida"
+     gene            <1..>731
+                     /gene="RAG2"
+     mRNA            <1..>731
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>731
+                     /gene="RAG2"
+                     /codon_start=2
+                     /product="recombination activating protein 2"
+                     /protein_id="AZD26161.1"
+                     /translation="RYPAICLFKGNLESEKHEYIIHGGKTPNNELSDKIYTISVVCKN
+                     NKKVTFRCTEKDLVGDIPEARYGHSIDMVYSRGKTMGVLFGGRSYMPSAQRITEKWNT
+                     VADCPPHVFLVDFEFGCSTSYILPELQDGLSFHVSIARKDTVYILGGHSLSNNIRPAN
+                     LYRIKVDLPLGSPAVNCTVLPGGISVSSAILTQTSNDEFIIVGGYQLENQKKMVCNIV
+                     SLEDNKIEINEMETPDWTPDIKHSK"
+ORIGIN      
+        1 tcgctaccca gccatttgtc tattcaaagg taacctggag tctgaaaaac atgaatacat
+       61 cattcatgga gggaaaacac caaacaatga gctttcagat aaaatatata ccatatctgt
+      121 tgtttgcaag aacaacaaaa aagttacttt tcgctgcaca gagaaagact tagtgggaga
+      181 tattcctgaa gccagatatg gtcattccat tgatatggta tatagtcgag gaaaaactat
+      241 gggtgttctc tttggaggac gctcgtacat gccttctgcc caaagaatca cagaaaaatg
+      301 gaatactgta gcagactgcc caccccatgt tttcttggtg gattttgaat ttggatgttc
+      361 tacatcatac attcttccag aacttcaaga tgggctgtct tttcatgtct caattgccag
+      421 aaaagatact gtctatattt taggaggaca ttcactttcc aataacattc gcccagccaa
+      481 cctgtacaga ataaaggttg atctgcccct gggtagccca gctgtgaatt gcacagtctt
+      541 gccaggagga atctcagttt ccagtgcaat cctgactcaa acaagcaatg atgaatttat
+      601 tattgttggt ggttatcaac ttgaaaatca aaaaaaaatg gtttgcaaca tcgtgtcttt
+      661 agaggataac aagatagaaa ttaatgagat ggagactcca gactggaccc cggatattaa
+      721 gcacagcaaa a
+//
+

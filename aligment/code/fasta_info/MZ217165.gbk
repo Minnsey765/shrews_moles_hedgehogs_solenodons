@@ -1,0 +1,60 @@
+LOCUS       MZ217165                 654 bp    DNA     linear   MAM 19-OCT-2022
+DEFINITION  Scapanus orarius orarius voucher MVZ_224399 cytochrome c oxidase
+            subunit 3 (COX3) gene, partial cds; mitochondrial.
+ACCESSION   MZ217165
+VERSION     MZ217165.1
+KEYWORDS    .
+SOURCE      mitochondrion Scapanus orarius orarius
+  ORGANISM  Scapanus orarius orarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanus.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Alvarez-Castaneda,S.T. and Cortes-Calva,P.
+  TITLE     Revision of moles in the genus Scapanus
+  JOURNAL   Therya 12 (2), 275-281 (2021)
+REFERENCE   2  (bases 1 to 654)
+  AUTHORS   Alvarez-Castaneda,S.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAY-2021) Planeacion Ambiental y Conservacion, Centro
+            de Investigaciones Biologicas del Noroeste, Av Instituto
+            Politecnico Nacional 195, La Paz, Baja California Sur 23096, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /organism="Scapanus orarius orarius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /sub_species="orarius"
+                     /specimen_voucher="MVZ_224399"
+                     /db_xref="taxon:2977543"
+                     /geo_loc_name="USA: CA"
+                     /lat_lon="39.7506 N 123.8190 W"
+     gene            <1..>654
+                     /gene="COX3"
+     CDS             <1..>654
+                     /gene="COX3"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 3"
+                     /protein_id="UYF11902.1"
+                     /translation="PWPLTGALSALLLTSGLAMWFHFNSTTLLCLGLLGNSLTMFQWW
+                     RDVVREGTFQGHHTPVVQKGLRYGMVLFIISEVFFFAGFFWAFYHSSLAPTHELGGFW
+                     PPAGIHPLNPLEVPLLNTSVLLASGVSITWAHHSLMEGNRKHMIQALFITIALGVYFT
+                     VLQATEYYEAPFTISDGVYGSTFFMATGFHGFHVIIGTTFLTVCFIRQLKYHFTSQH"
+ORIGIN      
+        1 cccatgacca ctcacaggag ccctatcagc cctccttctg acttcaggac tagcaatatg
+       61 atttcacttt aactcaacaa ctctattatg cctcggccta ctaggaaact ccttaaccat
+      121 attccaatga tgacgagacg tagtgcgaga aggcacattc caaggccacc atacccctgt
+      181 tgtccaaaag ggcctacgat acggaatagt cctatttatc atttcagaag tattcttttt
+      241 tgcaggcttc ttctgagctt tttatcactc cagcctagcc ccaacccacg aattaggagg
+      301 cttttgacca cccgcaggga tccacccact caacccacta gaagttccac ttctaaacac
+      361 ctcagtacta ctcgcctcag gagtctcaat cacttgagca caccacagcc taatagaagg
+      421 taaccgaaaa catataattc aagccttatt catcactatt gctttaggag tatacttcac
+      481 agtcctacaa gcaacagaat actatgaagc accattcact atttctgacg gcgtatatgg
+      541 ctcaaccttc ttcatagcaa caggcttcca cggattccac gtaatcatcg gaaccacatt
+      601 cttaacagta tgctttattc gtcaattaaa ataccacttt acatcacaac acca
+//
+

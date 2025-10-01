@@ -1,0 +1,60 @@
+LOCUS       MW670322                 513 bp    DNA     linear   MAM 24-AUG-2021
+DEFINITION  Soriculus nigrescens isolate 971 apolipoprotein B (apob) gene,
+            partial cds.
+ACCESSION   MW670322
+VERSION     MW670322.1
+KEYWORDS    .
+SOURCE      Soriculus nigrescens (Himalayan shrew)
+  ORGANISM  Soriculus nigrescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Soriculus.
+REFERENCE   1  (bases 1 to 513)
+  AUTHORS   Jiang,H., Fu,C., Tang,K., Li,F., Xie,F., Qin,B., Chen,D., Chen,S.
+            and Liu,S.
+  TITLE     Molecular phylogenetic and phylogeography of Soriculus nigrescens
+            in southwest China
+  JOURNAL   Authorea (2021) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 513)
+  AUTHORS   Jiang,H.J., Fu,C.K., Tang,K.Y., Li,F.J., Xie,F., Qin,B.X., Chen,D.,
+            Chen,S.D. and Liu,S.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-2021) College of Life Sciences, Sichuan Normal
+            University, No. 1819, Section 2, Chenglong Avenue, Longquan
+            District, Chengdu, Sichuan 610066, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..513
+                     /organism="Soriculus nigrescens"
+                     /mol_type="genomic DNA"
+                     /isolate="971"
+                     /db_xref="taxon:62296"
+     gene            <1..>513
+                     /gene="apob"
+     mRNA            <1..>513
+                     /gene="apob"
+                     /product="apolipoprotein B"
+     CDS             <1..>513
+                     /gene="apob"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="QZB59163.1"
+                     /translation="PLPLDIFYVIFSHNINSFIRQVEKVRDKALGFVIQSYNEAKIKS
+                     DEYKTENSITKQPRTFKIPGYTIPVANIEASPSTVEMFPFGYVIPKEINTPNFTILGS
+                     GFSVPSYTLVLPFLELPALYLPKFLELSFPEFKVLNIPRNVFIPALGNITYDFSFKSS
+                     VITLNANAGLY"
+ORIGIN      
+        1 ccacttcctt tggatatctt ttatgtgatt tttagtcata atatcaattc ctttatcaga
+       61 caagttgaga aagtcagaga caaggcattg ggttttgtta ttcaatccta taatgaagca
+      121 aaaattaaat ctgatgagta taagactgaa aactctatca ccaaacaacc aaggaccttt
+      181 aaaattccag ggtacaccat tccagttgct aatatcgaag catctccatc cacagtagag
+      241 atgtttccat ttggttatgt gatcccaaaa gaaatcaaca cccccaactt cactattctg
+      301 ggttctggct tctctgtgcc ctcatatact ttagtcctgc catttctaga attaccagcc
+      361 ctttatctcc ctaaatttct tgagctttct tttccagaat tcaaagtact gaatatccca
+      421 aggaatgttt tcattccagc cctgggaaat attacatatg atttttcctt taaatcgagt
+      481 gtcattacac tgaatgctaa tgctggactt tat
+//
+

@@ -1,0 +1,61 @@
+LOCUS       MW381936                 560 bp    DNA     linear   MAM 17-MAY-2021
+DEFINITION  Crocidura lasiura isolate NED171/2004 growth hormone receptor (GHR)
+            gene, partial cds.
+ACCESSION   MW381936
+VERSION     MW381936.1
+KEYWORDS    .
+SOURCE      Crocidura lasiura
+  ORGANISM  Crocidura lasiura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 560)
+  AUTHORS   Bannikova,A., Zemlemerova,E., Lebedev,V. and Lavrenchenko,L.
+  TITLE     The close relation of the two contrast endemic groups of Crocidura
+            from Ethiopia and Tanzania: evidence from mitochondrial and nuclear
+            data
+  JOURNAL   Mamm Biol (2021) In press
+REFERENCE   2  (bases 1 to 560)
+  AUTHORS   Bannikova,A., Zemlemerova,E., Lebedev,V. and Lavrenchenko,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2020) Laboratory for microevolution of mammals,
+            A.N. Severtsov Institute of Ecology and Evolution, Russian Academy
+            of Sciences, 33 Leninsky prospect, Moscow 119071, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..560
+                     /organism="Crocidura lasiura"
+                     /mol_type="genomic DNA"
+                     /isolate="NED171/2004"
+                     /db_xref="taxon:167043"
+                     /geo_loc_name="Russia: Khabarovsk region, Lazovsky
+                     district"
+     gene            <1..>560
+                     /gene="GHR"
+     mRNA            <1..>560
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>560
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="QVE48290.1"
+                     /translation="TSCYEPDILETDFHASDTCDGTSELEQPQRLKEAVLLCLEKKQN
+                     HSLADDTLSSIPQPSVTLAQESKSRPLVMGGTESTHPTIHTQLSNPSSLANIDFYAQV
+                     SDITPAGSVVLSPGQKMKAGMVHFDIHPEVVSLSQSNFIMDNAYFCEADAKKCITTGP
+                     HLEVQSRAEPSFNQEDIYITTESLTTT"
+ORIGIN      
+        1 accagctgtt atgaacctga cattctggag actgatttcc atgctagtga cacatgtgat
+       61 ggtacctcag agcttgagca gccacaaagg ttaaaagaag cggttctctt gtgccttgag
+      121 aagaaacaaa atcactcact cgctgatgat actctctctt ctattccaca acccagtgta
+      181 accttagcac aggaaagtaa atcaagacca cttgttatgg gtggaactga atcaactcat
+      241 ccaactattc acactcagct aagcaatcca agttcactgg caaatattga cttttatgcc
+      301 caggtaagcg atattacacc agcagggagt gtggtcctat ccccgggcca aaagatgaag
+      361 gcagggatgg tccactttga cattcatcca gaagtggttt cactctccca atcaaatttc
+      421 atcatggaca atgcctactt ctgtgaggct gatgccaaaa agtgtatcac aacaggccct
+      481 cacctagagg tccaatcacg tgcagagcca agctttaacc aggaagacat ttacatcacc
+      541 acagaaagcc ttaccactac
+//
+

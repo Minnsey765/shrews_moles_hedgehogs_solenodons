@@ -1,0 +1,72 @@
+LOCUS       KX754545                 810 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scapanulus oweni isolate Soweni_4 breast cancer 1 (BRCA1) gene,
+            exon 11 and partial cds.
+ACCESSION   KX754545
+VERSION     KX754545.1
+KEYWORDS    .
+SOURCE      Scapanulus oweni (Gansu mole)
+  ORGANISM  Scapanulus oweni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanulus.
+REFERENCE   1  (bases 1 to 810)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 810)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..810
+                     /organism="Scapanulus oweni"
+                     /mol_type="genomic DNA"
+                     /isolate="Soweni_4"
+                     /specimen_voucher="KIZ:110501"
+                     /db_xref="taxon:1300117"
+                     /geo_loc_name="China: Shaanxi"
+     gene            <1..>810
+                     /gene="BRCA1"
+     mRNA            <1..>810
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>810
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="APD33008.1"
+                     /translation="SKQPDLARSQQNRWAESKETCNDRQIPSPEKRVGSNADPIYGRK
+                     EPNKQKSPCSDSPRNSQGVAWITLNSSIRKVNEWFSRSDEILTSDDSRDGESECNIEM
+                     TGAVEVPNAVDGFSGSSEKIDLMASDPPALMCKSERVHTKPVESNIEDKIFGKTYRRK
+                     TSLPNLSHVTEYLITGTSATXPQVAQERPFTNRLKRKRRTTPGLCPEDFIKKVDLAVQ
+                     NTPEKISEGTDQMNQSGQVMDITYDGHGNETKRDYAQKEKSANPTESSEKES"
+     exon            <1..>810
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agcaaacagc ctgacttagc aaggagccag cagaacagat gggctgaaag taaagaaaca
+       61 tgtaatgata ggcagattcc cagcccagag aaaagggtag gctcaaatgc cgatcccata
+      121 tatgggagaa aagaaccgaa taagcagaaa tctccatgct ctgacagccc cagaaattcc
+      181 caaggtgttg cctggataac actgaacagt agcattcgga aagtcaatga gtggttttcc
+      241 agaagtgatg aaatattaac ttctgatgac tctcgtgatg gggagtccga atgcaatatt
+      301 gaaatgactg gtgcagtgga agttccaaat gcagtagatg gattttctgg ttcttcagag
+      361 aaaatagact taatggccag cgatcctccc gctttaatgt gtaaaagtga aagagttcac
+      421 actaaaccag tagaaagtaa tattgaagat aagatatttg ggaaaaccta tcggaggaaa
+      481 acaagcctcc caaacttgag ccacgtgact gaatatttaa ttacagggac atctgccaca
+      541 raacctcagg tagctcaaga gcgtcccttc acaaatagat taaagcgtaa aaggagaact
+      601 acaccaggcc tttgtcctga ggattttatc aaaaaagtag atttggcagt tcagaacacc
+      661 cctgaaaaga taagtgaagg aactgaccaa atgaatcaga gtggccaagt gatggatatt
+      721 acttaygatg gtcatgggaa tgaaacaaaa cgtgattatg ctcagaaaga raaaagtgct
+      781 aacccaactg aatcatcaga aaaagaatct
+//
+

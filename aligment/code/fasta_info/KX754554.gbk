@@ -1,0 +1,74 @@
+LOCUS       KX754554                1008 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Desmana moschata isolate DM-1 recombination activating protein 1
+            (RAG1) gene, partial cds.
+ACCESSION   KX754554
+VERSION     KX754554.1
+KEYWORDS    .
+SOURCE      Desmana moschata
+  ORGANISM  Desmana moschata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Desmana.
+REFERENCE   1  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1008
+                     /organism="Desmana moschata"
+                     /mol_type="genomic DNA"
+                     /isolate="DM-1"
+                     /db_xref="taxon:182682"
+                     /geo_loc_name="Russia: Vladimirskiy, Rockovskoye lake"
+                     /note="Dmosch_1"
+     gene            <1..>1008
+                     /gene="RAG1"
+     mRNA            <1..>1008
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1008
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="APD33017.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTVMNITIAHGSQTVKVF
+                     EETKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQLMLEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPNASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTKETVEAVCELIPSE
+                     ERHEALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFAELLSTKFKYRYEGK
+                     IT"
+ORIGIN      
+        1 tcttgcgatg ggatgggaga cgtgagtgag aagcatggga gtgggccagc tgttcctgaa
+       61 aaggctgttc ggttttcgtt cactgtcatg aatatcacta tagcgcatgg ctcacagacg
+      121 gtgaaggtgt ttgaggaaac caaacccaat tccgaactgt gttgcaagcc cttgtgcctt
+      181 atgctggccg acgagtctga ccacgagacc ctgactgcca tcctgagccc ccttattgcc
+      241 gagagggagg ccatgaagag cagccagtta atgctcgaaa tgggaggcat cctccggact
+      301 ttcaagttca tctttagggg cacaggatat gatgagaaac ttgtccgaga agtagaagga
+      361 cttgaggctt ccgggtcagt ctatatttgc accctctgtg atgccacccg cttggaagct
+      421 tcccaaaatc ttgtcttcca ctccataacc agaagccaca cggagaacct ggagcgctac
+      481 gaggtctggc gctccaaccc ctaccacgag tctgtggaag aattgaggga ccgcgtgaaa
+      541 ggggtctcgg ccaaaccctt cattgagaca gtcccttcca tagatgcgct tcactgtgac
+      601 atcggcaacg cagctgagtt ctacaagatc ttccagctag agatagggga ggtgtataag
+      661 aatcccaatg cttccaaaga ggaaaggaaa agatggcagg ctacactgga caagcatctc
+      721 cggaagaaga tgaacctgaa acccatcatg aggatgaacg gcaactttgc caggaagctc
+      781 atgaccaaag agaccgtaga agcggtttgt gaattaattc cctcagagga gaggcatgaa
+      841 gctctgcggg agctgatgga cctttatctg aagatgaaac ccgtgtggcg atcttcatgc
+      901 cctgctaagg agtgtcccga atccctctgc cagtatagtt tcaattcaca gcgttttgct
+      961 gagctcctct ctaccaagtt caagtataga tatgagggca aaatcacc
+//
+

@@ -1,0 +1,81 @@
+LOCUS       MK410342                1140 bp    DNA     linear   MAM 24-MAR-2019
+DEFINITION  Dymecodon pilirostris isolate JA5196TA cytochrome b (cytb) gene,
+            complete cds; mitochondrial.
+ACCESSION   MK410342
+VERSION     MK410342.1
+KEYWORDS    .
+SOURCE      mitochondrion Dymecodon pilirostris
+  ORGANISM  Dymecodon pilirostris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Dymecodon.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Arai,S., Kikuchi,F., Bawm,S., Son,N.T., Lin,K.S., Tu,V.T., Aoki,K.,
+            Tsuchiya,K., Tanaka-Taya,K., Morikawa,S., Oishi,K. and
+            Yanagihara,R.
+  TITLE     Molecular Phylogeny of Mobatviruses (Hantaviridae) in Myanmar and
+            Vietnam
+  JOURNAL   Viruses 11 (3), E228 (2019)
+   PUBMED   30866403
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Arai,S., Kikuchi,F., Bawm,S., Son,N.T., Lin,K.S., Tu,V.T., Aoki,K.,
+            Tsuchiya,K., Tanaka-Taya,K., Morikawa,S., Yanagihara,R. and
+            Oishi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JAN-2019) Infectious Disease Surveillance Center,
+            National Institute of Infectious Diseases, Toyama 1-23-1, Shinjuku,
+            Tokyo 162-8640, Japan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Dymecodon pilirostris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="JA5196TA"
+                     /db_xref="taxon:182680"
+                     /sex="female"
+                     /tissue_type="lung"
+                     /geo_loc_name="Japan: Okutama, Tokyo"
+                     /collection_date="25-Apr-2015"
+                     /collected_by="Tama zoo"
+                     /note="field_number: TA"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="QBO24348.1"
+                     /translation="MTNLRKTHPLMKIINNSFIDLPAPSNISSWWNFGSLLGICLILQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMFMETWNIGVILLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFVIAALAGVHLLFLHETGSNNPSGLTSDSDKI
+                     PFHPYYTIKDILGALILILVLTSLVLFSPDLLGDPDNYIPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVFSILVLALMPLLHTSKQRSMMFRPISQCLFWLLVADLFT
+                     LTWIGGQPVEHPFIIIGQLASILYFMLILVLMPIASLAENNLLKW"
+ORIGIN      
+        1 atgacaaacc tacgaaaaac acacccccta ataaaaatta tcaacaactc atttatcgat
+       61 ttaccagcac cctcaaacat ttcatcatga tgaaactttg gctcactttt aggaatctgc
+      121 ttaattttac aaatcttaac aggcctattc ttagcaatac attacacatc cgacacaata
+      181 acagcatttt catcagtaac acatatctgc cgagacgtca attacggttg actaattcga
+      241 tacttacacg ccaacggagc atctatattt ttcatttgcc tattcctaca tgtaggccga
+      301 ggattatatt atgggtccta tatatttata gagacatgaa atattggggt gattttacta
+      361 tttgctgtaa tagccaccgc attcatagga tacgttttac catggggcca aatatctttt
+      421 tgaggcgcaa cagtaattac aaatctacta tccgccatcc cctacatcgg cactgaccta
+      481 gtagaatgaa tctgaggggg gttctcagta gataaagcta ctcttacccg attcttcgcc
+      541 tttcacttca tcctgccatt cgtaatcgct gccctagcag gagtacattt attatttctc
+      601 catgaaacgg gttctaataa tccctccgga ctcacatctg actcagacaa aatcccattt
+      661 cacccctact acacaattaa agatatctta ggagcactaa ttctaatctt agtattaacc
+      721 tctctagtac tattctcgcc agacctccta ggagaccccg acaactatat tccagcaaac
+      781 ccattaaaca cccctccaca catcaaacca gagtgatatt tcctattcgc atatgcaatc
+      841 ttacgatcca ttccaaataa gctaggaggg gtcttagccc tagtattctc catcctagtc
+      901 ctagccctaa taccacttct acatacctca aaacaacgaa gtataatatt ccgaccaatc
+      961 agccaatgct tattctgatt actagtagca gacttattta ccctaacatg aattggtgga
+     1021 caaccagtag aacatccatt cattatcatc ggacaactag cctctattct gtacttcata
+     1081 ctcatcctag tcctaatacc aatcgcaagc cttgcagaaa acaacctact caaatgaaga
+//
+

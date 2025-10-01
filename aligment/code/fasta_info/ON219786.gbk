@@ -1,0 +1,65 @@
+LOCUS       ON219786                 768 bp    DNA     linear   MAM 12-NOV-2022
+DEFINITION  Chimarrogale styani isolate CSD4477 growth hormone receptor (GHR)
+            gene, partial cds.
+ACCESSION   ON219786
+VERSION     ON219786.1
+KEYWORDS    .
+SOURCE      Chimarrogale styani (Chinese water shrew)
+  ORGANISM  Chimarrogale styani
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Chimarrogale.
+REFERENCE   1  (bases 1 to 768)
+  AUTHORS   Fan,R., Tang,K., Dou,L., Fu,C., Faiz,A.U.H., Wang,X., Wang,Y.,
+            Chen,S. and Liu,S.
+  TITLE     Molecular phylogeny and taxonomy of the genus Nectogale (Mammalia:
+            Eulipotyphla: Soricidae)
+  JOURNAL   Ecol Evol 12 (10), e9404 (2022)
+   PUBMED   36311392
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 768)
+  AUTHORS   Chen,S. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2022) College of Life Sciences, Sichuan Normal
+            University, Chenglong Street 1819, Chengdu, Sichuan 610066, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..768
+                     /organism="Chimarrogale styani"
+                     /mol_type="genomic DNA"
+                     /isolate="CSD4477"
+                     /specimen_voucher="SCNU02859"
+                     /db_xref="taxon:1365920"
+     gene            <1..>768
+                     /gene="GHR"
+     mRNA            <1..>768
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>768
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="UZF66017.1"
+                     /translation="DTDKLLIHDPEKPLSILGAKDDDSGRTSCYDPDILETDFNASDT
+                     GDGTSEPAQPQRLKEEADLLCLDQKNQNLSLSDDALSSTPRPSAALAQENKPRPLGIG
+                     GTVSTHPTTHTQSSNPSSLANIDFYAQVSDITPAGSVVLSPGQKAKAGVAQYDIHPEM
+                     VSRSHANFIMDSAYFCEADAKKCVPAAPRLEAQSHVEPSFNQEDIYITTESLTTTAGR
+                     SGTVEQAPSSELPVPDYTSIHLVQSPQGLILNATALPL"
+ORIGIN      
+        1 gataccgaca aacttctaat ccacgaccct gagaaaccac ttagcatcct tggggcaaaa
+       61 gacgacgact ctggacgtac cagctgttat gatcctgaca ttctagagac tgattttaat
+      121 gcgagtgaca cgggtgatgg tacctcagag cctgctcagc cacagaggtt aaaagaggaa
+      181 gcagatctct tgtgccttga ccagaagaat cagaatctct cactctctga tgatgctctc
+      241 tcttctaccc cacgccccag tgctgcctta gcacaggaaa ataaaccaag accacttggt
+      301 ataggtggca ctgtatcaac tcatcccact actcatactc agtcaagcaa tccaagttca
+      361 ctggcaaata ttgactttta tgcccaggta agtgacatta caccagcagg gagtgtggtt
+      421 ctctcccccg gccaaaaggc taaggcaggg gtagcccagt acgacataca cccagaaatg
+      481 gtgtcacgct cccacgcaaa cttcatcatg gacagtgcct acttctgtga ggctgatgcc
+      541 aaaaagtgcg tcccagcagc ccctcgacta gaggcccaat cacatgtaga gccaagcttt
+      601 aaccaggagg acatatatat caccacagaa agccttacca ctacggctgg gaggtctggg
+      661 actgtggagc aggctccgag ttctgagctg cctgtcccag actacacctc cattcaccta
+      721 gtccagtctc cacagggcct catcctgaat gcaactgcct tgcctctg
+//
+

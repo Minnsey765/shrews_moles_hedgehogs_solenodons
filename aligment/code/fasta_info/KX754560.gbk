@@ -1,0 +1,74 @@
+LOCUS       KX754560                1008 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Parascalops breweri isolate HT-1 recombination activating protein 1
+            (RAG1) gene, partial cds.
+ACCESSION   KX754560
+VERSION     KX754560.1
+KEYWORDS    .
+SOURCE      Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1008)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1008
+                     /organism="Parascalops breweri"
+                     /mol_type="genomic DNA"
+                     /isolate="HT-1"
+                     /db_xref="taxon:94437"
+                     /geo_loc_name="USA: New York, Columbia County, Hillsdale"
+                     /note="Pbrewe_1"
+     gene            <1..>1008
+                     /gene="RAG1"
+     mRNA            <1..>1008
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1008
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="APD33023.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTVMKITIEHGSQNVKVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQLMLEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPNASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTKETVEAVCELIPSE
+                     ERHEALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFAELLSTKFKYRYEGK
+                     IT"
+ORIGIN      
+        1 tcttgtgatg ggatgggaga tgtgagtgag aagcatggga gtgggccagc cgttccagaa
+       61 aaggctgttc ggttttcgtt caccgtcatg aaaatcacca tagagcatgg ctcacagaat
+      121 gtgaaggtgt ttgaggaagc caaaccaaat tctgaactgt gttgcaagcc cttgtgcctt
+      181 atgctggcag acgagtctga ccatgagacc ctgactgcca tcctgagccc cctcattgcc
+      241 gagagggagg ctatgaagag cagccagtta atgcttgaaa tgggaggcat ccttcggact
+      301 tttaagttta tctttagagg cacaggatat gatgagaaac ttgtccggga agtggaagga
+      361 cttgaggctt ctgggtcagt ctatatttgt actctctgtg atgccacccg cctggaagct
+      421 tctcaaaatc ttgtcttcca ctccataacc agaagccaca ccgaaaacct ggagcgctac
+      481 gaggtctggc gttccaaccc ctaccacgag tccgtggaag aattgaggga tcgcgtgaaa
+      541 ggggtctccg ctaaaccctt cattgagact gtcccttcca tagatgccct tcactgcgac
+      601 attggcaatg cagctgagtt ctacaagatc ttccagctag agatagggga ggtgtataag
+      661 aaccccaatg cctccaaaga ggaaaggaaa agatggcagg cgactctgga caagcatctc
+      721 cgaaagaaga tgaacctgaa accaatcatg aggatgaatg gcaactttgc caggaagctc
+      781 atgaccaaag agacagtgga agcagtttgt gaattaattc cctcagagga gaggcatgaa
+      841 gctctgaggg agctgatgga cctttatctg aagatgaaac ccgtgtggcg atcatcatgc
+      901 cctgctaagg agtgtccaga atccctctgc cagtatagtt tcaattctca gcgttttgct
+      961 gagctccttt ctaccaagtt caagtacaga tatgagggca aaatcacc
+//
+

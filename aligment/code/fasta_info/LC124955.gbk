@@ -1,0 +1,72 @@
+LOCUS       LC124955                1080 bp    DNA     linear   MAM 16-JAN-2025
+DEFINITION  Atopogale cubana RAG1 gene for recombination activating gene 1,
+            partial cds, isolate: AMAR7.
+ACCESSION   LC124955
+VERSION     LC124955.1
+KEYWORDS    .
+SOURCE      Atopogale cubana (Cuban Solenodon)
+  ORGANISM  Atopogale cubana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Atopogale.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1080)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..1080
+                     /organism="Atopogale cubana"
+                     /mol_type="genomic DNA"
+                     /isolate="AMAR7"
+                     /db_xref="taxon:3370991"
+                     /geo_loc_name="Cuba: Alejandro de Humboldt National Park"
+                     /note="AMAR: Academic Mission of Almiqui Research"
+     gene            <1..>1080
+                     /gene="RAG1"
+     CDS             <1..>1080
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating gene 1"
+                     /protein_id="BAV56150.1"
+                     /translation="SDGMKAQDLDDCLNGPFTVMVKESCDGMGDVSEKHGSGPAVPEK
+                     AVRFSFTVMEITIAHGSQKVKVFEETKPNSELCCKPLCLMLADESDHETLTAILSPLI
+                     AEREAMKSSQLVLEMGGILRTFKFIFRGTGYDEKLVREVEGLEASGSVYICTLCDATR
+                     LEASQNLAFHSITRSHAENLERYEVWRSNPYQESVEELRNRVKGVSAKPFIETVPSID
+                     ALHCDIGNAAEFYKIFQLEIGEVYKNPNASKEERKRWQATLDKHLRKKMNLKPIMRMN
+                     GNFARKLMTKETVEAVCELIPSKERHEALRELMDLYLKMKPVWRSSCPAKECPESLCQ
+                     YIFNSQCFAELLSTKFKYRYEGKIT"
+ORIGIN      
+        1 ctcggatggc atgaaagccc aagacctcga tgactgtctg aatggcccct tcacggtcat
+       61 ggtgaaggag tcttgtgatg gaatgggaga tgtgagtgag aaacatggga gtgggcctgc
+      121 tgttccagaa aaggcagttc gattttcgtt cacagtcatg gaaattacca tagcacatgg
+      181 ctctcaaaaa gtgaaggtgt ttgaggaaac caaacctaac tctgaacttt gctgtaaacc
+      241 cttgtgcctt atgctggcag atgagtctga ccatgagact ctgactgcca tcctgagccc
+      301 tctcattgcc gagagggagg ccatgaagag cagccaatta gtgcttgaga tgggaggcat
+      361 cctccggact tttaagttca tttttagagg caccggatat gatgagaaac ttgtccggga
+      421 agtggaaggc cttgaagctt ctggctctgt ctacatttgt accctctgtg atgccacccg
+      481 cctagaagcc tctcaaaacc ttgccttcca ctccataacc agaagccatg ctgagaacct
+      541 ggagcgctat gaggtctggc gttccaaccc ataccaggaa tccgtggaag aactgcggaa
+      601 tcgggtgaaa ggggtctcag ccaaaccctt catcgagaca gtcccttcca tagatgccct
+      661 ccactgtgac attggcaatg cagcagagtt ctacaagatt ttccagttag agattgggga
+      721 ggtatataag aatcccaatg cctccaaaga ggaaaggaaa agatggcagg ctacattgga
+      781 caagcatctc cggaagaaga tgaatctgaa acccatcatg aggatgaatg gcaactttgc
+      841 caggaagctg atgaccaaag agacagttga agcagtttgt gaactaattc cctccaagga
+      901 gaggcatgag gctctgaggg agctgatgga cctgtatctg aagatgaaac cagtatggcg
+      961 gtcatcatgc cctgctaaag aatgcccaga atccctctgc caatatattt tcaattcaca
+     1021 gtgttttgct gagctcctct ctaccaagtt caagtataga tatgagggca agatcaccaa
+//
+

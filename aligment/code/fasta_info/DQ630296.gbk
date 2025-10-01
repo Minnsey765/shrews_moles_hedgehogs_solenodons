@@ -1,0 +1,51 @@
+LOCUS       DQ630296                 964 bp    DNA     linear   MAM 08-NOV-2007
+DEFINITION  Crocidura olivieri isolate 1 16S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ630296
+VERSION     DQ630296.1
+KEYWORDS    .
+SOURCE      mitochondrion Crocidura olivieri (Olivier's shrew)
+  ORGANISM  Crocidura olivieri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 964)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 964)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..964
+                     /organism="Crocidura olivieri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:214449"
+     rRNA            <1..>964
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 aaattttaat gtaaacttaa atgttaatct gtagaggtac agctctacag aataagatta
+       61 caaccttaat tagagagtaa atttatataa taaccatagt tggcctaaaa gcagccacca
+      121 attaagaaag cgttcaagct caacaacaaa atttattctt aattcaaaaa atagtataaa
+      181 ctcctaattc aaacactgga ttattctact agcctgtaga agaaatactg ttaatatgag
+      241 taacaagatt ttatatctcc aaacacacat gtatgtcagc ccgaatccca actgacagtt
+      301 aacaatttga caaatgtata tattaaatta ataattttcc attatattgt taatccaaca
+      361 ctggggtgta cataaggaaa gattaaaaaa agtaaaagga actcggcaaa cataaacccc
+      421 gcctgtttac caaaaacatc acctctagca ttaccagtat tagaggcact gcctgcccag
+      481 tgacattagt taaacggccg cggtatcctg accgtgcaaa ggtagcataa tcatttgttc
+      541 cttaattagg gacttgtatg aatggcccca cgagggttta actgtctctt acttttaatc
+      601 agtgaaattg accttcccgt gaagaggcgg gaatacaaaa ataagacgag aagaccctat
+      661 ggagcttaaa ttaatatgtt caacagaatt taattatagt ccaataggaa taaaaatatt
+      721 ctaactgaac aataaatttt ggttggggtg acctcggagc ataacataac ctccgagcaa
+      781 ttaaaccaag acttaccagt caaggctata taacttattg atccaatctt attgatcaac
+      841 gaaacaagtt accctaggga taacagcgca atcctattta agagttcata tcgacaatag
+      901 ggtttacgac ctcgatgttg gatcaggaca cccaaatggt gcagcagcta ttaaaggttc
+      961 gttt
+//
+

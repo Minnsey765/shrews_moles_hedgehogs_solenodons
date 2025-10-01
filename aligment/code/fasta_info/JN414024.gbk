@@ -1,0 +1,98 @@
+LOCUS       JN414024                2171 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Erinaceus europaeus apolipoprotein B (ApoB) gene, exon 26 and
+            partial cds.
+ACCESSION   JN414024
+VERSION     JN414024.1
+KEYWORDS    .
+SOURCE      Erinaceus europaeus (western European hedgehog)
+  ORGANISM  Erinaceus europaeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Erinaceus.
+REFERENCE   1  (bases 1 to 2171)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 2171)
+  AUTHORS   Meredith,R.W., Gatesy,J. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUL-2011) Department of Biology, University of
+            California, Riverside, 1354 Spieth Hall, Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..2171
+                     /organism="Erinaceus europaeus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9365"
+     gene            <1..>2171
+                     /gene="ApoB"
+     mRNA            <1..>2171
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>2171
+                     /gene="ApoB"
+                     /note="contains LDL receptor binding domain"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="AEP18060.1"
+                     /translation="KYSHNFSAGNNENSMEAHVGMNGEANLDFLNIPLTIPEMALPFT
+                     TLTTPQVKEFSLWEEAGLKKVLKXTKQSFDLNVKIQYMKNKNQHSISVPLESVYVFIH
+                     RNINDFMGKFEKARDKTLGFLAKSYNEARFKFNKSLNEQPRTFQIPGYTIPVINLEAS
+                     PFTVEMLPFDYMIPKEIITPNFTIPGSDFSVSSYNLALPFLELPDLQIPGYLPQFSLP
+                     EFKAMSFPVPALGNITCDFSFKSSLITLNTNAGLYNQSDLVAHFVSSSSSVFSALQYK
+                     LEGTSSLTRKRGLKVATALSLNNKFVEGKHDSTISLTKKNMEASVTTVAKVHTPVLRI
+                     SFKQQLNGNTKSNPTILSSVDFEYDFNFHRVYTTATGEVNHKLSLESLTSYLAIESST
+                     KGDIMGSILSQQYSGNIANEASIYLNSKGTRASVKLQGASRIDGLWNLEVKENIASEA
+                     TLQRTYAIWEHSTENHLQLTDLLITSGEHRSNATLELSPGKMIALVQVHASQLSPWLD
+                     IRRFVQEVSLSATTENQKVIWKGEVQVPSGSLQNNVQLSNDQGEACVDIAGSLEGHLS
+                     FLRDIFLPVYDKNLWDLLKLDVTTSIDRKQYLQASTALVYTKNPKGHLVSIPVQELVS
+                     RFIINKYLSASPFVLDIPIFPKMIFSHAEVLTKYSEAEGSSVPLFEIFVPESQLTVSQ
+                     ITLPKRISVGNSVWDLNEVAGEIADLNGPTTVMPEQTIENSL"
+     exon            <1..>2171
+                     /gene="ApoB"
+                     /number=26
+ORIGIN      
+        1 aagtacagtc ataatttctc tgctggcaac aatgagaaca gcatggaggc ccatgtagga
+       61 atgaatggag aggccaacct ggatttctta aacattcctt taacaatccc tgaaatggct
+      121 ctacctttca caacactcac aactccccag gtgaaagaat tctccttatg ggaagaagca
+      181 ggcttgaaga aagtcttgaa amcaacaaag caatcatttg atttaaatgt aaagattcaa
+      241 tacatgaaaa acaaaaacca gcattccatc tcagttccct tagagagtgt gtatgtgttc
+      301 attcaccgta atatcaatga cttcatgggg aaatttgaga aagccagaga caagacatta
+      361 ggttttcttg ccaaatccta taacgaagca agatttaagt ttaataaatc cctcaatgag
+      421 cagcccagga ccttccaaat tcctggatac actattccag tcatcaatct tgaagcgtct
+      481 ccattcacag tagagatgtt gccatttgat tacatgatcc ccaaggagat catcaccccc
+      541 aacttcacca tcccaggttc tgacttttct gtatcctcct ataacttagc cctgccattt
+      601 ctagaacttc cagaccttca aatccctggg taccttcctc aattttctct tccagaattc
+      661 aaggcaatga gcttcccagt tccagctctg ggaaacatta cctgtgattt ctcctttaaa
+      721 tctagtctca ttacactgaa taccaacgct ggactttata accaatcaga tcttgtcgct
+      781 cattttgttt cctcctcttc ttctgtcttt agtgcgctac agtacaaatt agagggcact
+      841 tcaagtttga ctaggaaaag aggattgaag gtagccactg ctttatctct caataacaaa
+      901 tttgtggaag gcaagcatga cagtaccatt agcttaacca agaaaaacat ggaagcatca
+      961 gtgacaacag tggcaaaagt ccacactcca gttctgagaa taagtttcaa gcagcaactc
+     1021 aatgggaata ccaagtcaaa tcctaccatc ttatcatccg ttgattttga gtatgatttc
+     1081 aacttccaca gagtgtacac cactgccaca ggggaagtta accacaaact cagtttagaa
+     1141 agccttacct cgtacttggc tatcgagtca tccaccaaag gagatataat gggttcaatc
+     1201 ctttcacagc aatactcagg aaatatcgct aatgaggcca gcatttattt gaactcaaag
+     1261 ggaactcggg cttcagtgaa gttgcaaggg gcttctagaa ttgatggtct ctggaacctt
+     1321 gaggtaaagg agaatattgc tagtgaagcc actctccara gaacatatgc catatgggaa
+     1381 cacagtacgg agaaccactt acagctaacg gacctcttga taacatctgg agaacacaga
+     1441 agcaatgcta ctctggagct ctctccaggg aagatgatag cccttgttca ggtccatgca
+     1501 agccagctga gtccatggct tgatatcagg cgctttgtcc aggaagtgtc cctgagtgct
+     1561 accactgaga accaaaaggt tatctggaaa ggtgaggtcc aggtaccttc tgggtctctc
+     1621 caaaacaatg tacagctttc caatgaccaa ggagaagcat gtgttgacat tgctggttct
+     1681 ttagaaggac atctatcatt cctccgtgat attttcttac cagtttatga caagaacttg
+     1741 tgggaccttc tcaagctgga tgtaaccacc agcattgata ggaagcagta tcttcaggct
+     1801 tccactgctc ttgtatacac caaaaacccc aaaggtcatc ttgtctccat ccctgtgcaa
+     1861 gaactggtta gtagattcat tatcaacaag tatcttagtg cttctccttt cgttcttgac
+     1921 atacccatat tccccaaaat gatattctcc cacgctgagg tattaacaaa gtactctgaa
+     1981 gcggaaggat cttcagttcc cctttttgag atatttgtgc ctgaatctca gctaactgtg
+     2041 tcccaaatca cccttccaaa aaggatttca gttggaaata gtgtttggga tctaaacgag
+     2101 gtggccggag aaatagcaga tttgaatggc ccgaccactg tcatgcctga gcagaccatt
+     2161 gaaaattccc t
+//
+

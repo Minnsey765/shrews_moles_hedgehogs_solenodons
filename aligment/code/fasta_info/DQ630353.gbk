@@ -1,0 +1,51 @@
+LOCUS       DQ630353                 969 bp    DNA     linear   MAM 08-NOV-2007
+DEFINITION  Notiosorex crawfordi isolate 1 16S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ630353
+VERSION     DQ630353.1
+KEYWORDS    .
+SOURCE      mitochondrion Notiosorex crawfordi (Desert shrew)
+  ORGANISM  Notiosorex crawfordi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Notiosorex.
+REFERENCE   1  (bases 1 to 969)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 969)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..969
+                     /organism="Notiosorex crawfordi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:268773"
+     rRNA            <1..>969
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 taattgatgt gtaaatttaa atgtaaattt aaaggggtac agccctttaa attcagggta
+       61 caacctttat tagagagtaa aataattaaa caaccatagt tggcctaaaa gcagccacca
+      121 attaagaaag cgttcaagct caacaaacca tttctataaa cttaattcaa ttaactttca
+      181 tcaactccta acttcatact ggactaatct atttttatat agaagaaata ctgttaatat
+      241 gagtaacgag atttaaatct cctaagcgca agtttatgtc agatcaaata ataactgata
+      301 gttaacagcc ttataaatat aatctaacca taaatccttt atttaaatta ctgttaaccc
+      361 gacacaggag cgcatcaagg aaagattaaa agaagcaaaa ggaactcggc aaacacaaac
+      421 cccgcctgtt taccaaaaac atcaccttta gcataactag tattaaaggc actgcctgcc
+      481 cagtgacaat tgttaaacgg ccgcggtatc ctgaccgtgc aaaggtagca taatcatttg
+      541 ttccttaaat agggacttgt atgaatggcc acacgagggt ttaactgtct cttgcttcca
+      601 atcagtgaaa ttgacctttc cgtgaagagg cggaaataat ttaataagac gagaagaccc
+      661 tatggagctt taatttatta atccaacaag aatattataa atccacaagg actaaaacaa
+      721 tttcttgact gaattaaaaa ttttggttgg ggtgacctcg gagcacaaaa taacctccga
+      781 gaacaaaata ctaagactaa caagtcaaag ttactaaatt aattgatcca gcattgctga
+      841 tcaacggaac aagttaccct agggataaca gcgcaatcct attcaagagt ccttatcgac
+      901 aatagggttt acgacctcga tgttggatca ggacatccta atggtgcagc agctattaat
+      961 ggttcgttt
+//
+

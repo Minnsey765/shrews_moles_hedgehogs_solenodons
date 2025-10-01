@@ -1,0 +1,54 @@
+LOCUS       AY530075                 768 bp    DNA     linear   MAM 14-JUN-2004
+DEFINITION  Solenodon paradoxus RAG1 gene, partial cds.
+ACCESSION   AY530075
+VERSION     AY530075.1
+KEYWORDS    .
+SOURCE      Solenodon paradoxus (Hispaniolan solenodon)
+  ORGANISM  Solenodon paradoxus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Solenodontidae;
+            Solenodon.
+REFERENCE   1  (bases 1 to 768)
+  AUTHORS   Roca,A.L., Bar-Gal,G.K., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brien,S.J. and Murphy,W.J.
+  TITLE     Mesozoic origin for West Indian insectivores
+  JOURNAL   Nature 429 (6992), 649-651 (2004)
+   PUBMED   15190349
+REFERENCE   2  (bases 1 to 768)
+  AUTHORS   Roca,A.L., Kahila Bar-Gal,G., Eizirik,E., Helgen,K.M., Maria,R.,
+            Springer,M.S., O'Brian,S.J. and Murphy,W.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2004) National Cancer Institute, Laboratory of
+            Genomic Diversity, P.O. Box B Bldg. 560, Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..768
+                     /organism="Solenodon paradoxus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:79805"
+     mRNA            <1..>768
+                     /product="RAG1"
+     CDS             <1..>768
+                     /codon_start=1
+                     /product="RAG1"
+                     /protein_id="AAS67637.1"
+                     /translation="DCLNGPFMVMVKESCDGMGDVSEKHGSGPAVPEKAVRFSFTVME
+                     ITIAHGSQKVKVFEETKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQ
+                     LMLEMGGILRTFKFIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLAFH
+                     SITRSHAENLERYEVWRSNPYQESVEELRNRVKGVSAKPFIETVPSIDALHCDIGNAA
+                     EFYKIFQLEIGEVYKNPNASKEERKRWQAALDKHLRKK"
+ORIGIN      
+        1 gactgtctga atggcccctt catggtcatg gtgaaggagt cttgtgatgg aatgggagat
+       61 gtgagtgaga aacatgggag tgggcctgct gttccagaaa aggcagttcg attttcgttc
+      121 acagtcatgg agattaccat agcacacggc tctcaaaagg tgaaggtgtt tgaggaaacc
+      181 aaacctaact ctgaactttg ctgtaaaccc ttgtgcctta tgctggcaga tgagtctgac
+      241 catgagactc tgactgccat cctgagccct ctcattgccg agagggaggc catgaagagc
+      301 agccaattaa tgcttgagat gggaggcatc ctccggactt ttaagttcat ttttagaggc
+      361 accggatatg atgagaaact tgtccgggaa gtggaaggcc ttgaagcttc tggctctgtc
+      421 tacatctgta ccctctgtga tgctacccgc ctagaagcct ctcaaaacct tgccttccac
+      481 tccataacca gaagccatgc tgagaacctg gagcgctatg aggtctggcg ttccaaccca
+      541 taccaggaat ccgtggaaga actgcggaat cgggtgaaag gggtctcagc caaacccttc
+      601 atcgagacag tcccttccat agatgccctc cactgtgaca ttggcaatgc agcagagttc
+      661 tacaagattt tccagttaga gatcggggag gtgtataaga atcccaatgc ctccaaagag
+      721 gaaaggaaaa gatggcaggc tgcattggac aagcatctcc ggaagaag
+//
+

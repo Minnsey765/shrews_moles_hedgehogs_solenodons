@@ -1,0 +1,70 @@
+LOCUS       MN199116                 741 bp    DNA     linear   MAM 27-NOV-2019
+DEFINITION  Blarinella quadraticauda voucher ZMMU G17-12 recombination
+            activating protein 2 protein (rag2) gene, partial cds.
+ACCESSION   MN199116
+VERSION     MN199116.1
+KEYWORDS    .
+SOURCE      Blarinella quadraticauda (Asiatic short-tailed shrew)
+  ORGANISM  Blarinella quadraticauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Blarinella.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Bannikova,A.A., Jenkins,P.D., Solovyeva,E.N., Pavlova,S.V.,
+            Demidova,T.B., Simanovsky,S.A., Sheftel,B.I., Lebedev,V.S.,
+            Fang,Y., Dalen,L. and Abramov,A.V.
+  TITLE     Who are you, Griselda? A replacement name for a new genus of the
+            Asiatic short-tailed shrews (Mammalia, Eulipotyphla, Soricidae):
+            molecular and morphological analyses with the discussion of tribal
+            affinities
+  JOURNAL   Zookeys 888, 133-158 (2019)
+  REMARK    DOI: 10.3897/zookeys.888.37982
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Bannikova,A., Jenkins,P., Solovyeva,E., Pavlova,S., Demidova,T.,
+            Simanovsky,S., Sheftel,B., Lebedev,V., Fang,Y., Dalen,L. and
+            Abramov,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2019) Zoological Museum, Lomonosov Moscow State
+            University, Bolshaya Nikitskaya 2, Moscow 125009, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /organism="Blarinella quadraticauda"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU G17-12"
+                     /db_xref="taxon:1159882"
+                     /geo_loc_name="China"
+                     /lat_lon="33.67 N 106.25 E"
+     gene            <1..>741
+                     /gene="rag2"
+     mRNA            <1..>741
+                     /gene="rag2"
+                     /product="recombination activating protein 2 protein"
+     CDS             <1..>741
+                     /gene="rag2"
+                     /codon_start=1
+                     /product="recombination activating protein 2 protein"
+                     /protein_id="QGN03743.1"
+                     /translation="PPLRYPAICLFKGNLESEKHQYIIHGGKTPNNELSDKIYTISVA
+                     SKNNKKVTFCCTEKDLVGDIPEARYGHSIDMVYSRGKTMGVLFGGRSYMPSAQRTTEK
+                     WNTVADCPPHVFLVDFEFGCSTSYILPELQDGLSFHVSIARKDTXYIIGGHSLSNNIR
+                     PANLYRIKVDLPLGSPAVNCTVLSGGISVSSAILTQTSNDEFIIVGGYQLENQKRMVC
+                     NIVSLEDNNIEIHEMETPDWTPDIKHSKI"
+ORIGIN      
+        1 cctcctctcc gctacccagc catttgtcta ttcaaaggca acctagagtc tgaaaaacat
+       61 caatacatca tccatggagg aaaaacacca aacaatgagc tttcagataa gatatatacc
+      121 atatctgttg ctagcaagaa caacaaaaaa gttacttttt gctgcacaga gaaagaccta
+      181 gtgggagata ttcctgaagc cagatatggt cattccattg atatggtata tagtcgaggg
+      241 aaaactatgg gtgttctctt tggaggacgc tcatacatgc cttctgccca aagaaccaca
+      301 gaaaaatgga atactgtagc agactgccca ccccatgttt tcttggtgga ttttgaattt
+      361 gggtgctcta cctcatacat tcttccagaa cttcaagatg ggttatcttt tcatgtctca
+      421 attgccagaa aagataccrt ttatattata ggtggacatt cactttccaa taacattcgc
+      481 ccagccaatc tgtacagaat aaaggttgac ctgcccctgg gtagcccagc tgtgaattgc
+      541 acagtcttgt caggaggaat ctctgtttcc agtgcaatac tgactcaaac aagcaatgat
+      601 gaatttatta ttgtcggtgg atatcaactt gaaaatcaga aaagaatggt ctgcaacatc
+      661 gtgtctttag aggataacaa catagaaatt catgagatgg agactccaga ctggacccca
+      721 gatattaagc acagcaagat a
+//
+

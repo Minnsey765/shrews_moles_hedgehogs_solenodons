@@ -1,0 +1,67 @@
+LOCUS       KX754583                 693 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Desmana moschata isolate DM-1 recombination activating protein 2
+            (RAG2) gene, partial cds.
+ACCESSION   KX754583
+VERSION     KX754583.1
+KEYWORDS    .
+SOURCE      Desmana moschata
+  ORGANISM  Desmana moschata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Desmana.
+REFERENCE   1  (bases 1 to 693)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 693)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..693
+                     /organism="Desmana moschata"
+                     /mol_type="genomic DNA"
+                     /isolate="DM-1"
+                     /db_xref="taxon:182682"
+                     /geo_loc_name="Russia: Vladimirskiy, Rockovskoye lake"
+                     /note="Dmosch_1"
+     gene            <1..>693
+                     /gene="RAG2"
+     mRNA            <1..>693
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>693
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="recombination activating protein 2"
+                     /protein_id="APD33046.1"
+                     /translation="ESGKHEYIIHGGKTPNNELSDKIYVMSVVCKSNKKVTFRCIEKD
+                     LVGDVPEARYGHTIDVVYSRGKSIGVLFGGRSYIPSSQRTTEKWNSVADCLPHVFLVD
+                     FEFGCSTSYILPELQDGLSFHVSIARNDTIYILGGHSLANNIRPANLYKIKIDLPLGS
+                     PAVNCTVLPGGISVSSAILTQTNNDEFVIVGGYQLENQKRMACNIVSLEDNKIDIREM
+                     ETPDWTPDIKHSK"
+ORIGIN      
+        1 gagtctggaa agcatgaata catcatccat ggagggaaaa cacctaacaa tgagctttca
+       61 gataagatct atgtcatgtc tgttgtttgc aagagcaaca aaaaagttac ttttcgctgc
+      121 atagagaaag acttggtagg tgatgttcct gaagccaggt atggtcatac cattgacgtg
+      181 gtgtatagtc gaggaaaaag cattggtgtt ctctttggag gaaggtcata cataccttct
+      241 tcccagagaa ccacggaaaa atggaatagt gtagctgact gcctgcccca tgtttttttg
+      301 gtggattttg aatttgggtg ctctacatct tacattcttc ctgaacttca ggatggactc
+      361 tcttttcatg tctccattgc cagaaatgac accatttata ttctaggagg acattctctt
+      421 gccaataaca tccgccctgc taacctatat aaaataaaga ttgatctccc cttgggtagc
+      481 cctgctgtga attgcacagt cttaccaggc ggaatctctg tctccagtgc aatccttact
+      541 caaacaaaca atgatgaatt tgttattgtt ggtggttatc agcttgaaaa tcaaaaaaga
+      601 atggcctgca acattgtttc tttagaagac aacaagatag atattcggga gatggaaact
+      661 cccgattgga ccccagatat taagcacagc aag
+//
+

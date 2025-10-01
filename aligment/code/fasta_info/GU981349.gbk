@@ -1,0 +1,59 @@
+LOCUS       GU981349                 627 bp    DNA     linear   MAM 06-MAR-2013
+DEFINITION  Anourosorex yamashinai isolate Anyamas2 NADH dehydrogenase subunit
+            4 (ND4) gene, partial cds; mitochondrial.
+ACCESSION   GU981349
+VERSION     GU981349.1
+KEYWORDS    .
+SOURCE      mitochondrion Anourosorex yamashinai
+  ORGANISM  Anourosorex yamashinai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 627)
+  AUTHORS   He,K., Li,Y.J., Brandley,M.C., Lin,L.K., Wang,Y.X., Zhang,Y.P. and
+            Jiang,X.L.
+  TITLE     A multi-locus phylogeny of Nectogalini shrews and influences of the
+            paleoclimate on speciation and evolution
+  JOURNAL   Mol. Phylogenet. Evol. 56 (2), 734-746 (2010)
+   PUBMED   20363345
+REFERENCE   2  (bases 1 to 627)
+  AUTHORS   He,K. and Jiang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2010) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, 32 Jiaochang East Road, Kunming, Yunnan 650223, China
+FEATURES             Location/Qualifiers
+     source          1..627
+                     /organism="Anourosorex yamashinai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Anyamas2"
+                     /specimen_voucher="THUB-S-00008"
+                     /db_xref="taxon:268756"
+                     /geo_loc_name="China: Yunnan"
+     gene            <1..>627
+                     /gene="ND4"
+     CDS             <1..>627
+                     /gene="ND4"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="ADK21594.1"
+                     /translation="NPITESMAYPFLLLSLWGMIMTSSICLRQTDLKSLIAYSSVSHM
+                     ALVIVAILIQTPWSYMGATALMIAHGLTSSMLFCLANTNYERIHSRTMILARGMQTIL
+                     PLMAAWWLLASLTNLALPPTINLIGELFIMLASFSWSNITIILTGINVVITALYSLYM
+                     LILTQRGKYSYHINMIKPTFTRENTLMTLHLFPLLLLSLNPKLILGTLY"
+ORIGIN      
+        1 aatcctatta cagaatcaat agcctaccca ttccttctcc tttcactatg aggcataatt
+       61 ataacgagct caatctgctt acgacaaaca gacctaaaat cattaattgc atattcctca
+      121 gttagccata tagcccttgt aatcgttgca attctcatcc aaacaccttg aagttatata
+      181 ggagctacag ccctaataat tgcccacgga ttaacctcct ccatactttt ctgtttagct
+      241 aataccaatt atgaacgaat ccacagccga actataatcc tagctcgagg aatacaaaca
+      301 attttacctt taatagccgc ctgatgatta ctagcaagtt taactaacct tgctttacca
+      361 ccaacaatca acttaattgg agaattattc attatattag catctttctc atgatctaat
+      421 attaccatca tcttaacagg gattaatgta gtaattacag ctctatattc tctctatata
+      481 cttattttaa ctcaacgagg aaaatattcc taccacatta atataattaa accaactttt
+      541 acacgagaaa ataccttaat aacactacat ttatttccac ttttattatt atctctaaat
+      601 ccaaaactaa ttttgggtac attatac
+//
+

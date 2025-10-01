@@ -1,0 +1,62 @@
+LOCUS       KP995378                 538 bp    DNA     linear   MAM 15-NOV-2015
+DEFINITION  Crocidura olivieri voucher ZMMU:S-172813 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   KP995378
+VERSION     KP995378.1
+KEYWORDS    .
+SOURCE      Crocidura olivieri (Olivier's shrew)
+  ORGANISM  Crocidura olivieri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Crocidura.
+REFERENCE   1  (bases 1 to 538)
+  AUTHORS   Bannikova,A.A., Zemlemerova,E.D., Lebedev,V.S., Aleksandrov,D.Y.,
+            Fang,Y. and Sheftel,B.I.
+  TITLE     Phylogenetic position of the gansu mole Scapanulus oweni thomas,
+            1912 and the relationships between strictly fossorial tribes of the
+            family talpidae
+  JOURNAL   Dokl. Biol. Sci. 464 (1), 230-234 (2015)
+   PUBMED   26530064
+REFERENCE   2  (bases 1 to 538)
+  AUTHORS   Bannikova,A., Zemlemerova,E., Lebedev,V., Aleksandrov,D., Fang,Y.
+            and Sheftel,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAR-2015) Department of Vertebrate Zoology, Lomonosov
+            Moscow State University, Vorobievy Gory, GSP-2, 1, corp.12, Moscow
+            119992, Russian Federation
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..538
+                     /organism="Crocidura olivieri"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU:S-172813"
+                     /db_xref="taxon:214449"
+                     /geo_loc_name="Ethiopia: Vanzaye"
+     gene            <1..>538
+                     /gene="RAG1"
+     mRNA            <1..>538
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>538
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="ALN43289.1"
+                     /translation="SCDGMGDVSEKHGSGPAVPEKAVRFSFTIMRITVAQGPQEVKVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKTSQLKLEMGGIQRTFQ
+                     FIFRGTGYDEKLVREVEGLEASGSLYICTLCDATRLEASQNLVFHSITRSHSENLERY
+                     EVWRSNPYHESVEELRDXV"
+ORIGIN      
+        1 tcctgcgatg ggatgggtga tgtgagtgag aagcatggca gtgggcctgc agtgcccgaa
+       61 aaggctgttc gtttttcctt caccatcatg aggatcactg tggcccaggg cccccaggag
+      121 gtgaaggtgt ttgaggaagc caaacccaac tccgagctgt gttgcaagcc cctgtgccta
+      181 atgctggcag acgagtctga ccatgagacc ctgacggcta tcctgagccc actcattgct
+      241 gagcgggagg ccatgaagac cagccagctg aagctggaga tgggtggcat ccaacgcacc
+      301 ttccagttca tcttcagggg cactgggtat gatgagaaac tcgtgcggga agtggagggc
+      361 ctcgaggctt ctggctccct ctacatctgc accctgtgtg atgccactcg cctggaggcc
+      421 tcgcagaatc tggtcttcca ttccatcacc agaagccaca gtgagaattt ggagcgctat
+      481 gaggtctggc gttccaaccc ctaccatgag tcggtggagg agctgcggga tcntgtga
+//
+

@@ -1,0 +1,60 @@
+LOCUS       JN556041                 819 bp    DNA     linear   MAM 08-JUN-2012
+DEFINITION  Suncus etruscus recombination activating protein 1 (Rag1) gene,
+            partial cds.
+ACCESSION   JN556041
+VERSION     JN556041.1
+KEYWORDS    .
+SOURCE      Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Re-evaluation of the taxonomy of the Sri Lankan pigmy shrew Suncus
+            fellowesgordoni (Soricidae: Crocidurinae) and its phylogenetic
+            relationship with S. etruscus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2011) Department of Biology, Boston University, 5
+            Cummington Street, Boston, MA 02215, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Suncus etruscus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:109475"
+                     /geo_loc_name="India"
+     gene            <1..>819
+                     /gene="Rag1"
+     mRNA            <1..>819
+                     /gene="Rag1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>819
+                     /gene="Rag1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AFK66769.1"
+                     /translation="PFEWQPPLKNVSSSTDVGIIDGLSGLSSSVDDYPVDTIAKRFRY
+                     DSALVSALMDMEMDILDGMRAQDLEDYLNGPFTVVVKESCDGMGDVSEKHGSGPAVPE
+                     KAVRFSFTIMRITVAQGPQEVKVFEEAKPNSELCCKPLCLMLADESDHETLTAILSPL
+                     IAEREAMKTSQLKLEMGGIQRTFQFIFRGTGYDEKLVREVEGLEASGSVYICTLCDAT
+                     RLEASQNLVFHSITRSHSENLQRYEVWRSNPYHESVEELRDRVKGVSAKPFIETV"
+ORIGIN      
+        1 ccctttgagt ggcagccccc gctgaaaaat gtctccagca gcacagatgt gggcatcatt
+       61 gatggcctgt caggactgtc ctcctctgtg gatgattatc ccgtggacac catcgccaag
+      121 cgtttccgct atgactcagc cttggtgtct gccttgatgg acatggaaat ggatatcttg
+      181 gatggcatga gagcccaaga cctggaggac tacctgaacg gccccttcac tgtggtggtg
+      241 aaagaatcct gcgatgggat gggtgatgtg agtgagaagc atggcagtgg gcctgcagtg
+      301 ccygaaaagg ctgttcgctt ttctttcacc atcatgagga tcactgtggc ccagggccct
+      361 caggaggtga aggtgtttga ggaagccaaa cccaactccg agctgtgttg caagcccctg
+      421 tgcctaatgc tggcagacga gtctgaccat gagaccctga cggccatcct gagcccactc
+      481 attgctgagc gggaggccat gaagaccagc cagctgaagc tggagatggg tggcatccaa
+      541 cgcaccttcc agttcatctt caggggcacc gggtatgatg agaaactcgt gcgggaagtg
+      601 gagggcctcg aggcttctgg ctccgtttac atctgtaccc tgtgtgatgc cactcgcctg
+      661 gaggcctcgc agaatctggt cttccattcc atcaccagaa gccacagtga gaacttgcag
+      721 cgctatgagg tctggcgttc caacccttac catgagtcgg tggaggagct gagggatcgt
+      781 gtcaaagggg tctcggccaa acccttcata gaaactgtc
+//
+

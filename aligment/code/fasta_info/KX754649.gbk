@@ -1,0 +1,63 @@
+LOCUS       KX754649                 519 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Neurotrichus gibbsii isolate Neurgi_3 brain-derived neurotrophic
+            factor (BDNF) gene, partial cds.
+ACCESSION   KX754649
+VERSION     KX754649.1
+KEYWORDS    .
+SOURCE      Neurotrichus gibbsii
+  ORGANISM  Neurotrichus gibbsii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Neurotrichus.
+REFERENCE   1  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 519)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..519
+                     /organism="Neurotrichus gibbsii"
+                     /mol_type="genomic DNA"
+                     /isolate="Neurgi_3"
+                     /db_xref="taxon:182677"
+                     /geo_loc_name="Canada: British Columbia, Coquitlam"
+                     /note="SM-3"
+     gene            <1..>519
+                     /gene="BDNF"
+     mRNA            <1..>519
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>519
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="APD33112.1"
+                     /translation="ASVRGPGSLAYPGVRTHGTLESANGPKAGSRGLTLADTFEHVIE
+                     ELLDEDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRV
+                     RRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFYET
+                     KCNPMGYTKEGCR"
+ORIGIN      
+        1 gccagcgtcc gaggaccagg cagcttggcc tacccaggtg tgcggaccca tgggactctg
+       61 gagagcgcaa atgggcccaa ggcaggttcg agaggcctga cgttggctga cacttttgaa
+      121 cacgtgatag aagagctcct ggatgaggac cagaaagtcc ggccccacga agagaacaat
+      181 aaggacgcgg acttgtacac ctctcgggtg atgctcagta gtcaagtgcc tttggagcct
+      241 cctctcctct ttctgctcga ggaatacaaa aattacctgg atgctgcgaa catgtccatg
+      301 agggtccggc gccactccga ccccgcccgc cgcggggagc tgagcgtgtg cgacagcatt
+      361 agcgagtggg tgacggcggc ggataaaaag actgcagtgg acatgtcggg cgggacggtg
+      421 acggtccttg aaaaagtccc tgtatcgaaa ggccaactga agcagtactt ctacgagacc
+      481 aagtgcaatc ccatgggcta cacaaaggag ggctgcagg
+//
+

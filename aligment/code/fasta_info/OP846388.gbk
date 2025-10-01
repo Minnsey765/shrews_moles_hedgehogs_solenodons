@@ -1,0 +1,64 @@
+LOCUS       OP846388                 681 bp    DNA     linear   MAM 20-FEB-2023
+DEFINITION  Suncus etruscus voucher AMNH:275574 ATP synthase subunit 6 (ATP6)
+            gene, complete cds; mitochondrial.
+ACCESSION   OP846388
+VERSION     OP846388.1
+KEYWORDS    .
+SOURCE      mitochondrion Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,M.A., William Dee,J.,
+            Swanson,M.T., Hiller,A.E., Khan,F.A.A. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncusater Medway, 1965 (Soricidae, Crocidurinae), place it
+            in the genus Palawanosorex
+  JOURNAL   Zookeys 1137, 17-31 (2022)
+   PUBMED   36760481
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 681)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-NOV-2022) Department of Biology, Siena College, 515
+            Loudon Rd, Loudonville, NY 12211, United States
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Suncus etruscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMNH:275574"
+                     /db_xref="taxon:109475"
+     gene            1..681
+                     /gene="ATP6"
+     CDS             1..681
+                     /gene="ATP6"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="ATP synthase subunit 6"
+                     /protein_id="WDD44872.1"
+                     /translation="MNENLFASFATPTMMGLPIVILIILFPSMLFPGPNRLITNRLTA
+                     LQQWLIQLTSKQMMAIHNPKGQTWTLMLMSLILFIGSTNLLGLLPHSFTPTTQLSMNL
+                     GMAIPLWAGAVITGFRYKTKASLAHFLPQGTPLPLIPMLIIIETISLFIQPMALAVRL
+                     TANITAGHLLIHLIGGATLVLSSISPATALITFIILVMLTILEFAVALIQAYVFTLLV
+                     SLYLHDNT"
+ORIGIN      
+        1 atgaacgaaa atttattcgc ctctttcgct accccaacaa taataggtct tcctatcgtt
+       61 attttaatca ttttatttcc tagtatacta ttccctggcc ctaatcgtct tatcaccaac
+      121 cgattaactg ctttgcaaca atgattaatt caattaacat caaaacaaat aatagctatt
+      181 cataacccta aaggccaaac atgaacactt atattaatat ccctaatttt atttattggt
+      241 tcaacaaatt tattaggact attacctcac tcctttactc ctaccactca actctctata
+      301 aatctaggca tagcaattcc cttatgagca ggagctgtaa ttactggttt ccggtacaaa
+      361 accaaagcat cgctagccca tttcttacct caaggtactc ccctcccact aattcctata
+      421 ttaattatca tcgaaactat tagtttattt attcaaccta tagcattagc tgtacgatta
+      481 acagctaata ttacagctgg tcatctcctt attcacttaa ttgggggtgc tactttagtg
+      541 ctcagcagca ttagcccagc tacagctctt attacattta ttattttagt tatattgact
+      601 attcttgaat ttgcagtagc cttaattcaa gcttatgttt ttacattatt agttagtctc
+      661 tatctgcatg ataatactta a
+//
+

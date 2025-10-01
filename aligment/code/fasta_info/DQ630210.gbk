@@ -1,0 +1,58 @@
+LOCUS       DQ630210                 776 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Anourosorex squamipes isolate 1 BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   DQ630210
+VERSION     DQ630210.1
+KEYWORDS    .
+SOURCE      Anourosorex squamipes (mole shrew)
+  ORGANISM  Anourosorex squamipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 776)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 776)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..776
+                     /organism="Anourosorex squamipes"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:127560"
+     gene            <1..>776
+                     /gene="BRCA1"
+     mRNA            <1..>776
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>776
+                     /gene="BRCA1"
+                     /codon_start=3
+                     /product="BRCA1"
+                     /protein_id="ABG22181.1"
+                     /translation="KQPGLLKSQQNRWTESKETYNDRQIPSPEKKVDLNADPLSERKQ
+                     LNTPCSDIPRDSQEITWTTMSGSIQKVNDWFSRSGDVLASDNCHDGGSASKTEVTEII
+                     ESSSXIHEFSGSSEKIDLPASEIRRAPSKAVESNTEDKIFGKTYRRKASIPNLNRTAD
+                     NVFLGSFHLEPPVAQEHTFTNKLKRKRRVTSSLCPEDFIKKGDLAIVQKSPEKVIKNS
+                     NQTDQNVHVMSITTNDQSETKSDYAQKEKNANPIESSGKE"
+ORIGIN      
+        1 gcaaacagcc tggcttattg aagagccaac agaacagatg gactgaaagc aaggaaacct
+       61 acaatgatag gcagattccc agcccagaga aaaaggtaga tctgaatgct gatcccctgt
+      121 ctgagagaaa acaactgaat acgccgtgct ctgacattcc tagagattcc caagagataa
+      181 cttggacaac tatgagcggt agcatccaga aagttaatga ttggttttcc agaagtggtg
+      241 atgtattagc ttctgataat tgccatgatg gagggtctgc atcaaagact gaagtaactg
+      301 aaataataga aagttcaagt ncaatacatg aattttctgg ttcttcagaa aaaatagact
+      361 taccagccag tgaaattaga agagccccct ccaaagcagt agagagtaac actgaagata
+      421 aaatatttgg gaaaacttat cgaaggaaag caagcatccc taacttgaac cgcacagctg
+      481 acaatgtatt tctgggatca tttcacctag aacctcctgt agcacaagag cacaccttca
+      541 caaacaaatt aaaacgtaaa agaagagtca cgtcaagcct ttgtcctgaa gattttatca
+      601 agaaaggaga tttggcaatt gttcaaaagt ctcccgaaaa ggtaatcaaa aacagtaacc
+      661 aaacagatca aaatgtccac gtgatgagta ttactactaa tgatcagagt gaaacaaaga
+      721 gtgactatgc ccagaaggag aaaaatgcca acccaataga gtcatcagga aaagag
+//
+

@@ -1,0 +1,64 @@
+LOCUS       KY249549                 731 bp    DNA     linear   MAM 23-JUL-2017
+DEFINITION  Blarina brevicauda voucher P02-7 recombination activating protein 2
+            (RAG2) gene, partial cds.
+ACCESSION   KY249549
+VERSION     KY249549.1
+KEYWORDS    .
+SOURCE      Blarina brevicauda (short-tailed shrew)
+  ORGANISM  Blarina brevicauda
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Blarina.
+REFERENCE   1  (bases 1 to 731)
+  AUTHORS   Bannikova,A.A., Abramov,A.V., Lebedev,V.S. and Sheftel,B.I.
+  TITLE     Unexpectedly high genetic diversity of the asiatic short-tailed
+            shrews Blarinella (Mammalia, Lipotyphla, Soricidae)
+  JOURNAL   Dokl. Biol. Sci. 474 (1), 93-97 (2017)
+   PUBMED   28702725
+REFERENCE   2  (bases 1 to 731)
+  AUTHORS   Bannikova,A.A., Abramov,A.V., Lebedev,V.S. and Sheftel,B.I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2016) Department of Vertebrate Zoology, Lomonosov
+            Moscow State University, Vorobievy Gory, GSP-2, 1, corp.12, Moscow
+            119234, Russian Federation
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..731
+                     /organism="Blarina brevicauda"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="P02-7"
+                     /db_xref="taxon:9387"
+                     /geo_loc_name="USA: Pennsylvania"
+     gene            <1..>731
+                     /gene="RAG2"
+     mRNA            <1..>731
+                     /gene="RAG2"
+                     /product="recombination activating protein 2"
+     CDS             <1..>731
+                     /gene="RAG2"
+                     /codon_start=2
+                     /product="recombination activating protein 2"
+                     /protein_id="ASL70454.1"
+                     /translation="RYPAICLFKGNLDSAKHQYIIHGGKTPNNELSDKIYTISVASKN
+                     NKKVTFCCTEKDLVGDIPEARYGHSIDMVYSRGKTMGVLFGGRSYMPSAQRTTEKWNT
+                     VADCPPHVFLVDFEFGCSTSYVLPELQDGLSFHVSIARKDTVYILGGHSLSNNIRPAN
+                     LYRIKVDLPLGSPAVNCTVLPGGISVSSAILTQTSNDEFIIVGGYQLENQKRMVCNIV
+                     SLEDNKIEIHEMETPDWTPDIKHSK"
+ORIGIN      
+        1 ccgctaccca gccatttgtc tattcaaagg caacttagac tctgcaaaac atcaatacat
+       61 catccatgga gggaaaacac caaacaacga gctttcagat aagatataca ctatatctgt
+      121 tgctagcaag aacaacaaaa aagttacttt ttgctgcaca gagaaagacc tagtgggaga
+      181 tattcctgaa gccagatatg gtcattccat cgatatggta tatagtcgag ggaaaactat
+      241 gggtgttctc tttggaggac gctcatacat gccttctgcc caaagaacca cagaaaaatg
+      301 gaatactgta gcagactgcc caccccatgt tttcttggtg gattttgaat tcgggtgctc
+      361 tacctcatac gtgcttccag aacttcaaga tgggctatct ttccatgtct caattgccag
+      421 aaaagatacc gtgtatattt taggaggaca ttcactttcc aacaacattc gccccgccaa
+      481 cctgtataga ataaaggtcg acctgccctt gggtagccca gctgtgaatt gtaccgtctt
+      541 gccaggagga atctcagttt ctagcgcaat actgactcaa acaagcaatg atgaatttat
+      601 tattgtcggt ggttatcaac ttgaaaatca aaagagaatg gtctgcaaca ttgtgtcttt
+      661 agaggataac aagatagaaa ttcatgagat ggagactcca gactggaccc cggatattaa
+      721 acacagcaag c
+//
+

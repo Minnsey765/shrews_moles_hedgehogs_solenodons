@@ -1,0 +1,59 @@
+LOCUS       DQ630266                 785 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Anourosorex yamashinai isolate 1 BRCA1 (BRCA1) gene, partial cds.
+ACCESSION   DQ630266
+VERSION     DQ630266.1
+KEYWORDS    .
+SOURCE      Anourosorex yamashinai
+  ORGANISM  Anourosorex yamashinai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 785)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 785)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..785
+                     /organism="Anourosorex yamashinai"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:268756"
+     gene            <1..>785
+                     /gene="BRCA1"
+     mRNA            <1..>785
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>785
+                     /gene="BRCA1"
+                     /codon_start=3
+                     /product="BRCA1"
+                     /protein_id="ABG22238.1"
+                     /translation="RKSKQPGLLKSQQNRWTESKETYNDRQIPSPEEKVDLNADPLSE
+                     RKQLNTPCSDIPRDSQEITWTAMSGSIQKVNDWFSRSGDVLASDNCHDGGSASKTEVT
+                     EIIESSSTIDEFSGSSEKIDLPASEIRRAPSKAVESNTEDKIFGKTYRRKASIPNLNR
+                     TADNVFLGSFHLEPPVAQEHTFTNKLKRKRRVTSSLCPEDFIKKGDLAIVQKSPEKVI
+                     KNSNQTDQNVHVMSITTNDQSETKSDYAQKEKNANPIESSEKE"
+ORIGIN      
+        1 gtcgtaaaag caaacagcct ggcttattga agagccaaca gaacagatgg actgaaagca
+       61 aggaaaccta caatgatagg cagattccca gcccagagga aaaggtagat ctgaatgctg
+      121 atcccctgtc tgagagaaaa caactgaata cgccgtgctc tgacattcct agagattccc
+      181 aagagataac ttggacagct atgagcggta gcatccagaa agttaatgat tggttttcca
+      241 gaagtggtga tgtattagct tctgataatt gccatgatgg agggtctgca tcaaagactg
+      301 aagtaactga aataatagaa agttcaagta caatagatga attttctggt tcttcagaaa
+      361 aaatagactt accagccagt gaaattagaa gagccccctc caaagcagta gagagtaaca
+      421 ctgaagataa aatatttggg aaaacttatc gaagaaaagc aagcatccct aacttgaacc
+      481 gcacagctga caatgtattt ctgggatcat ttcacctaga acctcctgta gcacaagagc
+      541 acaccttcac aaacaaatta aaacgtaaaa gaagagtcac gtcaagcctt tgtcctgaag
+      601 attttatcaa gaaaggagat ttggcaattg ttcaaaagtc tcccgaaaag gtaatcaaaa
+      661 acagtaacca aacagatcaa aatgtccacg tgatgagtat tactactaat gatcagagtg
+      721 aaacaaagag tgactatgcc cagaaggaga aaaatgccaa cccaatagag tcatcagaaa
+      781 aagag
+//
+

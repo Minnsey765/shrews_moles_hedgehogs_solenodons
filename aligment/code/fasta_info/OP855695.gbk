@@ -1,0 +1,82 @@
+LOCUS       OP855695                1545 bp    DNA     linear   MAM 23-NOV-2022
+DEFINITION  Myosorex kihaulei voucher FMNH205242 cytochrome c oxidase subunit I
+            (COX1) gene, complete cds; mitochondrial.
+ACCESSION   OP855695
+VERSION     OP855695.1
+KEYWORDS    .
+SOURCE      mitochondrion Myosorex kihaulei (Myosorex_kihaulei_)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 1545)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Molecular data from the holotype of the enigmatic Bornean Black
+            Shrew, Suncus ater, place it in the genus Palawanosorex
+  JOURNAL   Zootaxa (2022) In press
+REFERENCE   2  (bases 1 to 1545)
+  AUTHORS   Nations,J.A., Giarla,T.C., Morni,A., William-Dee,J., Swanson,M.T.,
+            Hiller,A.E., Kahn,F. and Esselstyn,J.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2022) Biology, Siena College, 515 Loudon Rd,
+            Loudonville, NY 12211, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.14.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1545
+                     /organism="Myosorex kihaulei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH205242"
+                     /db_xref="taxon:307108"
+                     /note="acronym: Myosorex_kihaulei_"
+     gene            1..1545
+                     /gene="COX1"
+     CDS             1..1545
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="UZP55440.1"
+                     /translation="MFITRWLFSTNHKDIGTLYMVFGAWAGMVGTALSILIRAELGQP
+                     GALLGDDQIYNVIVTAHAFVMIFFMVMPIMLGGFGNWLIPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSTVEAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILG
+                     SINFITTIINMKPPALSQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGMISHIVTYYSGKKEPFGYMGMVWA
+                     MMSIGFLGFIVWAHHMFTVGLDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGNIKW
+                     SPAMLWALGFIFLFTVGGLTGIVLANSSLDIVLHDTYYVVAHFHYVLSMGAVFAIIAG
+                     FVHWFPLFTGYTLSSTWAKIHFGIMFVGVNMTFFPQHFLGLSGMPRRYSDYPDAYTTW
+                     NTVSSMGSFISLTAVIVMVFMIWEAFASKREVCTVELTSTNIEWLYGCPPPYHTFEEP
+                     VYVNVK"
+ORIGIN      
+        1 atgttcatta cccgctgatt attctcaact aaccacaaag acattggcac cctatatata
+       61 gtatttggtg cttgagcagg aatagtaggc actgcattaa gtatcttaat ccgtgccgaa
+      121 ttaggccaac caggcgcttt actcggcgat gaccaaatct ataatgttat tgttacagcc
+      181 cacgcctttg taataatttt cttcatagta ataccaatta tgctaggagg ctttggaaac
+      241 tgattaatcc ctttaataat tggtgctcct gatatagcgt tcccccgaat aaataatata
+      301 agtttctgac tacttcctcc ttcattccta ttactccttg cttcatctac agttgaggcc
+      361 ggtgcaggaa caggttgaac tgtttatccg cctttagccg gtaatctagc tcatgcaggt
+      421 gcatcagttg atcttgctat tttctctctt catctagcag gagtatcatc aattctaggc
+      481 tccatcaatt ttattacaac aattattaac ataaaaccac ctgctctttc tcaatatcaa
+      541 accccattat ttgtatggtc agttcttatt actgctgtac tactactatt atccctccca
+      601 gttctcgctg caggaattac tatattacta actgatcgaa atctcaatac cactttcttt
+      661 gatcctgccg gtggaggaga ccctattcta tatcaacacc tattttgatt ctttggccat
+      721 cctgaagtat atattttgat tttacctggc tttggtataa tttcccacat tgtcacttat
+      781 tactctggca aaaaagagcc attcgggtat ataggaatgg tatgggctat aatatcaatt
+      841 ggcttcctag gatttattgt ttgagctcac catatattca cagtaggatt agatgtagat
+      901 acacgagcat attttacttc tgccactata attattgcaa ttcctactgg agttaaagta
+      961 tttagctggt tagctaccct tcatggaggt aatattaaat gatctcctgc catattatga
+     1021 gcattaggtt ttattttcct atttactgta ggaggattaa ctggtattgt acttgcgaac
+     1081 tcatccctag atattgtact ccacgacacc tattatgtag tagcccactt ccattatgta
+     1141 ttgtcaatag gagctgtatt tgcgatcatc gctggcttcg ttcactgatt ccctctattc
+     1201 actggctata ctcttagttc tacctgagca aaaattcact ttggaattat atttgtagga
+     1261 gtaaatataa ctttctttcc tcaacacttt ttagggttat ccggcatgcc acgacgatac
+     1321 tccgattatc cagacgctta taccacttga aacactgttt catctatagg gtcattcatc
+     1381 tcactaacag cagttattgt aatagtcttc ataatctgag aagcatttgc ttctaaacgt
+     1441 gaagtatgta ctgtagaatt aacttcaact aacattgaat gattatacgg atgtcctcca
+     1501 ccttatcata cttttgaaga accagtctac gtgaatgtaa aatag
+//
+

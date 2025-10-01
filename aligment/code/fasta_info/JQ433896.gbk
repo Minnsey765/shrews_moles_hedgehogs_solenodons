@@ -1,0 +1,60 @@
+LOCUS       JQ433896                 819 bp    DNA     linear   MAM 30-JUN-2013
+DEFINITION  Myosorex kihaulei voucher FMNH155611 recombination activating
+            protein (RAG1) gene, partial cds.
+ACCESSION   JQ433896
+VERSION     JQ433896.1
+KEYWORDS    .
+SOURCE      Myosorex kihaulei (Kihaule's Mouse Shrew)
+  ORGANISM  Myosorex kihaulei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Myosorex.
+REFERENCE   1  (bases 1 to 819)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Phylogenetic relationships of Sri Lankan shrews, including the
+            endemic genera Feroculus and Solisorex
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 819)
+  AUTHORS   Meegaskumbura,S., Meegaskumbura,M. and Schneider,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2012) Department of Biology, Boston University, 5
+            Cummington Street, Boston, MA 02215, USA
+FEATURES             Location/Qualifiers
+     source          1..819
+                     /organism="Myosorex kihaulei"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH155611"
+                     /db_xref="taxon:307108"
+                     /geo_loc_name="Tanzania"
+     gene            <1..>819
+                     /gene="RAG1"
+     mRNA            <1..>819
+                     /gene="RAG1"
+                     /product="recombination activating protein"
+     CDS             <1..>819
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein"
+                     /protein_id="AFI80809.1"
+                     /translation="SFEWQPPLKNVSSSTDVGIIDGLSGLSSSVDDYPVDTIAKRFRY
+                     DSALVSALMDMEMDILEGMRAQDLEDYLNGPFTVVVKESCDGMGDVSEKHGSGPAVPE
+                     KAVRFSFTIMRITVAQGTREVKVFEEAKPNSELCCKPLCLMLADESDHETLTAILSPL
+                     IAEREAMKTSQLRLEMGGIPRSFQFIFRGTGYDEKLVREVEGLEASGSVYICTLCDAT
+                     RLEASQNLVFHSITRSHSENLQRYEVWRSNPYHESVEELRDRVKGVSAKPFIETV"
+ORIGIN      
+        1 tcctttgagt ggcagccccc gctgaagaat gtctccagta gcacagacgt gggcatcatt
+       61 gatggcctgt cgggactgtc ctcctctgtg gacgattatc ccgtggacac catcgccaag
+      121 cgtttccgct atgactcagc cttggtgtct gccttgatgg acatggaaat ggacatattg
+      181 gaaggtatga gagcccagga cctggaggac tacctgaacg gccccttcac tgtggtggtg
+      241 aaggaatcct gtgacggaat gggtgatgtg agcgagaagc atggcagcgg gcctgctgtg
+      301 cctgaaaagg ccgttcgctt ttccttcacc atcatgagga tcactgtggc ccagggcact
+      361 cgggaggtga aggtgtttga ggaagccaag cccaactctg agctgtgttg caaaccgctg
+      421 tgccttatgc tggcagacga gtcagaccac gagaccctga ctgccatcct gagcccactc
+      481 attgctgagc gggaggccat gaagaccagc cagctgaggc tggaaatggg tggcatcccg
+      541 cgctccttcc agttcatctt caggggcact gggtatgatg agaaactcgt gcgggaagtg
+      601 gagggactcg aggcttcggg ctcagtctac atctgcaccc tgtgcgatgc cacccgcctg
+      661 gaggcctctc agaacctggt cttccattcc atcaccagaa gccacagcga gaacctgcag
+      721 cgctacgagg tctggcgttc caacccctac cacgagtcgg tggaggagct gcgggatcgc
+      781 gtgaaagggg tctcggccaa acccttcata gagactgtc
+//
+

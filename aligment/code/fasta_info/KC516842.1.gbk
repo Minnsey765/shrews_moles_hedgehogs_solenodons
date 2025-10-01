@@ -1,0 +1,57 @@
+LOCUS       KC516842                 507 bp    DNA     linear   MAM 07-NOV-2020
+DEFINITION  Neotetracus sinensis isolate A16 apolipoprotein B (ApoB) gene,
+            partial cds.
+ACCESSION   KC516842
+VERSION     KC516842.1
+KEYWORDS    .
+SOURCE      Neotetracus sinensis (Shrew gymnure)
+  ORGANISM  Neotetracus sinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Neotetracus.
+REFERENCE   1  (bases 1 to 507)
+  AUTHORS   Tu,F., Zhang,X., Liu,S. and Yue,B.
+  TITLE     Phylogenetic position of the genus Uropsilus (Talpidae,
+            Soricomorpha):Evidence from nuclear and mitochondrial DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 507)
+  AUTHORS   Tu,F., Zhang,X., Liu,S. and Yue,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JAN-2013) Sichuan University, College of Life
+            Sciences, Wuhou District, Chengdu, Sichuan 610064, China
+FEATURES             Location/Qualifiers
+     source          1..507
+                     /organism="Neotetracus sinensis"
+                     /mol_type="genomic DNA"
+                     /isolate="A16"
+                     /isolation_source="Pingshan"
+                     /specimen_voucher="PS001"
+                     /db_xref="taxon:977878"
+                     /geo_loc_name="China"
+                     /lat_lon="28.70 N 104.03 E"
+     gene            <1..>507
+                     /gene="ApoB"
+     mRNA            <1..>507
+                     /gene="ApoB"
+                     /product="apolipoprotein B"
+     CDS             <1..>507
+                     /gene="ApoB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="AGI95781.1"
+                     /translation="VPLNSLCVFIDDNIKVFMRQLEKVRDKMLGFVTKSYDEAKLKIK
+                     NSFNEKPRTFQIPGYTIPVMNIEASPSTVEMLPFGYVIPKEISTPNLTIPGSNFFVPS
+                     YTLALPFLDLPDLQVPGNLPQFSVPEFKALSSPKNILIPALGNITYDFSFKSSVITLN
+                     TNVGLYNQS"
+ORIGIN      
+        1 gttcctttga actcgctgtg tgtgtttatt gatgataata tcaaggtctt catgagacaa
+       61 cttgagaaag ttagagacaa gatgttaggt tttgttacca aatcctatga tgaagcaaag
+      121 ctcaagatta aaaattcttt caatgagaaa cccaggacct tccagattcc tggatacact
+      181 attccagtca tgaacattga agcatctcca tccactgtag agatgttacc atttggttat
+      241 gtaatcccaa aagagatcag caccccaaat ctcaccatcc caggttctaa cttttttgtc
+      301 ccctcgtata ccttggccct gccatttcta gacctgccag atcttcaagt ccctgggaac
+      361 cttcctcagt tttctgttcc agaattcaaa gcactgagtt ccccaaagaa tattttaatt
+      421 ccggctctgg gcaatattac ctatgatttc tcctttaagt caagtgtcat cacactgaat
+      481 accaatgttg gactttataa ccaatca
+//
+

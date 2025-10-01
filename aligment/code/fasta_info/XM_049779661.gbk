@@ -1,0 +1,94 @@
+LOCUS       XM_049779661            1584 bp    mRNA    linear   MAM 27-FEB-2023
+DEFINITION  PREDICTED: Suncus etruscus recombination activating 2 (RAG2), mRNA.
+ACCESSION   XM_049779661
+VERSION     XM_049779661.1
+DBLINK      BioProject: PRJNA862492
+KEYWORDS    RefSeq.
+SOURCE      Suncus etruscus (white-toothed pygmy shrew)
+  ORGANISM  Suncus etruscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Crocidurinae; Suncus.
+COMMENT     MODEL REFSEQ:  This record is predicted by automated computational
+            analysis. This record is derived from a genomic sequence
+            (NC_064856) annotated using gene prediction method: Gnomon.
+            Also see:
+                Documentation of NCBI's Annotation Process
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_024139225.1-RS_2023_02
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.1
+            Annotation Method           :: Gnomon; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 02/26/2023
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1584
+                     /organism="Suncus etruscus"
+                     /mol_type="mRNA"
+                     /isolate="mSunEtr1"
+                     /db_xref="taxon:109475"
+                     /chromosome="9"
+                     /sex="male"
+                     /tissue_type="lung fibroblast cultured cells"
+                     /dev_stage="adult"
+                     /geo_loc_name="USA: Madison, Wisconsin"
+                     /lat_lon="43.072810 N 89.407550 W"
+                     /collected_by="Susanne Meyer, Jessica Antosiewicz-Bourget"
+     gene            1..1584
+                     /gene="RAG2"
+                     /note="recombination activating 2; Derived by automated
+                     computational analysis using gene prediction method:
+                     Gnomon. Supporting evidence includes similarity to: 11
+                     Proteins"
+                     /db_xref="GeneID:126017638"
+     CDS             1..1584
+                     /gene="RAG2"
+                     /codon_start=1
+                     /product="V(D)J recombination-activating protein 2"
+                     /protein_id="XP_049635618.1"
+                     /db_xref="GeneID:126017638"
+                     /translation="MSLQMVTVSNSTALIQPGFSLMNFDGQVFFFGQKGWPKRSCPTG
+                     VFHFNVKNSNLKLKPAFFSKDSCYLPPLRYPAICILKSNLESENHQYIIHGGKTPNNE
+                     LSDKIYIISVDCKNNKKVTFRCTEKDLVGDVPEARYGHSIDMVYSRGKTMGVLFGGRS
+                     YMPSAQRTTEKWNSVADCLPHVFLLDFEFGCSTSYNLPELQDGLSFHVSIARKDTIYI
+                     LGGHSLSNNIRPASLYRIRVDLPLGSPAVNCTILPGGISVSSAIVTQTSNDEFVIVGG
+                     YQLDNQKRMVCNTVSLEDNKIEIREMETPDWTPDIKHSKIWFGSNMGNGNVFLGIPGD
+                     NKQTVSEAYYFYMLKCAEDDVNEDQKPVTNSQISTEDPGDSTPFEDSEEFCFSAEANS
+                     FDGDDEFDTYNEDDEEDESETGYWITCCPTCDVDINTWVPFYSTELNKPAMIYCSHGD
+                     GHWVHAQCMDLAECTLIHLSEGSNKYYCNEHVEIARALQTPKRALPLKKPPLKSLHKK
+                     GSGKIFTPAKKSFLRRLFD"
+ORIGIN      
+        1 atgtccctac agatggtaac agtaagtaac agcacagcct taattcaacc aggcttctca
+       61 ctgatgaatt ttgatgggca agtatttttc tttggtcaaa aaggctggcc caagagatcc
+      121 tgccccactg gagtttttca ttttaatgta aagaatagca atctaaagct gaagcctgca
+      181 tttttctcaa aggattcctg ctatctacct cctcttcgct atccagccat ttgtatactc
+      241 aaaagcaacc tagagtctga aaatcatcaa tacatcatcc atggagggaa aacaccaaac
+      301 aatgagcttt cagataagat atatatcata tctgttgatt gcaaaaacaa caaaaaagtt
+      361 acctttcgct gcacagagaa agacttagta ggagatgtcc ccgaagctag atatggccat
+      421 tccattgaca tggtgtatag tagaggtaaa actatgggtg ttctttttgg agggcgctca
+      481 tacatgcctt ctgcccaaag aaccacagaa aaatggaatt ctgtagctga ctgcctgccc
+      541 catgtttttt tgttggattt tgaatttggg tgttctacat catacaatct tccagaactt
+      601 caagatggac tatcttttca tgtctcaatt gccagaaagg ataccattta tattttagga
+      661 gggcattcac tttccaataa cattcgccca gccagtctgt acagaataag ggttgatctg
+      721 cccttgggca gcccagctgt gaattgcaca atcctgccag gaggaatctc ggtttccagt
+      781 gcaatagtaa ctcaaacaag caatgatgaa tttgttatcg ttggcggtta ccagcttgac
+      841 aaccaaaaaa gaatggtgtg caacacagtg tctttggagg ataacaagat agaaattcgt
+      901 gagatggaga ctccagactg gaccccagat attaagcaca gcaagatatg gtttggaagc
+      961 aacatgggaa atggaaatgt tttccttggc attccaggag acaataaaca gactgtttca
+     1021 gaagcttact atttctatat gttaaaatgt gctgaagatg atgtgaatga agatcaaaaa
+     1081 ccagtcacaa atagtcagat atcaacagaa gacccaggag actccactcc ctttgaagat
+     1141 tcagaagaat tttgttttag tgcagaagct aatagttttg atggtgatga tgaatttgat
+     1201 acttataatg aagatgatga ggaagatgaa tctgagacag gctattggat tacatgctgc
+     1261 cctacttgtg atgtggatat caacacctgg gtgccatttt attcaactga gctcaacaaa
+     1321 cctgccatga tctactgctc ccatggagat gggcactggg ttcatgccca gtgcatggat
+     1381 ctggcagaat gcacactcat ccacttgtca gaaggaagca ataaatatta ctgcaatgag
+     1441 catgtagaga tagcaagagc attgcaaacc cctaaacgag cactaccttt gaaaaagcca
+     1501 ccactgaaat ccctccacaa aaaaggttct gggaaaatat ttactcctgc caaaaagtcc
+     1561 ttccttagac gattgtttga ttaa
+//
+

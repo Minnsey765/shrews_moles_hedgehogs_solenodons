@@ -1,0 +1,81 @@
+LOCUS       JF436820                 657 bp    DNA     linear   MAM 29-MAY-2018
+DEFINITION  Sorex monticolus voucher HLC-16317 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   JF436820
+VERSION     JF436820.1
+DBLINK      BioProject: PRJNA472144
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Sorex monticolus (montane shrew)
+  ORGANISM  Sorex monticolus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 657)
+  AUTHORS   Stewart,D.T., Eger,J.L., Lim,B.K., Engstrom,M.D., Millar,J.S.,
+            Lobo,N., Pruitt,W.O., Hwang,Y.T., Borisenko,A.V., Ivanova,N.V. and
+            Hebert,P.D.N.
+  TITLE     Mammals of Canada - Insectivores
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 657)
+  AUTHORS   Stewart,D.T., Eger,J.L., Lim,B.K., Engstrom,M.D., Millar,J.S.,
+            Lobo,N., Pruitt,W.O., Hwang,Y.T., Borisenko,A.V., Ivanova,N.V. and
+            Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2011) Biodiversity Institute of Ontario,
+            University of Guelph, 50 Stone Road East, Guelph, Ontario N1G2W1,
+            Canada
+FEATURES             Location/Qualifiers
+     source          1..657
+                     /organism="Sorex monticolus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="HLC-16317"
+                     /db_xref="BOLD:ABMWC133-09.COI-5P"
+                     /db_xref="taxon:62903"
+                     /geo_loc_name="Canada: Alberta, Kananaskis, vicinity of
+                     Barrier Lake UC Field Station, HWY 68, Sibbald Creek site,
+                     mixed aspen and spruce stand with dense grass near creek"
+                     /lat_lon="51.0509 N 114.96 W"
+                     /collection_date="18-Aug-2008"
+                     /collected_by="J.S.Millar, A.V.Borisenko, E.Y.Liu"
+                     /identified_by="Alex V. Borisenko"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaaagacattgg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccaaagaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaaccacaargayatygg, rev_seq:
+                     caggaaacagctatgactagacttctgggtggccraaraayca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtattcaaccaatcataaagatattgg, rev_seq:
+                     caggaaacagctatgactaaacttctggatgtccaaaaaatca"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagttctcaaccaacca<i>aa<i>ga<i>at<i>gg,
+                     rev_seq:
+                     caggaaacagctatgactagacttctgggtg<i>cc<i>aa<i>aa<i>ca"
+     gene            <1..>657
+                     /gene="COI"
+     CDS             <1..>657
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADZ94787.1"
+                     /translation="TLYMVFGAWAGMVGTALSILIRAELGQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPIMLGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGSINFITTIINMKPPAM
+                     SQYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 actctgtata tagtatttgg tgcttgagcc ggaatagtag gcacagcctt aagcatccta
+       61 attcgcgccg aactaggcca accgggcgca ctactaggtg atgaccaaat ctataatgtt
+      121 attgttaccg cccacgcatt cgtcataatc tttttcatag tcatgcctat catgctagga
+      181 ggctttggaa actgacttat ccctctgata attggtgctc ctgacatagc cttcccacgt
+      241 ataaataata taagcttttg actacttcct ccgtcattct tgttactact agcatcatca
+      301 accgtagaag caggagcagg aacaggttga accgtctatc caccactagc tggcaattta
+      361 gcccatgcag gagcatccgt cgacctggca atcttttctc tacacttagc aggtgtttct
+      421 tcaatcctag gctcaattaa tttcatcact acaattatta acataaaacc tcccgcaata
+      481 tcccaatacc aaacaccact attcgtatga tccgtcttaa ttacagcagt attattactt
+      541 ctctcacttc cagtactcgc agccggaatc acaatattat taacagaccg caaccttaat
+      601 actactttct tcgatcctgc tggaggagga gaccctatcc tttatcaaca tttattc
+//
+

@@ -1,0 +1,55 @@
+LOCUS       AY011447                 555 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Erinaceus concolor brain-derived neurotrophic factor (BDNF) gene,
+            partial cds.
+ACCESSION   AY011447
+VERSION     AY011447.1
+KEYWORDS    .
+SOURCE      Erinaceus concolor (southern white-breasted hedgehog)
+  ORGANISM  Erinaceus concolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Erinaceinae; Erinaceus.
+REFERENCE   1  (bases 1 to 555)
+  AUTHORS   Murphy,W.J., Eizirik,E., Johnson,W.E., Zhang,Y.P., Ryder,O.A. and
+            O'Brien,S.J.
+  TITLE     Molecular phylogenetics and the origins of placental mammals
+  JOURNAL   Nature 409 (6820), 614-618 (2001)
+   PUBMED   11214319
+REFERENCE   2  (bases 1 to 555)
+  AUTHORS   Murphy,W.J., Eizirik,E. and Johnson,W.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2000) Laboratory of Genomic Diversity, National
+            Cancer Institute-FCRDC, P.O. Box B, Bldg. 560, Rm. 11-10,
+            Frederick, MD 21702, USA
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /organism="Erinaceus concolor"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:37316"
+     gene            <1..>555
+                     /gene="BDNF"
+     mRNA            <1..>555
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor"
+     CDS             <1..>555
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="brain-derived neurotrophic factor"
+                     /protein_id="AAG47481.1"
+                     /translation="YFGCMKAAPMKEANFRGQGSLVYPGMRTHGTLESANGPKAGARD
+                     LALANTFEHVIEELLDEDQKVRPHDETPKDADLYTSRVMLSSQVPLEPPLLFLLEEYK
+                     NYLDAANMSMRVRRHSDPARRGELSVCDSVSQWVTAADKKTAVDMSGGTVTVLEKVPV
+                     SKGQLKQYFYETRCNPLGFTKEGCR"
+ORIGIN      
+        1 tactttggtt gcatgaaggc tgcccccatg aaagaagcaa acttccgagg acaaggcagc
+       61 ttggtctacc caggtatgcg gacccatggg actctggaga gcgcgaatgg gcccaaggca
+      121 ggtgcaagag acctggcatt ggctaacact tttgaacacg tgatagaaga gctgttggac
+      181 gaggaccaga aagttcgtcc ccatgacgaa acccctaagg acgcggactt gtatacttct
+      241 cgagtgatgc tcagtagtca agtgcctttg gagcctcctc ttctctttct gcttgaggaa
+      301 tacaaaaatt acctggatgc tgcaaacatg tcgatgaggg tccggcgcca ctctgaccct
+      361 gcccgccgtg gggagctgag cgtgtgcgac agtgttagcc agtgggtgac agcagcagat
+      421 aaaaagactg cagtggacat gtcgggcggg acggtcaccg tccttgaaaa agtacctgta
+      481 tccaaaggtc aactgaagca gtacttctac gagaccaggt gcaatccgct gggtttcacg
+      541 aaggagggct gcagg
+//
+

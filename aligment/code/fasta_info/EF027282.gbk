@@ -1,0 +1,38 @@
+LOCUS       EF027282                 145 bp    DNA     linear   MAM 25-SEP-2007
+DEFINITION  Sorex alpinus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   EF027282
+VERSION     EF027282.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex alpinus (alpine shrew)
+  ORGANISM  Sorex alpinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 145)
+  AUTHORS   Humair,P.F., Douet,V., Cadenas,F.M., Schouls,L.M., Van De Pol,I.
+            and Gern,L.
+  TITLE     Molecular identification of bloodmeal source in Ixodes ricinus
+            ticks using 12S rDNA as a genetic marker
+  JOURNAL   J. Med. Entomol. 44 (5), 869-880 (2007)
+   PUBMED   17915521
+REFERENCE   2  (bases 1 to 145)
+  AUTHORS   Humair,P.-F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-SEP-2006) Laboratoire de Parasitologie, Universite de
+            Neuchatel, Rue Emile Argand 11, 2007 Neuchatel, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..145
+                     /organism="Sorex alpinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:62902"
+                     /geo_loc_name="Switzerland"
+     rRNA            <1..>145
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 caaactggga ttagataccc cactatgctt agccctaaac ttaggtattt aatctaacaa
+       61 aaatacccgc cagagaacta ctagcaatag cttaaaactc aaaggacttg gcggtgcttt
+      121 atatccctct agaggagcct gttct
+//
+

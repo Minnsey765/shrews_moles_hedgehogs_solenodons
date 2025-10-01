@@ -1,0 +1,69 @@
+LOCUS       KX755191                 790 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Uropsilus soricipes isolate Uropso_5 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755191
+VERSION     KX755191.1
+KEYWORDS    .
+SOURCE      Uropsilus soricipes
+  ORGANISM  Uropsilus soricipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Uropsilus.
+REFERENCE   1  (bases 1 to 790)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 790)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..790
+                     /organism="Uropsilus soricipes"
+                     /mol_type="genomic DNA"
+                     /isolate="Uropso_5"
+                     /specimen_voucher="KIZ:0905018"
+                     /db_xref="taxon:182671"
+                     /geo_loc_name="China: Sichuan"
+     gene            <1..>790
+                     /gene="APOB"
+     mRNA            <1..>790
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>790
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33596.1"
+                     /translation="EKTGLKEFLRTTKQSFDLSVKTQYKKNKDKHSIPIPLDAFYVFI
+                     NHNINSFIRQFDNGRQKALVFVTNVYNETKNKFDQHKVEKSLNKQPRIFQIPGYSIPV
+                     LNIEVSPFTVKMLPFGYVIPEEISTPSFTIWDSDFYVPSYTLALPSLELPVLSVSTTP
+                     LKFSLPEFKMLSNSQNILIPALGNITYDFSFKSSVITLNTNVGLYNQSDIVAHFLASS
+                     SSVVESLQYKLEGTSSLTRKRGLKLATALSLSNDFVGGSHNSTIS"
+ORIGIN      
+        1 gagaaaacgg gcctgaagga attcttgaga acgacaaagc aatcctttga tttaagtgta
+       61 aagactcagt ataagaaaaa caaagacaag cattccatcc caattccttt ggatgcattt
+      121 tatgtgttta tcaatcataa catcaattct ttcatcaggc aatttgacaa tggcagacag
+      181 aaggctttag tttttgttac caatgtgtat aatgaaacaa aaaataagtt tgatcagcac
+      241 aaggttgaaa agtctctcaa caagcaacct aggatctttc aaatccctgg atactctatt
+      301 ccagtcctca acattgaagt gtctccattc acagtaaaga tgctaccatt tggctatgtg
+      361 ataccggaag agatcagcac ccctagcttc accatctggg attctgactt ctatgtgccc
+      421 tcctatacat tagccctgcc atccctagag ctgccagtcc tctctgtctc tacaactcct
+      481 ctcaagtttt ctcttccaga attcaagatg ttgagtaact cacagaatat cttaattcct
+      541 gccctgggca atattaccta tgatttttcc tttaaatcaa gtgtcatcac actgaatacc
+      601 aatgtcggcc tttataacca atcagacatt gttgctcatt tccttgcttc ctcttcttct
+      661 gttgtggagt ctctgcagta caagctagag ggtacctcta gtttgacaag gaaaagagga
+      721 ctgaagctgg ccaccgcctt gtctctgagt aatgactttg tgggaggcag tcataacagt
+      781 accattagct
+//
+

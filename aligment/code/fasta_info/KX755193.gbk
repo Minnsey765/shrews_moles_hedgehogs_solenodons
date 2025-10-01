@@ -1,0 +1,71 @@
+LOCUS       KX755193                 861 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Urotrichus talpoides isolate HEG85-97 apolipoprotein B (APOB) gene,
+            partial cds.
+ACCESSION   KX755193
+VERSION     KX755193.1
+KEYWORDS    .
+SOURCE      Urotrichus talpoides (Japanese shrew mole)
+  ORGANISM  Urotrichus talpoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Urotrichus.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /organism="Urotrichus talpoides"
+                     /mol_type="genomic DNA"
+                     /isolate="HEG85-97"
+                     /db_xref="taxon:106106"
+                     /geo_loc_name="Japan: Tokushima, Mt. Tsurugi"
+                     /note="Utalpo_1"
+     gene            <1..>861
+                     /gene="APOB"
+     mRNA            <1..>861
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>861
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B"
+                     /protein_id="APD33598.1"
+                     /translation="EKTGLKEFLRTTKQSFDFSVKTQYKKNKDKHSISIPLDVFYAFM
+                     SRNINSFMRQFQQGGHQTLVSFINAYNEAKMKFDKYKVEKSLNNQSRTFQIPGYTIPV
+                     FNIEASPSTVRMLPFGYVIPEEISTPGFTIWGSDFYVPSYTLGLSSLELPGLPGLVPP
+                     VAFSLPEVKILSTPRNIFIPALGNITYDFSFKSSLITLNTNVELYNQSDIVVHFLSSS
+                     SSVVDALQYKLEGTSSLTRKRGLKLATALSLSNEFVGGSHNSTVSLTKKNLEASVTTT
+                     AKVQVSILNMD"
+ORIGIN      
+        1 gaaaaaacag gcttgaagga attcttgaga acaacgaagc agtcatttga ctttagtgta
+       61 aagactcagt acaagaaaaa caaagacaag cattccatct caattccttt ggatgtgttt
+      121 tatgcgttta tgagccgtaa catcaattcc ttcatgaggc aatttcagca aggaggacat
+      181 cagactttag tttcttttat caatgcctat aatgaagcaa aaatgaagtt tgataagtac
+      241 aaagttgaaa agtccctcaa caaccaatcc aggacctttc aaattcctgg atacactatc
+      301 ccagtcttca atattgaagc ctccccatca acggttagga tgttaccatt cggctatgtg
+      361 atcccagaag agatcagcac ccccggcttc accatctggg gttctgactt ctatgtgccc
+      421 tcttatacat taggactgtc atccctggag ttgccaggcc ttcccggcct tgtaccccct
+      481 gtcgcgtttt ctcttccaga agtcaagata ttgagtaccc caaggaacat cttcattcct
+      541 gcgctgggca atatcaccta tgatttttcc tttaaatcaa gtctcatcac actgaacacc
+      601 aatgttgaac tttataacca atcagacatc gttgttcatt tccttagttc ctcttcttct
+      661 gtcgtggatg ctctgcagta caagctggag ggcacctcaa gtttgacgag gaaaagaggg
+      721 ctgaagttag ccacagcctt gtccctgagt aatgaattcg tgggaggcag tcataacagt
+      781 accgttagct taacaaaaaa aaacttggaa gcatcagtga caacaactgc aaaagttcaa
+      841 gtttcaattt tgaatatgga t
+//
+

@@ -1,0 +1,59 @@
+LOCUS       OP355891                 735 bp    DNA     linear   MAM 10-OCT-2023
+DEFINITION  Sorex araneus voucher ZMMU:Don158 growth hormone receptor gene,
+            partial cds.
+ACCESSION   OP355891
+VERSION     OP355891.1
+KEYWORDS    .
+SOURCE      Sorex araneus (European shrew)
+  ORGANISM  Sorex araneus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 735)
+  AUTHORS   Raspopova,A.A., Lebedev,V.S., Searle,J.B. and Bannikova,A.A.
+  TITLE     Discordant phylogenies in the Sorex araneus group (Soricidae,
+            Mammalia): footprints of past reticulations?
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 735)
+  AUTHORS   Raspopova,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2022) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..735
+                     /organism="Sorex araneus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU:Don158"
+                     /db_xref="taxon:42254"
+                     /geo_loc_name="Russia: Rostov Region, Don valley, Asov"
+     mRNA            <1..>735
+                     /product="growth hormone receptor"
+     CDS             <1..>735
+                     /note="GHR"
+                     /codon_start=2
+                     /product="growth hormone receptor"
+                     /protein_id="WNV29104.1"
+                     /translation="DDPDEKTEGSDTDRLLNQDYDKSLNILGAKDDDSGRTSCYEPDI
+                     LETDYNASDMCDGTLELAPKPQRLKEEADLLCLDQKNQNHSLSDDALSSTPRLSVTLA
+                     QENKPRPLVTGGTESTHPTTHTQPSNPSSLANIDFYAQVSDITPAGSVVLSPGQKIKA
+                     GIAQYDMHPEVVSRSQANFIMDNAYFCEADAKKCITEAPQLEVQSRVEPRFNQEDIYI
+                     TTESLTTTAGRSVTAELAPSPELPVP"
+ORIGIN      
+        1 tgatgatcct gacgaaaaga ctgaaggatc agatacagac agactcctaa accaagacta
+       61 tgataagtca cttaatatcc tcggggcaaa agatgatgac tctggacgta ccagctgtta
+      121 tgaacctgac attctagaga ctgattataa tgctagtgac atgtgtgatg gtaccttaga
+      181 gcttgcgcca aagccacaaa ggttaaaaga ggaagcagat ctcttgtgcc ttgaccagaa
+      241 gaatcaaaat cattcactct ctgatgatgc tctctcttct actccacgcc tcagtgtaac
+      301 cttagcacag gaaaataaac caagaccact tgttacgggt ggaactgaat caactcatcc
+      361 aactactcat actcagccaa gcaatccaag ttcactggca aatatcgatt tttatgccca
+      421 ggtaagtgac attacaccag cagggagtgt ggttctttcc cccggccaga agattaaggc
+      481 agggatagcc cagtatgaca tgcatccaga agtggtttcg cgctcccaag caaacttcat
+      541 catggacaat gcctacttct gtgaggctga tgccaaaaag tgcatcacag aggcccctca
+      601 actagaggtc caatcccgtg tagagccaag atttaaccag gaagacattt acatcaccac
+      661 agaaagcctt accactactg ctgggaggtc tgtgacagca gaactggccc cgagtcctga
+      721 gttgcctgtc ccaga
+//
+

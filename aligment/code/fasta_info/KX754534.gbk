@@ -1,0 +1,72 @@
+LOCUS       KX754534                 813 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Scapanus orarius isolate Scaora_2 breast cancer 1 (BRCA1) gene,
+            exon 11 and partial cds.
+ACCESSION   KX754534
+VERSION     KX754534.1
+KEYWORDS    .
+SOURCE      Scapanus orarius
+  ORGANISM  Scapanus orarius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Scapanus.
+REFERENCE   1  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Scapanus orarius"
+                     /mol_type="genomic DNA"
+                     /isolate="Scaora_2"
+                     /specimen_voucher="UWBM:81163"
+                     /db_xref="taxon:182674"
+                     /geo_loc_name="USA: Washington, King"
+     gene            <1..>813
+                     /gene="BRCA1"
+     mRNA            <1..>813
+                     /gene="BRCA1"
+                     /product="breast cancer 1"
+     CDS             <1..>813
+                     /gene="BRCA1"
+                     /codon_start=1
+                     /product="breast cancer 1"
+                     /protein_id="APD32997.1"
+                     /translation="SKQPDLARSQQNRWAESKETCNDRQTPSPEKRVDPNADPMYGRK
+                     ELNKQKPPCSDSPRNSQGVAWITLNSSIRKVNEWFSRSDEILTSDESHDGESESNIEM
+                     TGEVEVPNAVDGFSGSSEKIDFMASNPPSLMCKSERVCTKPVESNIEDKIFGKTYRRK
+                     TNLPNLSHVAEYLITGTSATEPQIAQERPFTNRLKRKRRTTPGLCPEDFIKKVDLAVV
+                     QNTPEKISEGTDQMDQSGQVMNVTYNGHGNETKRDYAQKEKSANPSESSEKES"
+     exon            <1..>813
+                     /gene="BRCA1"
+                     /number=11
+ORIGIN      
+        1 agtaaacagc ctgacttagc aaggagccag cagaacagat gggctgaaag taaagaaaca
+       61 tgtaatgata ggcagactcc cagcccagag aaaagggtag acccgaatgc tgatcccatg
+      121 tatgggagaa aagaactgaa taagcagaaa cctccatgct ctgacagccc cagaaattcc
+      181 caaggtgttg cctggataac actgaacagt agcattcgga aagttaatga gtggttttcc
+      241 agaagtgatg aaatattaac ttctgatgag tctcatgatg gggagtccga atcaaatatt
+      301 gaaatgactg gtgaagtaga agttccaaac gcagtagatg gattttctgg ttcttcagag
+      361 aaaatagact tcatggccag caatcctccc tctttaatgt gtaaaagtga aagagtctgc
+      421 accaaaccag tagaaagtaa tattgaagat aagatatttg ggaaaaccta tcggaggaag
+      481 acaaacctcc caaacttgag ccacgtggct gaatatttaa ttacagggac atctgccaca
+      541 gaacctcaga tagctcaaga gcgtcccttc acaaatagat taaaacgtaa aaggagaact
+      601 acaccaggcc tttgccctga ggattttatc aagaaagtag atttggcagt tgttcagaac
+      661 acccctgaaa agataagtga gggaactgac caaatggatc agagtggtca agtgatgaat
+      721 gttacttata atggtcatgg gaatgaaaca aaacgtgatt atgctcagaa agagaaaagt
+      781 gctaacccat cagaatcatc agaaaaagaa tct
+//
+

@@ -1,0 +1,67 @@
+LOCUS       KX755040                 664 bp    DNA     linear   MAM 27-NOV-2016
+DEFINITION  Desmana moschata isolate DM-1 growth hormone receptor (GHR) gene,
+            partial cds.
+ACCESSION   KX755040
+VERSION     KX755040.1
+KEYWORDS    .
+SOURCE      Desmana moschata
+  ORGANISM  Desmana moschata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Desmana.
+REFERENCE   1  (bases 1 to 664)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S., Jiang,X.L. and
+            Campbell,K.L.
+  TITLE     Talpid mole phylogeny unites shrew moles and illuminates overlooked
+            cryptic species diversity
+  JOURNAL   Mol. Biol. Evol. (2016) In press
+   PUBMED   27795230
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 664)
+  AUTHORS   He,K., Shinohara,A., Helgen,K.M., Springer,M.S. and Jiang,X.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-AUG-2016) State Key Laboratory of Genetic Resources
+            and Evolution, Kunming Institute of Zoology, Chinese Academy of
+            Sciences, #32 Jiaochaong Donglu Road, Kunming, Yunnan 650223, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Seqman v. 7
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..664
+                     /organism="Desmana moschata"
+                     /mol_type="genomic DNA"
+                     /isolate="DM-1"
+                     /db_xref="taxon:182682"
+                     /geo_loc_name="Russia: Vladimirskiy, Rockovskoye lake"
+                     /note="Dmosch_1"
+     gene            <1..>664
+                     /gene="GHR"
+     mRNA            <1..>664
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>664
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="APD33445.1"
+                     /translation="EKTEGSDTDRLLSNDHQKSLPILGAKDDDSGRTSCYEPDILETD
+                     FNVSDLCDGTSEVAQPQRLKGEADLLCLDQKNQNNSPSNDAPPSTQQPNVSPTQENKP
+                     RPLLIGGTESTPQASHSQLSNLSSLANIDFYAQVSDITPAGRVVLSPGQKNKAGIAQC
+                     VVPPEAVSRCHANFLMDNAYFCEADAKKCITVAPHMEIETRGEPSFNQEDIYITTESL
+                     TTT"
+ORIGIN      
+        1 gaaaagacag aaggatcaga cacagacaga cttctaagca atgaccacca gaaatcactt
+       61 ccgatccttg gggcaaagga tgatgactcc ggacgtacca gctgctatga acctgatatt
+      121 ctagagactg atttcaatgt gagtgaccta tgtgatggta cctcagaggt ggctcagcca
+      181 caaaggttaa aaggggaagc agatctcttg tgccttgacc agaagaatca aaataactca
+      241 ccttctaatg atgctccccc ctctactcag cagcctaatg ttagcccaac acaggaaaac
+      301 aaaccaagac cacttctcat tggtggaact gagtcaactc ctcaagcttc ccatagtcag
+      361 ctaagcaatc tgagttcact ggcaaacatc gacttttatg cccaggtaag cgacattaca
+      421 ccagccggga gggtggtcct ttccccgggc caaaagaata aggcagggat agcccagtgt
+      481 gtcgtgcctc cagaagcagt ctcacgctgc catgcaaact tcctcatgga caacgcctac
+      541 ttctgtgagg cagatgccaa aaagtgcatc accgtggccc ctcacatgga gatagaaaca
+      601 cgtggagagc ccagctttaa ccaggaagac atttacatca ccacagaaag ccttaccact
+      661 actg
+//
+

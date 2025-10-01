@@ -1,0 +1,59 @@
+LOCUS       AY833415                 774 bp    DNA     linear   MAM 26-JUL-2016
+DEFINITION  Galemys pyrenaicus recombination activating protein 1 (RAG1) gene,
+            partial cds.
+ACCESSION   AY833415
+VERSION     AY833415.1
+KEYWORDS    .
+SOURCE      Galemys pyrenaicus (Pyrenean desman)
+  ORGANISM  Galemys pyrenaicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Galemys.
+REFERENCE   1  (bases 1 to 774)
+  AUTHORS   Cabria,M.T., Rubines,J., Gomez-Moliner,B. and Zardoya,R.
+  TITLE     On the phylogenetic position of a rare Iberian endemic mammal, the
+            Pyrenean desman (Galemys pyrenaicus)
+  JOURNAL   Gene 375, 1-13 (2006)
+   PUBMED   16624502
+REFERENCE   2  (bases 1 to 774)
+  AUTHORS   Cabria,M.T., Rubines,J., Gomez-Moliner,B.J. and Zardoya,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2004) Biodiversidad y Biologia Evolutiva, Museo
+            Nacional de Ciencias Naturales, Jose Gutierrez Abascal, 2, Madrid
+            28006, Spain
+FEATURES             Location/Qualifiers
+     source          1..774
+                     /organism="Galemys pyrenaicus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:202257"
+     gene            <1..>774
+                     /gene="RAG1"
+     mRNA            <1..>774
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>774
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AAV93326.1"
+                     /translation="DYLNGPFTVVVKESCDGMGDVSEKHGSGPAVPEKAVRFSFTVMN
+                     ITIVHGSQNVKVFEETKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQ
+                     LMLEMGGILRTFKFIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFH
+                     SITRSHTENLERYEVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAA
+                     EFYKIFQLEIGEVYKNPNASKEERKRWQATLDKHLRKKMN"
+ORIGIN      
+        1 gattacctga acggcccctt caccgtggtg gtgaaggagt cttgtgatgg gatgggagac
+       61 gtgagtgaga agcacgggag tgggccagcc gttccagaaa aggctgttcg gttttcgttc
+      121 actgtcatga atatcactat cgtgcacggc tcacagaacg tgaaggtgtt tgaggaaacc
+      181 aaacccaatt ccgaactgtg ttgcaagccc ttgtgcctta tgctggccga cgagtctgac
+      241 catgagaccc tgactgccat cctgagcccc cttattgccg agagggaggc catgaagagc
+      301 agccagttaa tgcttgaaat gggaggcatc ctccggactt tcaagttcat ctttaggggc
+      361 acaggatatg atgagaaact tgtccgagaa gtggaaggcc ttgaggcttc tgggtcagtc
+      421 tatatttgca ccctctgtga tgccacccgc ttggaagctt cccaaaatct tgtcttccac
+      481 tccataacca gaagccacac tgagaacctg gagcgctacg aggtctggcg ctccaacccc
+      541 taccacgagt ctgtggaaga attgagggac cgcgtgaaag gggtctcggc caaacccttc
+      601 attgagacag tcccttccat agatgctctt cactgtgaca tcggcaatgc agctgagttc
+      661 tacaagatct tccagctaga gataggggag gtgtataaga accccaatgc ttccaaagag
+      721 gaaaggaaaa gatggcaggc tacactggac aagcatctcc ggaagaagat gaac
+//
+

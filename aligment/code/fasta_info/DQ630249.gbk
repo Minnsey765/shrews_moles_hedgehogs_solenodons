@@ -1,0 +1,59 @@
+LOCUS       DQ630249                 775 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Chimarrogale platycephala isolate 2 BRCA1 (BRCA1) gene, partial
+            cds.
+ACCESSION   DQ630249
+VERSION     DQ630249.1
+KEYWORDS    .
+SOURCE      Chimarrogale platycephalus (flat-headed water shrew)
+  ORGANISM  Chimarrogale platycephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Chimarrogale.
+REFERENCE   1  (bases 1 to 775)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 775)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..775
+                     /organism="Chimarrogale platycephalus"
+                     /mol_type="genomic DNA"
+                     /isolate="2"
+                     /db_xref="taxon:62293"
+     gene            <1..>775
+                     /gene="BRCA1"
+     mRNA            <1..>775
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>775
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="BRCA1"
+                     /protein_id="ABG22220.1"
+                     /translation="GLARSQQNRWTENKEIYNDGQTLNTEKKVDLHTDPLSGRKLPSK
+                     QKSPCSDIPKDSQEMTWITLNSSIQKVNDWFSRSGDVLSSDDCHDRGSESKTEGAEII
+                     EISSAADEFSVSSEKIDLVARGSRRALSKSFKSNAEDKIFGKIYRRKANIPNLNRTAD
+                     DVILGSFLQEPPIAKEHPFTNKLKRKRRVTSCLSPEDFIKKGDLVIAKKSPEKVISNS
+                     HQTDQNGQVMNITTNDQSETRSDYAQKEKKANSTESSVNE"
+ORIGIN      
+        1 tggcttagca aggagccagc agaacagatg gactgaaaat aaggaaatat ataatgatgg
+       61 acagactctc aacacagaaa aaaaggtgga tctgcatact gatcccctat ctgggagaaa
+      121 actaccaagt aagcagaaat cgccgtgctc tgacattcct aaagattccc aagagatgac
+      181 ttggataact ctgaacagta gcatacagaa agttaatgat tggttttcca gaagtggtga
+      241 tgtattatct tctgatgatt gccatgatag agggtctgaa tcaaagacag aaggagctga
+      301 aataatagaa atttcaagtg cagcagatga attttctgtt tcttcagaga aaatagactt
+      361 agtggcccgt ggaagtagac gagctctctc caaatctttt aagagtaatg ctgaagataa
+      421 aatatttggg aaaatttatc ggaggaaagc aaatatccct aacttgaacc gcacagctga
+      481 cgatgtaatt ctaggatcat ttctccaaga acctcctata gcaaaagagc accccttcac
+      541 aaacaaatta aaacgtaaaa gaagagttac atcatgcctt tctcctgaag attttatcaa
+      601 gaaaggagat ttggtaattg ctaaaaaatc tcccgagaag gtaatcagta acagtcacca
+      661 aactgatcaa aatggccagg taatgaatat tactactaat gatcagagtg aaacaagaag
+      721 tgattatgcc cagaaggaga aaaaggctaa ctcaacagag tcatcagtaa atgaa
+//
+

@@ -1,0 +1,57 @@
+LOCUS       HG737910                 813 bp    DNA     linear   MAM 12-DEC-2013
+DEFINITION  Parascaptor leucura brca1 gene for Breast Cancer 1, specimen
+            voucher KIZ:0810480.
+ACCESSION   HG737910
+VERSION     HG737910.1
+KEYWORDS    .
+SOURCE      Parascaptor leucura (white-tailed mole)
+  ORGANISM  Parascaptor leucura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascaptor.
+REFERENCE   1
+  AUTHORS   He,K., Shinohara,A., Jiang,X.L. and Campbell,K.
+  TITLE     Multilocus phylogeny of Talpine moles (Talpini, Talpidae,
+            Eulipotyphla) and its implications for systematics
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   He,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2013) Biological Sciences, University of
+            Manitoba, 190 Dysart Road, Winnipeg, Manitoba, R3T 2N2, CANADA
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Parascaptor leucura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KIZ:0810480"
+                     /db_xref="taxon:1300119"
+                     /geo_loc_name="China:Yunnan, Kunming"
+     gene            <1..>813
+                     /gene="brca1"
+     CDS             <1..>813
+                     /gene="brca1"
+                     /codon_start=1
+                     /product="Breast Cancer 1"
+                     /protein_id="CDJ26088.1"
+                     /translation="SKQPDLARSQQNRWAESKETCNDRQTPSTEKRVGPTADPTYGRK
+                     EPNKQNPPCSDSPRNSQGVAWITLNSSVQKVNEWFSRSDEMLTSDDSCDGGSKSNVEM
+                     TGTIEVPNAVDGFSSSSEKIDLMASDPPALMCKSERVCTKPVESNIEDKIFGKTYRRK
+                     TSLPNLSHVTEDLIVVTSATDPQIAHERPFTNKLKRKRRTTPGLCPEDFIKKVDLAVV
+                     QNTPEQISERPDQMDQNGQVVGITYNAHGNETKCDYAQKEKSAKLTDSPEKES"
+ORIGIN      
+        1 agcaaacagc ctgacttagc aaggagccaa cagaacagat gggctgaaag taaagaaaca
+       61 tgtaatgata ggcagactcc cagtacagag aaaagggtag gcccgactgc tgatcccacg
+      121 tatgggagaa aagaaccgaa taagcagaat cctccatgct ctgacagccc cagaaattcc
+      181 caaggtgttg cctggataac actgaacagt agtgttcaga aagttaatga gtggttttcc
+      241 agaagtgatg aaatgttaac ttctgatgac tcatgtgatg gggggtcgaa atcaaatgtt
+      301 gaaatgactg gtacaataga agttccaaat gcagtggatg gattttctag ttcttcagag
+      361 aaaatagact taatggccag tgatcctcct gctttaatgt gcaaaagtga aagagtctgc
+      421 actaaaccag tagaaagtaa tattgaagat aagatatttg gaaaaaccta tcggaggaag
+      481 acaagcctcc caaatttgag ccatgtgact gaagatttaa ttgtagtgac atctgccaca
+      541 gatcctcaga tagctcatga gcgtcccttc acaaataaat taaaacgtaa aaggagaact
+      601 acaccaggcc tttgtcctga ggattttatc aagaaagtag atttggcagt cgttcagaac
+      661 acccctgaac agataagtga gagacctgac caaatggatc agaatggcca agtggtgggt
+      721 attacttata atgctcatgg gaatgaaaca aaatgtgatt atgctcaaaa agagaaaagt
+      781 gctaagctga ctgactcacc agaaaaagaa tct
+//
+

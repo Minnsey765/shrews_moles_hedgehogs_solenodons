@@ -1,0 +1,52 @@
+LOCUS       MH332215                 211 bp    DNA     linear   MAM 18-DEC-2018
+DEFINITION  Anourosorex squamipes voucher ZMMU:S-195174 Growth hormone receptor
+            (GHR) gene, partial cds.
+ACCESSION   MH332215
+VERSION     MH332215.1
+KEYWORDS    .
+SOURCE      Anourosorex squamipes (mole shrew)
+  ORGANISM  Anourosorex squamipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Anourosorex.
+REFERENCE   1  (bases 1 to 211)
+  AUTHORS   Bannikova,A.A., Chernetskaya,D., Raspopova,A., Alexandrov,D.,
+            Fang,Y., Dokuchaev,N., Sheftel,B. and Lebedev,V.
+  TITLE     Evolutionary history of the genus Sorex (Soricidae, Eulipotyphla)
+            as inferred from multigene data
+  JOURNAL   Zool. Scr. 47 (5), 518-538 (2018)
+  REMARK    DOI: 10.1111/zsc.12302
+REFERENCE   2  (bases 1 to 211)
+  AUTHORS   Bannikova,A. and Chernetskaya,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2018) Faculty of Biology, Lomonosov Moscow State
+            University, 1-12 Leninskie Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..211
+                     /organism="Anourosorex squamipes"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMMU:S-195174"
+                     /db_xref="taxon:127560"
+                     /geo_loc_name="China: Gansu"
+     gene            <1..>211
+                     /gene="GHR"
+     mRNA            <1..>211
+                     /gene="GHR"
+                     /product="Growth hormone receptor"
+     CDS             <1..>211
+                     /gene="GHR"
+                     /codon_start=3
+                     /product="Growth hormone receptor"
+                     /protein_id="AZD26428.1"
+                     /translation="SAHPSXHAQPSNPSALANIDFYAQVSDITPAGGVVLSPGQKIKA
+                     GVAQRDTRPQVVSRSQANVIVDNAY"
+ORIGIN      
+        1 aatcagcaca ccccagcant catgcccagc ctagcaatcc aagtgcactg gcaaatatcg
+       61 acttttatgc ccaggtaagt gacattacac cagcaggggg cgtggttctt tccccgggcc
+      121 aaaagatcaa ggcgggggta gcccagcgtg acacgcggcc acaagtggtt tcacgctccc
+      181 aagccaacgt catcgtggac aatgcctact t
+//
+

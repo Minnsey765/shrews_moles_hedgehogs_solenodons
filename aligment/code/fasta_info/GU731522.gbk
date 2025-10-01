@@ -1,0 +1,66 @@
+LOCUS       GU731522                1140 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Sorex monticolus isolate EAR6152 cytochrome b (cytb) gene, complete
+            cds; mitochondrial.
+ACCESSION   GU731522
+VERSION     GU731522.1
+KEYWORDS    .
+SOURCE      mitochondrion Sorex monticolus (montane shrew)
+  ORGANISM  Sorex monticolus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1  (bases 1 to 1140)
+  AUTHORS   Rickart,E.A., Rowe,R.J., Robson,S.L., Alexander,L.F. and
+            Rogers,D.S.
+  TITLE     Shrews of the Ruby Mountains, Northeastern Nevada
+  JOURNAL   Southwest. Nat. 56 (1), 95-102 (2011)
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Rickart,E.A., Rowe,R.J., Robson,S.L., Alexander,L.F. and
+            Rogers,D.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2010) Biology, Brigham Young University, 401
+            WIDB, Provo, UT 84602, USA
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Sorex monticolus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="EAR6152"
+                     /db_xref="taxon:62903"
+     gene            1..1140
+                     /gene="cytb"
+     CDS             1..1140
+                     /gene="cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ADN95814.1"
+                     /translation="MTNLRKTHPLMKIINSSFIDLPAPSNISSWWNFGSLLGVCLIVQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMFLETWNIGVLLLFAVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGSDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIIAALAGVHLLFLHETGSNNPSGLCSDADKI
+                     PFHPYYTIKDILGVLLLILVLTSLVLFSPDLLGDPDNYTPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILVLAVIPFLHTSKQRSMMFRPFSQCLFWILVADLLT
+                     LTWIGGQPVEHPFIIIGQLASILYFLLILVLMPITSLFENNLLKW"
+ORIGIN      
+        1 atgacaaacc tacgaaaaac ccatccctta ataaaaatta ttaacagctc atttattgac
+       61 ttacctgctc catctaatat ctcatcatga tgaaatttcg gctctctcct aggcgtttgc
+      121 ttaatcgtcc aaatcctcac aggactattc ctagcaatac attatacatc agatacaata
+      181 actgccttct catcagtaac acacatctgt cgagatgtaa attacggatg actaatccgt
+      241 taccttcatg caaacggcgc atccatattc tttatttgct tatttctcca cgtcggacgg
+      301 ggcctctatt acggatccta catattctta gaaacatgaa acatcggagt actactatta
+      361 ttcgcagtaa tagcaactgc ctttataggg tatgtccttc catgaggaca aatgtctttc
+      421 tgaggtgcaa cagtaatcac aaatctatta tcagcaatcc cctacattgg ctcagactta
+      481 gtagagtgaa tctgaggcgg cttctccgta gacaaagcca ccctaacccg attcttcgcc
+      541 ttccatttta tcctaccctt tattatcgcc gccctagcag gtgtccacct actattcctg
+      601 cacgaaacag gttcaaacaa cccctcagga ttatgctcag atgcagacaa aattccattc
+      661 cacccctact acacaattaa agatattcta ggagtcctcc tactcatctt agttttaacc
+      721 tccctagtct tattttcccc agacttatta ggcgacccag acaattacac acccgctaac
+      781 cccctcaaca cacctcccca tattaaaccc gaatgatatt tcctattcgc ctatgctatc
+      841 ctccgatcaa tccctaataa attaggcgga gtcctagccc tagtcctgtc cattctagtt
+      901 ttagcagtta ttcccttcct acacacatct aaacaacgaa gtataatatt ccgcccattt
+      961 agccaatgct tattctgaat cttagtagca gacctactca cactcacatg aatcggcggt
+     1021 caaccagtcg aacacccatt catcatcatc ggacaattag catctatcct ttatttcctt
+     1081 ttaattctag tacttatgcc tatcacaagt ctatttgaaa ataatcttct aaaatgaaga
+//
+

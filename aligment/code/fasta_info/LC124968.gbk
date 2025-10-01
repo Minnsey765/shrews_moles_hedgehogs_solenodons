@@ -1,0 +1,62 @@
+LOCUS       LC124968                 568 bp    DNA     linear   MAM 30-AUG-2016
+DEFINITION  Sorex caecutiens RAG1 gene for recombination activating gene 1,
+            partial cds, specimen_voucher: personal collection:Satoshi D.
+            Ohdachi:SDO-100825-1.
+ACCESSION   LC124968
+VERSION     LC124968.1
+KEYWORDS    .
+SOURCE      Sorex caecutiens (Laxmann's shrew)
+  ORGANISM  Sorex caecutiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Soricidae;
+            Soricinae; Sorex.
+REFERENCE   1
+  AUTHORS   Sato,J.J., Ohdachi,S.D., Echenique-Diaz,L.M., Borroto-Paez,R.,
+            Begue-Quiala,G., Delgado-Labanino,J.L., Gamez-Diez,J.,
+            Alvarez-Lemus,J., Nguyen,S.T., Yamaguchi,N. and Kita,M.
+  TITLE     Molecular phylogenetic analysis of nuclear genes suggests a
+            Cenozoic over-water dispersal origin for the Cuban solenodon
+  JOURNAL   Sci Rep 6, 31173 (2016)
+   PUBMED   27498968
+  REMARK    DOI:10.1038/srep31173
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 568)
+  AUTHORS   Sato,J.J., Ohdachi,S.D. and Echenique,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Contact:Jun J. Sato Fukuyama University,
+            Faculty of Life Science and Technology, Department of
+            Biotechnology; Higashimura-cho, Aza, Sanzo, 985, Fukuyama,
+            Hiroshima 729-0292, Japan URL
+            :https://sites.google.com/site/junjsato/home
+FEATURES             Location/Qualifiers
+     source          1..568
+                     /organism="Sorex caecutiens"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="personal collection:Satoshi D.
+                     Ohdachi:SDO-100825-1"
+                     /db_xref="taxon:62276"
+                     /geo_loc_name="Japan: Hokkaido"
+     gene            <1..>568
+                     /gene="RAG1"
+     CDS             <1..>568
+                     /gene="RAG1"
+                     /codon_start=3
+                     /product="recombination activating gene 1"
+                     /protein_id="BAV56163.1"
+                     /translation="TRSHGENLQRYELWRSNPYHESAEELRDRVKGVSAKPFIETVPS
+                     IDALHCDIGNAAEFYKLFQLEIGEAHRQPHAGKEERKRWQATLDKHLRKRMNLKPIMR
+                     MNGNFARKLMTRETVEAVCELVPSPERHEALRELMDLYLKMKPVWRSTCPAQECPEAL
+                     CQYSFNSQRFAELLSTKFKYRYEGKITN"
+ORIGIN      
+        1 tcacgcgcag ccacggcgag aacctgcagc gctacgagct gtggcgctcc aacccctacc
+       61 acgagtcggc cgaggagctg cgcgaccgcg tcaagggcgt ctcggccaag cccttcatcg
+      121 agaccgtgcc gtccatcgac gcgctccact gcgacatcgg caacgcggcc gagttctaca
+      181 agctcttcca gctggagatc ggggaggcgc accggcagcc gcacgccggc aaggaggagc
+      241 gcaagcgctg gcaggccacg ctggacaagc acctccgcaa gaggatgaac ctgaagccca
+      301 tcatgcgcat gaacggcaac ttcgcccgca agctcatgac gcgcgagacg gtggaggccg
+      361 tctgcgagct cgtccccagc cccgagcggc acgaggccct gagggagctc atggacctct
+      421 acctgaagat gaaacccgtg tggcgctcca cctgccccgc gcaggagtgc cccgaggccc
+      481 tctgccagta cagcttcaac tcgcagcgct tcgccgagct cctctccacc aagttcaagt
+      541 accgctacga gggcaagatc accaatta
+//
+

@@ -1,0 +1,68 @@
+LOCUS       AB076808                1140 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Parascalops breweri mitochondrial Cytb gene for cytochrome b,
+            complete cds, isolate:HT-1.
+ACCESSION   AB076808
+VERSION     AB076808.1
+KEYWORDS    .
+SOURCE      mitochondrion Parascalops breweri (hairy-tailed mole)
+  ORGANISM  Parascalops breweri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Parascalops.
+REFERENCE   1
+  AUTHORS   Shinohara,A., Campbell,K.L. and Suzuki,H.
+  TITLE     Molecular phylogenetic relationships of moles, shrew moles, and
+            desmans from the new and old worlds
+  JOURNAL   Mol. Phylogenet. Evol. 27 (2), 247-258 (2003)
+   PUBMED   12695089
+REFERENCE   2  (bases 1 to 1140)
+  AUTHORS   Shinohara,A., Campbell,K.L. and Suzuki,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-DEC-2001) Contact:Akio Shinohara Bio-resource
+            Division, Department of Biotechnology, Research Center for Frontier
+            Bioscience, University of Miyazaki; Kihara 5200, Kiyotake, Miyazaki
+            889-1692, Japan
+FEATURES             Location/Qualifiers
+     source          1..1140
+                     /organism="Parascalops breweri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="HT-1"
+                     /db_xref="taxon:94437"
+     gene            1..1140
+                     /gene="Cytb"
+     CDS             1..1140
+                     /gene="Cytb"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAC75893.1"
+                     /translation="MTNIRKTHPLMKIVNNSFIDLPAPSNISSWWNFGSLLGICLILQ
+                     ILTGLFLAMHYTSDTMTAFSSVTHICRDVNYGWLIRYLHANGASMFFICLFLHVGRGL
+                     YYGSYMFMETWNIGVLLLFTVMATAFMGYVLPWGQMSFWGATVITNLLSAIPYIGTDL
+                     VEWIWGGFSVDKATLTRFFAFHFILPFIVAALAGVHLLFLHETGSNNPSGLSSDSDKI
+                     PFHPYYTIKDILGVLILILALSLLVLFSPDLLGDPDNYIPANPLNTPPHIKPEWYFLF
+                     AYAILRSIPNKLGGVLALVLSILVLALVPFLHTSKQRSMMFRPISQCLFWLLVADLFT
+                     LTWIGGQPVEHPFIIIGQLASILYFMLILVLMPIASLVENNLLKW"
+ORIGIN      
+        1 atgacaaaca ttcgaaaaac tcacccctta ataaaaattg tcaacaactc attcatcgac
+       61 ttacctgccc catcaaacat ctcatcctga tgaaactttg gctccctact aggaatctgc
+      121 ttgattttac aaatcctaac aggcctattt ctagcaatac attatacatc agacacaata
+      181 accgcattct catcagtaac ccatatctgt cgagacgtaa actacggatg actaatccga
+      241 tatttacacg ccaacggagc atccatattc ttcatctgct tattcctcca tgtaggccga
+      301 ggcctatact acggatctta catattcatg gaaacctgaa acattggagt actcctccta
+      361 ttcaccgtta tagccactgc atttataggg tacgttcttc catggggtca aatatccttt
+      421 tgaggagcaa cagtaattac aaatttactc tccgccattc catacatcgg aaccgatctg
+      481 gtagaatgaa tctgaggagg attttcagtt gacaaagcga ccctaacacg attcttcgca
+      541 tttcacttca tcttaccatt catcgtagca gccctagcag gagttcacct actattccta
+      601 catgaaacag gttcaaacaa cccatcagga ctttcatcag actcagacaa aattcctttc
+      661 cacccctact acacaatcaa agacattcta ggagtcctaa tcctaatttt agccctatcc
+      721 ctactagtcc tattttcacc agacctacta ggggaccccg acaactacat cccagcaaac
+      781 cccctaaaca cacccccaca catcaaaccc gaatggtact ttctatttgc atacgcaatc
+      841 ctacgatcca tcccgaacaa actaggagga gtcctagctc tagtactctc aattctagta
+      901 ctagcattag tcccattcct ccatacatca aaacaacgaa gcataatatt ccgacctatc
+      961 agccaatgcc tattctgact actagtggca gacctattta ccctaacatg aattggaggt
+     1021 caaccagtag aacacccatt tatcatcatc ggacaactag catcaatcct atactttata
+     1081 cttattctcg tactaatacc aattgccagc ctagtagaaa acaacctcct taaatgaaga
+//
+

@@ -1,0 +1,53 @@
+LOCUS       DQ630204                 505 bp    DNA     linear   MAM 14-JUL-2016
+DEFINITION  Hylomys suillus isolate 1 ApoB (ApoB) gene, partial cds.
+ACCESSION   DQ630204
+VERSION     DQ630204.1
+KEYWORDS    .
+SOURCE      Hylomys suillus (short-tailed gymnure)
+  ORGANISM  Hylomys suillus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Erinaceidae;
+            Galericinae; Hylomys.
+REFERENCE   1  (bases 1 to 505)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D., Barriere,P. and Vogel,P.
+  TITLE     Molecular phylogenetics of shrews (Mammalia: Soricidae) reveal
+            timing of transcontinental colonizations
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 126-137 (2007)
+   PUBMED   17267241
+REFERENCE   2  (bases 1 to 505)
+  AUTHORS   Dubey,S., Salamin,N., Ohdachi,S.D. and Vogel,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAY-2006) DEE, University of Lausanne, Biophore,
+            Lausanne, VD 1015, Switzerland
+FEATURES             Location/Qualifiers
+     source          1..505
+                     /organism="Hylomys suillus"
+                     /mol_type="genomic DNA"
+                     /isolate="1"
+                     /db_xref="taxon:48897"
+     gene            <1..>505
+                     /gene="ApoB"
+     mRNA            <1..>505
+                     /gene="ApoB"
+                     /product="ApoB"
+     CDS             <1..>505
+                     /gene="ApoB"
+                     /codon_start=3
+                     /product="ApoB"
+                     /protein_id="ABG20792.1"
+                     /translation="TVPLNSLCVFIDDNIKAFMRQLEKVRDKTFGFVTKFYDEAKLKI
+                     KNSLNEKPRTFQIPGYTIPVMNIEASPFTIKMLPFGYIIPKEISTPNFTIPGSNFNVP
+                     SYNLALPLLKLPDLQLPGKLPQFSVPEFKALSSPKNILIPALGNITYDFSFKSSVITL
+                     NTNVGLY"
+ORIGIN      
+        1 ctaccgttcc tttgaactcg ctgtgtgtgt ttattgatga caatatcaag gccttcatga
+       61 gacaacttga gaaagtcaga gacaagacgt tcggttttgt taccaaattc tatgatgaag
+      121 caaagctcaa aattaaaaat tctctcaatg agaaacccag aaccttccag attcctggat
+      181 acactattcc agtcatgaac attgaagcat ctccattcac cataaagatg ttaccatttg
+      241 gttatataat cccaaaagag atcagcaccc caaatttcac catcccaggt tctaacttta
+      301 atgtaccctc gtataacttg gccctgccat tgctaaaact gccagatctt caactccctg
+      361 gaaaacttcc tcagttttct gttccagaat tcaaagcact gagttcccca aagaatattt
+      421 taattccagc tctgggcaac attacctatg atttctcctt taaatcaagt gtcatcacac
+      481 tgaataccaa tgttggactt tataa
+//
+

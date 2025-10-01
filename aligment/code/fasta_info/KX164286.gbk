@@ -1,0 +1,68 @@
+LOCUS       KX164286                1010 bp    DNA     linear   MAM 15-FEB-2017
+DEFINITION  Euroscaptor subanura voucher ZIN:102248 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   KX164286
+VERSION     KX164286.1
+KEYWORDS    .
+SOURCE      Euroscaptor subanura
+  ORGANISM  Euroscaptor subanura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Eulipotyphla; Talpidae;
+            Euroscaptor.
+REFERENCE   1  (bases 1 to 1010)
+  AUTHORS   Zemlemerova,E., Bannikova,A., Lebedev,V., Rozhnov,V. and Abramov,A.
+  TITLE     Secrets of the underground Vietnam: an underestimated species
+            diversity of Asian moles (Lipotyphla: Talpidae: Euroscaptor)
+  JOURNAL   Tr Zool Inst 320 (2), 193-220 (2016)
+REFERENCE   2  (bases 1 to 1010)
+  AUTHORS   Zemlemerova,E., Bannikova,A., Lebedev,V., Rozhnov,V. and Abramov,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2016) Lomonosov Moscow State University,
+            Vorobievy Gory, Moscow 119991, Russia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1010
+                     /organism="Euroscaptor subanura"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZIN:102248"
+                     /db_xref="taxon:1581555"
+                     /geo_loc_name="Viet Nam"
+     gene            <1..>1010
+                     /gene="RAG1"
+     mRNA            <1..>1010
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>1010
+                     /gene="RAG1"
+                     /codon_start=1
+                     /product="recombination activating protein 1"
+                     /protein_id="AQM57850.1"
+                     /translation="SXDGMGDVSEKHGSGPAVPEKAVXFSFTVMKITIAHGSQNVQVF
+                     EEAKPNSELCCKPLCLMLADESDHETLTAILSPLIAEREAMKSSQLMLEMGGILRTFK
+                     FIFRGTGYDEKLVREVEGLEASGSVYICTLCDATRLEASQNLVFHSITRSHTENLERY
+                     EVWRSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEV
+                     YKNPNASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTKETVEAVCELIPSE
+                     ERHAALRELMDLYLKMKPVWRSSCPAKECPESLCQYSFNSQRFAELLSTKFKYRYEGK
+                     IT"
+ORIGIN      
+        1 tcttgngatg ggatgggaga tgtgagcgag aagcacggga gtggcccggc tgttccagaa
+       61 aaggctgtty gattttcatt cactgtcatg aaaatcacta tcgcgcatgg ctcacagaat
+      121 gtgcaggtgt ttgaagaagc caaaccaaat tccgaactgt gttgcaagcc tttgtgcctt
+      181 atgctggcag acgagtctga ccacgagacc ctgactgcca tcctgagccc ccttattgcc
+      241 gagagggagg ccatgaaaag cagccaatta atgctcgaaa tgggaggcat cctccggact
+      301 tttaagttca tctttagggg cacaggatat gatgagaaac ttgtccggga agtggaagga
+      361 cttgaggctt ctgggtcagt ctatatttgt accctctgtg atgccacccg cttggaagca
+      421 tcccaaaatc ttgtcttcca ctccataacc agaagccata ctgagaacct ggagcgctat
+      481 gaggtctggc gttccaaccc ctaccatgag tctgtggaag aattgaggga tcgcgtgaaa
+      541 ggggtctcag ccaaaccctt cattgagaca gtcccttcca tagatgccct tcactgtgac
+      601 attggcaacg cagctgagtt ctacaagatc ttccagctag agatagggga ggtgtataag
+      661 aatccaaatg cgtccaaaga ggaaaggaaa agatggcagg ctacactgga caaacacctt
+      721 cgaaagaaga tgaacctaaa gccaatcatg aggatgaatg gcaactttgc cagaaagctc
+      781 atgaccaaag agacagttga agcagtctgt gaactaattc cctcagagga gagacatgca
+      841 gctctgcggg agctgatgga cctttatctg aagatgaaac ctgtgtggcg atcatcatgc
+      901 cctgctaagg agtgcccaga atccctctgc cagtatagtt tcaattcaca gcgttttgcn
+      961 gaactcctct ctaccaagtt caagtataga tatgagggca aaatcaccaa
+//
+
