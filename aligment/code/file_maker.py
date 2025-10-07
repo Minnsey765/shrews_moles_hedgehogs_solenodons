@@ -42,6 +42,7 @@ def file_maker(sort_crit: str, raw_file: str, meta_file: str, csv_path: str, out
         #loop through list of entries (dicts)
         for n in fasta_entries:
             #generate fasta sequence name and sequence
+            # possible should change orientation to be further down so any '-' doesn't interfere with reading nexus file
             header = f"{n["species"]}|{n["symbol"]}|orien:{n["orientation"]}|accession:{n["accession"]}"
             seq = n["sequence"]
 

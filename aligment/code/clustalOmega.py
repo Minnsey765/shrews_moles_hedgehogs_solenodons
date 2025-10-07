@@ -7,7 +7,12 @@ BASE_URL = "https://www.ebi.ac.uk/Tools/services/rest/clustalo"
 
 def run_clustalo(fasta_file, out_fold):
 
-    out_file = os.path.join(out_fold, f"aligned.nex")
+    #generate name for output
+    #get rid of path and .fasta bit
+    base = os.path.splitext(os.path.basename(fasta_file))[0]
+    new_name = f"{base}_aln.nex"
+
+    out_file = os.path.join(out_fold, new_name)
     # Read FASTA
     with open(fasta_file, "r") as f:
         fasta_data = f.read()

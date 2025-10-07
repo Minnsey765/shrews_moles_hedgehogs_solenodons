@@ -45,7 +45,8 @@ def read_gbk(accession: str, data_folder: str):
                         "begin": int(feature.location.start) + 1,  # convert 0-based to 1-based
                         "end": int(feature.location.end),
                         "orientation": "+" if feature.location.strand == 1 else "-",
-                        "species": species.strip().replace(" ", "-"),
+                        #replace spaces or -'s in name with underscores so SeqIO can read the nexus file eventually produced
+                        "species": species.strip().replace(" ", "_").replace("-", "_"),
                         "accession": accession
                     }
                     gene_list.append(gene_info)
@@ -57,3 +58,4 @@ def read_gbk(accession: str, data_folder: str):
 #print(read_gbk("OZ208999.1", "fasta_info"))
 #print(read_gbk("KC516842.1", "fasta_info"))
 #print(read_gbk("NC_010298", "fasta_info"))
+#print(read_gbk("KX755063", "fasta_info"))
