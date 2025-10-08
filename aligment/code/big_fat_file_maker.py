@@ -8,7 +8,7 @@ import pandas as pd
 from Bio import SeqIO
 from pathlib import Path
 
-def big_fat_file_maker(raw_fol: str, csv_path: str, output: str):
+def big_fat_file_maker(raw_fol: str, csv_path: str, output: str, datatype: str):
 
     #make list of all species names
     csv = pd.read_csv(csv_path)
@@ -28,22 +28,68 @@ def big_fat_file_maker(raw_fol: str, csv_path: str, output: str):
 
         for file_path in matching_files:
             print(f"Reading {file_path.name}")
+            gene_seqs = {}
             for record in SeqIO.parse(file_path, "nexus"):
                 #ignore extra genes for a single species
-                #print(len(record.seq))
                 if record.id.endswith(".copy"):
                     continue
                     #print(f">{record.id}")
 
                 #use matching function to locate correct key
                 match = find_best_key(record.id, my_dict)
-                my_dict[match] += str(record.seq)
-                #print(len(my_dict[match]))
+                if match:
+                    gene_seqs[match] = str(record.seq)
+                else:
+                    #skip if no match
+                    continue
+            # Determine alignment length for this gene
+            if gene_seqs:
+                gene_length = len(next(iter(gene_seqs.values())))
+            else:
+                gene_length = 0
+
+            # Append sequences or gaps to my_dict to maintain alignment
+            for species in species_names:
+                if species in gene_seqs:
+                    my_dict[species] += gene_seqs[species]
+                else:
+                    my_dict[species] += "-" * gene_length
+                #print(len(my_dict[species]))
+    
     
     os.makedirs(output, exist_ok=True)
-    return(my_dict)
+
+    #write actual nexus file
+    # Check that all sequences have the same length
+    lengths = [len(seq) for seq in my_dict.values()]
+    if len(set(lengths)) != 1:
+        raise ValueError("All sequences must have the same length!")
+    
+    nchar = lengths[0]
+    ntax = len(my_dict)
+    output_file = f"{output}/concatenated_aln.nex"
+
+    #normalise name lengths for alignment
+    #find longest name length
+    max_name_len = max(len(name) for name in my_dict.keys())
+
+    with open(output_file, "w") as nex:
+        nex.write("#NEXUS\n")
+        nex.write("Begin DATA;\n")
+        nex.write(f"    Dimensions ntax={ntax} nchar={nchar};\n")
+        nex.write(f"    Format datatype={datatype} missing=? gap=-;\n")
+        nex.write("    Matrix\n")
+        
+        # Write each species and its sequence
+        for species, seq in my_dict.items():
+            padded_name = species.ljust(max_name_len) # pad with spaces
+            nex.write(f"{padded_name} {seq}\n")
+        
+        nex.write("    ;\n")
+        nex.write("End;\n")
+    #return(my_dict)
 
     
 
 
-(big_fat_file_maker("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/aligned_fastas", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/newGenBank.csv", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/fasta_data"))
+(big_fat_file_maker("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/aligned_fastas", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/newGenBank.csv", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/aligned_fastas", "dna"))
