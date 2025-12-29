@@ -1,8 +1,8 @@
 #NEXUS
-[TITLE: Written by EMBOSS 04/10/25]
+[TITLE: Written by EMBOSS 08/11/25]
 
 begin data;
-dimensions ntax=42 nchar=770;
+dimensions ntax=44 nchar=770;
 format interleave datatype=DNA missing=N gap=-;
 
 matrix
@@ -22,13 +22,6 @@ Neurotrichus_gibbsii --------------------------------------------------
 Scalopus_aquaticus|B --------------------------------------------------
 Scapanus_orarius|BDN --------------------------------------------------
 Scapanulus_oweni|BDN --------------------------------------------------
-Atopogale_cubana|BDN ------------------------------------------------TT
-Solenodon_paradoxus| --------------------------------------------------
-Echinosorex_gymnura| -------------------------------TTTCCTTACTATGGTTATT
-Podogymnura_truei|BD --------------------------------------------------
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B --------------------------------------------------
-Paraechinus_aethiopi --------------------------------------------------
 Anourosorex_yamashin ------------------------------------------------TT
 Episoriculus_caudatu TCCACCAGGTGAGAAGAGTGATGACCATCCTTTTCCTTACTATGGTTATT
 Neomys_fodiens|BDNF| ------------------------------------------------TT
@@ -48,6 +41,15 @@ Crocidura_olivieri|B --------------------------------------------------
 Crocidura_gueldensta ---------------------------------------------TTATT
 Crocidura_lasiura|BD --------------------------------------------------
 Suncus_etruscus|BDNF --------------------------------------------------
+Homo_sapiens|BDNF|or --------------------------------------------------
+Pteropus_vampyrus|BD --------------------------------------------------
+Atopogale_cubana|BDN ------------------------------------------------TT
+Solenodon_paradoxus| --------------------------------------------------
+Echinosorex_gymnura| -------------------------------TTTCCTTACTATGGTTATT
+Podogymnura_truei|BD --------------------------------------------------
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B --------------------------------------------------
+Paraechinus_aethiopi --------------------------------------------------
 
 Parascalops_breweri| --------------------AGCTGCCCCTATNAAAAAAGCCAGTGTCCG
 Dymecodon_pilirostri ----------------------------------------CCAGTGTCCG
@@ -65,13 +67,6 @@ Neurotrichus_gibbsii ----------------------------------------CCAGCGTCCG
 Scalopus_aquaticus|B ----------------------------------------CCAGTGTCCG
 Scapanus_orarius|BDN ----------------------------------------CCAGTGTCCG
 Scapanulus_oweni|BDN ----------------------------------------CCAGTGTCCG
-Atopogale_cubana|BDN TCATACTTCGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCCAGCGTCCG
-Solenodon_paradoxus| ----ACTTCGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCCAGCGTCCG
-Echinosorex_gymnura| TCATACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCACACTTCCG
-Podogymnura_truei|BD ----ACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCACACTTCCG
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B ----ACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCAAACTTCCG
-Paraechinus_aethiopi ------------------AAGGCTGCCCCCATGAAAGAAGCAAACTTCCG
 Anourosorex_yamashin TCATACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCAAACAGCCG
 Episoriculus_caudatu TCATACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCAAACATCCG
 Neomys_fodiens|BDNF| TCATACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCAAACATCCG
@@ -91,6 +86,15 @@ Crocidura_olivieri|B --------------------------------------------------
 Crocidura_gueldensta TCAAACTTTGGTTGCATGAAAGCTGCCCCCATGAAAGAAGCAAACATCCG
 Crocidura_lasiura|BD --------------------------------------------------
 Suncus_etruscus|BDNF -------TTGGTTGCATGAAAGCTGCCCCCYTGAAAGAAGCAAACATCCG
+Homo_sapiens|BDNF|or --------------------------------------------------
+Pteropus_vampyrus|BD -------------------------CCCCCATGAAAGAAGCAAACGTCCG
+Atopogale_cubana|BDN TCATACTTCGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCCAGCGTCCG
+Solenodon_paradoxus| ----ACTTCGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCCAGCGTCCG
+Echinosorex_gymnura| TCATACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCACACTTCCG
+Podogymnura_truei|BD ----ACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCACACTTCCG
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B ----ACTTTGGTTGCATGAAGGCTGCCCCCATGAAAGAAGCAAACTTCCG
+Paraechinus_aethiopi ------------------AAGGCTGCCCCCATGAAAGAAGCAAACTTCCG
 
 Parascalops_breweri| AGGACCAGNCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
 Dymecodon_pilirostri AGGACCAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
@@ -108,13 +112,6 @@ Neurotrichus_gibbsii AGGACCAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
 Scalopus_aquaticus|B AGGACCAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
 Scapanus_orarius|BDN AGGACCAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
 Scapanulus_oweni|BDN AGGACCAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
-Atopogale_cubana|BDN AGGACAAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
-Solenodon_paradoxus| AGGACAAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
-Echinosorex_gymnura| AGGACAAGGCAGCTTGGCCTACCCAGGTCTGCGGACCCATGGGACTCTGG
-Podogymnura_truei|BD AGGACAAGGCAGCTTGGCCTACCCAGGTCTGCGGACCCATGGGACTCTGG
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B AGGACAAGGCAGCTTGGTCTACCCAGGTATGCGGACCCATGGGACTCTGG
-Paraechinus_aethiopi AGGACAAGGCAGCTTGGTCTACCCAGGTATGCGGACCCATGGGACTTTGG
 Anourosorex_yamashin AGGACAAGGCGGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGG
 Episoriculus_caudatu CGGACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGG
 Neomys_fodiens|BDNF| CGGACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGG
@@ -134,6 +131,15 @@ Crocidura_olivieri|B ----------------------------GTGCGGACCCATGGGACTCTGG
 Crocidura_gueldensta AGGACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGG
 Crocidura_lasiura|BD ----------------------------GTGCGGACCCATGGGACTCTGG
 Suncus_etruscus|BDNF AGGACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGG
+Homo_sapiens|BDNF|or ----------------------------GTGCGGACCCATGGGACTCTGG
+Pteropus_vampyrus|BD AGGACAAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
+Atopogale_cubana|BDN AGGACAAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
+Solenodon_paradoxus| AGGACAAGGCAGCTTGGCCTACCCAGGTGTGCGGACCCATGGGACTCTGG
+Echinosorex_gymnura| AGGACAAGGCAGCTTGGCCTACCCAGGTCTGCGGACCCATGGGACTCTGG
+Podogymnura_truei|BD AGGACAAGGCAGCTTGGCCTACCCAGGTCTGCGGACCCATGGGACTCTGG
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B AGGACAAGGCAGCTTGGTCTACCCAGGTATGCGGACCCATGGGACTCTGG
+Paraechinus_aethiopi AGGACAAGGCAGCTTGGTCTACCCAGGTATGCGGACCCATGGGACTTTGG
 
 Parascalops_breweri| AGAGCACGAATGGGCCCAAGGCAGGTTCAAGAGGCC---------TGACA
 Dymecodon_pilirostri AGAGCRCCGGTGGGCCCAAGGCGGGTTCCAGAGGCC---------TGACG
@@ -151,13 +157,6 @@ Neurotrichus_gibbsii AGAGCGCAAATGGGCCCAAGGCAGGTTCGAGAGGCC---------TGACG
 Scalopus_aquaticus|B AGAGCGCGAATGGGCCCAAGGCAGGTTCAAGAGGCC---------TGACG
 Scapanus_orarius|BDN AGAGCGCGAATGGGCCCAAGGCAGGTTCAAGAGGCC---------TGACG
 Scapanulus_oweni|BDN AGAGCGCGAATGGGCCCAAGGCAGGTTCAAGAGGCC---------TGACG
-Atopogale_cubana|BDN AGAGTGTGAATGGGCCCAAGGCAGGTGCCAGAGGCC------TGACGTCC
-Solenodon_paradoxus| AGAGTGTGAATGGGCCCAAGGCAGGTGCCAGAGGCC------TGACGTCC
-Echinosorex_gymnura| AGAGCGCAAATGGGCCCAAGGCAAGTTCAAGAGACC------TGG---CG
-Podogymnura_truei|BD AGAGCGCAAATGGGCCCAAGGCAAGTTCAAGAGACC------TGG---CG
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B AGAGCGCGAATGGGCCCAAGGCAGGTGCAAGAGACC------TGG---CA
-Paraechinus_aethiopi AGAGCGCGAATGGGCCCAAGGCAGGTGCAAGAGACC------TGG---CA
 Anourosorex_yamashin AGAGCGTGAATGGGCCCAAGGCAGGTTCACGAGGAGGCCTGACATCCTCC
 Episoriculus_caudatu AGAGCGTGAATGGGCCCAAGGCAGGGTCACGA---GGCCTGACATCANNN
 Neomys_fodiens|BDNF| AGAGCGTGAATGGGCCCAAGGCAGGGTCACGA---GGCCTGACATC---A
@@ -177,6 +176,15 @@ Crocidura_olivieri|B AGAGCGTGAATGGGCCNNAGGCAGGTTCACGA---GGCCTGACAT---CG
 Crocidura_gueldensta AGAGCGTGAATGGGCCCAAGGCAGGTTCACGA---GGCCTGACAT---CA
 Crocidura_lasiura|BD AGAGCGTGAATGGGCCCAAGGCAGGTTCACGA---GGCCTGACAT---CA
 Suncus_etruscus|BDNF AGAGCGTGAATGGGCCCAAGGCAGGTTCACGA---GGCCTGACAT---CA
+Homo_sapiens|BDNF|or AGAGCGTGAATGGGCCCAAGGCAGGTTCAAGAGGCT------TGACATCA
+Pteropus_vampyrus|BD AGAGCGTGAATGGGCCCAAGGCAGGTTCGAGAGGCC------TGACAGCA
+Atopogale_cubana|BDN AGAGTGTGAATGGGCCCAAGGCAGGTGCCAGAGGCC------TGACGTCC
+Solenodon_paradoxus| AGAGTGTGAATGGGCCCAAGGCAGGTGCCAGAGGCC------TGACGTCC
+Echinosorex_gymnura| AGAGCGCAAATGGGCCCAAGGCAAGTTCAAGAGACC------TGG---CG
+Podogymnura_truei|BD AGAGCGCAAATGGGCCCAAGGCAAGTTCAAGAGACC------TGG---CG
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B AGAGCGCGAATGGGCCCAAGGCAGGTGCAAGAGACC------TGG---CA
+Paraechinus_aethiopi AGAGCGCGAATGGGCCCAAGGCAGGTGCAAGAGACC------TGG---CA
 
 Parascalops_breweri| TTGGCTGACACTTTTGAACACGTGATAGAAGAGCTCCTGGATGAGGACCA
 Dymecodon_pilirostri TTGGCCGACACTTTCGAACACGTGATAGAAGAGCTCCTGGATGAGGACCA
@@ -194,13 +202,6 @@ Neurotrichus_gibbsii TTGGCTGACACTTTTGAACACGTGATAGAAGAGCTCCTGGATGAGGACCA
 Scalopus_aquaticus|B TTGGCTGACACTTTTGAACACGTGATAGAAGAGCTCCTGGATGATGACCA
 Scapanus_orarius|BDN TTGGCTGACACTTTTGAACACGTGATAGAAGAGCTCCTGGATGAGGACCA
 Scapanulus_oweni|BDN TTGGCTGACACTTTYGAACACGTCATAGAAGAGCTCCTGGATGAGGACCA
-Atopogale_cubana|BDN TTGGCTGACACCTTTGAGCACGTGCTCGAGGAGCTGTTGGAAGAGGACCA
-Solenodon_paradoxus| TTGGCTGACACTTTTGAACACGTGATCGAAGAGCTGTTGGAAGAGGACCA
-Echinosorex_gymnura| TTGGCTAGCACTTTTGAACATGTGCTGGAAGAGCTGTTGGACGAGGACCA
-Podogymnura_truei|BD TTGGCTAGCACTTTTGAACATGTGCTGGAAGAGCTGTTGGACGAGGACCA
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B TTGGCTAACACTTTTGAACACGTGATAGAAGAGCTGTTGGACGAGGACCA
-Paraechinus_aethiopi TTGGCTAACACTTTTGAACACGTGATAGAAGAGCTGTTGGACGAGGACCA
 Anourosorex_yamashin CTGGCTGACACTTTTGAACACGTGATAGAAGAGCTGTTGGATGAGGACCA
 Episoriculus_caudatu TTGGCTGACACTTTTGAACACGTGATAGAAGAGCTGTTGGATGAGGACCA
 Neomys_fodiens|BDNF| TTGGCTGACACTTTTGAACACGTGATAGAAGAGCTGTTGGATGAGGACCA
@@ -220,6 +221,15 @@ Crocidura_olivieri|B TTGGCTGACACTTTTGAACATGTGATCGAAGAGCTGTTGGATGAGGACCA
 Crocidura_gueldensta TTGGCTGACACTTTTGAACACGTGATCGAAGAGCTGTTGGATGAGGACCA
 Crocidura_lasiura|BD TTGGCTGACACTTTTGAACACGTGATCGAAGAGCTGTTGGATGAGGACCA
 Suncus_etruscus|BDNF TTGGCTGACACTTTTGAACACGTGATCGAAGAGCTGTTGGATGAGGACCA
+Homo_sapiens|BDNF|or TTGGCTGACACTTTCGAACACGTGATAGAAGAGCTGTTGGATGAGGACCA
+Pteropus_vampyrus|BD TTGGCTGACACTTTTGAACACGTGATAGAAGAGCTGCTGGACGAGGACCA
+Atopogale_cubana|BDN TTGGCTGACACCTTTGAGCACGTGCTCGAGGAGCTGTTGGAAGAGGACCA
+Solenodon_paradoxus| TTGGCTGACACTTTTGAACACGTGATCGAAGAGCTGTTGGAAGAGGACCA
+Echinosorex_gymnura| TTGGCTAGCACTTTTGAACATGTGCTGGAAGAGCTGTTGGACGAGGACCA
+Podogymnura_truei|BD TTGGCTAGCACTTTTGAACATGTGCTGGAAGAGCTGTTGGACGAGGACCA
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B TTGGCTAACACTTTTGAACACGTGATAGAAGAGCTGTTGGACGAGGACCA
+Paraechinus_aethiopi TTGGCTAACACTTTTGAACACGTGATAGAAGAGCTGTTGGACGAGGACCA
 
 Parascalops_breweri| GAAAATCCGGCCCCACGAAGAGAACAATAAGGACGCGGACTTGTACACCT
 Dymecodon_pilirostri GAAAGCCCGGTCCCATGAAGAGAACAATAAGGACGCGGACTTGTACACGT
@@ -237,13 +247,6 @@ Neurotrichus_gibbsii GAAAGTCCGGCCCCACGAAGAGAACAATAAGGACGCGGACTTGTACACCT
 Scalopus_aquaticus|B GAAAGTGCGGCCCCATGAAGAGAACAATAAGGACGCGGACTTGTACACCT
 Scapanus_orarius|BDN GAAAGTCCGGCCCCATGAAGAGAACAATAAGGACGCGGACTTGTACACCT
 Scapanulus_oweni|BDN GAAAGTCCGGCCCCATGAAGAGAACAATAAGGACGCGGACTTGTACACCT
-Atopogale_cubana|BDN AAAAGTTCGGCCCCATGAAGAAACCAGTAAGGACGCGGACTTGTACACTT
-Solenodon_paradoxus| GAAAGTTCGTCCCCATGAAGAAACCAATAAGGACGCGGACTTGTACACTT
-Echinosorex_gymnura| GAAGATTCGTCCTCATGAAGAAACCCCTAAGGACGCGGACTTGTATACTT
-Podogymnura_truei|BD GAAGATTCGTCCCCATGAAGAAACCCCTAAGGACGCGGACTTGTATACTT
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B GAAAGTTCGTCCCCATGACGAAACCCCTAAGGACGCGGACTTGTATACTT
-Paraechinus_aethiopi GAAAGTTCGTCCCCATGACGAAACCCCTAAGGACGCGGACTTGTATACTT
 Anourosorex_yamashin GAAAGTTCGGCCCCACGAAGAGAACAGTAAGGACGCGGACTTGTACACTT
 Episoriculus_caudatu GAAAGTTCGGCCCCACGAAGAGAACAATAAGGACGCGGACTTGTACACTT
 Neomys_fodiens|BDNF| GAAAGTTCAGCCCCACGAAGAGAACAATAAGGACGCGGACTTGTACACTT
@@ -263,6 +266,15 @@ Crocidura_olivieri|B GAAAGCTCGGCCCCATGAAGAAAACAATAAGGACGCGGACTTGTACACTT
 Crocidura_gueldensta GAAAGCTCGGCCCCATGAAGAAAACAATAAGGACGCGGACTTGTACACTT
 Crocidura_lasiura|BD GAAAGCTCGGCCCCATGAAGAAAACAATAAGGACGCGGACTTGTACACTT
 Suncus_etruscus|BDNF GAAAGCTCGGCCCCATGAAGAAAACAATAAGGACGCGGACTTGTACACTT
+Homo_sapiens|BDNF|or GAAAGTTCGGCCCAATGAAGAAAACAATAAGGACGCAGACTTGTACACGT
+Pteropus_vampyrus|BD GAAAGTTCGGCCCCATGAGGAAAACAATAAGGACGCGGACTTGTACACTT
+Atopogale_cubana|BDN AAAAGTTCGGCCCCATGAAGAAACCAGTAAGGACGCGGACTTGTACACTT
+Solenodon_paradoxus| GAAAGTTCGTCCCCATGAAGAAACCAATAAGGACGCGGACTTGTACACTT
+Echinosorex_gymnura| GAAGATTCGTCCTCATGAAGAAACCCCTAAGGACGCGGACTTGTATACTT
+Podogymnura_truei|BD GAAGATTCGTCCCCATGAAGAAACCCCTAAGGACGCGGACTTGTATACTT
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B GAAAGTTCGTCCCCATGACGAAACCCCTAAGGACGCGGACTTGTATACTT
+Paraechinus_aethiopi GAAAGTTCGTCCCCATGACGAAACCCCTAAGGACGCGGACTTGTATACTT
 
 Parascalops_breweri| CCAGGGTAATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTCCTCTTT
 Dymecodon_pilirostri CCCGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCCCCTCTCCTCTTT
@@ -280,13 +292,6 @@ Neurotrichus_gibbsii CTCGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTCCTCTTT
 Scalopus_aquaticus|B CCAGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTCCTCTTT
 Scapanus_orarius|BDN CCAGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTCCTCTTT
 Scapanulus_oweni|BDN CCAGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTCCTCTTT
-Atopogale_cubana|BDN CCCGGGTGATGCTGAGTAGTCAAGTGCCTTTGGAGCCTCCCCTTCTCTTT
-Solenodon_paradoxus| CCCGGGTGATGCTGAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
-Echinosorex_gymnura| CCCGAGTGATGCTCAGCAGTCAAGTGCCTTTGGAGCCACCACTTCTCTTT
-Podogymnura_truei|BD CCCGAGTGATGCTCAGCAGTCAAGTGCCTTTGGAGCCACCACTTCTCTTT
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B CTCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
-Paraechinus_aethiopi CTCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
 Anourosorex_yamashin CCCGGGTGATGCTCAGTAGCCAAGTGCCTTTGGAGCCGCCTCTTCTCTTC
 Episoriculus_caudatu CCCGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
 Neomys_fodiens|BDNF| CCCGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCCCTTCTCTTT
@@ -306,6 +311,15 @@ Crocidura_olivieri|B CCCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
 Crocidura_gueldensta CCCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
 Crocidura_lasiura|BD CCCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
 Suncus_etruscus|BDNF CCCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
+Homo_sapiens|BDNF|or CCAGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
+Pteropus_vampyrus|BD CCAGGGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCGCCTCTTCTCTTC
+Atopogale_cubana|BDN CCCGGGTGATGCTGAGTAGTCAAGTGCCTTTGGAGCCTCCCCTTCTCTTT
+Solenodon_paradoxus| CCCGGGTGATGCTGAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
+Echinosorex_gymnura| CCCGAGTGATGCTCAGCAGTCAAGTGCCTTTGGAGCCACCACTTCTCTTT
+Podogymnura_truei|BD CCCGAGTGATGCTCAGCAGTCAAGTGCCTTTGGAGCCACCACTTCTCTTT
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B CTCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
+Paraechinus_aethiopi CTCGAGTGATGCTCAGTAGTCAAGTGCCTTTGGAGCCTCCTCTTCTCTTT
 
 Parascalops_breweri| CTGCTCGAGA-ATACAAAAATTACCTGGATGCTGCGAACATGTCTATGAG
 Dymecodon_pilirostri CTGCTCGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
@@ -323,13 +337,6 @@ Neurotrichus_gibbsii CTGCTCGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCCATGAG
 Scalopus_aquaticus|B CTGCTCGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCTATGAG
 Scapanus_orarius|BDN CTGCTCGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCTATGAG
 Scapanulus_oweni|BDN CTGCTCGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCTATGAG
-Atopogale_cubana|BDN CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCCATGAG
-Solenodon_paradoxus| CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCCATGAG
-Echinosorex_gymnura| CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
-Podogymnura_truei|BD CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
-Paraechinus_aethiopi CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
 Anourosorex_yamashin CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCTATGAG
 Episoriculus_caudatu CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
 Neomys_fodiens|BDNF| CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
@@ -349,6 +356,15 @@ Crocidura_olivieri|B CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCGATGAG
 Crocidura_gueldensta CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCCATGAG
 Crocidura_lasiura|BD CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCGATGAG
 Suncus_etruscus|BDNF CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCGATGAG
+Homo_sapiens|BDNF|or CTGCTGGAGGAATACAAAAATTACCTAGATGCTGCAAACATGTCCATGAG
+Pteropus_vampyrus|BD CTGCTTGAGGAATACAAAAATTACCTAGATGCTGCAAACATGTCTATGAG
+Atopogale_cubana|BDN CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCGAACATGTCCATGAG
+Solenodon_paradoxus| CTGCTGGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCCATGAG
+Echinosorex_gymnura| CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
+Podogymnura_truei|BD CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
+Paraechinus_aethiopi CTGCTTGAGGAATACAAAAATTACCTGGATGCTGCAAACATGTCGATGAG
 
 Parascalops_breweri| GGTCCGGCGCCACTCCGACCCGGCGCGCCGCGGGGAGCTGAGCGTGTGCG
 Dymecodon_pilirostri GGTCCGGCGCCACTCGGACCCCGCCCGCCGCGGGGAGCTGAGCGTGTGCG
@@ -366,13 +382,6 @@ Neurotrichus_gibbsii GGTCCGGCGCCACTCCGACCCCGCCCGCCGCGGGGAGCTGAGCGTGTGCG
 Scalopus_aquaticus|B GGTCCGGCGCCACTCCGACCCAGCGCGCCGCGGGGAGCTGAGCGTGTGCG
 Scapanus_orarius|BDN GGTCCGGCGCCACTCCGACCCGGCGCGCCGCGGGGAGCTGAGCGTGTGCG
 Scapanulus_oweni|BDN GGTCCGGCGCCACTCCGACCCAGCGCGCCGCGGGGAGCTGAGCGTGTGCG
-Atopogale_cubana|BDN GGTCCGGCGCCACTCCGACCCCGCCCGCCGCGGGGAGCTGAGCGTGTGTG
-Solenodon_paradoxus| GGTCCGGCGCCACTCCGACCCCGCCCGCCGCGGGGAGCTGAGCGTGTGTG
-Echinosorex_gymnura| GGTCCGACGCCACTCCGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
-Podogymnura_truei|BD GGTCCGACGCCACTCCGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
-Paraechinus_aethiopi GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
 Anourosorex_yamashin GGTCCGGCGCCACTCCGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
 Episoriculus_caudatu GGTCCGGCGCCACTCCGACCCTGCCCGCCGCGGGGAGCTGAGCGTGTGCG
 Neomys_fodiens|BDNF| GGTCCGGCGTCACTCCGACCCTGCCCGCCGCGGGGAGCTGAGCGTGTGCG
@@ -392,6 +401,15 @@ Crocidura_olivieri|B GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTAAGCGTGTGTG
 Crocidura_gueldensta GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGTG
 Crocidura_lasiura|BD GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGTG
 Suncus_etruscus|BDNF GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGTG
+Homo_sapiens|BDNF|or GGTCCGGCGCCACTCTGACCCTGCCCGCCGAGGGGAGCTGAGCGTGTGTG
+Pteropus_vampyrus|BD GGTCCGGCGCCACTCTGACCCCGCCCGCCGCGGGGAGCTGAGCGTGTGCG
+Atopogale_cubana|BDN GGTCCGGCGCCACTCCGACCCCGCCCGCCGCGGGGAGCTGAGCGTGTGTG
+Solenodon_paradoxus| GGTCCGGCGCCACTCCGACCCCGCCCGCCGCGGGGAGCTGAGCGTGTGTG
+Echinosorex_gymnura| GGTCCGACGCCACTCCGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
+Podogymnura_truei|BD GGTCCGACGCCACTCCGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
+Paraechinus_aethiopi GGTCCGGCGCCACTCTGACCCTGCCCGCCGTGGGGAGCTGAGCGTGTGCG
 
 Parascalops_breweri| ACAGCATTAGCGAGTGGGTGACGGCGGCGGATAAAAAGACTGCAGTGGAC
 Dymecodon_pilirostri ACAGCATTAGCGAGTGGGTGACGGCGGCGGATAAAAAGACTGCCGTGGAC
@@ -409,13 +427,6 @@ Neurotrichus_gibbsii ACAGCATTAGCGAGTGGGTGACGGCGGCGGATAAAAAGACTGCAGTGGAC
 Scalopus_aquaticus|B ACAGCATTAGCGAGTGGGTGACGGCGGCGGATAAAAAGACTGCAGTGGAC
 Scapanus_orarius|BDN ACAGCATTAGCGAGTGGGTGACGGCAGCGGATAAAAAGACTGCAGTGGAC
 Scapanulus_oweni|BDN ACAGCATTAGCGAGTGGGTGACGGCGGCAGATAAAAAGACTGCAGTGGAC
-Atopogale_cubana|BDN ACAGCATCAGCGAGTGGGTGACAGCAGCGGATAAGAAGACTGCAGTGGAC
-Solenodon_paradoxus| ACAGCATCAGCGAGTGGGTGACAGCAGCGGATAAAAAGACTGCAGTGGAC
-Echinosorex_gymnura| ACAGTGTTAGCCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
-Podogymnura_truei|BD ACAGCGTTAGCCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
-Hylomys_suillus|BDNF ------------------------------------AGACTGCAGTGGAC
-Erinaceus_concolor|B ACAGTGTTAGCCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
-Paraechinus_aethiopi ACAGTGTTAGTCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
 Anourosorex_yamashin ACAGCATTAGCGAGTGGGTGACAGCGGCAGATAAGAAGACTGCAGTGGAC
 Episoriculus_caudatu ACAGCATTAGCGAGTGGGTGACGGCGGCAGATAAGAAGACAGCAGTGGAC
 Neomys_fodiens|BDNF| ACAGCATTAGCGAGTGGGTGACGGCGGCAGATAAGAAGACTGCAGTGGAC
@@ -435,6 +446,15 @@ Crocidura_olivieri|B ACAGCATCAGCGAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
 Crocidura_gueldensta ACAGCATCAGCGAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
 Crocidura_lasiura|BD ACAGCATCAGCGAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
 Suncus_etruscus|BDNF ACAGCATCAGCGAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
+Homo_sapiens|BDNF|or ACAGTATTAGTGAGTGGGTAACGGCGGCAGACAAAAAGACTGCAGTGGAC
+Pteropus_vampyrus|BD ACAGCATTAGTGAGTGGGTCACAGCGGCAGATAAAAAGACTGCAGTGGAC
+Atopogale_cubana|BDN ACAGCATCAGCGAGTGGGTGACAGCAGCGGATAAGAAGACTGCAGTGGAC
+Solenodon_paradoxus| ACAGCATCAGCGAGTGGGTGACAGCAGCGGATAAAAAGACTGCAGTGGAC
+Echinosorex_gymnura| ACAGTGTTAGCCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
+Podogymnura_truei|BD ACAGCGTTAGCCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
+Hylomys_suillus|BDNF ------------------------------------AGACTGCAGTGGAC
+Erinaceus_concolor|B ACAGTGTTAGCCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
+Paraechinus_aethiopi ACAGTGTTAGTCAGTGGGTGACAGCAGCAGATAAAAAGACTGCAGTGGAC
 
 Parascalops_breweri| ATGTCGGGCGGGACAGTGACAGTCCTTGAAAAAGTCCCTGTATCGAAAGG
 Dymecodon_pilirostri ATGTCGGGCGGGACGGTGACGGTCCTGGAGAAAGTCCCTGTATCCAAAGG
@@ -452,13 +472,6 @@ Neurotrichus_gibbsii ATGTCGGGCGGGACGGTGACGGTCCTTGAAAAAGTCCCTGTATCGAAAGG
 Scalopus_aquaticus|B ATGTCGGGCGGAACGGTGACGGTCCTTGAAAAAGTCCCTGTATCGAAAGG
 Scapanus_orarius|BDN ATGTCGGGCGGAACGGTGACGGTCCTTGAAAAAGTCCCTGTATCGAAAGG
 Scapanulus_oweni|BDN ATGTCGGGCGGGACGGTGACGGTCCTTGAAAAAGTCCCTGTATCAAAAGG
-Atopogale_cubana|BDN ATGTCGGGCGGGACGGTCACCGTCCTGGAAAAAGTCCCTGTGTCCAAAGG
-Solenodon_paradoxus| ATGTCGGGCGGGACGGTCACTGTCCTGGAAAAAGTCCCTGTATCCAAAGG
-Echinosorex_gymnura| ATGTCGGGCGGGACGGTCACAGTCCTGGAAAAGGTCCCTGTGTCCAAAGG
-Podogymnura_truei|BD ATGTCGGGCGGGACGGTCACGGTCCTGGAAAAGGTCCCTGTGTCCAAAGG
-Hylomys_suillus|BDNF ATGTCGGGCGGGACGGTCACGGTCCTTGAAAAAGTCCCTGTATCCAAAGG
-Erinaceus_concolor|B ATGTCGGGCGGGACGGTCACCGTCCTTGAAAAAGTACCTGTATCCAAAGG
-Paraechinus_aethiopi ATGTCGGGCGGGACGGTCACCGTCCTTGAAAAAGTACCTGTATCCAAAGG
 Anourosorex_yamashin ATGTCGGGCGGGACAGTCACTGTCCTTGAGAAAGTCCCGGTATCCAAAGG
 Episoriculus_caudatu ATGTCAGGCGGGACGGTGACTGTCCTTGAGAAAGTCCCGGTATCCAAAGG
 Neomys_fodiens|BDNF| ATGTCAGGCGGGACAGTGACTGTCCTTGAGAAAGTCCCGGTATCAAAAGG
@@ -478,6 +491,15 @@ Crocidura_olivieri|B ATGTCAGGCGGGACAGTCACTGTCCTTGAAAAAGTT--------------
 Crocidura_gueldensta ATGTCAGGCGGGACAGTCACTGTCCTTGAAAAAGTTCCTGTATCAAAAGG
 Crocidura_lasiura|BD ATGTCAGGCGGGACAGTCACTGTCCTTGAAAAAGTT--------------
 Suncus_etruscus|BDNF ATGTCAGGCGGGACAGTCACTGTCCTTGAAAAAGTTCCTGTATCAAAAGG
+Homo_sapiens|BDNF|or ATGTCGGGCGGGACGGTCACAGTCCTTGAAAAGGTCCCTGTATCAAAAGG
+Pteropus_vampyrus|BD ATGTCAGGCGGGACGGTCACGGTCCTTGAAAAAGTCCCTGTGTCGAAAGG
+Atopogale_cubana|BDN ATGTCGGGCGGGACGGTCACCGTCCTGGAAAAAGTCCCTGTGTCCAAAGG
+Solenodon_paradoxus| ATGTCGGGCGGGACGGTCACTGTCCTGGAAAAAGTCCCTGTATCCAAAGG
+Echinosorex_gymnura| ATGTCGGGCGGGACGGTCACAGTCCTGGAAAAGGTCCCTGTGTCCAAAGG
+Podogymnura_truei|BD ATGTCGGGCGGGACGGTCACGGTCCTGGAAAAGGTCCCTGTGTCCAAAGG
+Hylomys_suillus|BDNF ATGTCGGGCGGGACGGTCACGGTCCTTGAAAAAGTCCCTGTATCCAAAGG
+Erinaceus_concolor|B ATGTCGGGCGGGACGGTCACCGTCCTTGAAAAAGTACCTGTATCCAAAGG
+Paraechinus_aethiopi ATGTCGGGCGGGACGGTCACCGTCCTTGAAAAAGTACCTGTATCCAAAGG
 
 Parascalops_breweri| CCAACTGAAGCAGTACTTTT------------------------------
 Dymecodon_pilirostri CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGCTACA
@@ -495,13 +517,6 @@ Neurotrichus_gibbsii CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGCTACA
 Scalopus_aquaticus|B CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGCTACA
 Scapanus_orarius|BDN CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGCTACA
 Scapanulus_oweni|BDN CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGCTACA
-Atopogale_cubana|BDN CCAGCTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGTTACA
-Solenodon_paradoxus| CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGTTACA
-Echinosorex_gymnura| CCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCCCTGGGTCCTC
-Podogymnura_truei|BD CCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCCCTGGGTTTCA
-Hylomys_suillus|BDNF CCAACTGAAGCAGTACTTCTATGAGACCAGGTGCAA--------------
-Erinaceus_concolor|B TCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCGCTGGGTTTCA
-Paraechinus_aethiopi CCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCGCTGGGTTTC-
 Anourosorex_yamashin CCAACTGAAGCAGTACTTCTATGAGACCAAGTGCAATCCCATGGGTTACA
 Episoriculus_caudatu CCAACTGAAGCAGTACTTCTATGAGACCAAGTGCAATCCCATGGGTTACA
 Neomys_fodiens|BDNF| CCAACTGAAGCAGTACTTCTATGAGACCAAGTGCAATCCCATGGGTTACA
@@ -521,6 +536,15 @@ Crocidura_olivieri|B --------------------------------------------------
 Crocidura_gueldensta CCAACTGAAGCAGTACTTCTATGAAACCAAATGCAATCCCATGGGT----
 Crocidura_lasiura|BD --------------------------------------------------
 Suncus_etruscus|BDNF CCAACTGAAGCAGTACTTCTATGAAACCAAATGCAATCCCATGGGTTACA
+Homo_sapiens|BDNF|or CCAACTGAAGCAATACTTCTACGAGACCAAGTGCAATCCCATGGGTTACA
+Pteropus_vampyrus|BD CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGTTACA
+Atopogale_cubana|BDN CCAGCTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGTTACA
+Solenodon_paradoxus| CCAACTGAAGCAGTACTTCTACGAGACCAAGTGCAATCCCATGGGTTACA
+Echinosorex_gymnura| CCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCCCTGGGTCCTC
+Podogymnura_truei|BD CCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCCCTGGGTTTCA
+Hylomys_suillus|BDNF CCAACTGAAGCAGTACTTCTATGAGACCAGGTGCAA--------------
+Erinaceus_concolor|B TCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCGCTGGGTTTCA
+Paraechinus_aethiopi CCAACTGAAGCAGTACTTCTACGAGACCAGGTGCAATCCGCTGGGTTTC-
 
 Parascalops_breweri| --------------------------------------------------
 Dymecodon_pilirostri CAAAGGAGGGCTGCAGG---------------------------------
@@ -538,13 +562,6 @@ Neurotrichus_gibbsii CAAAGGAGGGCTGCAGG---------------------------------
 Scalopus_aquaticus|B CAAAGGAGGGCTGCCGG---------------------------------
 Scapanus_orarius|BDN CAAAGGAGGGCTGCCGG---------------------------------
 Scapanulus_oweni|BDN CAAAGGAGGGCTGCCGG---------------------------------
-Atopogale_cubana|BDN CGAAGGAGGGCTGCAGG---------------------------------
-Solenodon_paradoxus| CGAAGGAGGGCTGCAGG---------------------------------
-Echinosorex_gymnura| CT------------------------------------------------
-Podogymnura_truei|BD CGAAGGAAGGCTGCAGG---------------------------------
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B CGAAGGAGGGCTGCAGG---------------------------------
-Paraechinus_aethiopi --------------------------------------------------
 Anourosorex_yamashin CAAAGGAGGGCTGCAGG---------------------------------
 Episoriculus_caudatu CAAAGGAGGGCTGCCGGGGCATAGACAAAAGGCATTGGAATTCCCAGTGC
 Neomys_fodiens|BDNF| CAAAGGAGGGCTGCCGG---------------------------------
@@ -564,6 +581,15 @@ Crocidura_olivieri|B --------------------------------------------------
 Crocidura_gueldensta --------------------------------------------------
 Crocidura_lasiura|BD --------------------------------------------------
 Suncus_etruscus|BDNF CAAAGGAGGGCTGCAGGGGCATAGACAAAAGGCACTGGAAA---------
+Homo_sapiens|BDNF|or CAAAAGAAGGCTGCAGGGGCATAGACAAAAGGCATTGGAACTCCCAGTGC
+Pteropus_vampyrus|BD CGAAGGAGGGCTGCAGG---------------------------------
+Atopogale_cubana|BDN CGAAGGAGGGCTGCAGG---------------------------------
+Solenodon_paradoxus| CGAAGGAGGGCTGCAGG---------------------------------
+Echinosorex_gymnura| CT------------------------------------------------
+Podogymnura_truei|BD CGAAGGAAGGCTGCAGG---------------------------------
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B CGAAGGAGGGCTGCAGG---------------------------------
+Paraechinus_aethiopi --------------------------------------------------
 
 Parascalops_breweri| --------------------------------------------------
 Dymecodon_pilirostri --------------------------------------------------
@@ -581,13 +607,6 @@ Neurotrichus_gibbsii --------------------------------------------------
 Scalopus_aquaticus|B --------------------------------------------------
 Scapanus_orarius|BDN --------------------------------------------------
 Scapanulus_oweni|BDN --------------------------------------------------
-Atopogale_cubana|BDN --------------------------------------------------
-Solenodon_paradoxus| --------------------------------------------------
-Echinosorex_gymnura| --------------------------------------------------
-Podogymnura_truei|BD --------------------------------------------------
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B --------------------------------------------------
-Paraechinus_aethiopi --------------------------------------------------
 Anourosorex_yamashin --------------------------------------------------
 Episoriculus_caudatu CGAACTACCCAGTCGTACGTGCGGGCCCTTACCATGGATAGCAAAAAGAG
 Neomys_fodiens|BDNF| --------------------------------------------------
@@ -607,6 +626,15 @@ Crocidura_olivieri|B --------------------------------------------------
 Crocidura_gueldensta --------------------------------------------------
 Crocidura_lasiura|BD --------------------------------------------------
 Suncus_etruscus|BDNF --------------------------------------------------
+Homo_sapiens|BDNF|or CGAA----------------------------------------------
+Pteropus_vampyrus|BD --------------------------------------------------
+Atopogale_cubana|BDN --------------------------------------------------
+Solenodon_paradoxus| --------------------------------------------------
+Echinosorex_gymnura| --------------------------------------------------
+Podogymnura_truei|BD --------------------------------------------------
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B --------------------------------------------------
+Paraechinus_aethiopi --------------------------------------------------
 
 Parascalops_breweri| --------------------------------------------------
 Dymecodon_pilirostri --------------------------------------------------
@@ -624,13 +652,6 @@ Neurotrichus_gibbsii --------------------------------------------------
 Scalopus_aquaticus|B --------------------------------------------------
 Scapanus_orarius|BDN --------------------------------------------------
 Scapanulus_oweni|BDN --------------------------------------------------
-Atopogale_cubana|BDN --------------------------------------------------
-Solenodon_paradoxus| --------------------------------------------------
-Echinosorex_gymnura| --------------------------------------------------
-Podogymnura_truei|BD --------------------------------------------------
-Hylomys_suillus|BDNF --------------------------------------------------
-Erinaceus_concolor|B --------------------------------------------------
-Paraechinus_aethiopi --------------------------------------------------
 Anourosorex_yamashin --------------------------------------------------
 Episoriculus_caudatu AATTGGTTGGCGATTCATAAGGATAGACACTTCCTGTGTATGTACACTGA
 Neomys_fodiens|BDNF| --------------------------------------------------
@@ -650,6 +671,15 @@ Crocidura_olivieri|B --------------------------------------------------
 Crocidura_gueldensta --------------------------------------------------
 Crocidura_lasiura|BD --------------------------------------------------
 Suncus_etruscus|BDNF --------------------------------------------------
+Homo_sapiens|BDNF|or --------------------------------------------------
+Pteropus_vampyrus|BD --------------------------------------------------
+Atopogale_cubana|BDN --------------------------------------------------
+Solenodon_paradoxus| --------------------------------------------------
+Echinosorex_gymnura| --------------------------------------------------
+Podogymnura_truei|BD --------------------------------------------------
+Hylomys_suillus|BDNF --------------------------------------------------
+Erinaceus_concolor|B --------------------------------------------------
+Paraechinus_aethiopi --------------------------------------------------
 
 Parascalops_breweri| --------------------
 Dymecodon_pilirostri --------------------
@@ -667,13 +697,6 @@ Neurotrichus_gibbsii --------------------
 Scalopus_aquaticus|B --------------------
 Scapanus_orarius|BDN --------------------
 Scapanulus_oweni|BDN --------------------
-Atopogale_cubana|BDN --------------------
-Solenodon_paradoxus| --------------------
-Echinosorex_gymnura| --------------------
-Podogymnura_truei|BD --------------------
-Hylomys_suillus|BDNF --------------------
-Erinaceus_concolor|B --------------------
-Paraechinus_aethiopi --------------------
 Anourosorex_yamashin --------------------
 Episoriculus_caudatu CCATTAAAAGGGGAAGATAG
 Neomys_fodiens|BDNF| --------------------
@@ -693,6 +716,15 @@ Crocidura_olivieri|B --------------------
 Crocidura_gueldensta --------------------
 Crocidura_lasiura|BD --------------------
 Suncus_etruscus|BDNF --------------------
+Homo_sapiens|BDNF|or --------------------
+Pteropus_vampyrus|BD --------------------
+Atopogale_cubana|BDN --------------------
+Solenodon_paradoxus| --------------------
+Echinosorex_gymnura| --------------------
+Podogymnura_truei|BD --------------------
+Hylomys_suillus|BDNF --------------------
+Erinaceus_concolor|B --------------------
+Paraechinus_aethiopi --------------------
 ;
 
 end;

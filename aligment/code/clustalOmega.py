@@ -54,4 +54,4 @@ def run_clustalo(fasta_file, out_fold):
         f.write(result.text)
     print(f"Alignment saved to {out_file}")
 
-run_clustalo("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/fasta_data/12S_rRNA.fasta", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/aligned_fastas")
+run_clustalo("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/fasta_data/BDNF.fasta", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/aligned_fastas")

@@ -45,4 +45,4 @@ def seq_finder(meta_data: list[dict], raw_file: str):
 
     return updated_genes
 
-#print(seq_finder(read_gbk("AY986753", "fasta_info"), "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/raw_fastas"))
+#print(seq_finder(read_gbk("KR711200", "fasta_info"), "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/raw_fastas"))

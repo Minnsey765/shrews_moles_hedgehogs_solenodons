@@ -58,4 +58,4 @@ def read_gbk(accession: str, data_folder: str):
 #print(read_gbk("OZ208999.1", "fasta_info"))
 #print(read_gbk("KC516842.1", "fasta_info"))
 #print(read_gbk("NC_010298", "fasta_info"))
-#print(read_gbk("KX755063", "fasta_info"))
+#print(read_gbk("KR710721", "fasta_info"))

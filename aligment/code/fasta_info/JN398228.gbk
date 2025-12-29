@@ -1,0 +1,68 @@
+LOCUS       JN398228                1343 bp    DNA     linear   MAM 25-JUL-2016
+DEFINITION  Pteropus vampyrus BRCA1 gene, partial cds.
+ACCESSION   JN398228
+VERSION     JN398228.1
+KEYWORDS    .
+SOURCE      Pteropus vampyrus (large flying fox)
+  ORGANISM  Pteropus vampyrus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Yinpterochiroptera;
+            Pteropodoidea; Pteropodidae; Pteropodinae; Pteropus.
+REFERENCE   1  (bases 1 to 1343)
+  AUTHORS   Almeida,F.C., Giannini,N.P., DeSalle,R. and Simmons,N.B.
+  TITLE     Evolutionary relationships of the old world fruit bats (Chiroptera,
+            Pteropodidae): another star phylogeny?
+  JOURNAL   BMC Evol. Biol. 11, 281 (2011)
+   PUBMED   21961908
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1343)
+  AUTHORS   Almeida,F.C., Giannini,N.P., DeSalle,R. and Simmons,N.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2011) Mammalogy, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1..1343
+                     /organism="Pteropus vampyrus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AMNH 272871"
+                     /db_xref="taxon:132908"
+     mRNA            <1..>1343
+                     /product="BRCA1"
+     CDS             <1..>1343
+                     /codon_start=1
+                     /product="BRCA1"
+                     /protein_id="AER25269.1"
+                     /translation="KETCNDMQTSSTEKKVVLNADPLNGRIELNKQKPPCSDSPRDSQ
+                     DISWITRNSSIQKVNEWFSRRDEILTSDVSPDGRSESNVVEVPNEVDGYSGASEKIAL
+                     KANDPHXALMCERVHSKLVESNIEDKIFGKTYRRKASLPNLSHITENLITGASAIEPQ
+                     MITQEYPLTNKLKRKRRTTSGLHPEDFIKKIDLAVVQKTPENIIEETDQIEQNGHVMN
+                     STNNGHENETKGDYVQKKKNTNPTESLEKESTFKTKAEPICSSISNMELELNIHSSKA
+                     VKKNRLRRKSSTRHIHALELVVNRNPSPPNHTELQIDSCSSSEELKEKNSDQXPVRHS
+                     KKLQFIEDKESSTGAKKNNKPNETINKRLASDAFPELNITNIPGFFTNGSSSNKLQEF
+                     VNPSLQREEIKENLGTIQVSNSTKDPKILIFGEGRGSQTDRSTESTSILLVPETD"
+ORIGIN      
+        1 aaggaaacat gtaacgatat gcagacttcc agcacagaga aaaaggtagt tctgaatgct
+       61 gatcccctga atgggagaat agaactgaat aagcagaaac ctccatgctc tgacagtcct
+      121 agagattctc aagatatttc ttggataaca cggaatagta gcatacagaa agttaatgag
+      181 tggttttcca gacgtgatga aatattaact tctgatgtct cacctgatgg gaggtctgaa
+      241 tcaaatgtgg tagaagttcc aaatgaagta gatggatact ctggtgcttc agagaaaata
+      301 gctttaaagg ccaatgatcc tcatgstgct ttaatgtgcg aaagagttca ctccaaactg
+      361 gtagaaagta atattgaaga taaaatattt gggaaaacat atcggaggaa agcaagcctc
+      421 cctaacttga gccacataac tgaaaatcta attacaggag catctgctat agaacctcag
+      481 atgataacac aagagtatcc cctcacaaat aaactaaagc gtaaaaggag aactacatca
+      541 ggccttcatc ctgaggattt tatcaagaaa atagatttgg cagttgttca gaaaactccg
+      601 gaaaacataa ttgaggaaac tgaccaaata gagcagaatg gtcatgtgat gaatagtact
+      661 aataatggtc atgagaatga aacaaaaggt gattatgttc agaagaagaa aaatacaaac
+      721 ccaacagaat cattggaaaa agaatctact ttcaaaacta aagctgaacc tatatgcagc
+      781 agcataagca atatggaact agaattaaat atccacagtt caaaagcagt taagaagaat
+      841 aggctgagga ggaagtcctc taccaggcat attcatgcac ttgaactagt agtcaataga
+      901 aatccaagcc cacctaatca tactgaacta caaattgata gttgttctag cagtgaagag
+      961 ctgaaggaaa aaaattctga ccaaaygcca gtcagacata gcaaaaaact tcagttcata
+     1021 gaagataaag aatcttcaac tggagccaag aagaataaca agccaaatga gacaatcaat
+     1081 aaaagacttg ccagtgatgc ttttccagaa ttaaatataa caaacatacc tggttttttt
+     1141 actaatggtt caagttctaa taaacttcaa gagtttgtca atcctagcct tcaaagagaa
+     1201 gaaataaaag agaacctagg aacaattcaa gtgtctaata gtaccaagga ccccaaaatt
+     1261 ttgatcttcg gtgaaggaag aggttcacaa actgatcgat ctacagagag taccagtatt
+     1321 ttattggtgc ctgaaacgga tta
+//
+

@@ -1,0 +1,264 @@
+LOCUS       AH002706                4829 bp    DNA     linear   PRI 10-JUN-2016
+DEFINITION  Homo sapiens growth hormone receptor (GHR) gene, complete cds.
+ACCESSION   AH002706 M26401 M28458 M28459 M28460 M28461 M28462 M28463 M28464
+            M28465 M28466 M28467
+VERSION     AH002706.2
+KEYWORDS    growth hormone binding-protein; growth hormone receptor;
+            transmembrane protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4829)
+  AUTHORS   Godowski,P.J., Leung,D.W., Meacham,L.R., Galgani,J.P., Hellmiss,R.,
+            Keret,R., Rotwein,P.S., Parks,J.S., Laron,Z. and Wood,W.I.
+  TITLE     Characterization of the human growth hormone receptor gene and
+            demonstration of a partial gene deletion in two patients with
+            Laron-type dwarfism
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 86 (20), 8083-8087 (1989)
+   PUBMED   2813379
+COMMENT     On or before Jun 10, 2016 this sequence version replaced M28458.1,
+            M28459.1, M28460.1, M28461.1, M28462.1, M28463.1, M28464.1,
+            M28465.1, M28466.1, M28467.1, AH002706.1.
+FEATURES             Location/Qualifiers
+     source          1..4829
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /map="5p14-p12"
+     prim_transcript <1..>201
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <1..61
+                     /note="GHR Intron A"
+     gene            73..3797
+                     /gene="GHR"
+     CDS             join(73..142,341..406,635..764,983..1155,1369..1547,
+                     1765..1930,2211..2301,2527..2596,2826..3797)
+                     /gene="GHR"
+                     /note="growth hormone receptor"
+                     /codon_start=1
+                     /protein_id="AAA52555.1"
+                     /translation="MDLWQLLLTLALAGSSDAFSGSEATAAILSRAPWSLQSVNPGLK
+                     TNSSKEPKFTKCRSPERETFSCHWTDEVHHGTKNLGPIQLFYTRRNTQEWTQEWKECP
+                     DYVSAGENSCYFNSSFTSIWIPYCIKLTSNGGTVDEKCFSVDEIVQPDPPIALNWTLL
+                     NVSLTGIHADIQVRWEAPRNADIQKGWMVLEYELQYKEVNETKWKMMDPILTTSVPVY
+                     SLKVDKEYEVRVRSKQRNSGNYGEFSEVLYVTLPQMSQFTCEEDFYFPWLLIIIFGIF
+                     GLTVMLFVFLFSKQQRIKMLILPPVPVPKIKGIDPDLLKEGKLEEVNTILAIHDSYKP
+                     EFHSDDSWVEFIELDIDEPDEKTEESDTDRLLSSDHEKSHSNLGVKDGDSGRTSCCEP
+                     DILETDFNANDIHEGTSEVAQPQRLKGEADLLCLDQKNQNNSPYHDACPATQQPSVIQ
+                     AEKNKPQPLPTEGAESTHQAAHIQLSNPSSLSNIDFYAQVSDITPAGSVVLSPGQKNK
+                     AGMSQCDMHPEMVSLCQENFLMDNAYFCEADAKKCLPVAPHIKVESHIQPSLNQEDIY
+                     ITTESLTTAAGRPGTGEHVPGSEMPVPDYTSIHIVQSPQGLILNATALPLPDKEFLSS
+                     CGYVSTDQLNKIMP"
+     exon            <73..142
+                     /gene="GHR"
+                     /note="growth hormone receptor; G00-119-984"
+                     /number=2
+     intron          143..>201
+                     /gene="GHR"
+                     /note="GHR Intron B"
+     gap             202..301
+                     /estimated_length=unknown
+     prim_transcript <302..>478
+                     /gene="GHR"
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <302..340
+                     /gene="GHR"
+                     /note="GHR Intron B"
+     exon            341..406
+                     /gene="GHR"
+                     /note="G00-119-984"
+                     /number=3
+     intron          407..>478
+                     /gene="GHR"
+                     /note="GHR Intron C"
+     gap             479..578
+                     /estimated_length=unknown
+     prim_transcript <579..824
+                     /gene="GHR"
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <579..634
+                     /gene="GHR"
+                     /note="GHR Intron C"
+     exon            635..764
+                     /gene="GHR"
+                     /note="G00-119-984"
+                     /number=4
+     intron          765..>824
+                     /gene="GHR"
+                     /note="GHR Intron D"
+     gap             825..924
+                     /estimated_length=unknown
+     prim_transcript <925..>1213
+                     /gene="GHR"
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <925..>982
+                     /gene="GHR"
+                     /note="GHR Intron D"
+     exon            983..1155
+                     /gene="GHR"
+                     /note="G00-119-984"
+                     /number=5
+     intron          1156..>1213
+                     /gene="GHR"
+                     /note="GHR Intron E"
+     gap             1214..1313
+                     /estimated_length=unknown
+     prim_transcript <1314..>1590
+                     /gene="GHR"
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <1314..1368
+                     /gene="GHR"
+                     /note="GHR Intron E"
+     exon            1369..1547
+                     /gene="GHR"
+                     /note="G00-119-984"
+                     /number=6
+     intron          1548..>1550
+                     /gene="GHR"
+                     /note="GHR Intron F"
+     gap             1591..1690
+                     /estimated_length=unknown
+     prim_transcript <1691..>2052
+                     /gene="GHR"
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <1691..1764
+                     /gene="GHR"
+                     /note="GHR Intron F"
+     exon            1765..1930
+                     /gene="GHR"
+                     /note="G00-119-984"
+                     /number=7
+     intron          1931..>2052
+                     /gene="GHR"
+                     /note="GHR Intron G"
+     gap             2053..2152
+                     /estimated_length=unknown
+     prim_transcript <2153..>2364
+                     /gene="GHR"
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <2153..2210
+                     /gene="GHR"
+                     /note="GHR Intron G"
+     exon            2211..2301
+                     /gene="GHR"
+                     /note="G00-119-984"
+                     /number=8
+     intron          2302..>2364
+                     /gene="GHR"
+                     /note="GHR Intron H"
+     gap             2365..2464
+                     /estimated_length=unknown
+     prim_transcript <2465..>2662
+                     /gene="GHR"
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <2465..2526
+                     /gene="GHR"
+                     /note="GHR Intron H"
+     exon            2527..2596
+                     /gene="GHR"
+                     /note="G00-119-984"
+                     /number=9
+     intron          2597..>2662
+                     /gene="GHR"
+                     /note="GHR Intron I"
+     gap             2663..2762
+                     /estimated_length=unknown
+     prim_transcript <2763..>4643
+                     /note="growth hormone receptor mRNA and introns"
+     intron          <2763..2825
+                     /gene="GHR"
+                     /note="GHR Intron I"
+     exon            2826..>3797
+                     /gene="GHR"
+                     /note="growth hormone receptor; G00-119-984"
+                     /number=10
+     gap             4644..4743
+                     /estimated_length=unknown
+     prim_transcript <4744..4829
+                     /note="growth hormone receptor mRNA"
+ORIGIN      
+        1 tttcatgata atggtctgct tttaattgct gggctttacc ttaccctttt tgtgattgca
+       61 ggtcctacag gtatggatct ctggcagctg ctgttgacct tggcactggc aggatcaagt
+      121 gatgcttttt ctggaagtga gggtgagttc tgcttttcca tttccaccct cagtgttttg
+      181 aaacaacact gaactgtatt cnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      241 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      301 ngatggacta gatggttttg ccttcctctt tctgtttcag ccacagcagc tatccttagc
+      361 agagcaccct ggagtctgca aagtgttaat ccaggcctaa agacaagtaa gaatttcagt
+      421 cctttttctt ccttcgaatg atattttcca tgttttagtg taattaagct actatcctnn
+      481 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      541 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnag gatcacatat gactcacctg
+      601 atttcatgcc ttgccttttc tttttattct gcagattctt ctaaggagcc taaattcacc
+      661 aagtgccgtt cacctgagcg agagactttt tcatgccact ggacagatga ggttcatcat
+      721 ggtacaaaga acctaggacc catacagctg ttctatacca gaaggtgcca ccatcatgcc
+      781 tttctgattt tcctctccat ggatgtacct actaaagtac actannnnnn nnnnnnnnnn
+      841 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      901 nnnnnnnnnn nnnnnnnnnn nnnnacttaa gctacaacat gatttttgga acaattaatc
+      961 tttttttaac ccttcatttt aggaacactc aagaatggac tcaagaatgg aaagaatgcc
+     1021 ctgattatgt ttctgctggg gaaaacagct gttactttaa ttcatcgttt acctccatct
+     1081 ggatacctta ttgtatcaag ctaactagca atggtggtac agtggatgaa aagtgtttct
+     1141 ctgttgatga aataggtaaa tcacaggttt ttgtttcatt tgacatagtt ttagactaaa
+     1201 taaatgggga agcnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1261 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnccattaa
+     1321 tattaaattg tgtctgtctg tgtactaatg ctctgttgaa ttgcacagtg caaccagatc
+     1381 cacccattgc cctcaactgg actttactga acgtcagttt aactgggatt catgcagata
+     1441 tccaagtgag atgggaagca ccacgcaatg cagatattca gaaaggatgg atggttctgg
+     1501 agtatgaact tcaatacaaa gaagtaaatg aaactaaatg gaaaatggta agatgttgct
+     1561 acaccttaca ctttgacttt tctttctatt nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1621 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1681 nnnnnnnnnn atacctgtag tgttcattgg cattgagttg ttgactcttt ggccaatatg
+     1741 gcgtttatat ttttgtcttg aaagatggac cctatattga caacatcagt tccagtgtac
+     1801 tcattgaaag tggataagga atatgaagtg cgtgtgagat ccaaacaacg aaactctgga
+     1861 aattatggcg agttcagtga ggtgctctat gtaacacttc ctcagatgag ccaatttaca
+     1921 tgtgaagaag gtaaaagaaa taaaagatta aaatagtagc taacctggct tttgtcaata
+     1981 taacagttga ttcacccctg cactggtagt gtgttgtcca aatcaaaata tattaacatc
+     2041 agatatcagg atnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2101 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nngaaactgt
+     2161 gcttcaacta gtcgtaattc tgaaagcgaa atattcttgt gtgtttgcag atttctactt
+     2221 tccatggctc ttaattatta tctttggaat atttgggcta acagtgatgc tatttgtatt
+     2281 cttattttct aaacagcaaa ggtaggatgt aggaaggtag tattctttgg taccttctgt
+     2341 accagttgtg ttagaccttg ccatnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2401 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2461 nnnngctata attgagaata tgtagctttt aagatgtcaa aaccaaaatt tttatatgtt
+     2521 ttcaaggatt aaaatgctga ttctgccccc agttccagtt ccaaagatta aaggaatcga
+     2581 tccagatctc ctcaaggtaa ctaataattt tatctaaagt tgtagctagt actaattaac
+     2641 acctgaagac tcctgtcata tgnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2701 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     2761 nngctaattc atttaattat tatgagtttc ttttcataga tcttcatttt ctttctattt
+     2821 tctaggaagg aaaattagag gaggtgaaca caatcttagc cattcatgat agctataaac
+     2881 ccgaattcca cagtgatgac tcttgggttg aatttattga gctagatatt gatgagccag
+     2941 atgaaaagac tgaggaatca gacacagaca gacttctaag cagtgaccat gagaaatcac
+     3001 atagtaacct aggggtgaag gatggcgact ctggacgtac cagctgttgt gaacctgaca
+     3061 ttctggagac tgatttcaat gccaatgaca tacatgaggg tacctcagag gttgctcagc
+     3121 cacagaggtt aaaaggggaa gcagatctct tatgccttga ccagaagaat caaaataact
+     3181 caccttatca tgatgcttgc cctgctactc agcagcccag tgttatccaa gcagagaaaa
+     3241 acaaaccaca accacttcct actgaaggag ctgagtcaac tcaccaagct gcccatattc
+     3301 agctaagcaa tccaagttca ctgtcaaaca tcgactttta tgcccaggtg agcgacatta
+     3361 caccagcagg tagtgtggtc ctttccccgg gccaaaagaa taaggcaggg atgtcccaat
+     3421 gtgacatgca cccggaaatg gtctcactct gccaagaaaa cttccttatg gacaatgcct
+     3481 acttctgtga ggcagatgcc aaaaagtgcc tccctgtggc tcctcacatc aaggttgaat
+     3541 cacacataca gccaagctta aaccaagagg acatttacat caccacagaa agccttacca
+     3601 ctgctgctgg gaggcctggg acaggagaac atgttccagg ttctgagatg cctgtcccag
+     3661 actatacctc cattcatata gtacagtccc cacagggcct catactcaat gcgactgcct
+     3721 tgcccttgcc tgacaaagag tttctctcat catgtggcta tgtgagcaca gaccaactga
+     3781 acaaaatcat gccttagcct ttctttggtt tcccaagagc tacgtattta atagcaaaga
+     3841 attgactggg gcaataacgt ttaagccaaa acaatgttta aacctttttt gggggagtga
+     3901 caggatgggg tatggattct aaaatgcctt ttcccaaaat gttgaaatat gatgttaaaa
+     3961 aaataagaag aatgcttaat cagatagata ttcctattgt gcaatgtaaa tattttaaag
+     4021 aattgtgtca gactgtttag tagcagtgat tgtcttaata ttgtgggtgt taatttttga
+     4081 tactaagcat tgaatgacta tgtttttaat gtatagtaaa tcacgctttt tgaaaaagcg
+     4141 aaaaaatcag gtggcttttg cggttcagga aaattgaatg caaaccatag cacaggctaa
+     4201 ttttttgttg tttcttaaat aagaaacttt tttatttaaa aaactaaaaa ctagaggtga
+     4261 gaaatttaaa ctataagcaa gaaggcaaaa atagtttgga tatgtaaaac atttattttg
+     4321 acataaagtt gataaagata ttttttaata atttagactt caagcatggc tattttatat
+     4381 tacactacac actgtgtact gcagttggta tgacccctct aaggagtgta gcaactacag
+     4441 tctaaagctg gtttaatgtt ttggccaatg cacctaaaga aaaacaaact cgttttttac
+     4501 aaagcccttt tatacctccc cagactcctt caacaattct aaaatgattg tagtaatctg
+     4561 cattattgga atataattgt tttatctgaa tttttaaaca agtatttgtt aatttagaaa
+     4621 actttaaagc gtttgcacag atcnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     4681 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     4741 nnnccttcaa agtttaataa atttattttc ttggattcct gatagtgtgc ttctgttatc
+     4801 aaacaccaac ataaaaatga tctaaacca
+//
+

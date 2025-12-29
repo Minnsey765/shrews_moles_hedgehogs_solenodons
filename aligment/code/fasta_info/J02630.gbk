@@ -1,0 +1,47 @@
+LOCUS       HUMAPOBG                 503 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Homo sapiens apolipoprotein B-100 (APOB) gene, partial cds.
+ACCESSION   J02630
+VERSION     J02630.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 503)
+  AUTHORS   Blackhart,B.D., Ludwig,E.M., Pierotti,V.R., Caiati,L., Onasch,M.A.,
+            Wallis,S.C., Powell,L., Pease,R., Knott,T.J., Chu,M.-L.,
+            Mahley,R.W., Scott,J., McCarthy,B.J. and Levy-Wilson,B.
+  TITLE     Structure of the human apolipoprotein B gene
+  JOURNAL   J. Biol. Chem. 261 (33), 15364-15367 (1986)
+   PUBMED   2946672
+FEATURES             Location/Qualifiers
+     source          1..503
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="lambda-5c"
+     gene            373..>503
+                     /gene="APOB"
+     mRNA            373..>503
+                     /gene="APOB"
+                     /product="apoB-100 mRNA"
+     CDS             501..>503
+                     /gene="APOB"
+                     /codon_start=1
+                     /product="apolipoprotein B-100"
+                     /protein_id="AAN86590.1"
+                     /db_xref="GDB:G00-119-686"
+                     /translation="M"
+ORIGIN      
+        1 ctcgtggctc ccaattcagt ccaggagaag cagagatttt gtccccatgg tgggtcatct
+       61 gaagaaggca cccctggtca gggcaggctt ctcagaccct gaggcgccgg ccatggcccc
+      121 actgagacac aggaagggcc gcgccagagc actgaagacg cttggggaag ggaacccacc
+      181 tgggacccag cccctggtgg ctgcggctgc atcccaggtg ggccccctcc ccgaggctct
+      241 tcaaggctca aagagaagcc agtgtagaaa agcaaacagg tcaggcccgg gaggcgccct
+      301 ttggaccttt tgcaatcctg gcgctcttgc agcctgggct tcctataaat ggggtgcggg
+      361 cgccggccgc gcattcccac cgggacctgc ggggctgagt gcccttctcg gttgctgccg
+      421 ctgaggagcc cgcccagcca gccagggccg cgaggccgag gccaggccgc agcccaggag
+      481 ccgccccacc gcagctggcg atg
+//
+

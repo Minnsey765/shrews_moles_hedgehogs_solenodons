@@ -1,0 +1,68 @@
+LOCUS       MW716260                 813 bp    DNA     linear   PRI 02-MAR-2023
+DEFINITION  Homo sapiens isolate 65 BRCA1 (BRCA1) gene, exon 10 and partial
+            cds.
+ACCESSION   MW716260
+VERSION     MW716260.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 813)
+  AUTHORS   Elshwekh,H., Alhudiri,I., Abdul Jalil,H., Mohamed,A.A., Jornaz,N.,
+            Ramadan,A.M. and Enattah,N.
+  TITLE     Genetic variants of BRCA1 exon 11 in Libyan breast cancer patients
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 813)
+  AUTHORS   Elshwekh,H., Alhudiri,I., Abdul Jalil,H., Mohamed,A.A., Jornaz,N.,
+            Ramadan,A.M. and Enattah,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2021) Genetic Engineering, Biotechnology Research
+            Center, Asakan str., Afornaj, Tripoli, Tripoli 30313, Libya
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..813
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="65"
+                     /db_xref="taxon:9606"
+                     /sex="female"
+                     /collected_by="Hala Alshwaikh"
+     gene            <1..>813
+                     /gene="BRCA1"
+     mRNA            <1..>813
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <1..>813
+                     /gene="BRCA1"
+                     /codon_start=3
+                     /product="BRCA1"
+                     /protein_id="WDY61431.1"
+                     /translation="KPNEQTSKRHDSDTFPELKLTNAPGSFTKCSNTSELKEFVNPSL
+                     PREEKEEKLETVXVSNNAEDPKDLMLSGERVLQTERSVESSSISLVPGTDYGTQESIS
+                     LLEXSTLGKAKTEPNKCVSQCAAFENPKGLIHGCSKDNRNDTEGFKYPLGHEVNHSRE
+                     TSIEMEESELDAQYLQNTFKVSKRQSFALFSNPGNAEEECATFSAHSGSLKKQSPKVT
+                     FECEQKEENQGKNESNIKPVQTVNITAGFPVVGQKDKPVDNAKCSIKGGSRF"
+     exon            <1..>813
+                     /gene="BRCA1"
+                     /number=10
+ORIGIN      
+        1 acaagccaaa tgaacagaca agtaaaagac atgacagyga tactttccca gagctgaagt
+       61 taacaaatgc acctggttct tttactaagt gttcaaatac cagtgaactt aaagaatttg
+      121 tcaatcctag ccttccaaga gaagaaaaag aagagaaact agaaacagtt raagtgtcta
+      181 ataatgctga agaccccaaa gatctcatgt taagtggaga aagggttttg caaactgaaa
+      241 gatctgtaga gagtagcagt atttcaytgg tacctggtac tgattatggc actcaggaaa
+      301 gtatctcgtt actggaagkt agcactctag ggaaggcaaa aacagaacca aataaatgtg
+      361 tgagtcagtg tgcagcattt gaaaacccca agggactaat tcatggttgt tccaaagata
+      421 atagaaatga cacagaaggc tttaagtatc cattgggaca tgaagttaac cacagtcggg
+      481 aaacaagcat agaaatggaa gaaagtgaac ttgatgctca gtatttgcag aatacattca
+      541 aggtttcaaa gcgccagtca tttgctctgt tttcaaatcc aggaaatgca gaagaggaat
+      601 gtgcaacatt ctctgcccac tctgggtcct taaagaaaca aagtccaaaa gtcacttttg
+      661 aatgtgaaca aaaggaagaa aatcaaggaa agaatgagtc taatatcaag cctgtacaga
+      721 cagttaatat cactgcaggc tttcctgtgg ttggtcagaa agataagcca gttgataatg
+      781 ccaaatgtag tatcaaagga ggctctaggt ttt
+//
+

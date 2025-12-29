@@ -1,0 +1,56 @@
+LOCUS       PX442393                 521 bp    DNA     linear   PRI 06-OCT-2025
+DEFINITION  Homo sapiens isolate SW40 brain-derived neurotrophic factor BDNF
+            isoform c precursor (BDNF) gene, partial cds.
+ACCESSION   PX442393
+VERSION     PX442393.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 521)
+  AUTHORS   Ayob,S.M. and Qadir Nanakali,N.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2025) College of Education, Biology Department,
+            Salahaddin University, Erbil, Karkuk Street, Erbil 44002, Iraq
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..521
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="SW40"
+                     /db_xref="taxon:9606"
+                     /geo_loc_name="Iraq: Erbil"
+                     /collected_by="Sawza Mohammad Ayob"
+                     /note="individual with Autism Spectrum Disorder"
+     gene            <1..>521
+                     /gene="BDNF"
+     mRNA            <1..>521
+                     /gene="BDNF"
+                     /product="brain-derived neurotrophic factor BDNF isoform c
+                     precursor"
+     CDS             <1..>521
+                     /gene="BDNF"
+                     /codon_start=2
+                     /product="brain-derived neurotrophic factor BDNF isoform c
+                     precursor"
+                     /protein_id="YAV94139.1"
+                     /translation="VRTHGTLESVNGPKAGSRGLTSLADTFEHVIEELLDEDQKVRPN
+                     EENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGEL
+                     SVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLKQYFYETKCNPMGYTKEGC
+                     RGIDKRHWNSQCR"
+ORIGIN      
+        1 tgtgcggacc catgggactc tggagagcgt gaatgggccc aaggcaggtt caagaggctt
+       61 gacatcattg gctgacactt tcgaacacgt gatagaagag ctgttggatg aggaccagaa
+      121 agttcggccc aatgaagaaa acaataagga cgcagacttg tacacgtcca gggtgatgct
+      181 cagtagtcaa gtgcctttgg agcctcctct tctctttctg ctggaggaat acaaaaatta
+      241 cctagatgct gcaaacatgt ccatgagggt ccggcgccac tctgaccctg cccgccgagg
+      301 ggagctgagc gtgtgtgaca gtattagtga gtgggtaacg gcggcagaca aaaagactgc
+      361 agtggacatg tcgggcggga cggtcacagt ccttgaaaag gtccctgtat caaaaggcca
+      421 actgaagcaa tacttctacg agaccaagtg caatcccatg ggttacacaa aagaaggctg
+      481 caggggcata gacaaaaggc attggaactc ccagtgccga a
+//
+

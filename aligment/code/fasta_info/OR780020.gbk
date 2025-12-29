@@ -1,0 +1,52 @@
+LOCUS       OR780020                 355 bp    DNA     linear   PRI 06-DEC-2023
+DEFINITION  Homo sapiens isolate n18 BRCA1 (BRCA1) gene, exon 5 and partial
+            cds.
+ACCESSION   OR780020
+VERSION     OR780020.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 355)
+  AUTHORS   Abduljalil,H.M., Alhudiri,I.M., Mohamed,A.A., Elshwekh,H.,
+            Elkikli,A. and Enattah,N.S.
+  TITLE     Investigation of BRCA1 exon 5,8,13 and 20 genetic variation in
+            breast cancer among Libyan women
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 355)
+  AUTHORS   Abduljalil,H.M., Alhudiri,I.M., Mohamed,A.A., Elshwekh,H.,
+            Elkikli,A. and Enattah,N.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2023) Genetic Engineering, Libyan Biotechnology
+            Research Centre, Alfornaj, Tripoli 00218, Libya
+FEATURES             Location/Qualifiers
+     source          1..355
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /isolate="n18"
+                     /db_xref="taxon:9606"
+     gene            <1..>355
+                     /gene="BRCA1"
+     mRNA            <99..>187
+                     /gene="BRCA1"
+                     /product="BRCA1"
+     CDS             <99..>187
+                     /gene="BRCA1"
+                     /codon_start=2
+                     /product="BRCA1"
+                     /protein_id="WPN08082.1"
+                     /translation="SLQESTRFSQLVEELLKIICAFQLDTGLE"
+     exon            99..187
+                     /gene="BRCA1"
+                     /number=5
+ORIGIN      
+        1 tcttattttt atttgtttac atgtcttttc ttattttagt gtccttaaaa ggttgataat
+       61 cacttgctga gtgtgtttct caaacaattt aatttcagga gcctacaaga aagtacgaga
+      121 tttagtcaac ttgttgaaga gctattgaaa atcatttgtg cttttcagct tgacacaggt
+      181 ttggagtgta agtgttgaat atcccaagaa tgacactcaa gtgctgtcca tgaaaactca
+      241 ggaagtttgc acaattactt tctatgacgt ggtgataaga ccttttagtc taggttaatt
+      301 ttagttctgt atctgtaatc tatttttaaa aaattactcc cactggtctc acacc
+//
+

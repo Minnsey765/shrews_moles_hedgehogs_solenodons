@@ -1,0 +1,63 @@
+LOCUS       HQ190919                 681 bp    DNA     linear   PRI 25-JUL-2016
+DEFINITION  Homo sapiens apolipoprotein B (APOB) gene, exon 26 and partial cds.
+ACCESSION   HQ190919
+VERSION     HQ190919.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 681)
+  AUTHORS   AL-Khateeb,A., Sapawi,M.M., Suhairi,I., Zurkurnai,Y. and Bin
+            Alwi,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-AUG-2010) Human Genome Centre, Universiti Sains
+            Malaysia, Kubang Kerian, Kota Bharu, Kelantan 16150, Malaysia
+FEATURES             Location/Qualifiers
+     source          1..681
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="2"
+                     /map="2p24-p23"
+                     /PCR_primers="fwd_seq: aacctactgtctcttcctcca, rev_seq:
+                     gtaggatgatatttttgaggaac"
+     gene            <1..>681
+                     /gene="APOB"
+     mRNA            <1..>681
+                     /gene="APOB"
+                     /product="apolipoprotein B"
+     CDS             <1..>681
+                     /gene="APOB"
+                     /codon_start=3
+                     /product="apolipoprotein B"
+                     /protein_id="ADM85891.1"
+                     /translation="PTVSSSMEFKYDFNSSMLYSTAKGAVDHKLSLESLTSYFSIESS
+                     TKGDVKGSVLSREYSGTIASEANTYLNSKSARSSVKLQGTSKIDDIWNLEVKENFAGE
+                     ATLQRIYSLWEHSTKNHLQLEGLFFTNGEHTSKATLELSPWQMSALVQVHASQPSSFH
+                     DFPDLGQEVALNANTKNQKIRWKNEVRIHSGSFQSQVELSNDQEKAHLDIAGSLEGHL
+                     RFLKNIIL"
+     exon            <1..>681
+                     /gene="APOB"
+                     /number=26
+     variation       225
+                     /gene="APOB"
+                     /note="mutation p.Thr3526Ala; associated with familial
+                     defective APOB"
+                     /replace="a"
+ORIGIN      
+        1 aacctactgt ctcttcctcc atggaattta agtatgattt caattcttca atgctgtact
+       61 ctaccgctaa aggagcagtt gaccacaagc ttagcttgga aagcctcacc tcttactttt
+      121 ccattgagtc atctaccaaa ggagatgtca agggttcggt tctttctcgg gaatattcag
+      181 gaactattgc tagtgaggcc aacacttact tgaattccaa gagcgcacgg tcttcagtga
+      241 agctgcaggg cacttccaaa attgatgata tctggaacct tgaagtaaaa gaaaattttg
+      301 ctggagaagc cacactccaa cgcatatatt ccctctggga gcacagtacg aaaaaccact
+      361 tacagctaga gggcctcttt ttcaccaacg gagaacatac aagcaaagcc accctggaac
+      421 tctctccatg gcaaatgtca gctcttgttc aggtccatgc aagtcagccc agttccttcc
+      481 atgatttccc tgaccttggc caggaagtgg ccctgaatgc taacactaag aaccagaaga
+      541 tcagatggaa aaatgaagtc cggattcatt ctgggtcttt ccagagccag gtcgagcttt
+      601 ccaatgacca agaaaaggca caccttgaca ttgcaggatc cttagaagga cacctaaggt
+      661 tcctcaaaaa tatcatccta c
+//
+

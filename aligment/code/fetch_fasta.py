@@ -3,7 +3,7 @@ from Bio import Entrez
 import sys
 
 # IMPORTANT: You need to set your email for NCBI Entrez API
-Entrez.email = "your_email@example.com"
+Entrez.email = "om380@cam.ac.uk"
 
 #find fasta based on accession and directory to save it to
 def fetch_fasta(accession: str, target_dir: str) -> str:

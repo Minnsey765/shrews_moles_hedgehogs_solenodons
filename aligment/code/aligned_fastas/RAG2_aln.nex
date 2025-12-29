@@ -1,8 +1,8 @@
 #NEXUS
-[TITLE: Written by EMBOSS 04/10/25]
+[TITLE: Written by EMBOSS 08/11/25]
 
 begin data;
-dimensions ntax=37 nchar=1583;
+dimensions ntax=39 nchar=1583;
 format interleave datatype=DNA missing=N gap=-;
 
 matrix
@@ -28,6 +28,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| TGTCTCTGCAGATGGTAACAGTCAGTAATAACATAGCCTTAATTCAGCCA
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -66,6 +68,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| GGCTTCTCACTGATGAATTTTGATGGACAAGTTTTCTTCTTTGGACAAAA
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -104,6 +108,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| AGGCTGGCCCAAAAGATCCTGCCCCACTGGAGTTTTCCATCTGGATGTAA
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -142,6 +148,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| AGCATAACCATGTCAAACTGAAGCCTACAATTTTCTCTAAGGATTCCTGC
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -180,6 +188,8 @@ Sorex_coronatus|RAG2 ---------------CGCTACCCAGCCATTTGTCTATTCAAAGGTAACCT
 Sorex_caecutiens|RAG ---------------CGCTACCCAGCCATTTGTCTATTCAAAGGCAACCT
 Sorex_minutus|RAG2|o ---------------CGCTACCCAGCCATTTGTCTATTCAAAGGCAACCT
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA ---------------------------------------------AGCGT
+synthetic_construct| TACCTCCCTCCTCTTCGCTACCCAGCCACTTGCACATTCAAAGGCAGCTT
 Uropsilus_soricipes| -------CTCCTCTGCGCTACCCAGCCATTTGCACACTCAAAGGCAACCT
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -218,6 +228,8 @@ Sorex_coronatus|RAG2 GGAGTCTGAAAAACATGAATACATCATTCATGGAGGGAAAACACCAAACA
 Sorex_caecutiens|RAG GGAGTCTGAAAAACATGAATACATCATTCATGGAGGGAAAACACCAAACA
 Sorex_minutus|RAG2|o GGAGTCTGAAAAACATGAATACATCATTCATGGAGGKAAAACACCAAACA
 Solenodon_paradoxus| ---------------------------TCATGGAGGGAAAACACCAAACA
+Pteropus_vampyrus|RA AGAGCCTGAAAAGTATCAATACATTATCCATGGAGGGAAAACACCAAACA
+synthetic_construct| GGAGTCTGAAAAGCATCAATACATCATCCATGGAGGGAAAACACCAAACA
 Uropsilus_soricipes| AGAGGCTGGAAAGCATCAATACATCATCCATGGGGGAAAAACACCAAACA
 Desmana_moschata|RAG --AGTCTGGAAAGCATGAATACATCATCCATGGAGGGAAAACACCTAACA
 Galemys_pyrenaicus|R -----------AGCATGAATACATCATCCATGGAGGGAAAACACCTAACA
@@ -256,6 +268,8 @@ Sorex_coronatus|RAG2 ATGAGCTTTCAGATAAAATATATACCATATCTGTTGTTTGCAAGAACAAC
 Sorex_caecutiens|RAG ATGAGCTTTCAGATAAAATATATACCATATCTGTTGTTTGCAAGAACAAC
 Sorex_minutus|RAG2|o ATGAGCTTTCAGATAAAATATATACCATATCTGTTGTTTGCAAGAACAAC
 Solenodon_paradoxus| ATGAACTTTCAGATAAGATTTATGTCATGTCTCTTGCTTGCAAAAACAAC
+Pteropus_vampyrus|RA ATGAGCTTTCAAATAAAATTTATGTCATGTCTATTGTGTGTAAGACCAAC
+synthetic_construct| ATGAGGTTTCAGATAAGATTTATGTCATGTCTATTGTTTGCAAGAACAAC
 Uropsilus_soricipes| ATGAACTTTCAGATAAAATCTATATCATGTCTGTTGTTTGCAAGAGCAAT
 Desmana_moschata|RAG ATGAGCTTTCAGATAAGATCTATGTCATGTCTGTTGTTTGCAAGAGCAAC
 Galemys_pyrenaicus|R ATGAGCTTTCAGATAAGATCTATGTCATGTCTGTTGTTTGCAAGAGCAAC
@@ -294,6 +308,8 @@ Sorex_coronatus|RAG2 AAAAAAGTTACTTTTCGCTGCACAGAGAAAGACTTAGTGGGAGATATTCC
 Sorex_caecutiens|RAG AAAAAAGTTACTTTTCGCTGCACAGAGAAAGACTTAGTGGGAGATATTCC
 Sorex_minutus|RAG2|o AAAAAAGTTACTTTTCGCTGCACAGAGAAAGACTTAGTGGGAGATATTCC
 Solenodon_paradoxus| AAAAAATTCACATTTCGCTGCACAGAGAAAGACTTAGTAGGAGATGTTCC
+Pteropus_vampyrus|RA AAAAAAGTTACCTTTCGCTGCACTGAGAAAGACCTGGTAGGAGATGTCCC
+synthetic_construct| AAAAAGGTTACTTTTCGCTGCACAGAGAAAGACTTGGTAGGAGATGTTCC
 Uropsilus_soricipes| AAAAAAGTTACTTTTTGCTGCACAGAGAAAGACTTGGTAGGAGATATTCC
 Desmana_moschata|RAG AAAAAAGTTACTTTTCGCTGCATAGAGAAAGACTTGGTAGGTGATGTTCC
 Galemys_pyrenaicus|R AAAAAAGTAACTTTTCGCTGCATAGAAAAAGACTTGGTAGGTGATGTTCC
@@ -332,6 +348,8 @@ Sorex_coronatus|RAG2 TGAAGCCAGATATGGTCATTCCATTGATATGGTATATAGTCGAGGAAAAA
 Sorex_caecutiens|RAG TGAAGCCAGATACGGTCATTCCATTGATATGGTATATAGTCGAGGAAAAA
 Sorex_minutus|RAG2|o TGAAGCCAGATATGGTCATTCCATTGATATGGTATATAGTCGAGGAAAAA
 Solenodon_paradoxus| TAAAGCCAGATATGGCCATTCCATGGATGTAGTGTATAGCAGAGGGAAAA
+Pteropus_vampyrus|RA TGAAGCCAGATATGGTCATTCCATCGACGTGGTGTATAGCCGGGGAAAGA
+synthetic_construct| TGAAGCCAGATATGGTCATTCCATTAATGTGGTGTACAGCCGAGGGAAAA
 Uropsilus_soricipes| TGAAGCCAGATATGGTCATTCCATTGATGTGGTGTATAGTCGAGGGAAAA
 Desmana_moschata|RAG TGAAGCCAGGTATGGTCATACCATTGACGTGGTGTATAGTCGAGGAAAAA
 Galemys_pyrenaicus|R TGAAGCCAGGTATGGTCATTCCATTGACGTGGTGTATAGTCGAGGAAAAA
@@ -370,6 +388,8 @@ Sorex_coronatus|RAG2 CTATGGGTGTTCTCTTTGGAGGACGCTCGTACATGCCTTCTGCCCAAAGA
 Sorex_caecutiens|RAG CTATGGGTGTTCTCTTTGGAGGACGCTCGTACATGCCTTCTGCCCAAAGA
 Sorex_minutus|RAG2|o CTATGGGTGTTCTCTTTGGAGGACGTTCGTACATGCCTTCTGCCCAAAGA
 Solenodon_paradoxus| GCATAGGTGTTCTCTTTGGAGGACGGTCATTCATGCCTTCTGCCCAAAGA
+Pteropus_vampyrus|RA GTGTGGGTGTTCTCTTTGGAGGACGAGCATACATACCATCTGCTCAAAGA
+synthetic_construct| GTATGGGTGCTCTCTTTGGAGGACGCTCATACATGCCTTCTACCCACAGA
 Uropsilus_soricipes| GTATTGGTGTTCTCTTTGGAGGGCGATCATACATGCCTTCTGCCCAAAGA
 Desmana_moschata|RAG GCATTGGTGTTCTCTTTGGAGGAAGGTCATACATACCTTCTTCCCAGAGA
 Galemys_pyrenaicus|R GCATTGGTGTTCTCTTTGGAGGAAGGTCATACATACCTTCTTCCCAGAGA
@@ -408,6 +428,8 @@ Sorex_coronatus|RAG2 ATCACAGAAAAATGGAATACTGTAGCAGACTGCCCACCCCATGTTTTCTT
 Sorex_caecutiens|RAG ATCACAGAAAAATGGAATACTGTAGCCGACTGCCCACCCCATGTTTTCTT
 Sorex_minutus|RAG2|o ATCACAGAAAAATGGAATACTGTAGCAGACTGTCCACCCCATGTTTTCTT
 Solenodon_paradoxus| ACCACAGAAAAATGGAATAGCGTCGCTGACTGCCTCCCCCACGTTTTCTT
+Pteropus_vampyrus|RA ACCACAGAAAAATGGAACCGCGTAGCTGACTGCCTGCCCCATGTTTTCCT
+synthetic_construct| ACCACAGAAAAATGGAATAGTGTAGCTGACTGCCTGCCCTGTGTTTTCCT
 Uropsilus_soricipes| ACCACAGAAAAATGGAATAGTGTAGCTGATTGCCTGCCCCATGTTTTCTT
 Desmana_moschata|RAG ACCACGGAAAAATGGAATAGTGTAGCTGACTGCCTGCCCCATGTTTTTTT
 Galemys_pyrenaicus|R ACCACAGAAAAATGGAATAGTGTAGCTGACTGCCTGCCCCATGTTTTTTT
@@ -446,6 +468,8 @@ Sorex_coronatus|RAG2 GGTGGATTTTGAATTTGGATGTTCTACATCATACATTCTTCCAGAACTTC
 Sorex_caecutiens|RAG GGTGGATTTTGAATTTGGATGCTCTACATCATACATTCTTCCAGAACTTC
 Sorex_minutus|RAG2|o GGTGGATTTTGAATTTGGATGCTCTACATCATACATTCTTCCAGAACTTC
 Solenodon_paradoxus| GCTGGATTTTGAATTCGGCTGTTCTACATCATACATTCTTCCAGAACTTC
+Pteropus_vampyrus|RA GCTGGATTTTGAATTTGGGTGCTCTACAGCGTACATTCTTCCAGAACTTC
+synthetic_construct| GGTGGATTTTGAATTTGGGTGTGCTACATCATACATTCTTCCAGAACTTC
 Uropsilus_soricipes| GGTGGATTTTGATTTTGGGTGCTCTACATCCTACATTCTTCCAGAACTTC
 Desmana_moschata|RAG GGTGGATTTTGAATTTGGGTGCTCTACATCTTACATTCTTCCTGAACTTC
 Galemys_pyrenaicus|R GGTGGATTTTGAATTTGGGTGCTCTACATCTTACATTCTTCCTGAACTTC
@@ -484,6 +508,8 @@ Sorex_coronatus|RAG2 AAGATGGGCTGTCTTTTCATGTCTCAATTGCCAGAAAAGATACTGTCTAT
 Sorex_caecutiens|RAG AAGATGGGCTGTCTTTTCATGTGTCAATTGCCAGAAAAGATACCGTTTAT
 Sorex_minutus|RAG2|o AAGATGGGCTGTCTTTTCATGTCTCAATTGCCAGAAAAGATACCGTCTAT
 Solenodon_paradoxus| AGGATGGGCTGTCTTTCCATGTCTCCATAGCCAGAAATGATACCGTTTAT
+Pteropus_vampyrus|RA AGGATGGGCTGTCTTTTCATGTCTCCATTGCCAGAAATGATACCATTTAT
+synthetic_construct| AGGATGGGCTATCTTTTCATGTCTCTATTGCCAAAAATGACACCATCTAT
 Uropsilus_soricipes| AAGATGGACTCTCTTTTCATGTCTCCATTGCAAGAAATGATACCATTTAT
 Desmana_moschata|RAG AGGATGGACTCTCTTTTCATGTCTCCATTGCCAGAAATGACACCATTTAT
 Galemys_pyrenaicus|R AGGATGGACTCTCTTTTCATGTCTCCATTGCCAGAAATGACACCATTTAT
@@ -522,6 +548,8 @@ Sorex_coronatus|RAG2 ATTTTAGGAGGACATTCACTTTCCAATAACATTCGCCCAGCCAACCTGTA
 Sorex_caecutiens|RAG ATTTTAGGAGGACATTCACTTTCCAATAACATTCGCCCAGCCAACCTGTA
 Sorex_minutus|RAG2|o ATTTTAGGAGGACATTCACTTTCCAATAACATTCGCCCAGCCAACCTGTA
 Solenodon_paradoxus| ATTTTAGGAGGACATTCACTTGTCAATAACATCCGACCTGCAAACCTATA
+Pteropus_vampyrus|RA ATTTTAGGAGGGCATTCACTTGCCAATAATGTCCGCCCTGCCAACCTATA
+synthetic_construct| ATTTTAGGAGGACATTCACTTGCCAATAATATCCGGCCTGCCAACCTGTA
 Uropsilus_soricipes| ATTTTAGGAGGACATTCTCTTGCCAATAACATCCGCCCTGCCAACCTGTA
 Desmana_moschata|RAG ATTCTAGGAGGACATTCTCTTGCCAATAACATCCGCCCTGCTAACCTATA
 Galemys_pyrenaicus|R ATTCTAGGAGGACATTCTCTTGCCAATAACATCCGCCCTGCTAACCTATA
@@ -560,6 +588,8 @@ Sorex_coronatus|RAG2 CAGAATAAAGGTTGATCTGCCCCTGGGTAGCCCAGCTGTGAATTGCACAG
 Sorex_caecutiens|RAG CAGAATAAAGGTTGATCTGCCTCTGGGTAGCCCAGCTGTGAATTGCACAG
 Sorex_minutus|RAG2|o CAGAATAAAGGTTGATCTGCCTCTGGGTAGCCCAGCTGTGAATTGCACAG
 Solenodon_paradoxus| TAGAATAAGTATCGATCTCCCCCTGGGTAGCCCATCTGTGAACTGCACAG
+Pteropus_vampyrus|RA TAGAATAAGGGTCGATCTCCCCTTGGGTAGCCCAGCTGTGAACTGCACAG
+synthetic_construct| CAGAATAAGGGTTGATCTTCCCCTGGGTAGCCCAGCTGTGAATTGCACAG
 Uropsilus_soricipes| TAGAATAAAGGTTGATCTCCCCCTGGGTAGCCCAGCTGTGAGTTGCACAG
 Desmana_moschata|RAG TAAAATAAAGATTGATCTCCCCTTGGGTAGCCCTGCTGTGAATTGCACAG
 Galemys_pyrenaicus|R TAAAATAAAGATTGATCTCCCCTTGGGTAGCCCTGCTGTGAATTGCACAG
@@ -598,6 +628,8 @@ Sorex_coronatus|RAG2 TCTTGCCAGGAGGAATCTCAGTTTCCAGTGCAATCCTGACTCAAACAAGC
 Sorex_caecutiens|RAG TCTTGCCAGGAGGAATCTCAGTTTCCAGTGCAATACTGACTCAAACAAGC
 Sorex_minutus|RAG2|o TCTTGCCAGGAGGAATCTCAGTTTCCAGTGCAATACTGACTCAAACAAGC
 Solenodon_paradoxus| TTTTGCCAGGAGGAATCTCTGTCTCCAGTGCAA-----------------
+Pteropus_vampyrus|RA TTTTACCAGGAGGAATCTCTGTCTCCAGTGCAATCCTGACTCAAACAAAT
+synthetic_construct| TCTTGCCAGGAGGAATCTCTGTCTCCAGTGCAATCCTGACTCAAACTAAC
 Uropsilus_soricipes| TCTTACCAGGAGGGATCTCTGTCTCCAGTGCAATCCTGACTCAAATAAAC
 Desmana_moschata|RAG TCTTACCAGGCGGAATCTCTGTCTCCAGTGCAATCCTTACTCAAACAAAC
 Galemys_pyrenaicus|R TCTTACCAGGAGGAATCTCTGTCTCCAGTGCAATCCTTACTCAAACAAAC
@@ -636,6 +668,8 @@ Sorex_coronatus|RAG2 AATGATGAATTTATTATTGTTGGTGGTTATCAACTTGAAAATCAAAAAAA
 Sorex_caecutiens|RAG AATGATGAATTTATTATTGTTGGTGGTTATCAACTTGAAAATCAAAAAAG
 Sorex_minutus|RAG2|o AATGATGAATTTATTATTGTTGGTGGTTATCAACTTGAAAATCAAAAAAG
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA AAGGATGAATTTGTTATTGTGGGTGGCTATCAGCTTGAAAATCAGAAAAG
+synthetic_construct| AATGATGAATTTGTTATTGTTGGTGGCTATCAGCTTGAAAATCAAAAAAG
 Uropsilus_soricipes| AGTGATGAATTTGTTATTGTGGGTGGTTACCAGCTTGAAAATCAAAAAAG
 Desmana_moschata|RAG AATGATGAATTTGTTATTGTTGGTGGTTATCAGCTTGAAAATCAAAAAAG
 Galemys_pyrenaicus|R AATGATGAATTTGTTATTGTTGGTGGTTATCAACTTGAAAATCAAAAAAG
@@ -674,6 +708,8 @@ Sorex_coronatus|RAG2 AATGGTTTGCAACATCGTGTCTTTAGAGGATAACAAGATAGAAATTAATG
 Sorex_caecutiens|RAG AATGGTTTGCAACATCGTGTCTTTAGAGGATAACAAGATAGAAATTAATG
 Sorex_minutus|RAG2|o AATGGTTTGCAACATCGTGTCTTTAGAGGATAACAAGATAGAAATTAATG
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA AATGGTCTGCAATATCGTCTCTTTCGAGGACAATAAGATAGCAATTCGTG
+synthetic_construct| AATGATCTGCAACATCATCTCTTTAGAGGACAACAAGATAGAAATTCGTG
 Uropsilus_soricipes| AATGGTTTGCAACATTATCTCTTTAGACGACAACAAGATAGATATTCGAG
 Desmana_moschata|RAG AATGGCCTGCAACATTGTTTCTTTAGAAGACAACAAGATAGATATTCGGG
 Galemys_pyrenaicus|R AATGGTCTGCAACATTGTTACTTTAGACAACAACAAGATAGATATTCGGG
@@ -712,6 +748,8 @@ Sorex_coronatus|RAG2 AGATGGAGACTCCAGACTGGACCCCGGATATTAAGCACAGCAAAA-----
 Sorex_caecutiens|RAG AGATGGAGACTCCAGACTGGACYCCGGATATTAAGCACAGCAAAA-----
 Sorex_minutus|RAG2|o AGATGGAGACTCCAGACTGGACCCCAGATATTAAGCACAGCAAAA-----
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA AGATGGAGACCCCGG-----------------------------------
+synthetic_construct| AGATGGAGACCCCAGATTGGACCCCAGACATTAAGCACAGCAAGATATGG
 Uropsilus_soricipes| AGATGGAGACTCCAGATTGGACCCCAGATATTAAGCACAGCAAGCTATGG
 Desmana_moschata|RAG AGATGGAAACTCCCGATTGGACCCCAGATATTAAGCACAGCAAG------
 Galemys_pyrenaicus|R AGATGGAGACTCCCGATTGGACCC--------------------------
@@ -750,6 +788,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| TTTGGAAGCAACACGGGAAATGGAACTGTTTTTCTTGGCATACCAGGAGA
 Uropsilus_soricipes| TTTGGAA-------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -788,6 +828,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| CAATAAACAAGTTGTTTCAGAAGGATTCTATTTCTATATGTTGAAATGTG
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -826,6 +868,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| CTGAAGATGATACTAATGAAGAGCAGACAACATTCACAAACAGTCAAACA
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -864,6 +908,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| TCAACAGAAGATCCAGGGGATTCCACTCCCTTTGAAGACTCTGAAGAATT
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -902,6 +948,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| TTGTTTCAGTGCAGAAGCAAATAGTTTTGATGGTGATGATGAATTTGACA
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -940,6 +988,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| CCTATAATGAAGATGATGAAGAAGATGAGTCTGAGACAGGCTACTGGATT
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -978,6 +1028,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| ACATGCTGCCCTACTTGTGATGTGGATATCAACACTTGGGTACCATTCTA
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -1016,6 +1068,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| TTCAACTGAGCTCAACAAACCCGCCATGATCTACTGCTCTCATGGGGATG
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -1054,6 +1108,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| GGCACTGGGTCCATGCTCAGTGCATGGATCTGGCAGAACGCACACTCATC
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -1092,6 +1148,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| CATCTGTCAGCAGGAAGCAGCAAGTATTACTGCAATGAGCATGTGGAGAT
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -1130,6 +1188,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| AGCAAGAGCTCTACACACTCCCCAAAGAGTCCTACCCTTAAAAAAGCCTC
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -1168,6 +1228,8 @@ Sorex_coronatus|RAG2 --------------------------------------------------
 Sorex_caecutiens|RAG --------------------------------------------------
 Sorex_minutus|RAG2|o --------------------------------------------------
 Solenodon_paradoxus| --------------------------------------------------
+Pteropus_vampyrus|RA --------------------------------------------------
+synthetic_construct| CAATGAAATCCCTCCGTAAAAAAGGTTCTGGAAAAATCTTGACTCCTGCC
 Uropsilus_soricipes| --------------------------------------------------
 Desmana_moschata|RAG --------------------------------------------------
 Galemys_pyrenaicus|R --------------------------------------------------
@@ -1206,6 +1268,8 @@ Sorex_coronatus|RAG2 ---------------------------------
 Sorex_caecutiens|RAG ---------------------------------
 Sorex_minutus|RAG2|o ---------------------------------
 Solenodon_paradoxus| ---------------------------------
+Pteropus_vampyrus|RA ---------------------------------
+synthetic_construct| AAGAAATCCTTTCTTAGAAGGTTGTTTGAT---
 Uropsilus_soricipes| ---------------------------------
 Desmana_moschata|RAG ---------------------------------
 Galemys_pyrenaicus|R ---------------------------------

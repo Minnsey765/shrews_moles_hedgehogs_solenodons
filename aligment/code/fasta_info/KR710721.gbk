@@ -1,0 +1,95 @@
+LOCUS       KR710721                 873 bp    DNA     linear   SYN 01-JUN-2015
+DEFINITION  Synthetic construct Homo sapiens clone CCSBHm_00016104 BDNF (BDNF)
+            mRNA, encodes complete protein.
+ACCESSION   KR710721
+VERSION     KR710721.1
+KEYWORDS    human mutation ORFeome; hmORFeome1.1; Gateway cloning system;
+            full-length ORF.
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 873)
+  AUTHORS   Sahni,N., Yi,S., Taipale,M., Fuxman Bass,J.I.,
+            Coulombe-Huntington,J., Yang,F., Peng,J., Weile,J., Karras,G.I.,
+            Wang,Y., Kovacs,I.A., Kamburov,A., Krykbaeva,I., Lam,M.H.,
+            Tucker,G., Khurana,V., Sharma,A., Liu,Y.Y., Yachie,N., Zhong,Q.,
+            Shen,Y., Palagi,A., San-Miguel,A., Fan,C., Balcha,D., Dricot,A.,
+            Jordan,D.M., Walsh,J.M., Shah,A.A., Yang,X., Stoyanova,A.K.,
+            Leighton,A., Calderwood,M.A., Jacob,Y., Cusick,M.E.,
+            Salehi-Ashtiani,K., Whitesell,L.J., Sunyaev,S., Berger,B.,
+            Barabasi,A.L., Charloteaux,B., Hill,D.E., Hao,T., Roth,F.P.,
+            Xia,Y., Walhout,A.J., Lindquist,S. and Vidal,M.
+  TITLE     Widespread macromolecular interaction perturbations in human
+            genetic disorders
+  JOURNAL   Cell 161 (3), 647-660 (2015)
+   PUBMED   25910212
+REFERENCE   2  (bases 1 to 873)
+  AUTHORS   Sahni,N., Yi,S., Taipale,M., Fuxman Bass,J.I.,
+            Coulombe-Huntington,J., Yang,F., Peng,J., Weile,J., Karras,G.I.,
+            Wang,Y., Kovacs,I.A., Kamburov,A., Krykbaeva,I., Lam,M.H.,
+            Tucker,G., Khurana,V., Sharma,A., Liu,Y.-Y., Yachie,N., Zhong,Q.,
+            Shen,Y., Palagi,A., San-Miguel,A., Fan,C., Balcha,D., Dricot,A.,
+            Jordan,D.M., Walsh,J.M., Shah,A.A., Yang,X., Stoyanova,A.K.,
+            Leighton,A., Calderwood,M.A., Jacob,Y., Cusick,M.E.,
+            Salehi-Ashtiani,K., Whitesell,L.J., Sunyaev,S., Berger,B.,
+            Barabasi,A.-L., Charloteaux,B., Hill,D.E., Hao,T., Roth,F.P.,
+            Xia,Y., Walhout,A.J.M., Lindquist,S. and Vidal,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2015) Center for Cancer Systems Biology (CCSB),
+            Department of Cancer Biology, Dana-Farber Cancer Institute, 450
+            Brookline Avenue, Boston, MA 02215, USA
+COMMENT     For distribution information, please check CCSB website
+            (http://ccsb.dfci.harvard.edu/ and
+            http://horfdb.dfci.harvard.edu/).
+FEATURES             Location/Qualifiers
+     source          1..873
+                     /organism="synthetic construct"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+                     /clone="CCSBHm_00016104"
+                     /focus
+                     /note="vector:pDONR223; derived from parent clone GenBank
+                     accession: KJ896492"
+     source          66..806
+                     /organism="Homo sapiens"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:9606"
+     gene            66..>806
+                     /gene="BDNF"
+                     /db_xref="GeneID:627"
+     CDS             66..>806
+                     /gene="BDNF"
+                     /note="full-length ORF without stop codon"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="BDNF"
+                     /protein_id="AKI71103.1"
+                     /db_xref="GeneID:627"
+                     /translation="MIILFLTMVISYFGCMKAAPMKEANIRGQGGLAYPGVRTHGTLE
+                     SVNGPKAGSRGLTSLADTFEHMIEELLDEDQKVRPNEENNKDADLYTSRVMLSSQVPL
+                     EPPLLFLLEEYKNYLDAANMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMS
+                     GGTVTVLEKVPVSKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWNSQCRTTQSYVRAL
+                     TMDSKKRIGWRFIRIDTSCVCTLTIKRGR"
+     misc_difference 70
+                     /gene="BDNF"
+                     /note="compared to parent clone; results in T to I
+                     substitution"
+                     /replace="c"
+ORIGIN      
+        1 gttcgttgca acaaattgat gagcaatgct tttttataat gccaactttg tacaaaaaag
+       61 ttggcatgat catccttttc cttactatgg ttatttcata ctttggttgc atgaaggctg
+      121 cccccatgaa agaagcaaac atccgaggac aaggtggctt ggcctaccca ggtgtgcgga
+      181 cccatgggac tctggagagc gtgaatgggc ccaaggcagg ttcaagaggc ttgacatcat
+      241 tggctgacac tttcgaacac atgatagaag agctgttgga tgaggaccag aaagttcggc
+      301 ccaatgaaga aaacaataag gacgcagact tgtacacgtc cagggtgatg ctcagtagtc
+      361 aagtgccttt ggagcctcct cttctctttc tgctggagga atacaaaaat tacctagacg
+      421 ctgcaaacat gtccatgagg gtccggcgcc actctgaccc tgcccgccga ggggagctga
+      481 gcgtgtgtga cagtattagt gagtgggtaa cggcggcaga caaaaagact gcagtggaca
+      541 tgtcgggcgg gacggtcaca gtccttgaaa aggtccctgt atcaaaaggc caactgaagc
+      601 aatacttcta cgagaccaag tgcaatccca tgggttacac aaaagaaggc tgcaggggca
+      661 tagacaaaag gcattggaac tcccagtgcc gaactaccca gtcgtacgtg cgggccctta
+      721 ccatggatag caaaaagaga attggctggc gattcataag gatagacact tcttgtgtat
+      781 gtacattgac cattaaaagg ggaagatacc caactttctt gtacaaagtt ggcattataa
+      841 gaaagcattg cttatcaatt tgttgcaacg aac
+//
+

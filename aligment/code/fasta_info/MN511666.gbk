@@ -1,0 +1,69 @@
+LOCUS       MN511666                 703 bp    DNA     linear   MAM 01-APR-2020
+DEFINITION  Pteropus vampyrus voucher MZB-36938 recombination activating
+            protein 1 (RAG1) gene, partial cds.
+ACCESSION   MN511666
+VERSION     MN511666.1
+KEYWORDS    .
+SOURCE      Pteropus vampyrus (large flying fox)
+  ORGANISM  Pteropus vampyrus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Yinpterochiroptera;
+            Pteropodoidea; Pteropodidae; Pteropodinae; Pteropus.
+REFERENCE   1  (bases 1 to 703)
+  AUTHORS   Tsang,S.M., Wiantoro,S., Veluz,M.J., Sugita,N., Nguyen,Y.-L.,
+            Simmons,N.B. and Lohman,D.J.
+  TITLE     Dispersal out of Wallacea spurs diversification of Pteropus flying
+            foxes, the world's largest bats (Mammalia: Chiroptera)
+  JOURNAL   J. Biogeogr. 47 (2), 527-537 (2020)
+REFERENCE   2  (bases 1 to 703)
+  AUTHORS   Tsang,S.M., Wiantoro,S., Veluz,M.J., Sugita,N., Nguyen,Y.-L.,
+            Simmons,N.B. and Lohman,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-SEP-2019) Department of Mammalogy, American Museum of
+            Natural History, Central Park West & 79th Street, New York, NY
+            10024, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MAFFT v. 2018
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..703
+                     /organism="Pteropus vampyrus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MZB-36938"
+                     /db_xref="taxon:132908"
+                     /geo_loc_name="Indonesia: Flores, Riung"
+                     /collection_date="15-Jun-2013"
+                     /collected_by="Susan M. Tsang & Sigit Wiantoro"
+                     /PCR_primers="fwd_seq: gctttgatggacatggaagaagacat,
+                     rev_seq: gagccatccctctcaataatttcagg"
+     gene            <1..>703
+                     /gene="RAG1"
+     mRNA            <1..>703
+                     /gene="RAG1"
+                     /product="recombination activating protein 1"
+     CDS             <1..>703
+                     /gene="RAG1"
+                     /codon_start=2
+                     /product="recombination activating protein 1"
+                     /protein_id="QIQ69291.1"
+                     /translation="LADESDHETLTAILSPLIAEREPMKSSELMLEMGGILRTSKFIF
+                     RGTGYDEKLVREVEGLEASGSVYICTLCDTTRLEASQNLVFHSITRSHSENLERYEVW
+                     RSNPYHESVEELRDRVKGVSAKPFIETVPSIDALHCDIGNAAEFYKIFQLEIGEVYKN
+                     PSASKEERKRWQATLDKHLRKKMNLKPIMRMNGNFARKLMTKETVEAVCELVPSEERH
+                     EALRELMDLYLKMKPV"
+ORIGIN      
+        1 gctggcagat gagtccgacc acgagaccct gacagcaatc ttgagccctc tcattgccga
+       61 gagggagccc atgaagagca gcgaattaat gcttgagatg ggaggcatcc tccggacttc
+      121 caagttcatc tttaggggta cgggatatga tgagaaactt gtccgagagg tggaaggcct
+      181 cgaggcttct ggctcagtct acatttgtac cctttgtgat actacccgcc tggaagcctc
+      241 tcagaatctt gtctttcact ccataaccag aagccattca gagaacttgg agcgctatga
+      301 ggtttggcgc tccaacccgt accatgagtc tgtggaagaa ctgcgggacc gggtcaaagg
+      361 ggtctcagcc aagcccttca ttgagacagt cccttccata gatgcactcc actgtgacat
+      421 tggcaatgca gctgagttct acaagatttt ccagctagag ataggggagg tgtataagaa
+      481 tcccagtgcc tccaaagagg aaaggaaaag atggcaggcg acactggaca agcatctccg
+      541 gaagaagatg aacctgaaac caatcatgag aatgaatggc aactttgcca ggaagctcat
+      601 gaccaaagag actgttgaag cagtctgtga gttagtgccc tccgaggaga ggcacgaagc
+      661 tctgagggag ctgatggacc tttacctgaa gatgaaacct gta
+//
+

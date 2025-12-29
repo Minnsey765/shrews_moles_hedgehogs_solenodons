@@ -1,0 +1,74 @@
+LOCUS       X91251                  1335 bp    mRNA    linear   PRI 15-SEP-1995
+DEFINITION  H.sapiens mRNA for BDNF protein.
+ACCESSION   X91251
+VERSION     X91251.1
+KEYWORDS    BDNF gene; brain-derived neurotrophic factor (BDNF).
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Cheng,Y. and Gu,J.
+  TITLE     A cDNA clone of human brain-derived neurotrophic factor (HUMBDNFD)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1335)
+  AUTHORS   Cheng,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAY-1995) Y. Cheng, National Laboratory for Oncogene
+            and Related Genes, Shanghai Cancer Institute, 25/Ln 2200 Xie Tu
+            Road, Shanghai 200032, PROC
+FEATURES             Location/Qualifiers
+     source          1..1335
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone_lib="placenta cDNA in lambda gt11"
+     gene            1..1335
+                     /gene="HUMBDNF"
+     CDS             285..1028
+                     /gene="HUMBDNF"
+                     /codon_start=1
+                     /product="BDNF"
+                     /protein_id="CAA62632.1"
+                     /db_xref="GDB:125916"
+                     /db_xref="GOA:P23560"
+                     /db_xref="HGNC:HGNC:1033"
+                     /db_xref="InterPro:IPR002072"
+                     /db_xref="InterPro:IPR019846"
+                     /db_xref="InterPro:IPR020408"
+                     /db_xref="InterPro:IPR020430"
+                     /db_xref="PDB:1B8M"
+                     /db_xref="PDB:1BND"
+                     /db_xref="UniProtKB/Swiss-Prot:P23560"
+                     /translation="MTILFLTMVISYFGCMKAAPMKEANIRGQGGLAYPGVRTHGTLE
+                     SVNGPKAGSRGLTSLADTFEHVIEELLDEDHKVRPNEENNKDADLYTSRVMLSSQVPL
+                     EPPLLFLLEEYKNYLDAANMSMMVLRHSDPARRGELSVCDSISEWVTAADKKTAVDMS
+                     GGTVTVLEKVPVSKGQLKQYFYETKCNPMGYTKEGCRGIDKRHWNSQCRTTQSYVRAL
+                     TMDSKKRIGWRFIRIDTSCVCTLTIKRGR"
+ORIGIN      
+        1 ggggctgccg ccgccgcgcc cgggcgaccc gcccgctcgc tgtcccgcgc accccgtagc
+       61 gcctcgggct cccgggccgg acagaggagc ccggtgcgcc cctccacctc ctgctcgggg
+      121 ggctttaatg agacacccac cgctgctgtg gggccggcgg ggagcagcac cgcgacgggg
+      181 accggggctg ggcgctggag ccagaatcgg aaccacgatt tgactccgcc gccggggacc
+      241 cgtgagtttg tgtggacccc gagttccacc aggtgagaag agtgatgacc atccttttcc
+      301 ttactatggt tatttcatac tttggttgca tgaaggctgc ccccatgaaa gaagcaaaca
+      361 tccgaggaca aggtggcttg gcctacccag gtgtgcggac ccatgggact ctggagagcg
+      421 tgaatgggcc caaggcaggt tcaagaggct tgacatcatt ggctgacact ttcgaacacg
+      481 tgatagaaga gctgttggat gaggaccata aagttcggcc caatgaagaa aacaataagg
+      541 acgcagactt gtacacgtcc agggtgatgc tcagtagtca agtgcctttg gagcctcctc
+      601 ttctctttct gctggaggaa tacaaaaatt acctagatgc tgcaaacatg tccatgatgg
+      661 tcctgcgcca ctctgaccct gcccgccgag gggagctgag cgtgtgtgac agtattagtg
+      721 agtgggtaac ggcggcagac aaaaagactg cagtggacat gtcgggcggg acggtcacag
+      781 tccttgaaaa ggtccctgta tcaaaaggcc aactgaagca atacttctac gagaccaagt
+      841 gcaatcccat gggttacaca aaagaaggct gcaggggcat agacaaaagg cattggaact
+      901 cccagtgccg aactacccag tcgtacgtgc gggcccttac catggatagc aaaaagagaa
+      961 ttggctggcg attcataagg atagacactt cttgtgtatg tacattgacc attaaaaggg
+     1021 gaagatagtg gatttatgtt gtatagatta gattatattg agacaaaaat tatctatttg
+     1081 tatatataca taacagggta aattattcag ttaagaaaaa aataatttta ttaactgcat
+     1141 gtataaatga agtttataca gtacagtggt tctacaatct atttattgga catgtccatg
+     1201 accagaaggg aaacagtcat ttgcgcacaa cttaaaaagt ctgcattaca ttccttgata
+     1261 atgttgtggt ttgttgccgt tgccaagaac tgaaaacata aaaatttaaa aaaaataatc
+     1321 ccttgcatgc tgccc
+//
+

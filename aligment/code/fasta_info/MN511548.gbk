@@ -1,0 +1,64 @@
+LOCUS       MN511548                 537 bp    DNA     linear   MAM 01-APR-2020
+DEFINITION  Pteropus vampyrus voucher MZB-36938 BDNF (BDNF) gene, partial cds.
+ACCESSION   MN511548
+VERSION     MN511548.1
+KEYWORDS    .
+SOURCE      Pteropus vampyrus (large flying fox)
+  ORGANISM  Pteropus vampyrus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Yinpterochiroptera;
+            Pteropodoidea; Pteropodidae; Pteropodinae; Pteropus.
+REFERENCE   1  (bases 1 to 537)
+  AUTHORS   Tsang,S.M., Wiantoro,S., Veluz,M.J., Sugita,N., Nguyen,Y.-L.,
+            Simmons,N.B. and Lohman,D.J.
+  TITLE     Dispersal out of Wallacea spurs diversification of Pteropus flying
+            foxes, the world's largest bats (Mammalia: Chiroptera)
+  JOURNAL   J. Biogeogr. 47 (2), 527-537 (2020)
+REFERENCE   2  (bases 1 to 537)
+  AUTHORS   Tsang,S.M., Wiantoro,S., Veluz,M.J., Sugita,N., Nguyen,Y.-L.,
+            Simmons,N.B. and Lohman,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-SEP-2019) Department of Mammalogy, American Museum of
+            Natural History, Central Park West & 79th Street, New York, NY
+            10024, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MAFFT v. 2018
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..537
+                     /organism="Pteropus vampyrus"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MZB-36938"
+                     /db_xref="taxon:132908"
+                     /geo_loc_name="Indonesia: Flores, Riung"
+                     /collection_date="15-Jun-2013"
+                     /collected_by="Susan M. Tsang & Sigit Wiantoro"
+                     /PCR_primers="fwd_seq: catccttttccttactatggtt, rev_seq:
+                     ttccagtgccttttgtctatg"
+     gene            <1..>537
+                     /gene="BDNF"
+     mRNA            <1..>537
+                     /gene="BDNF"
+                     /product="BDNF"
+     CDS             <1..>537
+                     /gene="BDNF"
+                     /codon_start=1
+                     /product="BDNF"
+                     /protein_id="QIQ69173.1"
+                     /translation="APMKEANVRGQGSLAYPGVRTHGTLESVNGPKAGSRGLTALADT
+                     FEHVIEELLDEDQKVRPHEENNKDADLYTSRVMLSSQVPLEPPLLFLLEEYKNYLDAA
+                     NMSMRVRRHSDPARRGELSVCDSISEWVTAADKKTAVDMSGGTVTVLEKVPVSKGQLK
+                     QYFYETKCNPMGYTKEGCR"
+ORIGIN      
+        1 gcccccatga aagaagcaaa cgtccgagga caaggcagct tggcctaccc aggtgtgcgg
+       61 acccatggga ctctggagag cgtgaatggg cccaaggcag gttcgagagg cctgacagca
+      121 ttggctgaca cttttgaaca cgtgatagaa gagctgctgg acgaggacca gaaagttcgg
+      181 ccccatgagg aaaacaataa ggacgcggac ttgtacactt ccagggtgat gctcagtagt
+      241 caagtgcctt tggagccgcc tcttctcttc ctgcttgagg aatacaaaaa ttacctagat
+      301 gctgcaaaca tgtctatgag ggtccggcgc cactctgacc ccgcccgccg cggggagctg
+      361 agcgtgtgcg acagcattag tgagtgggtc acagcggcag ataaaaagac tgcagtggac
+      421 atgtcaggcg ggacggtcac ggtccttgaa aaagtccctg tgtcgaaagg ccaactgaag
+      481 cagtacttct acgagaccaa gtgcaatccc atgggttaca cgaaggaggg ctgcagg
+//
+

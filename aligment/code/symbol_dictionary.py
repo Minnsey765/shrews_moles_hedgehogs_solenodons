@@ -53,6 +53,10 @@ symbol_key = {
     "small subunit ribosomal RNA" : ["12S_rRNA"]
 }
 
+name_key = {
+    "APOB" : ["Apo"]
+}
+
 #find correct symbol from incorrect symbol input
 def symbol_correction(incorrect: str, key: dict):
     #return as string

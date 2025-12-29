@@ -4,6 +4,7 @@ import os
 import sys
 from overlord import overlord_function
 from matcher import find_best_key
+#from cleaner import clean_nexus
 import pandas as pd
 from Bio import SeqIO
 from pathlib import Path
@@ -20,7 +21,7 @@ def big_fat_file_maker(raw_fol: str, csv_path: str, output: str, datatype: str):
     my_dict = {item: "" for item in species_names}
     folder = Path(raw_fol)
     for name in gene_names:
-        matching_files = list(folder.glob(f"*{name}*.nex"))
+        matching_files = list(folder.glob(f"*{name}_aln*.nex"))
         
         if not matching_files:
             print(f"No NEXUS file found for {name}")
@@ -92,4 +93,4 @@ def big_fat_file_maker(raw_fol: str, csv_path: str, output: str, datatype: str):
     
 
 
-(big_fat_file_maker("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/aligned_fastas", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/newGenBank.csv", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/aligned_fastas", "dna"))
+#(big_fat_file_maker("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/edited_nexus", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/newGenBank.csv", "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/edited_nexus", "dna"))

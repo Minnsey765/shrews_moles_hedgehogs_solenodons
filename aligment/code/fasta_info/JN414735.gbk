@@ -1,0 +1,69 @@
+LOCUS       JN414735                 897 bp    DNA     linear   MAM 31-OCT-2018
+DEFINITION  Pteropus vampyrus growth hormone receptor (GHR) gene, exon 10 and
+            partial cds.
+ACCESSION   JN414735
+VERSION     JN414735.1
+KEYWORDS    .
+SOURCE      Pteropus vampyrus (Indian flying fox)
+  ORGANISM  Pteropus vampyrus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Chiroptera; Yinpterochiroptera;
+            Pteropodoidea; Pteropodidae; Pteropodinae; Pteropus.
+REFERENCE   1  (bases 1 to 897)
+  AUTHORS   Meredith,R.W., Janecka,J.E., Gatesy,J., Ryder,O.A., Fisher,C.A.,
+            Teeling,E.C., Goodbla,A., Eizirik,E., Simao,T.L., Stadler,T.,
+            Rabosky,D.L., Honeycutt,R.L., Flynn,J.J., Ingram,C.M., Steiner,C.,
+            Williams,T.L., Robinson,T.J., Burk-Herrick,A., Westerman,M.,
+            Ayoub,N.A., Springer,M.S. and Murphy,W.J.
+  TITLE     Impacts of the Cretaceous Terrestrial Revolution and KPg extinction
+            on mammal diversification
+  JOURNAL   Science 334 (6055), 521-524 (2011)
+   PUBMED   21940861
+REFERENCE   2  (bases 1 to 897)
+  AUTHORS   Meredith,R.W., Gatesy,J. and Springer,M.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUL-2011) Department of Biology, University of
+            California, Riverside, 1354 Spieth Hall, Riverside, CA 92521, USA
+FEATURES             Location/Qualifiers
+     source          1..897
+                     /organism="Pteropus vampyrus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:132908"
+                     /note="common: Indian flying fox"
+     gene            <1..>897
+                     /gene="GHR"
+     mRNA            <1..>897
+                     /gene="GHR"
+                     /product="growth hormone receptor"
+     CDS             <1..>897
+                     /gene="GHR"
+                     /codon_start=1
+                     /product="growth hormone receptor"
+                     /protein_id="AEP18625.1"
+                     /translation="AIHDNYKPEFYNDDSWVEFIELDIDDPDEKTEGSDTDRLLSNDH
+                     QKSLDILGAKDDDSGRTSCYEPDILETDFNASEVGDGTSEXAQPQRLKGEADLLCLDM
+                     KNQNNPPCNDATPATQEPSVILAEENKPRPLIGGTESTHQASHTQLSNPSSLANIDFY
+                     AQVSDITPAGSVVLSPGQKNKAGISQSDMHPDVVSFCQANFIMDNAYFCEADAKKCIA
+                     VAPHVEVESRVEPRFNQEDIYITTESLTTTVGRSGTERAPSSEIPVPDYTSIHIVQSP
+                     QGLVLNATALPLPDKEFLSSCGY"
+     exon            <1..>897
+                     /gene="GHR"
+                     /number=10
+ORIGIN      
+        1 gccattcatg acaactataa acctgaattc tacaatgatg actcttgggt tgaattcatt
+       61 gagctagata ttgatgaccc cgatgaaaag actgaaggat cagatacaga cagacttcta
+      121 agcaatgacc atcagaaatc gcttgatatc cttggggcga aggacgatga ctctggacgt
+      181 accagctgtt atgaacctga tattctagag actgatttca atgccagtga ggtgggtgat
+      241 ggtacctcag agrttgctca gccacaaagg ttaaaagggg aagcagatct cttgtgcctt
+      301 gacatgaaga atcaaaataa cccaccatgt aatgatgcta cccctgctac tcaggagccc
+      361 agtgttatcc tagcagagga aaacaaacca agaccactta ttggtggaac tgaatcaact
+      421 catcaagctt cccatactca gctaagcaat ccgagttcac tggcaaacat cgacttttat
+      481 gcccaggtaa gcgacattac accagcaggg agtgtggtcc tatccccggg acaaaagaat
+      541 aaggcaggga tatcccagag tgacatgcat ccagacgtgg tctcattctg ccaagcaaac
+      601 ttcatcatgg acaacgccta cttctgtgag gcagatgcca aaaagtgcat cgctgtggcc
+      661 cctcacgtcg aagtcgaatc acgtgtagag ccaagattta accaggaaga catttacatc
+      721 accacagaaa gccttaccac tactgttggg aggtctggga cagaacgggc tccaagttct
+      781 gagatacctg tcccagacta tacttccatt catatagtac aatctccgca gggcctcgtg
+      841 ctcaatgcga ctgccttgcc cttgcctgac aaagagtttc tctcatcatg tggctat
+//
+
