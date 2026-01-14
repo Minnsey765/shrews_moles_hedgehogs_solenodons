@@ -33,7 +33,7 @@ def loop_verify(fasta_file: str, n: int, output: str):
         #loop through descriptions (species and gene)
         for des in hit_des:
             matches = matches + species_parser(species, des) + gene_parser(gene, des)
-        match_score = matches/(3*5+1) #max points for given record = 4 (1 for match genus, species, gene, & accession)
+        match_score = matches #max points for given record = 4 (1 for match genus, species, gene, & accession)
                                                  #max points for all is therefore 3*number of records/hits + 1 (only accession match)
         print(f"Calculated Match Score for {accession} ({match_score})")
         #dynamically make key names for each accession and add match score

@@ -5,7 +5,7 @@
   <BlastOutput_version>BLASTN 2.17.0+</BlastOutput_version>
   <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
   <BlastOutput_db>core_nt</BlastOutput_db>
-  <BlastOutput_query-ID>Query_7511369</BlastOutput_query-ID>
+  <BlastOutput_query-ID>Query_8098179</BlastOutput_query-ID>
   <BlastOutput_query-def>No definition line</BlastOutput_query-def>
   <BlastOutput_query-len>50</BlastOutput_query-len>
   <BlastOutput_param>
@@ -21,1415 +21,1415 @@
 <BlastOutput_iterations>
 <Iteration>
   <Iteration_iter-num>1</Iteration_iter-num>
-  <Iteration_query-ID>Query_7511369</Iteration_query-ID>
+  <Iteration_query-ID>Query_8098179</Iteration_query-ID>
   <Iteration_query-def>No definition line</Iteration_query-def>
   <Iteration_query-len>50</Iteration_query-len>
 <Iteration_hits>
 <Hit>
   <Hit_num>1</Hit_num>
-  <Hit_id>gi|300486650|gb|GU981107.1|</Hit_id>
-  <Hit_def>Anourosorex yamashinai isolate Anyamas2 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>GU981107</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|989930701|ref|XM_006910423.2|</Hit_id>
+  <Hit_def>PREDICTED: Pteropus alecto apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_006910423</Hit_accession>
+  <Hit_len>13525</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>91.4547</Hsp_bit-score>
-      <Hsp_score>100</Hsp_score>
-      <Hsp_evalue>4.1859e-15</Hsp_evalue>
+      <Hsp_bit-score>86.0446</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>1.95933e-13</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_hit-from>10353</Hsp_hit-from>
+      <Hsp_hit-to>10402</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>50</Hsp_identity>
-      <Hsp_positive>50</Hsp_positive>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>2</Hit_num>
-  <Hit_id>gi|108794356|gb|DQ630183.1|</Hit_id>
-  <Hit_def>Anourosorex yamashinai isolate 2 ApoB (ApoB) gene, partial cds &gt;gi|108794360|gb|DQ630185.1| Anourosorex yamashinai isolate 1 ApoB (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>DQ630183</Hit_accession>
-  <Hit_len>517</Hit_len>
+  <Hit_id>gi|347666873|gb|JN414015.1|</Hit_id>
+  <Hit_def>Pteropus vampyrus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414015</Hit_accession>
+  <Hit_len>2436</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>91.4547</Hsp_bit-score>
-      <Hsp_score>100</Hsp_score>
-      <Hsp_evalue>4.1859e-15</Hsp_evalue>
+      <Hsp_bit-score>86.0446</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>1.95933e-13</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>44</Hsp_hit-from>
-      <Hsp_hit-to>93</Hsp_hit-to>
+      <Hsp_hit-from>1161</Hsp_hit-from>
+      <Hsp_hit-to>1210</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
       <Hsp_identity>50</Hsp_identity>
       <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_hseq>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_hseq>
       <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>3</Hit_num>
-  <Hit_id>gi|300486648|gb|GU981106.1|</Hit_id>
-  <Hit_def>Anourosorex squamipes isolate Ansquam7 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>GU981106</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|33151014|gb|AF548436.1|</Hit_id>
+  <Hit_def>Pteropus hypomelanus apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>AF548436</Hit_accession>
+  <Hit_len>1314</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>91.4547</Hsp_bit-score>
-      <Hsp_score>100</Hsp_score>
-      <Hsp_evalue>4.1859e-15</Hsp_evalue>
+      <Hsp_bit-score>86.0446</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>1.95933e-13</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_hit-from>1161</Hsp_hit-from>
+      <Hsp_hit-to>1210</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>50</Hsp_identity>
-      <Hsp_positive>50</Hsp_positive>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>4</Hit_num>
-  <Hit_id>gi|108794236|gb|DQ630123.1|</Hit_id>
-  <Hit_def>Anourosorex squamipes isolate 1 ApoB (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>DQ630123</Hit_accession>
-  <Hit_len>482</Hit_len>
+  <Hit_id>gi|1996067752|ref|XM_039887735.1|</Hit_id>
+  <Hit_def>PREDICTED: Pteropus medius apolipoprotein B (APOB), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_039887735</Hit_accession>
+  <Hit_len>12329</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>91.4547</Hsp_bit-score>
-      <Hsp_score>100</Hsp_score>
-      <Hsp_evalue>4.1859e-15</Hsp_evalue>
+      <Hsp_bit-score>86.0446</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>1.95933e-13</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>28</Hsp_hit-from>
-      <Hsp_hit-to>77</Hsp_hit-to>
+      <Hsp_hit-from>10540</Hsp_hit-from>
+      <Hsp_hit-to>10589</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>50</Hsp_identity>
-      <Hsp_positive>50</Hsp_positive>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCAATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>5</Hit_num>
-  <Hit_id>gi|950834841|gb|KP995386.1|</Hit_id>
-  <Hit_def>Anourosorex squamipes voucher ZMMU:Chi11-130 apolipoprotein B (ApoB) gene, partial cds &gt;gi|1524346481|gb|MH331993.1| Anourosorex squamipes voucher ZMMU:S-195174 Apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>KP995386</Hit_accession>
-  <Hit_len>458</Hit_len>
+  <Hit_id>gi|1996067750|ref|XM_039887734.1|</Hit_id>
+  <Hit_def>PREDICTED: Pteropus medius apolipoprotein B (APOB), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_039887734</Hit_accession>
+  <Hit_len>12211</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>91.4547</Hsp_bit-score>
-      <Hsp_score>100</Hsp_score>
-      <Hsp_evalue>4.1859e-15</Hsp_evalue>
+      <Hsp_bit-score>86.0446</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>1.95933e-13</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>17</Hsp_hit-from>
-      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_hit-from>10540</Hsp_hit-from>
+      <Hsp_hit-to>10589</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>50</Hsp_identity>
-      <Hsp_positive>50</Hsp_positive>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCAATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>6</Hit_num>
-  <Hit_id>gi|944547193|gb|KT876783.1|</Hit_id>
-  <Hit_def>Cryptotis mam isolate Cmam_9 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876783</Hit_accession>
-  <Hit_len>484</Hit_len>
+  <Hit_id>gi|1331428963|ref|XM_011356625.2|</Hit_id>
+  <Hit_def>PREDICTED: Pteropus vampyrus apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_011356625</Hit_accession>
+  <Hit_len>13488</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>67.1093</Hsp_bit-score>
-      <Hsp_score>73</Hsp_score>
-      <Hsp_evalue>1.66702e-07</Hsp_evalue>
+      <Hsp_bit-score>86.0446</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>1.95933e-13</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>10245</Hsp_hit-from>
+      <Hsp_hit-to>10294</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>48</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGAYCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>7</Hit_num>
-  <Hit_id>gi|944547179|gb|KT876776.1|</Hit_id>
-  <Hit_def>Cryptotis mam isolate Cmam_2 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547187|gb|KT876780.1| Cryptotis mam isolate Cmam_6 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876776</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|1910421411|ref|XM_016144749.2|</Hit_id>
+  <Hit_def>PREDICTED: Rousettus aegyptiacus apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_016144749</Hit_accession>
+  <Hit_len>12820</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>67.1093</Hsp_bit-score>
-      <Hsp_score>73</Hsp_score>
-      <Hsp_evalue>1.66702e-07</Hsp_evalue>
+      <Hsp_bit-score>72.5194</Hsp_bit-score>
+      <Hsp_score>79</Hsp_score>
+      <Hsp_evalue>4.31571e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>10398</Hsp_hit-from>
+      <Hsp_hit-to>10447</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGAYCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTTCCATCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| |||||||||||    ||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>8</Hit_num>
-  <Hit_id>gi|1218188500|gb|MF193321.1|</Hit_id>
-  <Hit_def>Cryptotis merriami voucher CMNH SP12848 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193321</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|31558963|gb|AY243383.1|</Hit_id>
+  <Hit_def>Rousettus amplexicaudatus apolipoprotein B gene, partial cds</Hit_def>
+  <Hit_accession>AY243383</Hit_accession>
+  <Hit_len>1314</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>72.5194</Hsp_bit-score>
+      <Hsp_score>79</Hsp_score>
+      <Hsp_evalue>4.31571e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1161</Hsp_hit-from>
+      <Hsp_hit-to>1210</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTTCCATCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||| |||||||||||    ||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>9</Hit_num>
-  <Hit_id>gi|944547203|gb|KT876788.1|</Hit_id>
-  <Hit_def>Cryptotis merriami isolate Cmerria_4 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876788</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|33151012|gb|AF548435.1|</Hit_id>
+  <Hit_def>Nyctimene albiventer apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>AF548435</Hit_accession>
+  <Hit_len>1308</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>72.5194</Hsp_bit-score>
+      <Hsp_score>79</Hsp_score>
+      <Hsp_evalue>4.31571e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1155</Hsp_hit-from>
+      <Hsp_hit-to>1204</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGTGATATCAAGGGTTCAGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>10</Hit_num>
-  <Hit_id>gi|944547195|gb|KT876784.1|</Hit_id>
-  <Hit_def>Cryptotis mayensis isolate Cmayens_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876784</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666875|gb|JN414016.1|</Hit_id>
+  <Hit_def>Nyctimene albiventer apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414016</Hit_accession>
+  <Hit_len>2430</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>72.5194</Hsp_bit-score>
+      <Hsp_score>79</Hsp_score>
+      <Hsp_evalue>4.31571e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1155</Hsp_hit-from>
+      <Hsp_hit-to>1204</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGTGATATCAAGGGTTCAGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>11</Hit_num>
-  <Hit_id>gi|1218188456|gb|MF193299.1|</Hit_id>
-  <Hit_def>Cryptotis celaque voucher CMNH SP13228 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193299</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666879|gb|JN414018.1|</Hit_id>
+  <Hit_def>Rhinopoma hardwickii apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414018</Hit_accession>
+  <Hit_len>2445</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>63.5025</Hsp_bit-score>
+      <Hsp_score>69</Hsp_score>
+      <Hsp_evalue>2.23559e-06</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>1170</Hsp_hit-from>
+      <Hsp_hit-to>1219</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
       <Hsp_identity>43</Hsp_identity>
       <Hsp_positive>43</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTTTTACAGG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||| | ||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>12</Hit_num>
-  <Hit_id>gi|1218188466|gb|MF193304.1|</Hit_id>
-  <Hit_def>Cryptotis mccarthyi voucher CMNH SP12836 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193304</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666881|gb|JN414019.1|</Hit_id>
+  <Hit_def>Thyroptera tricolor apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414019</Hit_accession>
+  <Hit_len>2448</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1173</Hsp_hit-from>
+      <Hsp_hit-to>1215</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAAATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>13</Hit_num>
-  <Hit_id>gi|944547207|gb|KT876790.1|</Hit_id>
-  <Hit_def>Cryptotis merriami isolate Cmerria_6 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876790</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|31558953|gb|AY243378.1|</Hit_id>
+  <Hit_def>Chaetophractus villosus apolipoprotein B gene, partial cds</Hit_def>
+  <Hit_accession>AY243378</Hit_accession>
+  <Hit_len>1335</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCGATGTCAAGGGTGCCGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||| || |||||||||  ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>14</Hit_num>
-  <Hit_id>gi|944547173|gb|KT876773.1|</Hit_id>
-  <Hit_def>Cryptotis lacertosus isolate Clacert_5 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876773</Hit_accession>
-  <Hit_len>479</Hit_len>
+  <Hit_id>gi|33150950|gb|AF548404.1|</Hit_id>
+  <Hit_def>Tapirus bairdii apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>AF548404</Hit_accession>
+  <Hit_len>1335</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>15</Hit_num>
-  <Hit_id>gi|944547169|gb|KT876771.1|</Hit_id>
-  <Hit_def>Cryptotis lacertosus isolate Clacert_3 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547171|gb|KT876772.1| Cryptotis lacertosus isolate Clacert_4 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547175|gb|KT876774.1| Cryptotis lacertosus isolate Clacert_6 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547177|gb|KT876775.1| Cryptotis mam isolate Cmam_1 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547181|gb|KT876777.1| Cryptotis mam isolate Cmam_3 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547183|gb|KT876778.1| Cryptotis mam isolate Cmam_4 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547185|gb|KT876779.1| Cryptotis mam isolate Cmam_5 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876771</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|2522830340|ref|XM_036881596.2|</Hit_id>
+  <Hit_def>PREDICTED: Manis pentadactyla apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_036881596</Hit_accession>
+  <Hit_len>13710</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10192</Hsp_hit-from>
+      <Hsp_hit-to>10234</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTCTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>16</Hit_num>
-  <Hit_id>gi|944547191|gb|KT876782.1|</Hit_id>
-  <Hit_def>Cryptotis mam isolate Cmam_8 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876782</Hit_accession>
-  <Hit_len>448</Hit_len>
+  <Hit_id>gi|347666844|gb|JN414001.1|</Hit_id>
+  <Hit_def>Craseonycteris thonglongyai apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414001</Hit_accession>
+  <Hit_len>1227</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1137</Hsp_hit-from>
+      <Hsp_hit-to>1179</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCGGTTCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||  ||| |||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>17</Hit_num>
-  <Hit_id>gi|944547161|gb|KT876767.1|</Hit_id>
-  <Hit_def>Cryptotis gracilis isolate Cgracil_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876767</Hit_accession>
-  <Hit_len>490</Hit_len>
+  <Hit_id>gi|347666905|gb|JN414031.1|</Hit_id>
+  <Hit_def>Tapirus indicus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414031</Hit_accession>
+  <Hit_len>2457</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>18</Hit_num>
-  <Hit_id>gi|944547165|gb|KT876769.1|</Hit_id>
-  <Hit_def>Cryptotis lacertosus isolate Clacert_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876769</Hit_accession>
-  <Hit_len>490</Hit_len>
+  <Hit_id>gi|347666840|gb|JN413999.1|</Hit_id>
+  <Hit_def>Manis pentadactyla apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN413999</Hit_accession>
+  <Hit_len>2049</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>813</Hsp_hit-from>
+      <Hsp_hit-to>855</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTCTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>19</Hit_num>
-  <Hit_id>gi|1218188476|gb|MF193309.1|</Hit_id>
-  <Hit_def>Cryptotis celaque voucher CMNH SP12906 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193309</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|31558939|gb|AY243371.1|</Hit_id>
+  <Hit_def>Rhinolophus creaghi apolipoprotein B gene, partial cds</Hit_def>
+  <Hit_accession>AY243371</Hit_accession>
+  <Hit_len>1335</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>20</Hit_num>
-  <Hit_id>gi|1218188494|gb|MF193318.1|</Hit_id>
-  <Hit_def>Cryptotis orophilus voucher CMNH SP11644 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193318</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|2873412751|ref|XM_070573197.1|</Hit_id>
+  <Hit_def>PREDICTED: Equus przewalskii apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_070573197</Hit_accession>
+  <Hit_len>14144</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10606</Hsp_hit-from>
+      <Hsp_hit-to>10648</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>21</Hit_num>
-  <Hit_id>gi|1218188468|gb|MF193305.1|</Hit_id>
-  <Hit_def>Cryptotis mccarthyi voucher CMNH SP12934 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193305</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|33150952|gb|AF548405.1|</Hit_id>
+  <Hit_def>Equus caballus apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>AF548405</Hit_accession>
+  <Hit_len>1323</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1170</Hsp_hit-from>
+      <Hsp_hit-to>1212</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>22</Hit_num>
-  <Hit_id>gi|944547197|gb|KT876785.1|</Hit_id>
-  <Hit_def>Cryptotis merriami isolate Cmerria_1 apolipoprotein B (APOB) gene, partial cds &gt;gi|944547199|gb|KT876786.1| Cryptotis merriami isolate Cmerria_2 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876785</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|2957692125|ref|XM_037026467.2|</Hit_id>
+  <Hit_def>PREDICTED: Manis javanica apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_037026467</Hit_accession>
+  <Hit_len>13710</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10192</Hsp_hit-from>
+      <Hsp_hit-to>10234</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTCTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>23</Hit_num>
-  <Hit_id>gi|108794350|gb|DQ630180.1|</Hit_id>
-  <Hit_def>Cryptotis parva isolate 1 ApoB (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>DQ630180</Hit_accession>
-  <Hit_len>517</Hit_len>
+  <Hit_id>gi|2867990342|ref|XM_023619446.2|</Hit_id>
+  <Hit_def>PREDICTED: Equus caballus apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_023619446</Hit_accession>
+  <Hit_len>14144</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>44</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10606</Hsp_hit-from>
+      <Hsp_hit-to>10648</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>24</Hit_num>
-  <Hit_id>gi|1218188488|gb|MF193315.1|</Hit_id>
-  <Hit_def>Cryptotis oreoryctes voucher CMNH SP10910 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193315</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|2193378237|ref|XM_046663340.1|</Hit_id>
+  <Hit_def>PREDICTED: Equus quagga apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_046663340</Hit_accession>
+  <Hit_len>14072</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10534</Hsp_hit-from>
+      <Hsp_hit-to>10576</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>25</Hit_num>
-  <Hit_id>gi|944547189|gb|KT876781.1|</Hit_id>
-  <Hit_def>Cryptotis mam isolate Cmam_7 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876781</Hit_accession>
-  <Hit_len>488</Hit_len>
+  <Hit_id>gi|1823790342|ref|XM_033125573.1|</Hit_id>
+  <Hit_def>PREDICTED: Rhinolophus ferrumequinum apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_033125573</Hit_accession>
+  <Hit_len>14152</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>59.8958</Hsp_bit-score>
+      <Hsp_score>65</Hsp_score>
+      <Hsp_evalue>2.72351e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10582</Hsp_hit-from>
+      <Hsp_hit-to>10624</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>26</Hit_num>
-  <Hit_id>gi|944547201|gb|KT876787.1|</Hit_id>
-  <Hit_def>Cryptotis merriami isolate Cmerria_3 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876787</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|1121756376|ref|XM_019651837.1|</Hit_id>
+  <Hit_def>PREDICTED: Hipposideros armiger apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_019651837</Hit_accession>
+  <Hit_len>14161</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>58.0924</Hsp_bit-score>
+      <Hsp_score>63</Hsp_score>
+      <Hsp_evalue>9.50598e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>42</Hsp_query-to>
+      <Hsp_hit-from>10590</Hsp_hit-from>
+      <Hsp_hit-to>10631</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>42</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>27</Hit_num>
-  <Hit_id>gi|1218188464|gb|MF193303.1|</Hit_id>
-  <Hit_def>Cryptotis mccarthyi voucher CMNH SP12828 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193303</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666860|gb|JN414009.1|</Hit_id>
+  <Hit_def>Mystacina tuberculata apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414009</Hit_accession>
+  <Hit_len>2448</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>57.1907</Hsp_bit-score>
+      <Hsp_score>62</Hsp_score>
+      <Hsp_evalue>9.50598e-05</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>49</Hsp_query-to>
+      <Hsp_hit-from>1173</Hsp_hit-from>
+      <Hsp_hit-to>1221</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAG</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAAACATCGAGGGTTCGGTCCTTTTACAG</Hsp_hseq>
+      <Hsp_midline>|||||||||||||||||||||  | ||| |||||  ||||||| | |||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>28</Hit_num>
-  <Hit_id>gi|944547223|gb|KT876798.1|</Hit_id>
-  <Hit_def>Cryptotis parva isolate Cparvus_3 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876798</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|2871611658|ref|XM_044772007.2|</Hit_id>
+  <Hit_def>PREDICTED: Equus asinus apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_044772007</Hit_accession>
+  <Hit_len>14125</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
-      <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_bit-score>56.2891</Hsp_bit-score>
+      <Hsp_score>61</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10591</Hsp_hit-from>
+      <Hsp_hit-to>10631</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>41</Hsp_align-len>
+      <Hsp_qseq>TTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>TTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>29</Hit_num>
-  <Hit_id>gi|944547211|gb|KT876792.1|</Hit_id>
-  <Hit_def>Cryptotis nigrescens isolate Cnigres_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876792</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|1419210394|emb|LT852585.1|</Hit_id>
+  <Hit_def>Bradypus tridactylus partial APOB gene for apolipoprotein B, isolate T5013</Hit_def>
+  <Hit_accession>LT852585</Hit_accession>
+  <Hit_len>2415</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1179</Hsp_hit-from>
+      <Hsp_hit-to>1221</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>30</Hit_num>
-  <Hit_id>gi|944547209|gb|KT876791.1|</Hit_id>
-  <Hit_def>Cryptotis mexicana isolate Cmexica_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876791</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666842|gb|JN414000.1|</Hit_id>
+  <Hit_def>Phataginus tricuspis apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414000</Hit_accession>
+  <Hit_len>2088</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>813</Hsp_hit-from>
+      <Hsp_hit-to>855</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGACATCTACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>||||||| |||||| ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>31</Hit_num>
-  <Hit_id>gi|1218188458|gb|MF193300.1|</Hit_id>
-  <Hit_def>Cryptotis celaque voucher CMNH SP13234 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193300</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|2994226181|ref|XM_019756811.2|</Hit_id>
+  <Hit_def>PREDICTED: Rhinolophus sinicus apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_019756811</Hit_accession>
+  <Hit_len>14136</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10577</Hsp_hit-from>
+      <Hsp_hit-to>10619</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATGGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>32</Hit_num>
-  <Hit_id>gi|944547219|gb|KT876796.1|</Hit_id>
-  <Hit_def>Cryptotis parva isolate Cparvus_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876796</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666854|gb|JN414006.1|</Hit_id>
+  <Hit_def>Miniopterus manavi apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414006</Hit_accession>
+  <Hit_len>2445</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1170</Hsp_hit-from>
+      <Hsp_hit-to>1212</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATGGAGTCATCTAACAAAGGAAATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>33</Hit_num>
-  <Hit_id>gi|108794368|gb|DQ630189.1|</Hit_id>
-  <Hit_def>Cryptotis goldmani isolate 1 ApoB (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>DQ630189</Hit_accession>
-  <Hit_len>514</Hit_len>
+  <Hit_id>gi|2555112463|ref|XM_058551724.1|</Hit_id>
+  <Hit_def>PREDICTED: Diceros bicornis minor apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_058551724</Hit_accession>
+  <Hit_len>15126</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>41</Hsp_hit-from>
-      <Hsp_hit-to>88</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10458</Hsp_hit-from>
+      <Hsp_hit-to>10500</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCCACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||| | ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>34</Hit_num>
-  <Hit_id>gi|944547167|gb|KT876770.1|</Hit_id>
-  <Hit_def>Cryptotis lacertosus isolate Clacert_2 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876770</Hit_accession>
-  <Hit_len>476</Hit_len>
+  <Hit_id>gi|256016960|dbj|AB371314.1|</Hit_id>
+  <Hit_def>Mydaus javanensis APOB gene for apolipoprotein B, partial cds, specimen_voucher: personal:Jun Sato:JS229</Hit_def>
+  <Hit_accession>AB371314</Hit_accession>
+  <Hit_len>963</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>806</Hsp_hit-from>
+      <Hsp_hit-to>848</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGGGATATCAAGGGTGCAGTACTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  ||||||||||||  || |||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>35</Hit_num>
-  <Hit_id>gi|944547227|gb|KT876800.1|</Hit_id>
-  <Hit_def>Cryptotis tropicalis isolate Ctropic_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876800</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666760|gb|JN413959.1|</Hit_id>
+  <Hit_def>Bradypus tridactylus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN413959</Hit_accession>
+  <Hit_len>2420</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>36</Hit_num>
-  <Hit_id>gi|944547225|gb|KT876799.1|</Hit_id>
-  <Hit_def>Cryptotis parva isolate Cparvus_4 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876799</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666826|gb|JN413992.1|</Hit_id>
+  <Hit_def>Nandinia binotata apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN413992</Hit_accession>
+  <Hit_len>948</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>798</Hsp_hit-from>
+      <Hsp_hit-to>840</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>37</Hit_num>
-  <Hit_id>gi|1218188498|gb|MF193320.1|</Hit_id>
-  <Hit_def>Cryptotis merriami voucher CMNH SP13268 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193320</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666850|gb|JN414004.1|</Hit_id>
+  <Hit_def>Macronycteris commersonii apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414004</Hit_accession>
+  <Hit_len>2435</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1157</Hsp_hit-from>
+      <Hsp_hit-to>1199</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGACTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||| ||||||||||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>38</Hit_num>
-  <Hit_id>gi|944547163|gb|KT876768.1|</Hit_id>
-  <Hit_def>Cryptotis goldmani isolate Cgoldma_1 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876768</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|925718040|gb|KT447822.1|</Hit_id>
+  <Hit_def>Lycaon pictus apolipoprotein B-100 (APOB) gene, partial cds</Hit_def>
+  <Hit_accession>KT447822</Hit_accession>
+  <Hit_len>910</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>779</Hsp_hit-from>
+      <Hsp_hit-to>821</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>39</Hit_num>
-  <Hit_id>gi|944547221|gb|KT876797.1|</Hit_id>
-  <Hit_def>Cryptotis parva isolate Cparvus_2 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT876797</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|1419210414|emb|LT852595.1|</Hit_id>
+  <Hit_def>Dasypus kappleri partial APOB gene for apolipoprotein B, isolate T3365</Hit_def>
+  <Hit_accession>LT852595</Hit_accession>
+  <Hit_len>2379</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>65.3059</Hsp_bit-score>
-      <Hsp_score>71</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1179</Hsp_hit-from>
+      <Hsp_hit-to>1221</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCAACATCAAGGGTACAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||| | |||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>40</Hit_num>
-  <Hit_id>gi|3057431685|gb|PX253880.1|</Hit_id>
-  <Hit_def>Chodsigoa hypsibia isolate CSD5321 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>PX253880</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|955478320|ref|XM_004418608.2|</Hit_id>
+  <Hit_def>PREDICTED: Ceratotherium simum simum apolipoprotein B (LOC101399516), mRNA</Hit_def>
+  <Hit_accession>XM_004418608</Hit_accession>
+  <Hit_len>14010</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10471</Hsp_hit-from>
+      <Hsp_hit-to>10513</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>44</Hsp_identity>
-      <Hsp_positive>44</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTATCAGACAAGTTGAGAACGTCAGAGACAAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||| | || ||||||||||| ||||||||  |||||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCCACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||| | ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>41</Hit_num>
-  <Hit_id>gi|1218188502|gb|MF193322.1|</Hit_id>
-  <Hit_def>Cryptotis merriami voucher CMNH SP11924 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193322</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|1419210390|emb|LT852583.1|</Hit_id>
+  <Hit_def>Bradypus pygmaeus partial APOB gene for apolipoprotein B, specimen voucher USNM 579179, isolate USNM579179</Hit_def>
+  <Hit_accession>LT852583</Hit_accession>
+  <Hit_len>2415</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1179</Hsp_hit-from>
+      <Hsp_hit-to>1221</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>42</Hsp_identity>
-      <Hsp_positive>42</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCRAGTTGAGAAAGTCAGAGAYCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||| ||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>42</Hit_num>
-  <Hit_id>gi|3057431669|gb|PX253872.1|</Hit_id>
-  <Hit_def>Chodsigoa hypsibia isolate CSD5312 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>PX253872</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|1419210392|emb|LT852584.1|</Hit_id>
+  <Hit_def>Bradypus torquatus partial APOB gene for apolipoprotein B, isolate T44911</Hit_def>
+  <Hit_accession>LT852584</Hit_accession>
+  <Hit_len>2415</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1179</Hsp_hit-from>
+      <Hsp_hit-to>1221</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>44</Hsp_identity>
-      <Hsp_positive>44</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTATCAGACAAGTTGAGAACGTCAGAGACAAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||| | || ||||||||||| ||||||||  |||||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>43</Hit_num>
-  <Hit_id>gi|3057431673|gb|PX253874.1|</Hit_id>
-  <Hit_def>Chodsigoa hypsibia isolate CSD5314 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>PX253874</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|156712663|dbj|AB253946.1|</Hit_id>
+  <Hit_def>Dryomys nitedula APOB gene for apolipoprotein B, partial cds, isolate: KT2962</Hit_def>
+  <Hit_accession>AB253946</Hit_accession>
+  <Hit_len>1201</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1068</Hsp_hit-from>
+      <Hsp_hit-to>1110</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>44</Hsp_identity>
-      <Hsp_positive>44</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTATCAGACAAGTTGAGAACGTCAGAGACAAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||| | || ||||||||||| ||||||||  |||||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTCGGTTCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  ||| |||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>44</Hit_num>
-  <Hit_id>gi|3057431687|gb|PX253881.1|</Hit_id>
-  <Hit_def>Chodsigoa hypsibia isolate CSD5322 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>PX253881</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|1016720567|ref|XM_016224750.1|</Hit_id>
+  <Hit_def>PREDICTED: Miniopterus natalensis apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_016224750</Hit_accession>
+  <Hit_len>13830</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10425</Hsp_hit-from>
+      <Hsp_hit-to>10467</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>44</Hsp_identity>
-      <Hsp_positive>44</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTATCAGACAAGTTGAGAACGTCAGAGACAAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||| | || ||||||||||| ||||||||  |||||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATGGAGTCATCTAACAAAGGAAATATCAAGGGTTCAGTCCTT</Hsp_hseq>
+      <Hsp_midline>||| |||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>45</Hit_num>
-  <Hit_id>gi|3057431679|gb|PX253877.1|</Hit_id>
-  <Hit_def>Chodsigoa hypsibia isolate CSD5317 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>PX253877</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|347666903|gb|JN414030.1|</Hit_id>
+  <Hit_def>Ceratotherium simum apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN414030</Hit_accession>
+  <Hit_len>2445</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>44</Hsp_identity>
-      <Hsp_positive>44</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTATCAGACAAGTTGAGAACGTCAGAGACAAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||| | || ||||||||||| ||||||||  |||||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCCACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||| | ||||||  |||||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>46</Hit_num>
-  <Hit_id>gi|3057431693|gb|PX253884.1|</Hit_id>
-  <Hit_def>Chodsigoa hypsibia isolate CSD3976 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>PX253884</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|33150996|gb|AF548427.1|</Hit_id>
+  <Hit_def>Bradypus tridactylus apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>AF548427</Hit_accession>
+  <Hit_len>1335</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>44</Hsp_identity>
-      <Hsp_positive>44</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTATCAGACAAGTTGAGAACGTCAGAGACAAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||| | || ||||||||||| ||||||||  |||||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>47</Hit_num>
-  <Hit_id>gi|1218188460|gb|MF193301.1|</Hit_id>
-  <Hit_def>Cryptotis merriami voucher CMNH SP11704 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193301</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|347666756|gb|JN413957.1|</Hit_id>
+  <Hit_def>Dasypus novemcinctus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
+  <Hit_accession>JN413957</Hit_accession>
+  <Hit_len>2420</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1182</Hsp_hit-from>
+      <Hsp_hit-to>1224</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>42</Hsp_identity>
-      <Hsp_positive>42</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCRAGTTGAGAAAGTCAGAGAYCAGGCATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||| ||||||||| ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCAACATCAAGGGTACAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||| | |||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>48</Hit_num>
-  <Hit_id>gi|3057431667|gb|PX253871.1|</Hit_id>
-  <Hit_def>Chodsigoa hypsibia isolate CSD5311 apolipoprotein B (ApoB) gene, partial cds</Hit_def>
-  <Hit_accession>PX253871</Hit_accession>
-  <Hit_len>513</Hit_len>
+  <Hit_id>gi|156712679|dbj|AB253954.1|</Hit_id>
+  <Hit_def>Glis glis APOB gene for apolipoprotein B, partial cds, isolate: IZEA7672 &gt;gi|156712681|dbj|AB253955.1| Glis glis APOB gene for apolipoprotein B, partial cds, isolate: IZEA 7673</Hit_def>
+  <Hit_accession>AB253954</Hit_accession>
+  <Hit_len>1090</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>64.4042</Hsp_bit-score>
-      <Hsp_score>70</Hsp_score>
-      <Hsp_evalue>5.81849e-07</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>42</Hsp_hit-from>
-      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>957</Hsp_hit-from>
+      <Hsp_hit-to>999</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>44</Hsp_identity>
-      <Hsp_positive>44</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATTGG</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCCTTTATCAGACAAGTTGAGAACGTCAGAGACAAGGCATTGG</Hsp_hseq>
-      <Hsp_midline>||||||||||||| | || ||||||||||| ||||||||  |||||||||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTCGGTTCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  ||| |||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>49</Hit_num>
-  <Hit_id>gi|1218188474|gb|MF193308.1|</Hit_id>
-  <Hit_def>Cryptotis celaque voucher CMNH SP11715 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193308</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|2905779133|ref|XM_058287672.2|</Hit_id>
+  <Hit_def>PREDICTED: Dasypus novemcinctus apolipoprotein B (APOB), mRNA</Hit_def>
+  <Hit_accession>XM_058287672</Hit_accession>
+  <Hit_len>14133</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>62.6008</Hsp_bit-score>
-      <Hsp_score>68</Hsp_score>
-      <Hsp_evalue>2.03085e-06</Hsp_evalue>
+      <Hsp_bit-score>55.3874</Hsp_bit-score>
+      <Hsp_score>60</Hsp_score>
+      <Hsp_evalue>0.000331791</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>10558</Hsp_hit-from>
+      <Hsp_hit-to>10600</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>42</Hsp_identity>
-      <Hsp_positive>42</Hsp_positive>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGYATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  ||| |||</Hsp_midline>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCAACATCAAGGGTACAGTCCTT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||| | |||||||||   ||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>50</Hit_num>
-  <Hit_id>gi|1218188472|gb|MF193307.1|</Hit_id>
-  <Hit_def>Cryptotis celaque voucher CMNH SP13229 apolipoprotein B (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>MF193307</Hit_accession>
-  <Hit_len>504</Hit_len>
+  <Hit_id>gi|1419210428|emb|LT852602.1|</Hit_id>
+  <Hit_def>Tolypeutes tricinctus partial APOB gene for apolipoprotein B, isolate T21</Hit_def>
+  <Hit_accession>LT852602</Hit_accession>
+  <Hit_len>2268</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>62.6008</Hsp_bit-score>
-      <Hsp_score>68</Hsp_score>
-      <Hsp_evalue>2.03085e-06</Hsp_evalue>
+      <Hsp_bit-score>52.6823</Hsp_bit-score>
+      <Hsp_score>57</Hsp_score>
+      <Hsp_evalue>0.00404205</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>48</Hsp_query-to>
-      <Hsp_hit-from>36</Hsp_hit-from>
-      <Hsp_hit-to>83</Hsp_hit-to>
+      <Hsp_query-to>34</Hsp_query-to>
+      <Hsp_hit-from>1041</Hsp_hit-from>
+      <Hsp_hit-to>1074</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>42</Hsp_identity>
-      <Hsp_positive>42</Hsp_positive>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>48</Hsp_align-len>
-      <Hsp_qseq>TATCAATTCCTTTCTGAGGCAAGTTGAGAAGGTCAGAGATGAGGCATT</Hsp_qseq>
-      <Hsp_hseq>TATCAATTCTTTTATGAGGCAAGTTGAGAAAGTCAGAGACCAGGYATT</Hsp_hseq>
-      <Hsp_midline>||||||||| ||| |||||||||||||||| ||||||||  ||| |||</Hsp_midline>
+      <Hsp_align-len>34</Hsp_align-len>
+      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGT</Hsp_qseq>
+      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCGATRTCAAGGGT</Hsp_hseq>
+      <Hsp_midline>|||||||||||||| ||||||| || ||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 </Iteration_hits>
   <Iteration_stat>
     <Statistics>
-      <Statistics_db-num>118620752</Statistics_db-num>
-      <Statistics_db-len>1895352082</Statistics_db-len>
+      <Statistics_db-num>120367913</Statistics_db-num>
+      <Statistics_db-len>1046609866405</Statistics_db-len>
       <Statistics_hsp-len>0</Statistics_hsp-len>
       <Statistics_eff-space>0</Statistics_eff-space>
       <Statistics_kappa>0.41</Statistics_kappa>
