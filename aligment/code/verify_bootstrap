@@ -10,8 +10,8 @@ import matplotlib
 matplotlib.use("Agg")   # MUST be before pyplot
 import matplotlib.pyplot as plt
 
-#test record
-fasta = SeqIO.parse("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/fasta_data/APOB.fasta", "fasta")
+#test record (unhash to use function by itself)
+fasta = SeqIO.parse("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/verify_data/artefact_seq/artefacts1.fasta", "fasta")
 for record in fasta:
     entry = record
 #print(entry)
@@ -26,13 +26,16 @@ def verify_bootstrap(entry: str, n: int, output: str, repeat: int):
     #print(accession)
     matches = 0
     match_score = []
+    starts = []
 
     for i in range(repeat):
         print(f"Collecting Blast Data For: {accession}")
         verify_dic = verify_seq(seq,n)
         print(f"Collected Blast Data For {accession}")
-        hit_ids = verify_dic["Accessions"]
-        hit_des = verify_dic["Hit_Des"]
+        hit_ids = verify_dic[0]["Accessions"]
+        hit_des = verify_dic[0]["Hit_Des"]
+        #return start position for snippet
+        starts.append(verify_dic[1])
         #loop through hit ids 
         for id in hit_ids:
             if accession in id:
@@ -61,14 +64,15 @@ def verify_bootstrap(entry: str, n: int, output: str, repeat: int):
     print(frequency)
     plt.bar(frequency.keys(), frequency.values())
     plt.xlim(left=0)
+    plt.xlim(right=13)
     plt.xlabel("Hits")
     plt.ylabel("Frequency")
     plt.savefig(plot_name)
     plt.close()
 
-    return(accession, match_score)
+    return(accession, match_score, starts)
 
-print(verify_bootstrap(entry, 50, "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/verify_data", 30))
+print(verify_bootstrap(entry, 50, "C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/verify_data/artefact_verify", 30))
 
 #test_dist = {13: 2, 12: 3}
 #plt.bar(test_dist.keys(), test_dist.values())

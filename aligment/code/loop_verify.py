@@ -1,3 +1,4 @@
+#lowk a useless function
 #generate a match score for hits found in verify seq
 
 from verify_seq import verify_seq
@@ -47,4 +48,4 @@ def loop_verify(fasta_file: str, n: int, output: str):
 
     return(match_scores)
 
-print(loop_verify("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/fasta_data/APOB.fasta",50,"C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/verify_data"))
+print(loop_verify("C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/fasta_data/APOB.fasta",50,"C:/Users/ojmin/OneDrive/Documents/UNI/MPhil/Project/aligment/code/verify_data/artefact_verify"))

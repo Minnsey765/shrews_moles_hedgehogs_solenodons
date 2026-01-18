@@ -5,7 +5,7 @@
   <BlastOutput_version>BLASTN 2.17.0+</BlastOutput_version>
   <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
   <BlastOutput_db>core_nt</BlastOutput_db>
-  <BlastOutput_query-ID>Query_8098179</BlastOutput_query-ID>
+  <BlastOutput_query-ID>Query_3308701</BlastOutput_query-ID>
   <BlastOutput_query-def>No definition line</BlastOutput_query-def>
   <BlastOutput_query-len>50</BlastOutput_query-len>
   <BlastOutput_param>
@@ -21,1407 +21,1407 @@
 <BlastOutput_iterations>
 <Iteration>
   <Iteration_iter-num>1</Iteration_iter-num>
-  <Iteration_query-ID>Query_8098179</Iteration_query-ID>
+  <Iteration_query-ID>Query_3308701</Iteration_query-ID>
   <Iteration_query-def>No definition line</Iteration_query-def>
   <Iteration_query-len>50</Iteration_query-len>
 <Iteration_hits>
 <Hit>
   <Hit_num>1</Hit_num>
-  <Hit_id>gi|989930701|ref|XM_006910423.2|</Hit_id>
-  <Hit_def>PREDICTED: Pteropus alecto apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_006910423</Hit_accession>
-  <Hit_len>13525</Hit_len>
+  <Hit_id>gi|2326006930|gb|ON219780.1|</Hit_id>
+  <Hit_def>Chimarrogale styani isolate CSD4477 brain derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON219780</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>86.0446</Hsp_bit-score>
-      <Hsp_score>94</Hsp_score>
-      <Hsp_evalue>1.95933e-13</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>10353</Hsp_hit-from>
-      <Hsp_hit-to>10402</Hsp_hit-to>
-      <Hsp_query-frame>1</Hsp_query-frame>
-      <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>48</Hsp_identity>
-      <Hsp_positive>48</Hsp_positive>
-      <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
-    </Hsp>
-  </Hit_hsps>
-</Hit>
-<Hit>
-  <Hit_num>2</Hit_num>
-  <Hit_id>gi|347666873|gb|JN414015.1|</Hit_id>
-  <Hit_def>Pteropus vampyrus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414015</Hit_accession>
-  <Hit_len>2436</Hit_len>
-  <Hit_hsps>
-    <Hsp>
-      <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>86.0446</Hsp_bit-score>
-      <Hsp_score>94</Hsp_score>
-      <Hsp_evalue>1.95933e-13</Hsp_evalue>
-      <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>1161</Hsp_hit-from>
-      <Hsp_hit-to>1210</Hsp_hit-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
       <Hsp_identity>50</Hsp_identity>
       <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_hseq>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|2487333167|ref|XM_055141926.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_055141926</Hit_accession>
+  <Hit_len>1671</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>595</Hsp_hit-from>
+      <Hsp_hit-to>644</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>1</Hsp_hit-frame>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
       <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>3</Hit_num>
-  <Hit_id>gi|33151014|gb|AF548436.1|</Hit_id>
-  <Hit_def>Pteropus hypomelanus apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>AF548436</Hit_accession>
-  <Hit_len>1314</Hit_len>
+  <Hit_id>gi|2326738307|gb|ON161111.1|</Hit_id>
+  <Hit_def>Nectogale sikhimensis isolate CSD4601 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161111</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>86.0446</Hsp_bit-score>
-      <Hsp_score>94</Hsp_score>
-      <Hsp_evalue>1.95933e-13</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>1161</Hsp_hit-from>
-      <Hsp_hit-to>1210</Hsp_hit-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>48</Hsp_identity>
-      <Hsp_positive>48</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>4</Hit_num>
-  <Hit_id>gi|1996067752|ref|XM_039887735.1|</Hit_id>
-  <Hit_def>PREDICTED: Pteropus medius apolipoprotein B (APOB), transcript variant X2, mRNA</Hit_def>
-  <Hit_accession>XM_039887735</Hit_accession>
-  <Hit_len>12329</Hit_len>
+  <Hit_id>gi|1398256961|gb|MG973445.1|</Hit_id>
+  <Hit_def>Paracrocidura schoutedeni brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973445</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>86.0446</Hsp_bit-score>
-      <Hsp_score>94</Hsp_score>
-      <Hsp_evalue>1.95933e-13</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>10540</Hsp_hit-from>
-      <Hsp_hit-to>10589</Hsp_hit-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>48</Hsp_identity>
-      <Hsp_positive>48</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCAATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>5</Hit_num>
-  <Hit_id>gi|1996067750|ref|XM_039887734.1|</Hit_id>
-  <Hit_def>PREDICTED: Pteropus medius apolipoprotein B (APOB), transcript variant X1, mRNA</Hit_def>
-  <Hit_accession>XM_039887734</Hit_accession>
-  <Hit_len>12211</Hit_len>
+  <Hit_id>gi|1398256949|gb|MG973439.1|</Hit_id>
+  <Hit_def>Crocidura sibirica brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973439</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>86.0446</Hsp_bit-score>
-      <Hsp_score>94</Hsp_score>
-      <Hsp_evalue>1.95933e-13</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>10540</Hsp_hit-from>
-      <Hsp_hit-to>10589</Hsp_hit-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>48</Hsp_identity>
-      <Hsp_positive>48</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCAATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>6</Hit_num>
-  <Hit_id>gi|1331428963|ref|XM_011356625.2|</Hit_id>
-  <Hit_def>PREDICTED: Pteropus vampyrus apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_011356625</Hit_accession>
-  <Hit_len>13488</Hit_len>
+  <Hit_id>gi|2326738333|gb|ON161124.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate FT144 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161124</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>86.0446</Hsp_bit-score>
-      <Hsp_score>94</Hsp_score>
-      <Hsp_evalue>1.95933e-13</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>10245</Hsp_hit-from>
-      <Hsp_hit-to>10294</Hsp_hit-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>48</Hsp_identity>
-      <Hsp_positive>48</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTGCGGTCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||| |||||||||||| ||||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>7</Hit_num>
-  <Hit_id>gi|1910421411|ref|XM_016144749.2|</Hit_id>
-  <Hit_def>PREDICTED: Rousettus aegyptiacus apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_016144749</Hit_accession>
-  <Hit_len>12820</Hit_len>
+  <Hit_id>gi|2326738319|gb|ON161117.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD4470 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161117</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>72.5194</Hsp_bit-score>
-      <Hsp_score>79</Hsp_score>
-      <Hsp_evalue>4.31571e-09</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>10398</Hsp_hit-from>
-      <Hsp_hit-to>10447</Hsp_hit-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>45</Hsp_identity>
-      <Hsp_positive>45</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTTCCATCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||| |||||||||||    ||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>8</Hit_num>
-  <Hit_id>gi|31558963|gb|AY243383.1|</Hit_id>
-  <Hit_def>Rousettus amplexicaudatus apolipoprotein B gene, partial cds</Hit_def>
-  <Hit_accession>AY243383</Hit_accession>
-  <Hit_len>1314</Hit_len>
+  <Hit_id>gi|2326738323|gb|ON161119.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD4472 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161119</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>72.5194</Hsp_bit-score>
-      <Hsp_score>79</Hsp_score>
-      <Hsp_evalue>4.31571e-09</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>1161</Hsp_hit-from>
-      <Hsp_hit-to>1210</Hsp_hit-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>45</Hsp_identity>
-      <Hsp_positive>45</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGCGATATCAAGGGTTCCATCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||| |||||||||||    ||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>9</Hit_num>
-  <Hit_id>gi|33151012|gb|AF548435.1|</Hit_id>
-  <Hit_def>Nyctimene albiventer apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>AF548435</Hit_accession>
-  <Hit_len>1308</Hit_len>
+  <Hit_id>gi|2326006928|gb|ON219779.1|</Hit_id>
+  <Hit_def>Chimarrogale styani isolate CSD4476 brain derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON219779</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>72.5194</Hsp_bit-score>
-      <Hsp_score>79</Hsp_score>
-      <Hsp_evalue>4.31571e-09</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>1155</Hsp_hit-from>
-      <Hsp_hit-to>1204</Hsp_hit-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>45</Hsp_identity>
-      <Hsp_positive>45</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGTGATATCAAGGGTTCAGTCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>10</Hit_num>
-  <Hit_id>gi|347666875|gb|JN414016.1|</Hit_id>
-  <Hit_def>Nyctimene albiventer apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414016</Hit_accession>
-  <Hit_len>2430</Hit_len>
+  <Hit_id>gi|1104678904|gb|KX754663.1|</Hit_id>
+  <Hit_def>Sorex unguiculatus isolate HEG28-97 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>KX754663</Hit_accession>
+  <Hit_len>522</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>72.5194</Hsp_bit-score>
-      <Hsp_score>79</Hsp_score>
-      <Hsp_evalue>4.31571e-09</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>1155</Hsp_hit-from>
-      <Hsp_hit-to>1204</Hsp_hit-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>63</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>45</Hsp_identity>
-      <Hsp_positive>45</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGTGATATCAAGGGTTCAGTCCTTCTTCAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||||||||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>11</Hit_num>
-  <Hit_id>gi|347666879|gb|JN414018.1|</Hit_id>
-  <Hit_def>Rhinopoma hardwickii apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414018</Hit_accession>
-  <Hit_len>2445</Hit_len>
+  <Hit_id>gi|2280038876|ref|XM_049781125.1|</Hit_id>
+  <Hit_def>PREDICTED: Suncus etruscus brain derived neurotrophic factor (BDNF), mRNA</Hit_def>
+  <Hit_accession>XM_049781125</Hit_accession>
+  <Hit_len>1352</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>63.5025</Hsp_bit-score>
-      <Hsp_score>69</Hsp_score>
-      <Hsp_evalue>2.23559e-06</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>50</Hsp_query-to>
-      <Hsp_hit-from>1170</Hsp_hit-from>
-      <Hsp_hit-to>1219</Hsp_hit-to>
+      <Hsp_hit-from>326</Hsp_hit-from>
+      <Hsp_hit-to>375</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>43</Hsp_identity>
-      <Hsp_positive>43</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
       <Hsp_align-len>50</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAGG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTTTTACAGG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||| | ||||</Hsp_midline>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>12</Hit_num>
-  <Hit_id>gi|347666881|gb|JN414019.1|</Hit_id>
-  <Hit_def>Thyroptera tricolor apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414019</Hit_accession>
-  <Hit_len>2448</Hit_len>
+  <Hit_id>gi|1398256953|gb|MG973441.1|</Hit_id>
+  <Hit_def>Crocidura russula brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973441</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1173</Hsp_hit-from>
-      <Hsp_hit-to>1215</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAAATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>13</Hit_num>
-  <Hit_id>gi|31558953|gb|AY243378.1|</Hit_id>
-  <Hit_def>Chaetophractus villosus apolipoprotein B gene, partial cds</Hit_def>
-  <Hit_accession>AY243378</Hit_accession>
-  <Hit_len>1335</Hit_len>
+  <Hit_id>gi|2487333175|ref|XM_055141930.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_055141930</Hit_accession>
+  <Hit_len>1480</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>404</Hsp_hit-from>
+      <Hsp_hit-to>453</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCGATGTCAAGGGTGCCGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||| || |||||||||  ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>14</Hit_num>
-  <Hit_id>gi|33150950|gb|AF548404.1|</Hit_id>
-  <Hit_def>Tapirus bairdii apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>AF548404</Hit_accession>
-  <Hit_len>1335</Hit_len>
+  <Hit_id>gi|2326738305|gb|ON161110.1|</Hit_id>
+  <Hit_def>Nectogale sikhimensis isolate CSD4295 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161110</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>15</Hit_num>
-  <Hit_id>gi|2522830340|ref|XM_036881596.2|</Hit_id>
-  <Hit_def>PREDICTED: Manis pentadactyla apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_036881596</Hit_accession>
-  <Hit_len>13710</Hit_len>
+  <Hit_id>gi|1398256965|gb|MG973447.1|</Hit_id>
+  <Hit_def>Suncus murinus brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973447</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10192</Hsp_hit-from>
-      <Hsp_hit-to>10234</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTCTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>16</Hit_num>
-  <Hit_id>gi|347666844|gb|JN414001.1|</Hit_id>
-  <Hit_def>Craseonycteris thonglongyai apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414001</Hit_accession>
-  <Hit_len>1227</Hit_len>
+  <Hit_id>gi|2506690530|ref|XM_056136324.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex fumeus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_056136324</Hit_accession>
+  <Hit_len>2591</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1137</Hsp_hit-from>
-      <Hsp_hit-to>1179</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>229</Hsp_hit-from>
+      <Hsp_hit-to>278</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCGGTTCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||  ||| |||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>17</Hit_num>
-  <Hit_id>gi|347666905|gb|JN414031.1|</Hit_id>
-  <Hit_def>Tapirus indicus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414031</Hit_accession>
-  <Hit_len>2457</Hit_len>
+  <Hit_id>gi|2326738303|gb|ON161109.1|</Hit_id>
+  <Hit_def>Nectogale sikhimensis isolate CSD1507 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161109</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>18</Hit_num>
-  <Hit_id>gi|347666840|gb|JN413999.1|</Hit_id>
-  <Hit_def>Manis pentadactyla apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN413999</Hit_accession>
-  <Hit_len>2049</Hit_len>
+  <Hit_id>gi|2487333173|ref|XM_055141929.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X5, mRNA</Hit_def>
+  <Hit_accession>XM_055141929</Hit_accession>
+  <Hit_len>1535</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>813</Hsp_hit-from>
-      <Hsp_hit-to>855</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>459</Hsp_hit-from>
+      <Hsp_hit-to>508</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTCTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>19</Hit_num>
-  <Hit_id>gi|31558939|gb|AY243371.1|</Hit_id>
-  <Hit_def>Rhinolophus creaghi apolipoprotein B gene, partial cds</Hit_def>
-  <Hit_accession>AY243371</Hit_accession>
-  <Hit_len>1335</Hit_len>
+  <Hit_id>gi|1060647771|dbj|LC124906.1|</Hit_id>
+  <Hit_def>Sorex caecutiens BDNF gene for brain-derived neurotrophic factor, partial cds, specimen_voucher: personal collection:Satoshi D. Ohdachi:SDO-100825-1</Hit_def>
+  <Hit_accession>LC124906</Hit_accession>
+  <Hit_len>564</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>20</Hit_num>
-  <Hit_id>gi|2873412751|ref|XM_070573197.1|</Hit_id>
-  <Hit_def>PREDICTED: Equus przewalskii apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_070573197</Hit_accession>
-  <Hit_len>14144</Hit_len>
+  <Hit_id>gi|2326738295|gb|ON161105.1|</Hit_id>
+  <Hit_def>Nectogale sikhimensis isolate CSD402 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161105</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10606</Hsp_hit-from>
-      <Hsp_hit-to>10648</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>21</Hit_num>
-  <Hit_id>gi|33150952|gb|AF548405.1|</Hit_id>
-  <Hit_def>Equus caballus apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>AF548405</Hit_accession>
-  <Hit_len>1323</Hit_len>
+  <Hit_id>gi|2487333171|ref|XM_055141928.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_055141928</Hit_accession>
+  <Hit_len>1563</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1170</Hsp_hit-from>
-      <Hsp_hit-to>1212</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>487</Hsp_hit-from>
+      <Hsp_hit-to>536</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>22</Hit_num>
-  <Hit_id>gi|2957692125|ref|XM_037026467.2|</Hit_id>
-  <Hit_def>PREDICTED: Manis javanica apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_037026467</Hit_accession>
-  <Hit_len>13710</Hit_len>
+  <Hit_id>gi|1060647767|dbj|LC124904.1|</Hit_id>
+  <Hit_def>Neomys fodiens BDNF gene for brain-derived neurotrophic factor, partial cds, specimen_voucher: personal collection:Satoshi D. Ohdachi:SDO95misc-20</Hit_def>
+  <Hit_accession>LC124904</Hit_accession>
+  <Hit_len>564</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10192</Hsp_hit-from>
-      <Hsp_hit-to>10234</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTCTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>23</Hit_num>
-  <Hit_id>gi|2867990342|ref|XM_023619446.2|</Hit_id>
-  <Hit_def>PREDICTED: Equus caballus apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_023619446</Hit_accession>
-  <Hit_len>14144</Hit_len>
+  <Hit_id>gi|2506690524|ref|XM_056136315.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex fumeus brain derived neurotrophic factor (BDNF), transcript variant X4, mRNA</Hit_def>
+  <Hit_accession>XM_056136315</Hit_accession>
+  <Hit_len>2771</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10606</Hsp_hit-from>
-      <Hsp_hit-to>10648</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>409</Hsp_hit-from>
+      <Hsp_hit-to>458</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>24</Hit_num>
-  <Hit_id>gi|2193378237|ref|XM_046663340.1|</Hit_id>
-  <Hit_def>PREDICTED: Equus quagga apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_046663340</Hit_accession>
-  <Hit_len>14072</Hit_len>
+  <Hit_id>gi|2326738329|gb|ON161122.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate FT142 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161122</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10534</Hsp_hit-from>
-      <Hsp_hit-to>10576</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>25</Hit_num>
-  <Hit_id>gi|1823790342|ref|XM_033125573.1|</Hit_id>
-  <Hit_def>PREDICTED: Rhinolophus ferrumequinum apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_033125573</Hit_accession>
-  <Hit_len>14152</Hit_len>
+  <Hit_id>gi|2487333169|ref|XM_055141927.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_055141927</Hit_accession>
+  <Hit_len>1632</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>59.8958</Hsp_bit-score>
-      <Hsp_score>65</Hsp_score>
-      <Hsp_evalue>2.72351e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10582</Hsp_hit-from>
-      <Hsp_hit-to>10624</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>556</Hsp_hit-from>
+      <Hsp_hit-to>605</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>38</Hsp_identity>
-      <Hsp_positive>38</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>26</Hit_num>
-  <Hit_id>gi|1121756376|ref|XM_019651837.1|</Hit_id>
-  <Hit_def>PREDICTED: Hipposideros armiger apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_019651837</Hit_accession>
-  <Hit_len>14161</Hit_len>
+  <Hit_id>gi|2487333179|ref|XM_055141932.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X8, mRNA</Hit_def>
+  <Hit_accession>XM_055141932</Hit_accession>
+  <Hit_len>1201</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>58.0924</Hsp_bit-score>
-      <Hsp_score>63</Hsp_score>
-      <Hsp_evalue>9.50598e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>42</Hsp_query-to>
-      <Hsp_hit-from>10590</Hsp_hit-from>
-      <Hsp_hit-to>10631</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>125</Hsp_hit-from>
+      <Hsp_hit-to>174</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>42</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  |||||||||||   |||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>27</Hit_num>
-  <Hit_id>gi|347666860|gb|JN414009.1|</Hit_id>
-  <Hit_def>Mystacina tuberculata apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414009</Hit_accession>
-  <Hit_len>2448</Hit_len>
+  <Hit_id>gi|2506690518|ref|XM_056136307.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex fumeus brain derived neurotrophic factor (BDNF), transcript variant X3, mRNA</Hit_def>
+  <Hit_accession>XM_056136307</Hit_accession>
+  <Hit_len>2854</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>57.1907</Hsp_bit-score>
-      <Hsp_score>62</Hsp_score>
-      <Hsp_evalue>9.50598e-05</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>49</Hsp_query-to>
-      <Hsp_hit-from>1173</Hsp_hit-from>
-      <Hsp_hit-to>1221</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>492</Hsp_hit-from>
+      <Hsp_hit-to>541</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>41</Hsp_identity>
-      <Hsp_positive>41</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>49</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTTCTTCAG</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTAACAAAGGAAACATCGAGGGTTCGGTCCTTTTACAG</Hsp_hseq>
-      <Hsp_midline>|||||||||||||||||||||  | ||| |||||  ||||||| | |||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>28</Hit_num>
-  <Hit_id>gi|2871611658|ref|XM_044772007.2|</Hit_id>
-  <Hit_def>PREDICTED: Equus asinus apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_044772007</Hit_accession>
-  <Hit_len>14125</Hit_len>
+  <Hit_id>gi|2326738327|gb|ON161121.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD5233 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161121</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>56.2891</Hsp_bit-score>
-      <Hsp_score>61</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
-      <Hsp_query-from>3</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10591</Hsp_hit-from>
-      <Hsp_hit-to>10631</Hsp_hit-to>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>36</Hsp_identity>
-      <Hsp_positive>36</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>41</Hsp_align-len>
-      <Hsp_qseq>TTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>TTGAGTCATCTACCAAAGGAAATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>29</Hit_num>
-  <Hit_id>gi|1419210394|emb|LT852585.1|</Hit_id>
-  <Hit_def>Bradypus tridactylus partial APOB gene for apolipoprotein B, isolate T5013</Hit_def>
-  <Hit_accession>LT852585</Hit_accession>
-  <Hit_len>2415</Hit_len>
+  <Hit_id>gi|1104678864|gb|KX754643.1|</Hit_id>
+  <Hit_def>Crocidura dsinezumi isolate Crodsi_1 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>KX754643</Hit_accession>
+  <Hit_len>522</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1179</Hsp_hit-from>
-      <Hsp_hit-to>1221</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>63</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>30</Hit_num>
-  <Hit_id>gi|347666842|gb|JN414000.1|</Hit_id>
-  <Hit_def>Phataginus tricuspis apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414000</Hit_accession>
-  <Hit_len>2088</Hit_len>
+  <Hit_id>gi|1398256955|gb|MG973442.1|</Hit_id>
+  <Hit_def>Crocidura tansaniana brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973442</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>813</Hsp_hit-from>
-      <Hsp_hit-to>855</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGACATCTACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>||||||| |||||| ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>31</Hit_num>
-  <Hit_id>gi|2994226181|ref|XM_019756811.2|</Hit_id>
-  <Hit_def>PREDICTED: Rhinolophus sinicus apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_019756811</Hit_accession>
-  <Hit_len>14136</Hit_len>
+  <Hit_id>gi|1398256947|gb|MG973438.1|</Hit_id>
+  <Hit_def>Crocidura horsfieldii brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973438</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10577</Hsp_hit-from>
-      <Hsp_hit-to>10619</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATGGAGTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>||| |||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>32</Hit_num>
-  <Hit_id>gi|347666854|gb|JN414006.1|</Hit_id>
-  <Hit_def>Miniopterus manavi apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414006</Hit_accession>
-  <Hit_len>2445</Hit_len>
+  <Hit_id>gi|2487333165|ref|XM_055141925.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X1, mRNA</Hit_def>
+  <Hit_accession>XM_055141925</Hit_accession>
+  <Hit_len>1736</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1170</Hsp_hit-from>
-      <Hsp_hit-to>1212</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>660</Hsp_hit-from>
+      <Hsp_hit-to>709</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATGGAGTCATCTAACAAAGGAAATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>||| |||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>33</Hit_num>
-  <Hit_id>gi|2555112463|ref|XM_058551724.1|</Hit_id>
-  <Hit_def>PREDICTED: Diceros bicornis minor apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_058551724</Hit_accession>
-  <Hit_len>15126</Hit_len>
+  <Hit_id>gi|1398256967|gb|MG973448.1|</Hit_id>
+  <Hit_def>Episoriculus caudatus brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973448</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10458</Hsp_hit-from>
-      <Hsp_hit-to>10500</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCCACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||| | ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>34</Hit_num>
-  <Hit_id>gi|256016960|dbj|AB371314.1|</Hit_id>
-  <Hit_def>Mydaus javanensis APOB gene for apolipoprotein B, partial cds, specimen_voucher: personal:Jun Sato:JS229</Hit_def>
-  <Hit_accession>AB371314</Hit_accession>
-  <Hit_len>963</Hit_len>
+  <Hit_id>gi|1398256963|gb|MG973446.1|</Hit_id>
+  <Hit_def>Scutisorex thori brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973446</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>806</Hsp_hit-from>
-      <Hsp_hit-to>848</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGGGATATCAAGGGTGCAGTACTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  ||||||||||||  || |||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>35</Hit_num>
-  <Hit_id>gi|347666760|gb|JN413959.1|</Hit_id>
-  <Hit_def>Bradypus tridactylus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN413959</Hit_accession>
-  <Hit_len>2420</Hit_len>
+  <Hit_id>gi|2506690511|ref|XM_056136299.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex fumeus brain derived neurotrophic factor (BDNF), transcript variant X2, mRNA</Hit_def>
+  <Hit_accession>XM_056136299</Hit_accession>
+  <Hit_len>2913</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>551</Hsp_hit-from>
+      <Hsp_hit-to>600</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>36</Hit_num>
-  <Hit_id>gi|347666826|gb|JN413992.1|</Hit_id>
-  <Hit_def>Nandinia binotata apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN413992</Hit_accession>
-  <Hit_len>948</Hit_len>
+  <Hit_id>gi|2326738325|gb|ON161120.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD4473 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161120</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>798</Hsp_hit-from>
-      <Hsp_hit-to>840</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>37</Hit_num>
-  <Hit_id>gi|347666850|gb|JN414004.1|</Hit_id>
-  <Hit_def>Macronycteris commersonii apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414004</Hit_accession>
-  <Hit_len>2435</Hit_len>
+  <Hit_id>gi|2326738321|gb|ON161118.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD4471 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161118</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1157</Hsp_hit-from>
-      <Hsp_hit-to>1199</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGACTCATCTAACAAAGGAGATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||| ||||||||||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>38</Hit_num>
-  <Hit_id>gi|925718040|gb|KT447822.1|</Hit_id>
-  <Hit_def>Lycaon pictus apolipoprotein B-100 (APOB) gene, partial cds</Hit_def>
-  <Hit_accession>KT447822</Hit_accession>
-  <Hit_len>910</Hit_len>
+  <Hit_id>gi|2326738315|gb|ON161115.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD4468 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161115</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>779</Hsp_hit-from>
-      <Hsp_hit-to>821</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>39</Hit_num>
-  <Hit_id>gi|1419210414|emb|LT852595.1|</Hit_id>
-  <Hit_def>Dasypus kappleri partial APOB gene for apolipoprotein B, isolate T3365</Hit_def>
-  <Hit_accession>LT852595</Hit_accession>
-  <Hit_len>2379</Hit_len>
+  <Hit_id>gi|1060647769|dbj|LC124905.1|</Hit_id>
+  <Hit_def>Notiosorex crawfordi BDNF gene for brain-derived neurotrophic factor, partial cds, specimen_voucher: ASNHC:10653</Hit_def>
+  <Hit_accession>LC124905</Hit_accession>
+  <Hit_len>564</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1179</Hsp_hit-from>
-      <Hsp_hit-to>1221</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCAACATCAAGGGTACAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||| | |||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>40</Hit_num>
-  <Hit_id>gi|955478320|ref|XM_004418608.2|</Hit_id>
-  <Hit_def>PREDICTED: Ceratotherium simum simum apolipoprotein B (LOC101399516), mRNA</Hit_def>
-  <Hit_accession>XM_004418608</Hit_accession>
-  <Hit_len>14010</Hit_len>
+  <Hit_id>gi|1398256941|gb|MG973435.1|</Hit_id>
+  <Hit_def>Parablarinella griselda brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973435</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10471</Hsp_hit-from>
-      <Hsp_hit-to>10513</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCCACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||| | ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>41</Hit_num>
-  <Hit_id>gi|1419210390|emb|LT852583.1|</Hit_id>
-  <Hit_def>Bradypus pygmaeus partial APOB gene for apolipoprotein B, specimen voucher USNM 579179, isolate USNM579179</Hit_def>
-  <Hit_accession>LT852583</Hit_accession>
-  <Hit_len>2415</Hit_len>
+  <Hit_id>gi|1398256969|gb|MG973449.1|</Hit_id>
+  <Hit_def>Palawanosorex muscorum brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973449</Hit_accession>
+  <Hit_len>705</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1179</Hsp_hit-from>
-      <Hsp_hit-to>1221</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>41</Hsp_hit-from>
+      <Hsp_hit-to>90</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>42</Hit_num>
-  <Hit_id>gi|1419210392|emb|LT852584.1|</Hit_id>
-  <Hit_def>Bradypus torquatus partial APOB gene for apolipoprotein B, isolate T44911</Hit_def>
-  <Hit_accession>LT852584</Hit_accession>
-  <Hit_len>2415</Hit_len>
+  <Hit_id>gi|2326738299|gb|ON161107.1|</Hit_id>
+  <Hit_def>Nectogale sikhimensis isolate CSD877 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161107</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1179</Hsp_hit-from>
-      <Hsp_hit-to>1221</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>43</Hit_num>
-  <Hit_id>gi|156712663|dbj|AB253946.1|</Hit_id>
-  <Hit_def>Dryomys nitedula APOB gene for apolipoprotein B, partial cds, isolate: KT2962</Hit_def>
-  <Hit_accession>AB253946</Hit_accession>
-  <Hit_len>1201</Hit_len>
+  <Hit_id>gi|1398256951|gb|MG973440.1|</Hit_id>
+  <Hit_def>Crocidura palawanensis brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973440</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1068</Hsp_hit-from>
-      <Hsp_hit-to>1110</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTCGGTTCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  ||| |||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>44</Hit_num>
-  <Hit_id>gi|1016720567|ref|XM_016224750.1|</Hit_id>
-  <Hit_def>PREDICTED: Miniopterus natalensis apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_016224750</Hit_accession>
-  <Hit_len>13830</Hit_len>
+  <Hit_id>gi|1398256943|gb|MG973436.1|</Hit_id>
+  <Hit_def>Crocidura batakorum brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973436</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10425</Hsp_hit-from>
-      <Hsp_hit-to>10467</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATGGAGTCATCTAACAAAGGAAATATCAAGGGTTCAGTCCTT</Hsp_hseq>
-      <Hsp_midline>||| |||||||||||||||||  |||||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>45</Hit_num>
-  <Hit_id>gi|347666903|gb|JN414030.1|</Hit_id>
-  <Hit_def>Ceratotherium simum apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN414030</Hit_accession>
-  <Hit_len>2445</Hit_len>
+  <Hit_id>gi|1398256959|gb|MG973444.1|</Hit_id>
+  <Hit_def>Ruwenzorisorex suncoides brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>MG973444</Hit_accession>
+  <Hit_len>804</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>140</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCCACCAAAGGAGATATCAAGGGTTTGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||| | ||||||  |||||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>46</Hit_num>
-  <Hit_id>gi|33150996|gb|AF548427.1|</Hit_id>
-  <Hit_def>Bradypus tridactylus apolipoprotein B 100 (apoB-100) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>AF548427</Hit_accession>
-  <Hit_len>1335</Hit_len>
+  <Hit_id>gi|2506690536|ref|XM_056136333.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex fumeus brain derived neurotrophic factor (BDNF), transcript variant X6, mRNA</Hit_def>
+  <Hit_accession>XM_056136333</Hit_accession>
+  <Hit_len>2487</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>125</Hsp_hit-from>
+      <Hsp_hit-to>174</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATGTCAAGGGTTCGGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  || ||||||||  |||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>47</Hit_num>
-  <Hit_id>gi|347666756|gb|JN413957.1|</Hit_id>
-  <Hit_def>Dasypus novemcinctus apolipoprotein B (ApoB) gene, exon 26 and partial cds</Hit_def>
-  <Hit_accession>JN413957</Hit_accession>
-  <Hit_len>2420</Hit_len>
+  <Hit_id>gi|2487333177|ref|XM_055141931.1|</Hit_id>
+  <Hit_def>PREDICTED: Sorex araneus brain derived neurotrophic factor (BDNF), transcript variant X7, mRNA</Hit_def>
+  <Hit_accession>XM_055141931</Hit_accession>
+  <Hit_len>1306</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>1182</Hsp_hit-from>
-      <Hsp_hit-to>1224</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>230</Hsp_hit-from>
+      <Hsp_hit-to>279</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCAACATCAAGGGTACAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||| | |||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>48</Hit_num>
-  <Hit_id>gi|156712679|dbj|AB253954.1|</Hit_id>
-  <Hit_def>Glis glis APOB gene for apolipoprotein B, partial cds, isolate: IZEA7672 &gt;gi|156712681|dbj|AB253955.1| Glis glis APOB gene for apolipoprotein B, partial cds, isolate: IZEA 7673</Hit_def>
-  <Hit_accession>AB253954</Hit_accession>
-  <Hit_len>1090</Hit_len>
+  <Hit_id>gi|1060647765|dbj|LC124903.1|</Hit_id>
+  <Hit_def>Pseudosoriculus fumidus BDNF gene for brain-derived neurotrophic factor, partial cds, specimen_voucher: personal collection:Satoshi D. Ohdachi:SDO-03/3/11-1</Hit_def>
+  <Hit_accession>LC124903</Hit_accession>
+  <Hit_len>564</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>957</Hsp_hit-from>
-      <Hsp_hit-to>999</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGAGATATCAAGGGTTCGGTTCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||  |||||||||||  ||| |||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>49</Hit_num>
-  <Hit_id>gi|2905779133|ref|XM_058287672.2|</Hit_id>
-  <Hit_def>PREDICTED: Dasypus novemcinctus apolipoprotein B (APOB), mRNA</Hit_def>
-  <Hit_accession>XM_058287672</Hit_accession>
-  <Hit_len>14133</Hit_len>
+  <Hit_id>gi|2326738317|gb|ON161116.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD4469 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161116</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>55.3874</Hsp_bit-score>
-      <Hsp_score>60</Hsp_score>
-      <Hsp_evalue>0.000331791</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>43</Hsp_query-to>
-      <Hsp_hit-from>10558</Hsp_hit-from>
-      <Hsp_hit-to>10600</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>37</Hsp_identity>
-      <Hsp_positive>37</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>43</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGTGYGGTCCTT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCAACATCAAGGGTACAGTCCTT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||| | |||||||||   ||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
 <Hit>
   <Hit_num>50</Hit_num>
-  <Hit_id>gi|1419210428|emb|LT852602.1|</Hit_id>
-  <Hit_def>Tolypeutes tricinctus partial APOB gene for apolipoprotein B, isolate T21</Hit_def>
-  <Hit_accession>LT852602</Hit_accession>
-  <Hit_len>2268</Hit_len>
+  <Hit_id>gi|2326738309|gb|ON161112.1|</Hit_id>
+  <Hit_def>Nectogale elegans isolate CSD3235 brain-derived neurotrophic factor (BDNF) gene, partial cds</Hit_def>
+  <Hit_accession>ON161112</Hit_accession>
+  <Hit_len>534</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>52.6823</Hsp_bit-score>
-      <Hsp_score>57</Hsp_score>
-      <Hsp_evalue>0.00404205</Hsp_evalue>
+      <Hsp_bit-score>91.4547</Hsp_bit-score>
+      <Hsp_score>100</Hsp_score>
+      <Hsp_evalue>4.6079e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>34</Hsp_query-to>
-      <Hsp_hit-from>1041</Hsp_hit-from>
-      <Hsp_hit-to>1074</Hsp_hit-to>
+      <Hsp_query-to>50</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
       <Hsp_query-frame>1</Hsp_query-frame>
       <Hsp_hit-frame>1</Hsp_hit-frame>
-      <Hsp_identity>31</Hsp_identity>
-      <Hsp_positive>31</Hsp_positive>
+      <Hsp_identity>50</Hsp_identity>
+      <Hsp_positive>50</Hsp_positive>
       <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>34</Hsp_align-len>
-      <Hsp_qseq>CATTGAGTCATCTAACAAAGGCRATATCAAGGGT</Hsp_qseq>
-      <Hsp_hseq>CATTGAGTCATCTACCAAAGGCGATRTCAAGGGT</Hsp_hseq>
-      <Hsp_midline>|||||||||||||| ||||||| || ||||||||</Hsp_midline>
+      <Hsp_align-len>50</Hsp_align-len>
+      <Hsp_qseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_qseq>
+      <Hsp_hseq>GACAAGGCAGCTTGGCCTACCCAGGAGTGCGGACCCATGGGACTCTGGAG</Hsp_hseq>
+      <Hsp_midline>||||||||||||||||||||||||||||||||||||||||||||||||||</Hsp_midline>
     </Hsp>
   </Hit_hsps>
 </Hit>
